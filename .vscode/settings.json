@@ -1,0 +1,8 @@
+{
+    "editor.detectIndentation": false,
+    "editor.indentSize": 4,
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml",
+        "editor.tabSize": 4
+    }
+}
