@@ -1,4 +1,3 @@
-
 - name: Kosovo
   code-alpha-2: XK
 - name: Afghanistan
@@ -6,244 +5,419 @@
   code-alpha-3: AFG
   code-numeric: 004
   subdivisions:
-    -   code: AF-BDS
+      - code: AF-BDS
         name: Badakhshan
-    -   code: AF-BDG
+      - code: AF-BDG
         name: Badghis
-    -   code: AF-BGL
+      - code: AF-BGL
         name: Baghlan
-    -   code: AF-BAL
+      - code: AF-BAL
         name: Balkh
-    -   code: AF-BAM
+      - code: AF-BAM
         name: Bamyan
-    -   code: AF-DAY
+      - code: AF-DAY
         name: Daykundi
-    -   code: AF-FRA
+      - code: AF-FRA
         name: Farah
-    -   code: AF-FYB
+      - code: AF-FYB
         name: Faryab
-    -   code: AF-GHA
+      - code: AF-GHA
         name: Ghazni
-    -   code: AF-GHO
+      - code: AF-GHO
         name: Ghōr
-    -   code: AF-HEL
+      - code: AF-HEL
         name: Helmand
-    -   code: AF-HER
+      - code: AF-HER
         name: Herat
-    -   code: AF-JOW
+      - code: AF-JOW
         name: Jowzjan
-    -   code: AF-KAB
+      - code: AF-KAB
         name: Kabul
-    -   code: AF-KAN
+      - code: AF-KAN
         name: Kandahar
-    -   code: AF-KAP
+      - code: AF-KAP
         name: Kapisa
-    -   code: AF-KHO
+      - code: AF-KHO
         name: Khost
-    -   code: AF-KNR
+      - code: AF-KNR
         name: Kunar
-    -   code: AF-KDZ
+      - code: AF-KDZ
         name: Kunduz
-    -   code: AF-LAG
+      - code: AF-LAG
         name: Laghman
-    -   code: AF-LOG
+      - code: AF-LOG
         name: Logar
-    -   code: AF-NAN
+      - code: AF-NAN
         name: Nangarhar
-    -   code: AF-NIM
+      - code: AF-NIM
         name: Nimruz
-    -   code: AF-NUR
+      - code: AF-NUR
         name: Nuristan
-    -   code: AF-PKA
+      - code: AF-PKA
         name: Paktika
-    -   code: AF-PIA
+      - code: AF-PIA
         name: Paktia
-    -   code: AF-PAN
+      - code: AF-PAN
         name: Panjshir
-    -   code: AF-PAR
+      - code: AF-PAR
         name: Parwan
-    -   code: AF-SAM
+      - code: AF-SAM
         name: Samangan
-    -   code: AF-SAR
+      - code: AF-SAR
         name: Sar-e Pol
-    -   code: AF-TAK
+      - code: AF-TAK
         name: Takhar
-    -   code: AF-URU
+      - code: AF-URU
         name: Urozgan
-    -   code: AF-WAR
+      - code: AF-WAR
         name: Maidan Wardak
-    -   code: AF-ZAB
+      - code: AF-ZAB
         name: Zabul
 - name: Åland Islands
   code-alpha-2: AX
   code-alpha-3: ALA
   code-numeric: 248
-- code-alpha-2: AL
+- name: Albania
+  code-alpha-2: AL
   code-alpha-3: ALB
   link: ISO 3166-2:AL
-  name: Albania
   code-numeric: 008
-- code-alpha-2: DZ
+  subdivisions:
+      - code: AL-01
+        name: Berat
+      - code: AL-09
+        name: Dibër
+      - code: AL-02
+        name: Durrës
+      - code: AL-03
+        name: Elbasan
+      - code: AL-04
+        name: Fier
+      - code: AL-05
+        name: Gjirokastër
+      - code: AL-06
+        name: Korçë
+      - code: AL-07
+        name: Kukës
+      - code: AL-08
+        name: Lezhë
+      - code: AL-10
+        name: Shkodër
+      - code: AL-11
+        name: Tiranë
+      - code: AL-12
+        name: Vlorë
+- name: Algeria
+  code-alpha-2: DZ
   code-alpha-3: DZA
   link: ISO 3166-2:DZ
-  name: Algeria
   code-numeric: 012
   subdivisions:
-    -   code: DZ-01
+      - code: DZ-01
         name: Adrar
-    -   code: DZ-44
+      - code: DZ-44
         name: Aïn Defla
-    -   code: DZ-46
+      - code: DZ-46
         name: Aïn Témouchent
-    -   code: DZ-16
+      - code: DZ-16
         name: Alger
-    -   code: DZ-23
+      - code: DZ-23
         name: Annaba
-    -   code: DZ-05
+      - code: DZ-05
         name: Batna
-    -   code: DZ-08
+      - code: DZ-08
         name: Béchar
-    -   code: DZ-06
+      - code: DZ-06
         name: Béjaïa
-    -   code: DZ-52
+      - code: DZ-52
         name: Béni Abbès
-    -   code: DZ-07
+      - code: DZ-07
         name: Biskra
-    -   code: DZ-09
+      - code: DZ-09
         name: Blida
-    -   code: DZ-50
+      - code: DZ-50
         name: Bordj Badji Mokhtar
-    -   code: DZ-34
+      - code: DZ-34
         name: Bordj Bou Arréridj
-    -   code: DZ-10
+      - code: DZ-10
         name: Bouira
-    -   code: DZ-35
+      - code: DZ-35
         name: Boumerdès
-    -   code: DZ-02
+      - code: DZ-02
         name: Chlef
-    -   code: DZ-25
+      - code: DZ-25
         name: Constantine
-    -   code: DZ-56
+      - code: DZ-56
         name: Djanet
-    -   code: DZ-17
+      - code: DZ-17
         name: Djelfa
-    -   code: DZ-32
+      - code: DZ-32
         name: El Bayadh
-    -   code: DZ-57
+      - code: DZ-57
         name: El Meghaier
-    -   code: DZ-58
+      - code: DZ-58
         name: El Meniaa
-    -   code: DZ-39
+      - code: DZ-39
         name: El Oued
-    -   code: DZ-36
+      - code: DZ-36
         name: El Tarf
-    -   code: DZ-47
+      - code: DZ-47
         name: Ghardaïa
-    -   code: DZ-24
+      - code: DZ-24
         name: Guelma
-    -   code: DZ-33
+      - code: DZ-33
         name: Illizi
-    -   code: DZ-54
+      - code: DZ-54
         name: In Guezzam
-    -   code: DZ-53
+      - code: DZ-53
         name: In Salah
-    -   code: DZ-18
+      - code: DZ-18
         name: Jijel
-    -   code: DZ-40
+      - code: DZ-40
         name: Khenchela
-    -   code: DZ-03
+      - code: DZ-03
         name: Laghouat
-    -   code: DZ-28
+      - code: DZ-28
         name: M'sila
-    -   code: DZ-29
+      - code: DZ-29
         name: Mascara
-    -   code: DZ-26
+      - code: DZ-26
         name: Médéa
-    -   code: DZ-43
+      - code: DZ-43
         name: Mila
-    -   code: DZ-27
+      - code: DZ-27
         name: Mostaganem
-    -   code: DZ-45
+      - code: DZ-45
         name: Naama
-    -   code: DZ-31
+      - code: DZ-31
         name: Oran
-    -   code: DZ-30
+      - code: DZ-30
         name: Ouargla
-    -   code: DZ-51
+      - code: DZ-51
         name: Ouled Djellal
-    -   code: DZ-04
+      - code: DZ-04
         name: Oum el Bouaghi
-    -   code: DZ-48
+      - code: DZ-48
         name: Relizane
-    -   code: DZ-20
+      - code: DZ-20
         name: Saïda
-    -   code: DZ-19
+      - code: DZ-19
         name: Sétif
-    -   code: DZ-22
+      - code: DZ-22
         name: Sidi Bel Abbès
-    -   code: DZ-21
+      - code: DZ-21
         name: Skikda
-    -   code: DZ-41
+      - code: DZ-41
         name: Souk Ahras
-    -   code: DZ-11
+      - code: DZ-11
         name: Tamanrasset
-    -   code: DZ-12
+      - code: DZ-12
         name: Tébessa
-    -   code: DZ-14
+      - code: DZ-14
         name: Tiaret
-    -   code: DZ-49
+      - code: DZ-49
         name: Timimoun
-    -   code: DZ-37
+      - code: DZ-37
         name: Tindouf
-    -   code: DZ-42
+      - code: DZ-42
         name: Tipaza
-    -   code: DZ-38
+      - code: DZ-38
         name: Tissemsilt
-    -   code: DZ-15
+      - code: DZ-15
         name: Tizi Ouzou
-    -   code: DZ-13
+      - code: DZ-13
         name: Tlemcen
-    -   code: DZ-55
+      - code: DZ-55
         name: Touggourt
-- code-alpha-2: AS
+- name: American Samoa
+  code-alpha-2: AS
   code-alpha-3: ASM
   link: ISO 3166-2:AS
-  name: American Samoa
   code-numeric: 016
 - code-alpha-2: AD
   code-alpha-3: AND
   link: ISO 3166-2:AD
   name: Andorra
+  subdivisions:
+      - code: AD-07
+        name: Andorra la Vella
+      - code: AD-02
+        name: Canillo
+      - code: AD-03
+        name: Encamp
+      - code: AD-08
+        name: Escaldes-Engordany
+      - code: AD-04
+        name: La Massana
+      - code: AD-05
+        name: Ordino
+      - code: AD-06
+        name: Sant Julià de Lòria
   code-numeric: 020
-- code-alpha-2: AO
+- name: Angola
+  code-alpha-2: AO
   code-alpha-3: AGO
   link: ISO 3166-2:AO
-  name: Angola
   code-numeric: 024
-- code-alpha-2: AI
+  subdivisions:
+      - code: AO-BGO
+        name: Bengo
+      - code: AO-BGU
+        name: Benguela
+      - code: AO-BIE
+        name: Bie
+      - code: AO-CAB
+        name: Cabinda
+      - code: AO-CCU
+        name: Cuando Cubango
+      - code: AO-CNO
+        name: North Cuanza
+      - code: AO-CUS
+        name: South Cuanza
+      - code: AO-CNN
+        name: Cunene
+      - code: AO-HUA
+        name: Huambo
+      - code: AO-HUI
+        name: Huila
+      - code: AO-LUA
+        name: Luanda
+      - code: AO-LNO
+        name: North Lunda
+      - code: AO-LSU
+        name: South Lunda
+      - code: AO-MAL
+        name: Malanje
+      - code: AO-MOX
+        name: Moxico
+      - code: AO-NAM
+        name: Namibe
+      - code: AO-UIG
+        name: Uige
+      - code: AO-ZAI
+        name: Zaire
+- name: Anguilla
+  code-alpha-2: AI
   code-alpha-3: AIA
   link: ISO 3166-2:AI
-  name: Anguilla
   code-numeric: 660
-- code-alpha-2: AQ
+- name: Antarctica
+  code-alpha-2: AQ
   code-alpha-3: ATA
   link: ISO 3166-2:AQ
-  name: Antarctica
   code-numeric: 010
-- code-alpha-2: AG
+- name: Antigua and Barbuda
+  code-alpha-2: AG
   code-alpha-3: ATG
   link: ISO 3166-2:AG
-  name: Antigua and Barbuda
   code-numeric: 028
-- code-alpha-2: AR
+  subdivisions:
+      - category: parish
+        code: AG-03
+        name: Saint George
+      - category: parish
+        code: AG-04
+        name: Saint John
+      - category: parish
+        code: AG-05
+        name: Saint Mary
+      - category: parish
+        code: AG-06
+        name: Saint Paul
+      - category: parish
+        code: AG-07
+        name: Saint Peter
+      - category: parish
+        code: AG-08
+        name: Saint Philip
+      - category: dependency
+        code: AG-10
+        name: Barbuda
+      - category: dependency
+        code: AG-11
+        name: Redonda
+- name: Argentina
+  code-alpha-2: AR
   code-alpha-3: ARG
   link: ISO 3166-2:AR
-  name: Argentina
   code-numeric: 032
-- code-alpha-2: AM
+  subdivisions:
+      - category: city
+        code: AR-C
+        name: Ciudad Autónoma de Buenos Aires
+      - category: province
+        code: AR-B
+        name: Buenos Aires
+      - category: province
+        code: AR-K
+        name: Catamarca
+      - category: province
+        code: AR-H
+        name: Chaco
+      - category: province
+        code: AR-U
+        name: Chubut
+      - category: province
+        code: AR-X
+        name: Córdoba
+      - category: province
+        code: AR-W
+        name: Corrientes
+      - category: province
+        code: AR-E
+        name: Entre Ríos
+      - category: province
+        code: AR-P
+        name: Formosa
+      - category: province
+        code: AR-Y
+        name: Jujuy
+      - category: province
+        code: AR-L
+        name: La Pampa
+      - category: province
+        code: AR-F
+        name: La Rioja
+      - category: province
+        code: AR-M
+        name: Mendoza
+      - category: province
+        code: AR-N
+        name: Misiones
+      - category: province
+        code: AR-Q
+        name: Neuquén
+      - category: province
+        code: AR-R
+        name: Río Negro
+      - category: province
+        code: AR-A
+        name: Salta
+      - category: province
+        code: AR-J
+        name: San Juan
+      - category: province
+        code: AR-D
+        name: San Luis
+      - category: province
+        code: AR-Z
+        name: Santa Cruz
+      - category: province
+        code: AR-S
+        name: Santa Fe
+      - category: province
+        code: AR-G
+        name: Santiago del Estero
+      - category: province
+        code: AR-V
+        name: Tierra del Fuego
+      - category: province
+        code: AR-T
+        name: Tucumán
+- name: Armenia
+  code-alpha-2: AM
   code-alpha-3: ARM
   link: ISO 3166-2:AM
-  name: Armenia
   code-numeric: 051
 - code-alpha-2: AW
   code-alpha-3: ABW
