@@ -248,19 +248,41 @@ Yemen														Yémen (le)										YE	YEM	887
 Zambia														Zambie (la)										ZM	ZMB	894
 Zimbabwe													Zimbabwe (le)									ZW	ZWE	716
 ======================================================================================================================================================
-Source	https://www.iso.org/obp/ui#iso:code:3166:AF
-Alpha-2 code	AF
-Short name	AFGHANISTAN
-Short name lower case	Afghanistan
-Full name	the Islamic Republic of Afghanistan
-Alpha-3 code	AFG
-Numeric code	004
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAF
+Short nameAFGHANISTAN
+Short name lower caseAfghanistan
+Full namethe Islamic Republic of Afghanistan
+Alpha-3 codeAFG
+Numeric code004
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+fa	fas	Afghānistān
+ps	pus	Afghānistān
+Subdivisions
+34 province (en) / province (fr) / wilāyat (fa) / wilāyat (ps)
+
+List source
+
+IGN 1992 update BET 1996; http://www.un.org/depts/cartographic/map/profile/afghanis-reg.pdf; http://www.undp.org.af/links/gov_afghan.htm , 2005-01-10; http://supremecourt.gov.af/PDFiles/constitution2004_english.pdf; http://www.pcgn.org.uk/Afghanistan%20-%20Dari.pdf; http://en.wikipedia.org/wiki/Provinces_of_Afghanistan; http://geonames.nga.mil/gns/html/romanization.html#table; https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/364395/Afghan_Romanization_System.pdf; NGA GNS (http://geonames.nga.mil/gns/html/)
+
+Code source
+
+ISO/TC 46/WG2 Secretariat and/or ISO 3166/MA (*)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 province	AF-BDS*	Badakhshān		fa	BGN/PCGN 2007	
 province	AF-BDS*	Badakhshān		ps	BGN/PCGN 2007	
 province	AF-BGL*	Baghlān		fa	BGN/PCGN 2007	
@@ -328,20 +350,48 @@ province	AF-URU*	Uruzgān		ps	BGN/PCGN 2007
 province	AF-WAR*	Wardak		fa	BGN/PCGN 2007	
 province	AF-WAR*	Wardak		ps	BGN/PCGN 2007	
 province	AF-ZAB*	Zābul		fa	BGN/PCGN 2007	
-province	AF-ZAB*	Zābul		ps	BGN/PCGN 2007
+province	AF-ZAB*	Zābul		ps	BGN/PCGN 2007	
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2020-11-24	Correction of the Code Source	Correction du Code Source
+2018-11-26	Correction of the romanization system label	Correction de l'étiquette du système de romanization
+2015-11-27	Correction of the local short name; change romanization system; change of spelling of categories of pus and fas; change of spelling of AF-KNR; update List Source	Correction de la forme courte locale; modification du système de romanisation; modification de l'orthographe des catégories de pus and fas; modification de l'orthographe de AF-KNR; mise à jour de la Liste Source
+2011-12-13	Language corrections; administrative name corrections, alphabetical re-ordering and source list update.	Corrections linguistiques; reprise du nom administratif, mise en ordre alphabétique et mise à jour de la liste source.
 ======================================================================================================================================================
-Alpha-2 code	AL
-Short name	ALBANIA
-Short name lower case	Albania
-Full name	the Republic of Albania
-Alpha-3 code	ALB
-Numeric code	008
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAL
+Short nameALBANIA
+Short name lower caseAlbania
+Full namethe Republic of Albania
+Alpha-3 codeALB
+Numeric code008
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+sq	sqi	Shqipëria; Shqipëri
+Subdivisions
+12 county (en) / comté (fr) / qark (sq)
+
+List source
+
+Instituti i Statistikës (INSTAT) 1998; Official Gazette of Albania (Fletorja Zytare e Republikës së Shqipërisë); http://gis.ceshtjetvendore.gov.al/; http://www.instat.gov.al/en/census/census-2011/publications.aspx
+
+Code source
+
+Komiteti i Çmimeve dhe i Standardeve (KCSA)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 county	AL-01	Berat		sq		
 county	AL-09	Dibër		sq		
 county	AL-02	Durrës		sq		
@@ -353,20 +403,51 @@ county	AL-07	Kukës		sq
 county	AL-08	Lezhë		sq		
 county	AL-10	Shkodër		sq		
 county	AL-11	Tiranë		sq		
-county	AL-12	Vlorë		sq
+county	AL-12	Vlorë		sq		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2020-11-24	Correction of the Code Source	Correction du Code Source
+2015-11-27	Change of subdivision category from préfecture to comté in French ; deletion of all districts ; update List Source	Changement de la catégorie de subdivision remplacer préfecture par comté en français ; suppression de tous les districts; mise à jour de la Liste Source
+2014-04-03	Separation of the variant local short names by semi-colon	Séparation des variantes des noms locaux par un point virgule
+2010-02-19	Addition of the country code prefix as the first code element	Ajout du préfixe au premier niveau
+
+ 
 ======================================================================================================================================================
-Alpha-2 code	CM
-Short name	CAMEROON
-Short name lower case	Cameroon
-Full name	the Republic of Cameroon
-Alpha-3 code	CMR
-Numeric code	120
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeCM
+Short nameCAMEROON
+Short name lower caseCameroon
+Full namethe Republic of Cameroon
+Alpha-3 codeCMR
+Numeric code120
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+en	eng	Cameroon
+fr	fra	Cameroun (le)
+Subdivisions
+10 region (en) / région (fr)
+
+List source
+
+Law/Loi 96/06, 1996-01-18; IGN 1986 update BET 1996; National Geospatial-Intelligence Agency GEOnet Names Server (GNS) (http://geonames.nga.mil/gns/html)
+
+Code source
+
+EUROPLATE
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 region	CM-AD	Adamaoua		en		
 region	CM-AD	Adamaoua		fr		
 region	CM-CE	Centre		en		
@@ -386,20 +467,48 @@ region	CM-SU	South		en
 region	CM-SW	South-West		en		
 region	CM-SU	Sud		fr		
 region	CM-SW	Sud-Ouest		fr		
-region	CM-OU	West		en
+region	CM-OU	West		en		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2015-11-27	Update List Source	Mise à jour de la Liste Source
+2014-11-03	Update List Source	Mise à jour de la Liste Source
+
+Albania - AL
 ======================================================================================================================================================
-Alpha-2 code	DZ
-Short name	ALGERIA
-Short name lower case	Algeria
-Full name	the People's Democratic Republic of Algeria
-Alpha-3 code	DZA
-Numeric code	012
-Remarks	
-Independent	Yes
-Territory name	
-StatusOfficially assigned	
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeDZ
+Short nameALGERIA
+Short name lower caseAlgeria
+Full namethe People's Democratic Republic of Algeria
+Alpha-3 codeDZA
+Numeric code012
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+ar	ara	Al Jazā'ir
+Subdivisions
+58 province (en) / province (fr) / wilaya (ar)
+
+List source
+
+Law/Loi 84-09, 1984-02-04; Ministère de l’Intérieur et des Collectivités Locales. (2009). Wilaya de Tamanrasset [Tamanrasset Province]. Retrieved February 12, 2014, from http://www.interieur.gov.dz/Dynamics/frmItem.aspx?html=13&s=26; http://www.msila-dz.org/; http://www.ons.dz/IMG/pdf/pop3_national.pdf; Government of Algeria, Journal officiel de la République algérienne démocratique et populaire [Official Journal of the People’s Democratic Republic of Algeria], https://www.joradp.dz/FTP/JO-FRANCAIS/2019/F2019078.pdf
+
+Code source
+
+EUROPLATE; ISO 3166/MA (*)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 province	DZ-01	Adrar		ar	conventional names	
 province	DZ-16	Alger		ar	conventional names	
 province	DZ-23	Annaba		ar	conventional names	
@@ -457,56 +566,136 @@ province	DZ-38	Tissemsilt		ar	conventional names
 province	DZ-15	Tizi Ouzou		ar	conventional names	
 province	DZ-13	Tlemcen		ar	conventional names	
 province	DZ-55*	Touggourt		ar	conventional names	
-province	DZ-12	Tébessa		ar	conventional names
+province	DZ-12	Tébessa		ar	conventional names	
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2022-11-29	Addition of province DZ-49, DZ-50, DZ-51, DZ-52, DZ-53, DZ-54, DZ-55, DZ-56, DZ-57, DZ-58; Update List Source	Ajout d'une province DZ-49, DZ-50, DZ-51, DZ-52, DZ-53, DZ-54, DZ-55, DZ-56, DZ-57, DZ-58; Mise à jour de la Liste Source
+2018-11-26	Correction of the romanization system label	Correction de l'étiquette du système de romanization
+2016-11-15	Change of spelling of DZ-28; update list source	Modification de l'orthographe de DZ-28; mise à jour de la Liste Source
+2014-10-29	Change subdivision name of DZ-11; update List Source	Modification du nom de la subdivision DZ-11; mise à jour de la Liste Source
+
+Algeria - DZ
 ======================================================================================================================================================
-Alpha-2 code	AS
-Short name	AMERICAN SAMOA
-Short name lower case	American Samoa
-Full name	
-Alpha-3 code	ASM
-Numeric code	016
-Remarks	
-Independent	No
-Territory name	Swain's Island, Tutuila
-Status	Officially assigned
-Remark part 1	Principal island:Tutuila. Includes: Swain's Island
-Remark part 2	No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-AS).
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAS
+Short nameAMERICAN SAMOA
+Short name lower caseAmerican Samoa
+Full name
+Alpha-3 codeASM
+Numeric code016
+Remarks
+IndependentNo
+Territory nameSwain's Island, Tutuila
+StatusOfficially assigned
+Remark part 1Principal island:Tutuila. Includes: Swain's Island
+Remark part 2No subdivisions relevant for this standard. Included also as a subdivision of the
+United States (US-AS).
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+en	eng	American Samoa
+Subdivisions
+List source
+
+Code source
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2018-11-26	Modification of remark part 2	Modification de la remarque, partie 2
+
+Algeria - DZ
 ======================================================================================================================================================
-Alpha-2 code	AD
-Short name	ANDORRA
-Short name lower case	Andorra
-Full name	the Principality of Andorra
-Alpha-3 code	AND
-Numeric code	020
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAD
+Short nameANDORRA
+Short name lower caseAndorra
+Full namethe Principality of Andorra
+Alpha-3 codeAND
+Numeric code020
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+ca	cat	Andorra
+Subdivisions
+7 parish (en) / paroisse (fr) / parròquia (ca)
+
+List source
+
+IGN 1990; National Geospatial-Intelligence Agency GEOnet Names Server (GNS) (http://geonames.nga.mil/gns/html); Department d’Estadística (http://www.estadistica.ad/serveiestudis/web/index.asp)
+
+Code source
+
+ISO/TC 46/WG 2 Secretariat (*)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 parish	AD-07*	Andorra la Vella		ca		
 parish	AD-02*	Canillo		ca		
 parish	AD-03*	Encamp		ca		
 parish	AD-08*	Escaldes-Engordany		ca		
 parish	AD-04*	La Massana		ca		
 parish	AD-05*	Ordino		ca		
-parish	AD-06*	Sant Julià de Lòria		ca
+parish	AD-06*	Sant Julià de Lòria		ca		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2015-11-27	Update List Source	Mise à jour de la Liste Source
+2014-11-03	Update List Source	Mise à jour de la Liste Source
+
+Algeria - DZ
 ======================================================================================================================================================
-Alpha-2 code	AO
-Short name	ANGOLA
-Short name lower case	Angola
-Full name	the Republic of Angola
-Alpha-3 code	AGO
-Numeric code	024
-Remarks	
-Independent	Yes
-Territory name	Cabinda
-Status	Officially assigned
-Remark part 1	Includes: Cabinda.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAO
+Short nameANGOLA
+Short name lower caseAngola
+Full namethe Republic of Angola
+Alpha-3 codeAGO
+Numeric code024
+Remarks
+IndependentYes
+Territory nameCabinda
+StatusOfficially assigned
+Remark part 1Includes: Cabinda.
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+pt	por	Angola
+Subdivisions
+18 province (en) / province (fr) / província (pt)
+
+List source
+
+National Geospatial-Intelligence Agency GEOnet Names Server (GNS) (http://geonames.nga.mil/gns/html); IGN 1990; http://www.kwanzanorte.gov.ao/; http://www.kuandokubango.gov.ao/ and Government of Angola website: http://www.governo.gov.ao/Organismos.aspx?op=P; www.cuandocubango.gov.ao; www.cuanzanorte.gov.ao; www.cuanzasul.gov.ao
+
+Code source
+
+ISO/TC 46/WG 2 Secretariat (*)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 province	AO-BGO*	Bengo		pt		
 province	AO-BGU*	Benguela		pt		
 province	AO-BIE*	Bié		pt		
@@ -524,53 +713,127 @@ province	AO-MAL*	Malange		pt
 province	AO-MOX*	Moxico		pt		
 province	AO-NAM*	Namibe		pt		
 province	AO-UIG*	Uíge		pt		
-province	AO-ZAI*	Zaire		pt
+province	AO-ZAI*	Zaire		pt		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2020-11-24	Change of spelling of AO-CCU, AO-CNO, AO-CUS, AO-LNO, AO-LSU; Addition of local variation for AO-CCU, AO-CNO, AO-CUS; Update List Source	Modification de l'orthographe de AO-CCU, AO-CNO, AO-CUS, AO-LNO, AO-LSU; Ajout d’une variation locale pour AO-CCU, AO-CNO, AO-CUS; Mise à jour de la Liste Source
+2015-11-27	Update List Source	Mise à jour de la Liste Source
+2015-02-12	Correct spelling of AO-CCU	Correction de l'orthographe d'AO-CCU
+2014-12-18	Correct spelling of AO-CNO and AO-CUS	Correction de l'orthographe d'AO-CNO et d'AO-CUS
+2014-10-29	Change spelling of AO-CNO, AO-CUS, and AO-CCU; update List Source	Modification de l'orthographe d'AO-CNO, d'AO-CUS, et d'AO-CCU; mise à jour de la Liste Source
+
+American Samoa - AS
 ======================================================================================================================================================
-Alpha-2 code	AI
-Short name	ANGUILLA
-Short name lower case	Anguilla
-Full name	
-Alpha-3 code	AIA
-Numeric code	660
-Remarks	
-Independent	No
-Territory name	
-Status	Officially assigned
-Remark part 2	No subdivisions relevant for this standard.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAI
+Short nameANGUILLA
+Short name lower caseAnguilla
+Full name
+Alpha-3 codeAIA
+Numeric code660
+Remarks
+IndependentNo
+Territory name
+StatusOfficially assigned
+Remark part 2No subdivisions relevant for this standard.
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
 en	eng	Anguilla
-------------------------------------------------------------------------------------------------------------------------------------------------------
+Subdivisions
+List source
+
+Code source
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2018-11-26	Modification of remark part 2.	Modification de la remarque, partie 2.
+
+American Samoa - AS
 ======================================================================================================================================================
-Alpha-2 code	AQ
-Short name	ANTARCTICA
-Short name lower case	Antarctica
-Full name	
-Alpha-3 code	ATA
-Numeric code	010
-Remarks	
-Independent	No
-Territory name	
-Status	Officially assigned
-Remark part 1	Territories south of 60° south latitude.
-Remark part 2	No subdivisions relevant for this standard.
-Remark part 3	French Southern and Antarctic Territories (FQ, ATF, --) are now part of Antarctica and French Southern Territories (TF, ATF, 260). See also code element FQHH. Dronning Maud Land (NQ, ATN, 216) is now part of Antarctica. See also code element NQAQ.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAQ
+Short nameANTARCTICA
+Short name lower caseAntarctica
+Full name
+Alpha-3 codeATA
+Numeric code010
+Remarks
+IndependentNo
+Territory name
+StatusOfficially assigned
+Remark part 1Territories south of 60° south latitude.
+Remark part 2No subdivisions relevant for this standard.
+Remark part 3French Southern and Antarctic Territories (FQ, ATF, --) are now part of Antarctica
+and French Southern Territories (TF, ATF, 260). See also code element FQHH. Dronning
+Maud Land (NQ, ATN, 216) is now part of Antarctica. See also code element NQAQ.
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
+Subdivisions
+List source
+
+Code source
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2018-11-26	Modification of remark part 2	Modification de la remarque, partie 2
+
+Algeria - DZ
 ======================================================================================================================================================
-Alpha-2 code	AG
-Short name	ANTIGUA AND BARBUDA
-Short name lower case	Antigua and Barbuda
-Full name	
-Alpha-3 code	ATG
-Numeric code	028
-Remarks	
-Independent	Yes
-Territory name	Redonda Island
-Status	Officially assigned
-Remark part 1	Includes: Redonda Island.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAG
+Short nameANTIGUA AND BARBUDA
+Short name lower caseAntigua and Barbuda
+Full name
+Alpha-3 codeATG
+Numeric code028
+Remarks
+IndependentYes
+Territory nameRedonda Island
+StatusOfficially assigned
+Remark part 1Includes: Redonda Island.
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
 en	eng	Antigua and Barbuda
-------------------------------------------------------------------------------------------------------------------------------------------------------
+Subdivisions
+2 dependency (en) / dépendance (fr)
+
+6 parish (en) / paroisse (fr)
+
+List source
+
+IGN 1989; http://www.geonames.de/couag.html; http://www.statoids.com/uag.html; http://www.ab.gov.ag/gov_v3/index.php?searchword=redonda&ordering=&searchphrase=all&Itemid=1&option=com_search
+
+Code source
+
+ISO/TC 46/WG 2 Secretariat (*)
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 dependency	AG-10*	Barbuda		en		
 dependency	AG-11*	Redonda		en		
 parish	AG-03*	Saint George		en		
@@ -578,21 +841,50 @@ parish	AG-04*	Saint John		en
 parish	AG-05*	Saint Mary		en		
 parish	AG-06*	Saint Paul		en		
 parish	AG-07*	Saint Peter		en		
-parish	AG-08*	Saint Philip		en
+parish	AG-08*	Saint Philip		en		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2014-10-29	Change spelling of AG-04	Modification de l'orthographe d'AG-04
+2010-06-30	Update of the administrative structure and of the list source	Mise à jour résultant de la réalité du découpage administratif et de la mise à jour de la liste source.
+
+Cameroon - CM
 ======================================================================================================================================================
-Alpha-2 code	AR
-Short name	ARGENTINA
-Short name lower case	Argentina
-Full name	the Argentine Republic
-Alpha-3 code	ARG
-Numeric code	032
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAR
+Short nameARGENTINA
+Short name lower caseArgentina
+Full namethe Argentine Republic
+Alpha-3 codeARG
+Numeric code032
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
 es	spa	Argentina (la)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+Subdivisions
+23 province (en) / province (fr) / provincia (es)
+
+1 city (en) / ville (fr) / ciudad (es)
+
+List source
+
+IGN 1989 update BET 1996, http://www.geonames.de/couar.html
+
+Code source
+
+Instituto Argentino de Normalización (IRAM), 1987-08-31; http://www.argentina.gov.ar/argentina/portal/paginas.dhtml?pagina=425
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 province	AR-B	Buenos Aires		es		
 province	AR-K	Catamarca		es		
 province	AR-H	Chaco		es		
@@ -616,22 +908,51 @@ province	AR-Z	Santa Cruz		es
 province	AR-S	Santa Fe		es		
 province	AR-G	Santiago del Estero		es		
 province	AR-V	Tierra del Fuego		es		
-province	AR-T	Tucumán		es
+province	AR-T	Tucumán		es		
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2010-06-30	Typographical correction of a name and update of the list and code sources	Correction typographique et mise à jour de la liste et du code source.
+
+American Samoa - AS
 ======================================================================================================================================================
-Alpha-2 code	AM
-Short name	ARMENIA
-Short name lower case	Armenia
-Full name	the Republic of Armenia
-Alpha-3 code	ARM
-Numeric code	051
-Remarks	
-Independent	Yes
-Territory name	
-Status	Officially assigned
-Remark part 3	Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Online Browsing Platform (OBP)
+
+Standard:
+ISO 3166 — Codes for the representation of names of countries and their subdivisions
+Committee:ISO/TC 46ICS:
+01.140.30
+Alpha-2 codeAM
+Short nameARMENIA
+Short name lower caseArmenia
+Full namethe Republic of Armenia
+Alpha-3 codeARM
+Numeric code051
+Remarks
+IndependentYes
+Territory name
+StatusOfficially assigned
+Remark part 3Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.
+This code is part of collection(s)
+Country Codes Collection
+For definition of the different code types, please click here
+Additional information
+Administrative language(s) alpha-2	Administrative language(s) alpha-3	Local short name
 hy	hye	Hayastan
-------------------------------------------------------------------------------------------------------------------------------------------------------
+Subdivisions
+10 region (en) / région (fr) / marz (hy)
+
+1 city (en) / ville (fr) / k'aġak' (hy)
+
+List source
+
+Department for Standardization, Certification and Metrology of Armenia (SARM), 1997-03-25
+
+Code source
+
+Department for Standardization, Certification and Metrology of Armenia (SARM), 1997-03-25
+
+Subdivision category	3166-2 code	Subdivision name	Local variant	Language code	Romanization system	Parent subdivision
 region	AM-AG	Aragac̣otn		hy	ISO 9985:1996	
 region	AM-AR	Ararat		hy	ISO 9985:1996	
 region	AM-AV	Armavir		hy	ISO 9985:1996	
@@ -642,7 +963,12 @@ region	AM-LO	Loṙi		hy	ISO 9985:1996
 region	AM-SU	Syunik'		hy	ISO 9985:1996	
 region	AM-TV	Tavuš		hy	ISO 9985:1996	
 region	AM-VD	Vayoć Jor		hy	ISO 9985:1996	
-region	AM-SH	Širak		hy	ISO 9985:1996
+region	AM-SH	Širak		hy	ISO 9985:1996	
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2018-11-26	Correction of the romanization system label	Correction de l'étiquette du système de romanization
+
+Angola - AO
 ======================================================================================================================================================
 Alpha-2 code	AW
 Short name	ARUBA
