@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+// https://gobyexample.com/xml
+
 func main() {
 	fn := os.Args[1]
 	fmt.Printf("Processing %v\n", fn)
