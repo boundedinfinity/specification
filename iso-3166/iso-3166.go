@@ -13,10 +13,11 @@ import (
 )
 
 func main() {
-	fn := os.Args[1]
-	fmt.Printf("Processing %v\n", fn)
+	inputFn := os.Args[1]
+	outputFn := os.Args[2]
+	fmt.Printf("Processing %v\n", inputFn)
 
-	file, err := os.Open("./iso-3166-2.tsv")
+	file, err := os.Open(inputFn)
 
 	if err != nil {
 		log.Fatal(err)
@@ -80,7 +81,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	if err = os.WriteFile("iso-3166.yaml", bs, os.FileMode(0755)); err != nil {
+	if err = os.WriteFile(outputFn, bs, os.FileMode(0755)); err != nil {
 		log.Fatal(err)
 	}
 
