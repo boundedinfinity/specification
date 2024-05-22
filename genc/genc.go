@@ -49,9 +49,10 @@ func main() {
 					country.FullName,
 				},
 			},
-			Alpha2:  country.Encoding.Char2Code,
-			Alpha3:  country.Encoding.Char3Code,
-			Numeric: numericCode,
+			Alpha2:         country.Encoding.Char2Code,
+			Alpha3:         country.Encoding.Char3Code,
+			Numeric:        numericCode,
+			AdditionalInfo: country.AdditionalInfo,
 		}
 
 		for _, localShortName := range country.LocalShortName {
@@ -98,10 +99,11 @@ type isoData struct {
 }
 
 type isoRecord struct {
-	Name    isoName `json:"name,omitempty" yaml:"name,omitempty"`
-	Alpha2  string  `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
-	Alpha3  string  `json:"alpha-3,omitempty" yaml:"alpha-3,omitempty"`
-	Numeric int     `json:"numeric,omitempty" yaml:"numeric,omitempty"`
+	Name           isoName `json:"name,omitempty" yaml:"name,omitempty"`
+	Alpha2         string  `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
+	Alpha3         string  `json:"alpha-3,omitempty" yaml:"alpha-3,omitempty"`
+	Numeric        int     `json:"numeric,omitempty" yaml:"numeric,omitempty"`
+	AdditionalInfo string  `json:"additionalInfo,omitempty" yaml:"additionalInfo,omitempty"`
 }
 
 type isoName map[string][]string
