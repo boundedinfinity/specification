@@ -6,4 +6,5 @@
         "editor.tabSize": 4,
         "editor.insertSpaces": true,
     },
+    "yaml.maxItemsComputed": 50000,
 }

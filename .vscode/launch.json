@@ -12,7 +12,29 @@
             "program": "${workspaceFolder}/iso-3166/iso-3166.go",
             "args": [
                 "${workspaceFolder}/iso-3166/iso-3166.tsv",
-                "${workspaceFolder}/iso-3166.yaml"
+                "${workspaceFolder}"
+            ]
+        },
+        {
+            "name": "iso-639.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/iso-639/iso-639.go",
+            "args": [
+                "${workspaceFolder}/iso-639.yaml",
+                "${workspaceFolder}"
+            ]
+        },
+        {
+            "name": "genc.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/genc/genc.go",
+            "args": [
+                "${workspaceFolder}/genc/GENC Standard Ed1.0.xml",
+                "${workspaceFolder}"
             ]
         }
     ]

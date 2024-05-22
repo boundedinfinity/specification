@@ -1,0 +1,1589 @@
+records:
+- name:
+    ar:
+    - "Al Jaz\u0101\u2019ir"
+    en:
+    - Algeria
+    - the People's Democratic Republic of Algeria
+  alpha-2: DZ
+  alpha-3: DZA
+  numeric: 12
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ca:
+    - Andorra
+    en:
+    - Andorra
+    - the Principality of Andorra
+  alpha-2: AD
+  alpha-3: AND
+  numeric: 20
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Angola
+    - the Republic of Angola
+    pt:
+    - Angola
+  alpha-2: AO
+  alpha-3: AGO
+  numeric: 24
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Anguilla
+  alpha-2: AI
+  alpha-3: AIA
+  numeric: 660
+  additionalInfo: 'Anguilla is a British Overseas Territory. British Overseas Territories
+    are distinct areas that are not part of the territory of the United Kingdom. There
+    are 14 such territories, including: Anguilla; Bermuda; British Antarctic Territory;
+    British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland
+    Islands (Islas Malvinas); Gibraltar; Montserrat; Pitcairn Islands; Saint Helena,
+    Ascension, and Tristan da Cunha; South Georgia and South Sandwich Islands; Sovereign
+    Base Areas on Cyprus (Akrotiri and Dhekelia); and the Turks and Caicos Islands.
+    (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].) ISO
+    3166-1 contains entries for twelve of the fourteen British Overseas Territories.
+    The two British Overseas Territories omitted from ISO 3166-1 are the British Antarctic
+    Territory (ISO includes no national Antarctic claims) and the Sovereign Base Area
+    on Cyprus (Akrotiri and Dhekelia, as a single B.O.T.). Note that ISO 3166-2 does
+    not contain code elements for any of those territories as an administrative subdivision
+    of the United Kingdom. GENC also contains specific top-level entries for the same
+    twelve British Overseas Territories found in ISO 3166-1, and in addition, GENC
+    contains separate entries for each of Akrotiri, Dhekelia, and Diego Garcia.'
+- name:
+    en:
+    - Antarctica
+  alpha-2: AQ
+  alpha-3: ATA
+  numeric: 10
+- name:
+    en:
+    - Argentina
+    - the Argentine Republic
+    es:
+    - Argentina (la)
+  alpha-2: AR
+  alpha-3: ARG
+  numeric: 32
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Armenia
+    - the Republic of Armenia
+    hy:
+    - Hayastan
+  alpha-2: AM
+  alpha-3: ARM
+  numeric: 51
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    de:
+    - "\xD6sterreich"
+    en:
+    - Austria
+    - the Republic of Austria
+  alpha-2: AT
+  alpha-3: AUT
+  numeric: 40
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    az:
+    - "Az\u0259rbaycan"
+    en:
+    - the Republic of Azerbaijan
+    - Azerbaijan
+  alpha-2: AZ
+  alpha-3: AZE
+  numeric: 31
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "Al Bah\u0327rayn"
+    en:
+    - Bahrain
+    - the Kingdom of Bahrain
+  alpha-2: BH
+  alpha-3: BHR
+  numeric: 48
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Barbados
+  alpha-2: BB
+  alpha-3: BRB
+  numeric: 52
+- name:
+    de:
+    - Belgien
+    en:
+    - Belgium
+    - the Kingdom of Belgium
+    fr:
+    - Belgique (la)
+    nl:
+    - "Belgi\xEB"
+  alpha-2: BE
+  alpha-3: BEL
+  numeric: 56
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Belize
+  alpha-2: BZ
+  alpha-3: BLZ
+  numeric: 84
+- name:
+    en:
+    - Benin
+    - the Republic of Benin
+    fr:
+    - "B\xE9nin (le)"
+  alpha-2: BJ
+  alpha-3: BEN
+  numeric: 204
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Bermuda
+  alpha-2: BM
+  alpha-3: BMU
+  numeric: 60
+  additionalInfo: 'Bermuda is a British Overseas Territory. British Overseas Territories
+    are distinct areas that are not part of the territory of the United Kingdom. There
+    are 14 such territories, including: Anguilla; Bermuda; British Antarctic Territory;
+    British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland
+    Islands (Islas Malvinas); Gibraltar; Montserrat; Pitcairn Islands; Saint Helena,
+    Ascension, and Tristan da Cunha; South Georgia and South Sandwich Islands; Sovereign
+    Base Areas on Cyprus (Akrotiri and Dhekelia); and the Turks and Caicos Islands.
+    (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].) ISO
+    3166-1 contains entries for twelve of the fourteen British Overseas Territories.
+    The two British Overseas Territories omitted from ISO 3166-1 are the British Antarctic
+    Territory (ISO includes no national Antarctic claims) and the Sovereign Base Area
+    on Cyprus (Akrotiri and Dhekelia, as a single B.O.T.). Note that ISO 3166-2 does
+    not contain code elements for any of those territories as an administrative subdivision
+    of the United Kingdom. GENC also contains specific top-level entries for the same
+    twelve British Overseas Territories found in ISO 3166-1, and in addition, GENC
+    contains separate entries for each of Akrotiri, Dhekelia, and Diego Garcia.'
+- name:
+    dz:
+    - Druk-Yul
+    en:
+    - Bhutan
+    - the Kingdom of Bhutan
+  alpha-2: BT
+  alpha-3: BTN
+  numeric: 64
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    bs:
+    - Bosna i Hercegovina
+    en:
+    - Bosnia and Herzegovina
+    hr:
+    - Bosna i Hercegovina
+    sr:
+    - Bosna i Hercegovina
+  alpha-2: BA
+  alpha-3: BIH
+  numeric: 70
+- name:
+    en:
+    - Botswana
+    - the Republic of Botswana
+  alpha-2: BW
+  alpha-3: BWA
+  numeric: 72
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Bouvet Island
+  alpha-2: BV
+  alpha-3: BVT
+  numeric: 74
+  additionalInfo: Bouvet Island is under Norwegian sovereignty, but it is not a part
+    of the geospatial extent of Norway. The English-language site of Statistics Norway
+    ([http://www.ssb.no/english/subjects/00/minifakta_en/en/]) gives the dimensions
+    of Norway in coordinates, all of which are in the Northern Hemisphere; also, it
+    lists the total area (in square kilometers) of the Kingdom of Norway as including
+    the areas of Svalbard and Jan Mayen, with a separate listing for the Antarctic
+    Territories (including Bouvet Island); the Antarctic area is not added into the
+    total for the Kingdom of Norway. Note that both the top-level GENC and ISO 3166-1
+    contain entries for Bouvet Island. Also note that there is no administrative subdivision
+    for Norway under the entry "NORWAY" in ISO 3166-2.
+- name:
+    en:
+    - Burundi
+    - the Republic of Burundi
+    fr:
+    - Burundi (le)
+    rn:
+    - Burundi
+  alpha-2: BI
+  alpha-3: BDI
+  numeric: 108
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - the Kingdom of Cambodia
+    - Cambodia
+    km:
+    - "K\xE2mp\u016Dch\xE9a"
+  alpha-2: KH
+  alpha-3: KHM
+  numeric: 116
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Cameroon
+    - Cameroon
+    fr:
+    - Cameroun (le)
+  alpha-2: CM
+  alpha-3: CMR
+  numeric: 120
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Canada
+    fr:
+    - Canada (le)
+  alpha-2: CA
+  alpha-3: CAN
+  numeric: 124
+  additionalInfo: In at least one Local Short Name either a preceding or parenthetic
+    definite article "the" appears that should not be used in the context of the GENC
+    Standard.
+- name:
+    en:
+    - Cayman Islands (the)
+  alpha-2: KY
+  alpha-3: CYM
+  numeric: 136
+  additionalInfo: 'In the Short Name, Full Name, and at least one Local Short Name
+    either a preceding or parenthetic definite article "the" appears that should not
+    be used in the context of the GENC Standard. Cayman Islands is a British Overseas
+    Territory. British Overseas Territories are distinct areas that are not part of
+    the territory of the United Kingdom. There are 14 such territories, including:
+    Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory;
+    British Virgin Islands; Cayman Islands; Falkland Islands (Islas Malvinas); Gibraltar;
+    Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South
+    Georgia and South Sandwich Islands; Sovereign Base Areas on Cyprus (Akrotiri and
+    Dhekelia); and the Turks and Caicos Islands. (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].)
+    ISO 3166-1 contains entries for twelve of the fourteen British Overseas Territories.
+    The two British Overseas Territories omitted from ISO 3166-1 are the British Antarctic
+    Territory (ISO includes no national Antarctic claims) and the Sovereign Base Area
+    on Cyprus (Akrotiri and Dhekelia, as a single British Overseas Territory). Note
+    that ISO 3166-2 does not contain code elements for any of those territories as
+    an administrative subdivision of the United Kingdom. GENC also contains specific
+    top-level entries for the same twelve British Overseas Territories found in ISO
+    3166-1, and in addition, GENC contains separate entries for each of Akrotiri,
+    Dhekelia, and Diego Garcia.'
+- name:
+    ar:
+    - "Tsh\u0101d"
+    en:
+    - Chad
+    - the Republic of Chad
+    fr:
+    - Tchad (le)
+  alpha-2: TD
+  alpha-3: TCD
+  numeric: 148
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Cook Islands (the)
+    - Cook Islands
+  alpha-2: CK
+  alpha-3: COK
+  numeric: 184
+  additionalInfo: In the Short Name and Full Name either a preceding or parenthetic
+    definite article "the" appears that should not be used in the context of the GENC
+    Standard.
+- name:
+    en:
+    - "the Republic of C\xF4te d'Ivoire"
+    - "C\xF4te d'Ivoire"
+    fr:
+    - "C\xF4te d'Ivoire (la)"
+  alpha-2: CI
+  alpha-3: CIV
+  numeric: 384
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Croatia
+    - the Republic of Croatia
+    hr:
+    - Hrvatska
+  alpha-2: HR
+  alpha-3: HRV
+  numeric: 191
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    da:
+    - Danmark
+    en:
+    - the Kingdom of Denmark
+    - Denmark
+  alpha-2: DK
+  alpha-3: DNK
+  numeric: 208
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard. Both the GENC Standard
+    and ISO 3166/MA consider Denmark as excluding the geospatial extent of the Faroe
+    Islands and Greenland. The latter have their own separate entries in the GENC
+    Standard, as well as in ISO 3166-1, and they are not listed in ISO 3166-2 as administrative
+    subdivisions of the entry named "DENMARK" (see ISO 3166-2:2007, Clause 4.1.2 (on
+    subdivision)).
+- name:
+    ar:
+    - "J\u012Bb\u016Bt\u012B"
+    en:
+    - Djibouti
+    - the Republic of Djibouti
+    fr:
+    - Djibouti
+  alpha-2: DJ
+  alpha-3: DJI
+  numeric: 262
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Dominica
+    - the Commonwealth of Dominica
+  alpha-2: DM
+  alpha-3: DMA
+  numeric: 212
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Dominican Republic (the)
+    - the Dominican Republic
+    es:
+    - "Rep\xFAblica Dominicana (la)"
+  alpha-2: DO
+  alpha-3: DOM
+  numeric: 214
+  additionalInfo: In the Short Name, Full Name, and at least one Local Short Name
+    a preceding definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    ar:
+    - "Mi\u015Fr"
+    en:
+    - Egypt
+    - the Arab Republic of Egypt
+  alpha-2: EG
+  alpha-3: EGY
+  numeric: 818
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - El Salvador
+    - the Republic of El Salvador
+    es:
+    - El Salvador
+  alpha-2: SV
+  alpha-3: SLV
+  numeric: 222
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "Ir\u012Btr\u012By\u0101"
+    en:
+    - Eritrea
+    - the State of Eritrea
+    ti:
+    - Iertra
+  alpha-2: ER
+  alpha-3: ERI
+  numeric: 232
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Estonia
+    - Estonia
+    et:
+    - Eesti
+  alpha-2: EE
+  alpha-3: EST
+  numeric: 233
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    am:
+    - "\u012Atyop\u2019iya"
+    en:
+    - Ethiopia
+    - the Federal Democratic Republic of Ethiopia
+  alpha-2: ET
+  alpha-3: ETH
+  numeric: 231
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    da:
+    - "F\xE6r\xF8erne"
+    en:
+    - Faroe Islands (the)
+    fo:
+    - "F\xF8royar"
+  alpha-2: FO
+  alpha-3: FRO
+  numeric: 234
+  additionalInfo: In the Short Name and Full Name either a preceding or parenthetic
+    definite article "the" appears that should not be used in the context of the GENC
+    Standard. Both the GENC Standard and ISO 3166/MA consider the geospatial extent
+    of the Faroe Islands as excluded from that of Denmark. Each has a separate entry
+    in the GENC Standard, as well as in ISO 3166-1, and the Faroe Islands is not listed
+    in ISO 3166-2 as an administrative subdivision of the entry named "DENMARK" (see
+    ISO 3166-2:2007, Clause 4.1.2 (on subdivision)).
+- name:
+    en:
+    - Fiji
+    - the Republic of Fiji
+    fj:
+    - Viti
+  alpha-2: FJ
+  alpha-3: FJI
+  numeric: 242
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Finland
+    - the Republic of Finland
+    fi:
+    - Suomi
+    sv:
+    - Finland
+  alpha-2: FI
+  alpha-3: FIN
+  numeric: 246
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Gabon
+    - the Gabonese Republic
+    fr:
+    - Gabon (le)
+  alpha-2: GA
+  alpha-3: GAB
+  numeric: 266
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    de:
+    - Deutschland
+    en:
+    - Germany
+    - the Federal Republic of Germany
+  alpha-2: DE
+  alpha-3: DEU
+  numeric: 276
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Ghana
+    - the Republic of Ghana
+  alpha-2: GH
+  alpha-3: GHA
+  numeric: 288
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Gibraltar
+  alpha-2: GI
+  alpha-3: GIB
+  numeric: 292
+  additionalInfo: 'Gibraltar is a British Overseas Territory. British Overseas Territories
+    are distinct areas that are not part of the territory of the United Kingdom. There
+    are 14 such territories, including: Anguilla; Bermuda; British Antarctic Territory;
+    British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland
+    Islands (Islas Malvinas); Gibraltar; Montserrat; Pitcairn Islands; Saint Helena,
+    Ascension, and Tristan da Cunha; South Georgia and South Sandwich Islands; Sovereign
+    Base Areas on Cyprus (Akrotiri and Dhekelia); and the Turks and Caicos Islands.
+    (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].) ISO
+    3166-1 contains entries for twelve of the fourteen British Overseas Territories.
+    The two British Overseas Territories omitted from ISO 3166-1 are the British Antarctic
+    Territory (ISO includes no national Antarctic claims) and the Sovereign Base Area
+    on Cyprus (Akrotiri and Dhekelia, as a single British Overseas Territory). Note
+    that ISO 3166-2 does not contain code elements for any of those territories as
+    an administrative subdivision of the United Kingdom. GENC also contains specific
+    top-level entries for the same twelve British Overseas Territories found in ISO
+    3166-1, and in addition, GENC contains separate entries for each of Akrotiri,
+    Dhekelia, and Diego Garcia.'
+- name:
+    el:
+    - "Ell\xE1s/Ell\xE1da"
+    en:
+    - Greece
+    - the Hellenic Republic
+  alpha-2: GR
+  alpha-3: GRC
+  numeric: 300
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    da:
+    - "Gr\xF8nland"
+    en:
+    - Greenland
+    kl:
+    - Kalaallit Nunaat
+  alpha-2: GL
+  alpha-3: GRL
+  numeric: 304
+  additionalInfo: Both the GENC Standard and ISO 3166/MA consider the geospatial extent
+    of Greenland as excluded from that of Denmark. Each has a separate entry in the
+    GENC Standard, as well as in ISO 3166-1, and Greenland is not listed in ISO 3166-2
+    as an administrative subdivision of the entry named "DENMARK" (see ISO 3166-2:2007,
+    Clause 4.1.2 (on subdivision)).
+- name:
+    en:
+    - Grenada
+  alpha-2: GD
+  alpha-3: GRD
+  numeric: 308
+- name:
+    en:
+    - Guatemala
+    - the Republic of Guatemala
+    es:
+    - Guatemala
+  alpha-2: GT
+  alpha-3: GTM
+  numeric: 320
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Guinea
+    - the Republic of Guinea
+    fr:
+    - "Guin\xE9e (la)"
+  alpha-2: GN
+  alpha-3: GIN
+  numeric: 324
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Guinea-Bissau
+    - the Republic of Guinea-Bissau
+    pt:
+    - "Guin\xE9-Bissau"
+  alpha-2: GW
+  alpha-3: GNB
+  numeric: 624
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Haiti
+    - the Republic of Haiti
+    fr:
+    - "Ha\xEFti"
+    ht:
+    - Ayiti
+  alpha-2: HT
+  alpha-3: HTI
+  numeric: 332
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Honduras
+    - the Republic of Honduras
+    es:
+    - Honduras
+  alpha-2: HN
+  alpha-3: HND
+  numeric: 340
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Hungary
+    hu:
+    - "Magyarorsz\xE1g"
+  alpha-2: HU
+  alpha-3: HUN
+  numeric: 348
+- name:
+    en:
+    - Iceland
+    - the Republic of Iceland
+    is:
+    - "\xCDsland"
+  alpha-2: IS
+  alpha-3: ISL
+  numeric: 352
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Indonesia
+    - the Republic of Indonesia
+    id:
+    - Indonesia
+  alpha-2: ID
+  alpha-3: IDN
+  numeric: 360
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "Al \u2018Ir\u0101q"
+    en:
+    - Iraq
+    - the Republic of Iraq
+  alpha-2: IQ
+  alpha-3: IRQ
+  numeric: 368
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Ireland
+    ga:
+    - "\xC9ire"
+  alpha-2: IE
+  alpha-3: IRL
+  numeric: 372
+- name:
+    en:
+    - Isle of Man
+  alpha-2: IM
+  alpha-3: IMN
+  numeric: 833
+  additionalInfo: 'The Isle of Man is a British Crown Dependency, and therefore not
+    included in the territory of the United Kingdom. (See the web site of the British
+    Monarcy regarding the Channel Islands: [http://www.royal.gov.uk/MonarchUK/QueenandCrowndependencies/ChannelIslands.aspx];
+    also see [http://www.direct.gov.uk/en/governmentcitizensandrights/livingintheuk/dg_10012517].)
+    Both the GENC Standard and ISO 3166-1 represent the Isle of Man as a top-level
+    entry. Also note that ISO 3166-2 does not contain code elements for the Isle of
+    Man as an administrative subdivision of the entry named "UNITED KINGDOM".'
+- name:
+    ar:
+    - "Isr\u0101'\u012Bl"
+    en:
+    - Israel
+    - the State of Israel
+    he:
+    - Yisra'el
+  alpha-2: IL
+  alpha-3: ISR
+  numeric: 376
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Jamaica
+  alpha-2: JM
+  alpha-3: JAM
+  numeric: 388
+- name:
+    en:
+    - Japan
+    ja:
+    - Nihon/Nippon
+  alpha-2: JP
+  alpha-3: JPN
+  numeric: 392
+- name:
+    ar:
+    - Al Urdun
+    en:
+    - Jordan
+    - the Hashemite Kingdom of Jordan
+  alpha-2: JO
+  alpha-3: JOR
+  numeric: 400
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Kazakhstan
+    - the Republic of Kazakhstan
+    kk:
+    - Qazaqstan
+    ru:
+    - Kazahstan
+  alpha-2: KZ
+  alpha-3: KAZ
+  numeric: 398
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Kenya
+    - the Republic of Kenya
+    sw:
+    - Kenya
+  alpha-2: KE
+  alpha-3: KEN
+  numeric: 404
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - Al Kuwayt
+    en:
+    - Kuwait
+    - the State of Kuwait
+  alpha-2: KW
+  alpha-3: KWT
+  numeric: 414
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Kyrgyzstan
+    - the Kyrgyz Republic
+    ky:
+    - Kyrgyzstan
+    ru:
+    - Kyrgyzstan
+  alpha-2: KG
+  alpha-3: KGZ
+  numeric: 417
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Latvia
+    - the Republic of Latvia
+    lv:
+    - Latvija
+  alpha-2: LV
+  alpha-3: LVA
+  numeric: 428
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "Lubn\u0101n"
+    en:
+    - Lebanon
+    - the Lebanese Republic
+  alpha-2: LB
+  alpha-3: LBN
+  numeric: 422
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Lesotho
+    - the Kingdom of Lesotho
+    st:
+    - Lesotho
+  alpha-2: LS
+  alpha-3: LSO
+  numeric: 426
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Liberia
+    - the Republic of Liberia
+  alpha-2: LR
+  alpha-3: LBR
+  numeric: 430
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "L\u012Bbiy\u0101"
+    en:
+    - Libya
+  alpha-2: LY
+  alpha-3: LBY
+  numeric: 434
+- name:
+    de:
+    - Liechtenstein
+    en:
+    - Liechtenstein
+    - the Principality of Liechtenstein
+  alpha-2: LI
+  alpha-3: LIE
+  numeric: 438
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Lithuania
+    - the Republic of Lithuania
+    lt:
+    - Lietuva
+  alpha-2: LT
+  alpha-3: LTU
+  numeric: 440
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    de:
+    - Luxemburg
+    en:
+    - Luxembourg
+    - the Grand Duchy of Luxembourg
+    fr:
+    - Luxembourg (le)
+    ib:
+    - "L\xEBtzebuerg"
+  alpha-2: LU
+  alpha-3: LUX
+  numeric: 442
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Madagascar
+    - the Republic of Madagascar
+    fr:
+    - Madagascar
+    mg:
+    - Madagasikara
+  alpha-2: MG
+  alpha-3: MDG
+  numeric: 450
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Malawi
+    - Malawi
+    ny:
+    - "Mala\u0175i"
+  alpha-2: MW
+  alpha-3: MWI
+  numeric: 454
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    dv:
+    - Dhivehi Raajje
+    en:
+    - Maldives
+    - the Republic of Maldives
+  alpha-2: MV
+  alpha-3: MDV
+  numeric: 462
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Mali
+    - the Republic of Mali
+    fr:
+    - Mali (le)
+  alpha-2: ML
+  alpha-3: MLI
+  numeric: 466
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - the Republic of Malta
+    - Malta
+    mt:
+    - Malta
+  alpha-2: MT
+  alpha-3: MLT
+  numeric: 470
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "M\u016Br\u012Bt\u0101niy\u0101"
+    en:
+    - the Islamic Republic of Mauritania
+    - Mauritania
+  alpha-2: MR
+  alpha-3: MRT
+  numeric: 478
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Mexico
+    - the United Mexican States
+    es:
+    - "M\xE9xico"
+  alpha-2: MX
+  alpha-3: MEX
+  numeric: 484
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Monaco
+    - the Principality of Monaco
+    fr:
+    - Monaco
+  alpha-2: MC
+  alpha-3: MCO
+  numeric: 492
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    --:
+    - Crna Gora
+    en:
+    - Montenegro
+  alpha-2: ME
+  alpha-3: MNE
+  numeric: 499
+- name:
+    en:
+    - Montserrat
+  alpha-2: MS
+  alpha-3: MSR
+  numeric: 500
+  additionalInfo: 'Montserrat is a British Overseas Territory. British Overseas Territories
+    are distinct areas that are not part of the territory of the United Kingdom. There
+    are 14 such territories, including: Anguilla; Bermuda; British Antarctic Territory;
+    British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland
+    Islands (Islas Malvinas); Gibraltar; Montserrat; Pitcairn Islands; Saint Helena,
+    Ascension, and Tristan da Cunha; South Georgia and South Sandwich Islands; Sovereign
+    Base Areas on Cyprus (Akrotiri and Dhekelia); and the Turks and Caicos Islands.
+    (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].) ISO
+    3166-1 contains entries for twelve of the fourteen British Overseas Territories.
+    The two British Overseas Territories omitted from ISO 3166-1 are the British Antarctic
+    Territory (ISO includes no national Antarctic claims) and the Sovereign Base Area
+    on Cyprus (Akrotiri and Dhekelia, as a single British Overseas Territory). Note
+    that ISO 3166-2 does not contain code elements for any of those territories as
+    an administrative subdivision of the United Kingdom. GENC also contains specific
+    top-level entries for the same twelve British Overseas Territories found in ISO
+    3166-1, and in addition, GENC contains separate entries for each of Akrotiri,
+    Dhekelia, and Diego Garcia.'
+- name:
+    ar:
+    - Al Maghrib
+    en:
+    - Morocco
+    - the Kingdom of Morocco
+  alpha-2: MA
+  alpha-3: MAR
+  numeric: 504
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Mozambique
+    - the Republic of Mozambique
+    pt:
+    - "Mo\xE7ambique"
+  alpha-2: MZ
+  alpha-3: MOZ
+  numeric: 508
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Namibia
+    - the Republic of Namibia
+  alpha-2: NA
+  alpha-3: NAM
+  numeric: 516
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Nauru
+    - the Republic of Nauru
+    na:
+    - Naoero
+  alpha-2: NR
+  alpha-3: NRU
+  numeric: 520
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Nepal
+    - the Federal Democratic Republic of Nepal
+    ne:
+    - "Nep\u0101l"
+  alpha-2: NP
+  alpha-3: NPL
+  numeric: 524
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Nicaragua
+    - Nicaragua
+    es:
+    - Nicaragua
+  alpha-2: NI
+  alpha-3: NIC
+  numeric: 558
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of the Niger
+    - Niger (the)
+    fr:
+    - Niger (le)
+  alpha-2: NE
+  alpha-3: NER
+  numeric: 562
+  additionalInfo: In the Short Name, Full Name, and at least one Local Short Name
+    a preceding definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Nigeria
+    - the Federal Republic of Nigeria
+  alpha-2: NG
+  alpha-3: NGA
+  numeric: 566
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Niue
+  alpha-2: NU
+  alpha-3: NIU
+  numeric: 570
+- name:
+    en:
+    - Pakistan
+    - the Islamic Republic of Pakistan
+    ur:
+    - "P\u0101kist\u0101n"
+  alpha-2: PK
+  alpha-3: PAK
+  numeric: 586
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    --:
+    - Belau
+    en:
+    - Palau
+    - the Republic of Palau
+  alpha-2: PW
+  alpha-3: PLW
+  numeric: 585
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Panama
+    - the Republic of Panama
+    es:
+    - "Panam\xE1"
+  alpha-2: PA
+  alpha-3: PAN
+  numeric: 591
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Paraguay
+    - the Republic of Paraguay
+    es:
+    - Paraguay (el)
+    gn:
+    - Paraguay
+  alpha-2: PY
+  alpha-3: PRY
+  numeric: 600
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    ay:
+    - "Per\xFA"
+    en:
+    - Peru
+    - the Republic of Peru
+    es:
+    - "Per\xFA (el)"
+    qu:
+    - "Per\xFA"
+  alpha-2: PE
+  alpha-3: PER
+  numeric: 604
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Poland
+    - the Republic of Poland
+    pl:
+    - Polska
+  alpha-2: PL
+  alpha-3: POL
+  numeric: 616
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Portugal
+    - the Portuguese Republic
+    pt:
+    - Portugal
+  alpha-2: PT
+  alpha-3: PRT
+  numeric: 620
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "Qa\u0163ar"
+    en:
+    - Qatar
+    - the State of Qatar
+  alpha-2: QA
+  alpha-3: QAT
+  numeric: 634
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Romania
+    ro:
+    - "Rom\xE2nia"
+  alpha-2: RO
+  alpha-3: ROU
+  numeric: 642
+- name:
+    en:
+    - Rwanda
+    - the Republic of Rwanda
+    fr:
+    - Rwanda (le)
+    rw:
+    - Rwanda
+  alpha-2: RW
+  alpha-3: RWA
+  numeric: 646
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Saint Kitts and Nevis
+    - the Federation of Saint Kitts and Nevis
+  alpha-2: KN
+  alpha-3: KNA
+  numeric: 659
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Saint Lucia
+  alpha-2: LC
+  alpha-3: LCA
+  numeric: 662
+- name:
+    en:
+    - Samoa
+    - the Independent State of Samoa
+    sm:
+    - Samoa
+  alpha-2: WS
+  alpha-3: WSM
+  numeric: 882
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - San Marino
+    - the Republic of San Marino
+    it:
+    - San Marino
+  alpha-2: SM
+  alpha-3: SMR
+  numeric: 674
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Sao Tome and Principe
+    - the Democratic Republic of Sao Tome and Principe
+    pt:
+    - "S\xE3o Tom\xE9 e Pr\xEDncipe"
+  alpha-2: ST
+  alpha-3: STP
+  numeric: 678
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Senegal
+    - Senegal
+    fr:
+    - "S\xE9n\xE9gal (le)"
+  alpha-2: SN
+  alpha-3: SEN
+  numeric: 686
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Sierra Leone
+    - the Republic of Sierra Leone
+  alpha-2: SL
+  alpha-3: SLE
+  numeric: 694
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Singapore
+    - the Republic of Singapore
+    ms:
+    - Singapura
+    ta:
+    - "Chi\u1E45kapp\u016Br"
+    zh:
+    - Xinjiapo
+  alpha-2: SG
+  alpha-3: SGP
+  numeric: 702
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Slovakia
+    - the Slovak Republic
+    sk:
+    - Slovensko
+  alpha-2: SK
+  alpha-3: SVK
+  numeric: 703
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Slovenia
+    - the Republic of Slovenia
+    sl:
+    - Slovenija
+  alpha-2: SI
+  alpha-3: SVN
+  numeric: 705
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Solomon Islands (the)
+  alpha-2: SB
+  alpha-3: SLB
+  numeric: 90
+  additionalInfo: In the Short Name, Full Name, and at least one Local Short Name
+    either a preceding or parenthetic definite article "the" appears that should not
+    be used in the context of the GENC Standard.
+- name:
+    en:
+    - South Sudan
+    - the Republic of South Sudan
+  alpha-2: SS
+  alpha-3: SSD
+  numeric: 728
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Spain
+    - the Kingdom of Spain
+    es:
+    - "Espa\xF1a"
+  alpha-2: ES
+  alpha-3: ESP
+  numeric: 724
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Sri Lanka
+    - the Democratic Socialist Republic of Sri Lanka
+    se:
+    - "Shr\u012B Lam\u0307k\u0101"
+    ta:
+    - "Ila\u1E45kai"
+  alpha-2: LK
+  alpha-3: LKA
+  numeric: 144
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    ar:
+    - "As S\u016Bd\u0101n"
+    en:
+    - Sudan (the)
+    - the Republic of the Sudan
+  alpha-2: SD
+  alpha-3: SDN
+  numeric: 729
+  additionalInfo: In the Short Name and Full Name either a preceding or parenthetic
+    definite article "the" appears that should not be used in the context of the GENC
+    Standard.
+- name:
+    en:
+    - Suriname
+    - the Republic of Suriname
+    nl:
+    - Suriname
+  alpha-2: SR
+  alpha-3: SUR
+  numeric: 740
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Swaziland
+    - the Kingdom of Swaziland
+    ss:
+    - eSwatini
+  alpha-2: SZ
+  alpha-3: SWZ
+  numeric: 748
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Sweden
+    - the Kingdom of Sweden
+    sv:
+    - Sverige
+  alpha-2: SE
+  alpha-3: SWE
+  numeric: 752
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    de:
+    - Schweiz (die)
+    en:
+    - Switzerland
+    - the Swiss Confederation
+    fr:
+    - Suisse (la)
+    it:
+    - Svizzera (la)
+    rm:
+    - Svizra (la)
+  alpha-2: CH
+  alpha-3: CHE
+  numeric: 756
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Tajikistan
+    - the Republic of Tajikistan
+    tg:
+    - Tojikiston
+  alpha-2: TJ
+  alpha-3: TJK
+  numeric: 762
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Thailand
+    - the Kingdom of Thailand
+    th:
+    - Prathet Thai
+  alpha-2: TH
+  alpha-3: THA
+  numeric: 764
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    --:
+    - Timor Lorosa'e
+    en:
+    - Timor-Leste
+    - the Democratic Republic of Timor-Leste
+    pt:
+    - Timor-Leste
+  alpha-2: TL
+  alpha-3: TLS
+  numeric: 626
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Togo
+    - the Togolese Republic
+    fr:
+    - Togo (le)
+  alpha-2: TG
+  alpha-3: TGO
+  numeric: 768
+  additionalInfo: In the Full Name and at least one Local Short Name either a preceding
+    or parenthetic definite article "the" appears that should not be used in the context
+    of the GENC Standard.
+- name:
+    en:
+    - Tokelau
+  alpha-2: TK
+  alpha-3: TKL
+  numeric: 772
+- name:
+    en:
+    - Tonga
+    - the Kingdom of Tonga
+    to:
+    - Tonga
+  alpha-2: TO
+  alpha-3: TON
+  numeric: 776
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Trinidad and Tobago
+    - the Republic of Trinidad and Tobago
+  alpha-2: TT
+  alpha-3: TTO
+  numeric: 780
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Turkey
+    - the Republic of Turkey
+    tr:
+    - "T\xFCrkiye"
+  alpha-2: TR
+  alpha-3: TUR
+  numeric: 792
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Turkmenistan
+    tk:
+    - "T\xFCrkmenistan"
+  alpha-2: TM
+  alpha-3: TKM
+  numeric: 795
+- name:
+    en:
+    - Turks and Caicos Islands (the)
+  alpha-2: TC
+  alpha-3: TCA
+  numeric: 796
+  additionalInfo: xxx
+- name:
+    --:
+    - Tuvalu
+    en:
+    - Tuvalu
+  alpha-2: TV
+  alpha-3: TUV
+  numeric: 798
+- name:
+    en:
+    - Uganda
+    - the Republic of Uganda
+  alpha-2: UG
+  alpha-3: UGA
+  numeric: 800
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - United Kingdom (the)
+    - the United Kingdom of Great Britain and Northern Ireland
+  alpha-2: GB
+  alpha-3: GBR
+  numeric: 826
+  additionalInfo: 'In the Short Name, Full Name, and at least one Local Short Name
+    a preceding definite article "the" appears that should not be used in the context
+    of the GENC Standard. Based on research into the British Overseas Territories
+    (which include: Akrotiri and Dhekelia; Anguilla; Bermuda; British Antarctic Territory;
+    British Indian Ocean Territories; Cayman Islands; Falkland Islands (Islas Malvinas);
+    Gibraltar; Montserrat; Pitcairn Island; Saint Helena, Ascension, and Tristan da
+    Cunha; South Georgia and South Sandwich Islands; Turks and Caicos Islands and
+    the Virgin Islands, British), those territories are considered external to the
+    territory of the United Kingdom. (See [http://www.fco.gov.uk/en/about-us/what-we-do/overseas-territories].)
+    And ISO 3166-1 represents 12 of the 14 territories with specific entries; it does
+    not include an entry for the British Antarctic Territory, or for the Sovereign
+    Base Area of Akrotiri and Dhekelia. Thus either those U.K. Sovereign Base Areas
+    are unrepresented in ISO 3166-1, or they are represented under the entry named
+    "UNITED KINGDOM". Even if the Sovereign Base Areas were covered using the code
+    elements for the U.K., it is not clear whether ISO 3166-1 would be making the
+    assertion that their territory is part of the U.K. (esecially when the U.K. does
+    not make that assertion).'
+- name:
+    en:
+    - Uzbekistan
+    - the Republic of Uzbekistan
+    uz:
+    - "O\u2018zbekiston"
+  alpha-2: UZ
+  alpha-3: UZB
+  numeric: 860
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - the Republic of Zambia
+    - Zambia
+  alpha-2: ZM
+  alpha-3: ZMB
+  numeric: 894
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.
+- name:
+    en:
+    - Zimbabwe
+    - the Republic of Zimbabwe
+  alpha-2: ZW
+  alpha-3: ZWE
+  numeric: 716
+  additionalInfo: In the Full Name a preceding definite article "the" appears that
+    should not be used in the context of the GENC Standard.

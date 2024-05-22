@@ -2,11 +2,14 @@ package main
 
 import (
 	"bufio"
+	"encoding/json"
 	"errors"
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 	"regexp"
+	"strconv"
 	"strings"
 
 	"gopkg.in/yaml.v3"
@@ -14,8 +17,19 @@ import (
 
 func main() {
 	inputFn := os.Args[1]
-	outputFn := os.Args[2]
+	outputDir := os.Args[2]
+
 	fmt.Printf("Processing %v\n", inputFn)
+
+	outputPath := func(ext string) string {
+		path := filepath.Base(inputFn)
+		path = strings.Replace(path, filepath.Ext(path), ext, -1)
+		path = filepath.Join(outputDir, path)
+		return path
+	}
+
+	outputYamlFn := outputPath(".yaml")
+	outputJsonFn := outputPath(".json")
 
 	file, err := os.Open(inputFn)
 
@@ -63,7 +77,7 @@ func main() {
 		log.Fatal(scanner.Err())
 	}
 
-	var records []isoRecord
+	var data isoData
 
 	for _, record := range alpha2Map {
 		for lang, list := range record.Name {
@@ -72,36 +86,50 @@ func main() {
 
 		record.Lang = uniq(record.Lang)
 
-		records = append(records, *record)
+		data.Records = append(data.Records, *record)
 	}
 
-	bs, err := yaml.Marshal(records)
+	bs, err := yaml.Marshal(data)
 
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	if err = os.WriteFile(outputFn, bs, os.FileMode(0755)); err != nil {
+	if err = os.WriteFile(outputYamlFn, bs, os.FileMode(0755)); err != nil {
 		log.Fatal(err)
 	}
 
-	fmt.Printf("Processed %v records\n", len(records))
+	bs, err = json.MarshalIndent(data, "", "    ")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	if err = os.WriteFile(outputJsonFn, bs, os.FileMode(0755)); err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Printf("Processed %v records\n", len(data.Records))
 }
 
 var alpha2Map = map[string]*isoRecord{}
 
+type isoData struct {
+	Records []isoRecord `json:"records,omitempty" yaml:"records,omitempty"`
+}
+
 type isoName map[string][]string
 
 type isoRecord struct {
-	Name        isoName       `json:"name" yaml:"name,omitempty"`
-	Alpha2      string        `json:"alpha-2" yaml:"alpha-2,omitempty"`
-	Alpha3      string        `json:"alpha-3" yaml:"alpha-3,omitempty"`
-	Numeric     string        `json:"numeric" yaml:"numeric,omitempty"`
-	Independent bool          `json:"independent" yaml:"independent,omitempty"`
-	Lang        []string      `json:"lang" yaml:"lang,omitempty"`
-	Status      string        `json:"status" yaml:"status,omitempty"`
-	Territory   []string      `json:"territory" yaml:"territory,omitempty"`
-	Divisions   []isoDivision `json:"divisions" yaml:"divisions,omitempty"`
+	Name        isoName       `json:"name,omitempty" yaml:"name,omitempty"`
+	Alpha2      string        `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
+	Alpha3      string        `json:"alpha-3,omitempty" yaml:"alpha-3,omitempty"`
+	Numeric     int           `json:"numeric,omitempty" yaml:"numeric,omitempty"`
+	Independent bool          `json:"independent,omitempty" yaml:"independent,omitempty"`
+	Lang        []string      `json:"lang,omitempty" yaml:"lang,omitempty"`
+	Status      string        `json:"status,omitempty" yaml:"status,omitempty"`
+	Territory   []string      `json:"territory,omitempty" yaml:"territory,omitempty"`
+	Divisions   []isoDivision `json:"divisions,omitempty" yaml:"divisions,omitempty"`
 	Sources     []isoSource   `json:"sources,omitempty" yaml:"sources,omitempty"`
 }
 
@@ -112,17 +140,17 @@ func newIsoRecord() *isoRecord {
 }
 
 type isoDivision struct {
-	Code               string   `json:"code" yaml:"code,omitempty"`
-	Category           string   `json:"category" yaml:"category,omitempty"`
+	Code               string   `json:"code,omitempty" yaml:"code,omitempty"`
+	Category           string   `json:"category,omitempty" yaml:"category,omitempty"`
 	Parent             string   `json:"parent,omitempty" yaml:"parent,omitempty"`
-	Lang               []string `json:"lang" yaml:"lang,omitempty"`
-	Name               isoName  `json:"name" yaml:"name,omitempty"`
-	RomanizationSystem string   `json:"romanization-system" yaml:"romanization-system,omitempty"`
+	Lang               []string `json:"lang,omitempty" yaml:"lang,omitempty"`
+	Name               isoName  `json:"name,omitempty" yaml:"name,omitempty"`
+	RomanizationSystem string   `json:"romanization-system,omitempty" yaml:"romanization-system,omitempty"`
 }
 
 type isoSource struct {
-	Name string `json:"name" yaml:"name,omitempty"`
-	Url  string `json:"url" yaml:"url,omitempty"`
+	Name string `json:"name,omitempty" yaml:"name,omitempty"`
+	Url  string `json:"url,omitempty" yaml:"url,omitempty"`
 }
 
 func newIsoDivision() *isoDivision {
@@ -138,9 +166,16 @@ func process1(lines []string) error {
 
 		record.Name["en"] = normName(fields[0])
 		record.Name["fr"] = normName(fields[1])
-		record.Alpha2 = fields[2]
-		record.Alpha3 = fields[3]
-		record.Numeric = fields[4]
+		record.Alpha2 = normStr(fields[2])
+		record.Alpha3 = normStr(fields[3])
+
+		numericCode, err := strconv.Atoi(normStr(fields[4]))
+
+		if err != nil {
+			return err
+		}
+
+		record.Numeric = numericCode
 
 		if _, ok := alpha2Map[record.Alpha2]; !ok {
 			alpha2Map[record.Alpha2] = record
@@ -342,10 +377,14 @@ func process2(lines []string) error {
 	return nil
 }
 
+var normStrReplacer = strings.NewReplacer(
+	"*", "",
+	",", "",
+	"†", "",
+)
+
 func normStr(s string) string {
-	s = strings.ReplaceAll(s, "*", "")
-	s = strings.ReplaceAll(s, ",", "")
-	s = strings.ReplaceAll(s, "†", "")
+	s = normStrReplacer.Replace(s)
 	s = strings.TrimSpace(s)
 	return s
 }
