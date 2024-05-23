@@ -36,6 +36,17 @@
                 "${workspaceFolder}/genc/GENC Standard Ed1.0.xml",
                 "${workspaceFolder}"
             ]
+        },
+        {
+            "name": "fips.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/fips/fips.go",
+            "args": [
+                "${workspaceFolder}/fips/fips-all.txt",
+                "${workspaceFolder}"
+            ]
         }
     ]
 }

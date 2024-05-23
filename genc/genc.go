@@ -33,7 +33,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	var data isoData
+	var data gencData
 
 	for _, country := range baseline.Country {
 		numericCode, err := strconv.Atoi(country.Encoding.NumericCode)
@@ -42,8 +42,8 @@ func main() {
 			log.Fatal(err)
 		}
 
-		record := isoRecord{
-			Name: isoName{
+		record := gencRecord{
+			Name: gencName{
 				"en": []string{
 					country.ShortName,
 					country.FullName,
@@ -94,19 +94,19 @@ func main() {
 	fmt.Printf("Processed %v records\n", len(data.Records))
 }
 
-type isoData struct {
-	Records []isoRecord `json:"records,omitempty" yaml:"records,omitempty"`
+type gencData struct {
+	Records []gencRecord `json:"records,omitempty" yaml:"records,omitempty"`
 }
 
-type isoRecord struct {
-	Name           isoName `json:"name,omitempty" yaml:"name,omitempty"`
-	Alpha2         string  `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
-	Alpha3         string  `json:"alpha-3,omitempty" yaml:"alpha-3,omitempty"`
-	Numeric        int     `json:"numeric,omitempty" yaml:"numeric,omitempty"`
-	AdditionalInfo string  `json:"additionalInfo,omitempty" yaml:"additionalInfo,omitempty"`
+type gencRecord struct {
+	Name           gencName `json:"name,omitempty" yaml:"name,omitempty"`
+	Alpha2         string   `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
+	Alpha3         string   `json:"alpha-3,omitempty" yaml:"alpha-3,omitempty"`
+	Numeric        int      `json:"numeric,omitempty" yaml:"numeric,omitempty"`
+	AdditionalInfo string   `json:"additionalInfo,omitempty" yaml:"additionalInfo,omitempty"`
 }
 
-type isoName map[string][]string
+type gencName map[string][]string
 
 type GencStandardBaseline struct {
 	XMLName          xml.Name              `xml:"GENCStandardBaseline"`
