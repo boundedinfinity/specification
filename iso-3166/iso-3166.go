@@ -12,6 +12,7 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/boundedinfinity/go-commoner/idiomatic/slicer"
 	"gopkg.in/yaml.v3"
 )
 
@@ -81,10 +82,10 @@ func main() {
 
 	for _, record := range alpha2Map {
 		for lang, list := range record.Name {
-			record.Name[lang] = uniq(list)
+			record.Name[lang] = slicer.Uniq(list...)
 		}
 
-		record.Lang = uniq(record.Lang)
+		record.Lang = slicer.Uniq(record.Lang...)
 
 		data.Records = append(data.Records, *record)
 	}
@@ -421,22 +422,4 @@ func getFields(s string) []string {
 	}
 
 	return output
-}
-
-func uniq(vs []string) []string {
-	o := []string{}
-	m := map[string]bool{}
-
-	for _, v := range vs {
-		if _, ok := m[v]; !ok {
-			m[v] = true
-		}
-	}
-
-	for v := range m {
-		v = strings.ReplaceAll(v, "*", "")
-		o = append(o, v)
-	}
-
-	return o
 }
