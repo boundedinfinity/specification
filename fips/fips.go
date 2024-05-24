@@ -167,21 +167,3 @@ type fipsDivision struct {
 	LastVersion  int      `json:"fips-last-version,omitempty" yaml:"fips-last-version,omitempty"`
 	Designation  fipsName `json:"designation,omitempty" yaml:"designation,omitempty"`
 }
-
-func uniq(vs []string) []string {
-	o := []string{}
-	m := map[string]bool{}
-
-	for _, v := range vs {
-		if _, ok := m[v]; !ok {
-			m[v] = true
-		}
-	}
-
-	for v := range m {
-		v = strings.ReplaceAll(v, "*", "")
-		o = append(o, v)
-	}
-
-	return o
-}

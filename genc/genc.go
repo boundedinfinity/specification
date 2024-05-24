@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 	"strconv"
-	"strings"
 
+	"github.com/boundedinfinity/go-commoner/idiomatic/slicer"
 	"gopkg.in/yaml.v1"
 )
 
@@ -66,7 +66,7 @@ func main() {
 		}
 
 		for lang, list := range record.Name {
-			record.Name[lang] = uniq(list)
+			record.Name[lang] = slicer.Uniq(list...)
 		}
 
 		data.Records = append(data.Records, record)
@@ -156,22 +156,4 @@ type GencLocalShortName struct {
 	NameLanguage3Char string `xml:"nameLanguage3Char"`
 	Name              string `xml:"name"`
 	Iso6393Char3Code  string `xml:"iso6393Char3Code"`
-}
-
-func uniq(vs []string) []string {
-	o := []string{}
-	m := map[string]bool{}
-
-	for _, v := range vs {
-		if _, ok := m[v]; !ok {
-			m[v] = true
-		}
-	}
-
-	for v := range m {
-		v = strings.ReplaceAll(v, "*", "")
-		o = append(o, v)
-	}
-
-	return o
 }
