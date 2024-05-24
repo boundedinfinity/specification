@@ -374,7 +374,7 @@ func process2(lines []string) error {
 		return err
 	}
 
-	fmt.Printf("Processed: %v %v, (divisions: %v)\n", record.Alpha2, record.Name["en"][0], len(record.Divisions))
+	// fmt.Printf("Processed: %v %v, (divisions: %v)\n", record.Alpha2, record.Name["en"][0], len(record.Divisions))
 	return nil
 }
 

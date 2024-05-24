@@ -214,8 +214,8 @@
                     "Druk-Yul"
                 ],
                 "en": [
-                    "Bhutan",
-                    "the Kingdom of Bhutan"
+                    "the Kingdom of Bhutan",
+                    "Bhutan"
                 ]
             },
             "alpha-2": "BT",
@@ -245,8 +245,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Botswana",
-                    "Botswana"
+                    "Botswana",
+                    "the Republic of Botswana"
                 ]
             },
             "alpha-2": "BW",
@@ -286,8 +286,8 @@
         {
             "name": {
                 "en": [
-                    "Cambodia",
-                    "the Kingdom of Cambodia"
+                    "the Kingdom of Cambodia",
+                    "Cambodia"
                 ],
                 "km": [
                     "Kâmpŭchéa"
@@ -509,8 +509,8 @@
         {
             "name": {
                 "en": [
-                    "Estonia",
-                    "the Republic of Estonia"
+                    "the Republic of Estonia",
+                    "Estonia"
                 ],
                 "et": [
                     "Eesti"
@@ -607,8 +607,8 @@
                     "Deutschland"
                 ],
                 "en": [
-                    "Germany",
-                    "the Federal Republic of Germany"
+                    "the Federal Republic of Germany",
+                    "Germany"
                 ]
             },
             "alpha-2": "DE",
@@ -684,8 +684,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Guatemala",
-                    "Guatemala"
+                    "Guatemala",
+                    "the Republic of Guatemala"
                 ],
                 "es": [
                     "Guatemala"
@@ -714,8 +714,8 @@
         {
             "name": {
                 "en": [
-                    "Guinea-Bissau",
-                    "the Republic of Guinea-Bissau"
+                    "the Republic of Guinea-Bissau",
+                    "Guinea-Bissau"
                 ],
                 "pt": [
                     "Guiné-Bissau"
@@ -847,8 +847,8 @@
                     "Isrā'īl"
                 ],
                 "en": [
-                    "the State of Israel",
-                    "Israel"
+                    "Israel",
+                    "the State of Israel"
                 ],
                 "he": [
                     "Yisra'el"
@@ -888,8 +888,8 @@
                     "Al Urdun"
                 ],
                 "en": [
-                    "Jordan",
-                    "the Hashemite Kingdom of Jordan"
+                    "the Hashemite Kingdom of Jordan",
+                    "Jordan"
                 ]
             },
             "alpha-2": "JO",
@@ -900,8 +900,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Kazakhstan",
-                    "Kazakhstan"
+                    "Kazakhstan",
+                    "the Republic of Kazakhstan"
                 ],
                 "kk": [
                     "Qazaqstan"
@@ -1039,8 +1039,8 @@
                     "Liechtenstein"
                 ],
                 "en": [
-                    "the Principality of Liechtenstein",
-                    "Liechtenstein"
+                    "Liechtenstein",
+                    "the Principality of Liechtenstein"
                 ]
             },
             "alpha-2": "LI",
@@ -1087,8 +1087,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Madagascar",
-                    "Madagascar"
+                    "Madagascar",
+                    "the Republic of Madagascar"
                 ],
                 "fr": [
                     "Madagascar"
@@ -1105,8 +1105,8 @@
         {
             "name": {
                 "en": [
-                    "Malawi",
-                    "the Republic of Malawi"
+                    "the Republic of Malawi",
+                    "Malawi"
                 ],
                 "ny": [
                     "Malaŵi"
@@ -1168,8 +1168,8 @@
                     "Mūrītāniyā"
                 ],
                 "en": [
-                    "the Islamic Republic of Mauritania",
-                    "Mauritania"
+                    "Mauritania",
+                    "the Islamic Republic of Mauritania"
                 ]
             },
             "alpha-2": "MR",
@@ -1180,8 +1180,8 @@
         {
             "name": {
                 "en": [
-                    "Mexico",
-                    "the United Mexican States"
+                    "the United Mexican States",
+                    "Mexico"
                 ],
                 "es": [
                     "México"
@@ -1276,8 +1276,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Nauru",
-                    "Nauru"
+                    "Nauru",
+                    "the Republic of Nauru"
                 ],
                 "na": [
                     "Naoero"
@@ -1403,8 +1403,8 @@
         {
             "name": {
                 "en": [
-                    "Paraguay",
-                    "the Republic of Paraguay"
+                    "the Republic of Paraguay",
+                    "Paraguay"
                 ],
                 "es": [
                     "Paraguay (el)"
@@ -1424,8 +1424,8 @@
                     "Perú"
                 ],
                 "en": [
-                    "the Republic of Peru",
-                    "Peru"
+                    "Peru",
+                    "the Republic of Peru"
                 ],
                 "es": [
                     "Perú (el)"
@@ -1518,8 +1518,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Kitts and Nevis",
-                    "the Federation of Saint Kitts and Nevis"
+                    "the Federation of Saint Kitts and Nevis",
+                    "Saint Kitts and Nevis"
                 ]
             },
             "alpha-2": "KN",
@@ -1701,8 +1701,8 @@
         {
             "name": {
                 "en": [
-                    "Sri Lanka",
-                    "the Democratic Socialist Republic of Sri Lanka"
+                    "the Democratic Socialist Republic of Sri Lanka",
+                    "Sri Lanka"
                 ],
                 "se": [
                     "Shrī Laṁkā"
@@ -1749,8 +1749,8 @@
         {
             "name": {
                 "en": [
-                    "Swaziland",
-                    "the Kingdom of Swaziland"
+                    "the Kingdom of Swaziland",
+                    "Swaziland"
                 ],
                 "ss": [
                     "eSwatini"
@@ -1818,8 +1818,8 @@
         {
             "name": {
                 "en": [
-                    "Thailand",
-                    "the Kingdom of Thailand"
+                    "the Kingdom of Thailand",
+                    "Thailand"
                 ],
                 "th": [
                     "Prathet Thai"
@@ -1967,8 +1967,8 @@
         {
             "name": {
                 "en": [
-                    "the United Kingdom of Great Britain and Northern Ireland",
-                    "United Kingdom (the)"
+                    "United Kingdom (the)",
+                    "the United Kingdom of Great Britain and Northern Ireland"
                 ]
             },
             "alpha-2": "GB",
@@ -2006,8 +2006,8 @@
         {
             "name": {
                 "en": [
-                    "Zimbabwe",
-                    "the Republic of Zimbabwe"
+                    "the Republic of Zimbabwe",
+                    "Zimbabwe"
                 ]
             },
             "alpha-2": "ZW",

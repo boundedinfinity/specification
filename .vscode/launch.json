@@ -47,6 +47,18 @@
                 "${workspaceFolder}/fips/fips-all.txt",
                 "${workspaceFolder}"
             ]
+        },
+        {
+            "name": "country-flags.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/country-flags/country-flags.go",
+            "args": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/country-flags/1x1",
+                "${workspaceFolder}/country-flags/4x3"
+            ]
         }
     ]
 }
