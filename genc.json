@@ -6,8 +6,8 @@
                     "Al Jazā’ir"
                 ],
                 "en": [
-                    "the People's Democratic Republic of Algeria",
-                    "Algeria"
+                    "Algeria",
+                    "the People's Democratic Republic of Algeria"
                 ]
             },
             "alpha-2": "DZ",
@@ -117,8 +117,8 @@
                     "Azərbaycan"
                 ],
                 "en": [
-                    "the Republic of Azerbaijan",
-                    "Azerbaijan"
+                    "Azerbaijan",
+                    "the Republic of Azerbaijan"
                 ]
             },
             "alpha-2": "AZ",
@@ -386,8 +386,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Croatia",
-                    "Croatia"
+                    "Croatia",
+                    "the Republic of Croatia"
                 ],
                 "hr": [
                     "Hrvatska"
@@ -464,8 +464,8 @@
                     "Mişr"
                 ],
                 "en": [
-                    "Egypt",
-                    "the Arab Republic of Egypt"
+                    "the Arab Republic of Egypt",
+                    "Egypt"
                 ]
             },
             "alpha-2": "EG",
@@ -888,8 +888,8 @@
                     "Al Urdun"
                 ],
                 "en": [
-                    "Jordan",
-                    "the Hashemite Kingdom of Jordan"
+                    "the Hashemite Kingdom of Jordan",
+                    "Jordan"
                 ]
             },
             "alpha-2": "JO",
@@ -936,8 +936,8 @@
                     "Al Kuwayt"
                 ],
                 "en": [
-                    "the State of Kuwait",
-                    "Kuwait"
+                    "Kuwait",
+                    "the State of Kuwait"
                 ]
             },
             "alpha-2": "KW",
@@ -1051,8 +1051,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Lithuania",
-                    "Lithuania"
+                    "Lithuania",
+                    "the Republic of Lithuania"
                 ],
                 "lt": [
                     "Lietuva"
@@ -1150,8 +1150,8 @@
         {
             "name": {
                 "en": [
-                    "Malta",
-                    "the Republic of Malta"
+                    "the Republic of Malta",
+                    "Malta"
                 ],
                 "mt": [
                     "Malta"
@@ -1249,8 +1249,8 @@
         {
             "name": {
                 "en": [
-                    "Mozambique",
-                    "the Republic of Mozambique"
+                    "the Republic of Mozambique",
+                    "Mozambique"
                 ],
                 "pt": [
                     "Moçambique"
@@ -1276,8 +1276,8 @@
         {
             "name": {
                 "en": [
-                    "Nauru",
-                    "the Republic of Nauru"
+                    "the Republic of Nauru",
+                    "Nauru"
                 ],
                 "na": [
                     "Naoero"
@@ -1291,8 +1291,8 @@
         {
             "name": {
                 "en": [
-                    "the Federal Democratic Republic of Nepal",
-                    "Nepal"
+                    "Nepal",
+                    "the Federal Democratic Republic of Nepal"
                 ],
                 "ne": [
                     "Nepāl"
@@ -1388,8 +1388,8 @@
         {
             "name": {
                 "en": [
-                    "Panama",
-                    "the Republic of Panama"
+                    "the Republic of Panama",
+                    "Panama"
                 ],
                 "es": [
                     "Panamá"
@@ -1424,8 +1424,8 @@
                     "Perú"
                 ],
                 "en": [
-                    "the Republic of Peru",
-                    "Peru"
+                    "Peru",
+                    "the Republic of Peru"
                 ],
                 "es": [
                     "Perú (el)"
@@ -1442,8 +1442,8 @@
         {
             "name": {
                 "en": [
-                    "Poland",
-                    "the Republic of Poland"
+                    "the Republic of Poland",
+                    "Poland"
                 ],
                 "pl": [
                     "Polska"
@@ -1570,8 +1570,8 @@
         {
             "name": {
                 "en": [
-                    "the Democratic Republic of Sao Tome and Principe",
-                    "Sao Tome and Principe"
+                    "Sao Tome and Principe",
+                    "the Democratic Republic of Sao Tome and Principe"
                 ],
                 "pt": [
                     "São Tomé e Príncipe"
@@ -1585,8 +1585,8 @@
         {
             "name": {
                 "en": [
-                    "Senegal",
-                    "the Republic of Senegal"
+                    "the Republic of Senegal",
+                    "Senegal"
                 ],
                 "fr": [
                     "Sénégal (le)"
@@ -1612,8 +1612,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Singapore",
-                    "Singapore"
+                    "Singapore",
+                    "the Republic of Singapore"
                 ],
                 "ms": [
                     "Singapura"
@@ -1633,8 +1633,8 @@
         {
             "name": {
                 "en": [
-                    "the Slovak Republic",
-                    "Slovakia"
+                    "Slovakia",
+                    "the Slovak Republic"
                 ],
                 "sk": [
                     "Slovensko"
@@ -1648,8 +1648,8 @@
         {
             "name": {
                 "en": [
-                    "Slovenia",
-                    "the Republic of Slovenia"
+                    "the Republic of Slovenia",
+                    "Slovenia"
                 ],
                 "sl": [
                     "Slovenija"
@@ -1851,8 +1851,8 @@
         {
             "name": {
                 "en": [
-                    "the Togolese Republic",
-                    "Togo"
+                    "Togo",
+                    "the Togolese Republic"
                 ],
                 "fr": [
                     "Togo (le)"

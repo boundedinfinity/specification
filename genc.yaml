@@ -3,8 +3,8 @@ records:
     ar:
     - "Al Jaz\u0101\u2019ir"
     en:
-    - the People's Democratic Republic of Algeria
     - Algeria
+    - the People's Democratic Republic of Algeria
   alpha-2: DZ
   alpha-3: DZA
   numeric: 12
@@ -98,8 +98,8 @@ records:
     az:
     - "Az\u0259rbaycan"
     en:
-    - the Republic of Azerbaijan
     - Azerbaijan
+    - the Republic of Azerbaijan
   alpha-2: AZ
   alpha-3: AZE
   numeric: 31
@@ -337,8 +337,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Republic of Croatia
     - Croatia
+    - the Republic of Croatia
     hr:
     - Hrvatska
   alpha-2: HR
@@ -400,8 +400,8 @@ records:
     ar:
     - "Mi\u015Fr"
     en:
-    - Egypt
     - the Arab Republic of Egypt
+    - Egypt
   alpha-2: EG
   alpha-3: EGY
   numeric: 818
@@ -733,8 +733,8 @@ records:
     ar:
     - Al Urdun
     en:
-    - Jordan
     - the Hashemite Kingdom of Jordan
+    - Jordan
   alpha-2: JO
   alpha-3: JOR
   numeric: 400
@@ -768,8 +768,8 @@ records:
     ar:
     - Al Kuwayt
     en:
-    - the State of Kuwait
     - Kuwait
+    - the State of Kuwait
   alpha-2: KW
   alpha-3: KWT
   numeric: 414
@@ -851,8 +851,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Lithuania
     - Lithuania
+    - the Republic of Lithuania
     lt:
     - Lietuva
   alpha-2: LT
@@ -925,8 +925,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - Malta
     - the Republic of Malta
+    - Malta
     mt:
     - Malta
   alpha-2: MT
@@ -1011,8 +1011,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Mozambique
     - the Republic of Mozambique
+    - Mozambique
     pt:
     - "Mo\xE7ambique"
   alpha-2: MZ
@@ -1031,8 +1031,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Nauru
     - the Republic of Nauru
+    - Nauru
     na:
     - Naoero
   alpha-2: NR
@@ -1042,8 +1042,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Federal Democratic Republic of Nepal
     - Nepal
+    - the Federal Democratic Republic of Nepal
     ne:
     - "Nep\u0101l"
   alpha-2: NP
@@ -1113,8 +1113,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Panama
     - the Republic of Panama
+    - Panama
     es:
     - "Panam\xE1"
   alpha-2: PA
@@ -1140,8 +1140,8 @@ records:
     ay:
     - "Per\xFA"
     en:
-    - the Republic of Peru
     - Peru
+    - the Republic of Peru
     es:
     - "Per\xFA (el)"
     qu:
@@ -1154,8 +1154,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - Poland
     - the Republic of Poland
+    - Poland
     pl:
     - Polska
   alpha-2: PL
@@ -1246,8 +1246,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Democratic Republic of Sao Tome and Principe
     - Sao Tome and Principe
+    - the Democratic Republic of Sao Tome and Principe
     pt:
     - "S\xE3o Tom\xE9 e Pr\xEDncipe"
   alpha-2: ST
@@ -1257,8 +1257,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Senegal
     - the Republic of Senegal
+    - Senegal
     fr:
     - "S\xE9n\xE9gal (le)"
   alpha-2: SN
@@ -1278,8 +1278,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Singapore
     - Singapore
+    - the Republic of Singapore
     ms:
     - Singapura
     ta:
@@ -1293,8 +1293,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Slovak Republic
     - Slovakia
+    - the Slovak Republic
     sk:
     - Slovensko
   alpha-2: SK
@@ -1304,8 +1304,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Slovenia
     - the Republic of Slovenia
+    - Slovenia
     sl:
     - Slovenija
   alpha-2: SI
@@ -1455,8 +1455,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Togolese Republic
     - Togo
+    - the Togolese Republic
     fr:
     - Togo (le)
   alpha-2: TG

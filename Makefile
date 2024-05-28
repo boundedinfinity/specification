@@ -11,6 +11,7 @@ all:
 	@make genc
 	@make fips
 	@make country-flags
+	@make country
 
 .PHONY: iso-3166
 iso-3166:
@@ -31,3 +32,7 @@ fips:
 .PHONY: country-flags
 country-flags:
 	cd $(makefile_dir)/country-flags && go run country-flags.go $(makefile_dir) $(makefile_dir)/country-flags/1x1 $(makefile_dir)/country-flags/4x3
+
+.PHONY: country
+country:
+	cd $(makefile_dir)/country && go run country.go $(makefile_dir)

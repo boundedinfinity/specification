@@ -28,10 +28,10 @@ func main() {
 		log.Fatal(err)
 	}
 
-	iso639map := map[string]iso639Record{}
+	iso639map := map[string]*seen[iso639Record]{}
 	for _, record := range iso639Data.Records {
 		if _, ok := iso639map[record.Set1]; !ok {
-			iso639map[record.Set1] = record
+			iso639map[record.Set1] = &seen[iso639Record]{record: record}
 		}
 	}
 
@@ -40,10 +40,10 @@ func main() {
 		log.Fatal(err)
 	}
 
-	iso3166map := map[string]iso3166Record{}
+	iso3166map := map[string]*seen[iso3166Record]{}
 	for _, record := range iso3166Data.Records {
 		if _, ok := iso3166map[record.Alpha2]; !ok {
-			iso3166map[record.Alpha2] = record
+			iso3166map[record.Alpha2] = &seen[iso3166Record]{record: record}
 		}
 	}
 
@@ -57,10 +57,10 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fipsMap := map[string]fipsRecord{}
+	fipsMap := map[string]*seen[fipsRecord]{}
 	for _, record := range fipsData.Records {
 		if _, ok := fipsMap[record.Code]; !ok {
-			fipsMap[record.Code] = record
+			fipsMap[record.Code] = &seen[fipsRecord]{record: record}
 		}
 	}
 
@@ -69,10 +69,10 @@ func main() {
 		log.Fatal(err)
 	}
 
-	gencMap := map[string]gencRecord{}
+	gencMap := map[string]*seen[gencRecord]{}
 	for _, record := range gencData.Records {
 		if _, ok := gencMap[record.Alpha2]; !ok {
-			gencMap[record.Alpha2] = record
+			gencMap[record.Alpha2] = &seen[gencRecord]{record: record}
 		}
 	}
 
@@ -81,10 +81,10 @@ func main() {
 		log.Fatal(err)
 	}
 
-	flagMap := map[string]flagRecord{}
+	flagMap := map[string]*seen[flagRecord]{}
 	for _, record := range flagData.Records {
 		if _, ok := flagMap[record.Alpha2]; !ok {
-			flagMap[record.Alpha2] = record
+			flagMap[record.Alpha2] = &seen[flagRecord]{record: record}
 		}
 	}
 
@@ -96,28 +96,31 @@ func main() {
 			Lang: []countryIso639{},
 		}
 
-		if specRecord, ok := iso3166map[mapRecord.Iso3166]; ok {
-			mergeName(record.Name, specRecord.Name)
+		if specSeen, ok := iso3166map[mapRecord.Iso3166]; ok {
+			specSeen.found = true
+			mergeName(record.Name, specSeen.record.Name)
 			record.Iso3166 = countryIso3166{
-				Alpha2:  specRecord.Alpha2,
-				Alpha3:  specRecord.Alpha3,
-				Numeric: specRecord.Numeric,
+				Alpha2:  specSeen.record.Alpha2,
+				Alpha3:  specSeen.record.Alpha3,
+				Numeric: specSeen.record.Numeric,
 			}
 		}
 
-		if specRecord, ok := fipsMap[mapRecord.Fips]; ok {
-			mergeName(record.Name, specRecord.Name)
+		if specSeen, ok := fipsMap[mapRecord.Fips]; ok {
+			specSeen.found = true
+			mergeName(record.Name, specSeen.record.Name)
 			record.Fips = countryFips{
-				Code: specRecord.Code,
+				Code: specSeen.record.Code,
 			}
 		}
 
-		if specRecord, ok := gencMap[mapRecord.Genc]; ok {
-			mergeName(record.Name, specRecord.Name)
+		if specSeen, ok := gencMap[mapRecord.Genc]; ok {
+			specSeen.found = true
+			mergeName(record.Name, specSeen.record.Name)
 			record.Genc = countryGenc{
-				Alpha2:  specRecord.Alpha2,
-				Alpha3:  specRecord.Alpha3,
-				Numeric: specRecord.Numeric,
+				Alpha2:  specSeen.record.Alpha2,
+				Alpha3:  specSeen.record.Alpha3,
+				Numeric: specSeen.record.Numeric,
 			}
 		}
 
@@ -127,6 +130,42 @@ func main() {
 	if err := marshal(rootDir, "county", countryData); err != nil {
 		log.Fatal(err)
 	}
+
+	fmt.Printf(" Processed records: %v\n", len(countryData.Records))
+	fmt.Printf("     ISO 3166 not found: %v %v\n", countNotFound(iso3166map), listNotFound(iso3166map))
+	fmt.Printf("         GENC not found: %v %v\n", countNotFound(gencMap), listNotFound(gencMap))
+	fmt.Printf("         FIPS not found: %v %v\n", countNotFound(fipsMap), listNotFound(fipsMap))
+	fmt.Printf("flags records not found: %v %v\n", countNotFound(flagMap), listNotFound(flagMap))
+	// fmt.Printf("      ISO 639 not found: %v %v\n", countNotFound(iso639map), listNotFound(iso639map))
+}
+
+type seen[T any] struct {
+	found  bool
+	record T
+}
+
+func listNotFound[T any](ts map[string]*seen[T]) []string {
+	var list []string
+
+	for _, seen := range ts {
+		if !seen.found {
+			list = append(list, fmt.Sprintf("%v", seen.record))
+		}
+	}
+
+	return list
+}
+
+func countNotFound[T any](ts map[string]*seen[T]) int {
+	var count int
+
+	for _, seen := range ts {
+		if !seen.found {
+			count += 1
+		}
+	}
+
+	return count
 }
 
 func mergeName(dst map[string][]string, src map[string][]string) {
@@ -248,6 +287,10 @@ type iso3166Record struct {
 	Sources     []iso3166Source   `json:"sources,omitempty" yaml:"sources,omitempty"`
 }
 
+func (t iso3166Record) String() string {
+	return t.Alpha2
+}
+
 type iso3166Division struct {
 	Code               string   `json:"code,omitempty" yaml:"code,omitempty"`
 	Category           string   `json:"category,omitempty" yaml:"category,omitempty"`
@@ -275,6 +318,10 @@ type fipsRecord struct {
 	Divisions    []fipsDivision `json:"divisions,omitempty" yaml:"divisions,omitempty"`
 }
 
+func (t fipsRecord) String() string {
+	return t.Code
+}
+
 type fipsDivision struct {
 	Name         nameList `json:"name,omitempty" yaml:"name,omitempty"`
 	Code         string   `json:"code,omitempty" yaml:"code,omitempty"`
@@ -295,6 +342,10 @@ type gencRecord struct {
 	AdditionalInfo string   `json:"additionalInfo,omitempty" yaml:"additionalInfo,omitempty"`
 }
 
+func (t gencRecord) String() string {
+	return t.Alpha2
+}
+
 type flagData struct {
 	Records []flagRecord `json:"records,omitempty" yaml:"records,omitempty"`
 }
@@ -302,6 +353,10 @@ type flagData struct {
 type flagRecord struct {
 	Alpha2 string            `json:"alpha-2,omitempty" yaml:"alpha-2,omitempty"`
 	Svg    map[string]string `json:"svg,omitempty" yaml:"svg,omitempty"`
+}
+
+func (t flagRecord) String() string {
+	return t.Alpha2
 }
 
 type iso639Data struct {
@@ -314,4 +369,8 @@ type iso639Record struct {
 	Set2t string   `json:"set-2t,omitempty" yaml:"set-2t,omitempty"`
 	Set2b string   `json:"set-2b,omitempty" yaml:"set-2b,omitempty"`
 	Set3  string   `json:"set-3,omitempty" yaml:"set-3,omitempty"`
+}
+
+func (t iso639Record) String() string {
+	return t.Set1
 }
