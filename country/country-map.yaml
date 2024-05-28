@@ -41,6 +41,9 @@ records:
     -   iso-3166: BN
         genc: ??
         fips: BX00
+    -   iso-3166: GQ
+        genc: ??
+        fips: ??
     -   iso-3166: HK
         genc: ??
         fips: HK00
@@ -56,15 +59,24 @@ records:
     -   iso-3166: MO
         genc: ??
         fips: ??
+    -   iso-3166: MQ
+        genc: ??
+        fips: ??
     -   iso-3166: MW
         genc: MW
         fips: MI00
+    -   iso-3166: NA
+        genc: ??
+        fips: ??
     -   iso-3166: NO
         genc: ??
         fips: NO00
     -   iso-3166: NU
         genc: NU
         fips: NE00
+    -   iso-3166: PA
+        genc: ??
+        fips: ??
     -   iso-3166: PG
         genc: ??
         fips: PP00
@@ -74,6 +86,9 @@ records:
     -   iso-3166: RW
         genc: RW
         fips: RW00
+    -   iso-3166: SL
+        genc: ??
+        fips: ??
     -   iso-3166: SN
         genc: SN
         fips: SG00
@@ -86,6 +101,9 @@ records:
     -   iso-3166: TH
         genc: TH
         fips: TH00
+    -   iso-3166: TM
+        genc: ??
+        fips: ??
     -   iso-3166: TW
         genc: ??
         fips: TW00
