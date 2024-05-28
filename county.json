@@ -1,0 +1,331 @@
+{
+    "records": [
+        {
+            "name": {
+                "en": [
+                    "Aruba",
+                    "ARUBA"
+                ],
+                "fr": [
+                    "Aruba"
+                ],
+                "nl": [
+                    "Aruba"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AW",
+                "alpha-3": "ABW",
+                "numeric": 533
+            },
+            "fips": {
+                "code": "AA00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Antigua and Barbuda",
+                    "ANTIGUA AND BARBUDA"
+                ],
+                "fr": [
+                    "Antigua-et-Barbuda"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AG",
+                "alpha-3": "ATG",
+                "numeric": 28
+            },
+            "fips": {
+                "code": "AC00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Imārāt"
+                ],
+                "en": [
+                    "the United Arab Emirates",
+                    "United Arab Emirates (the)",
+                    "UNITED ARAB EMIRATES"
+                ],
+                "fr": [
+                    "Émirats arabes unis (les)",
+                    "les Émirats arabes unis"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AE",
+                "alpha-3": "ARE",
+                "numeric": 784
+            },
+            "fips": {
+                "code": "AE00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "AFGHANISTAN",
+                    "Afghanistan"
+                ],
+                "fa": [
+                    "Afghānistān"
+                ],
+                "fr": [
+                    "Afghanistan (l')",
+                    "l'Afghanistan"
+                ],
+                "ps": [
+                    "Afghānistān"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AF",
+                "alpha-3": "AFG",
+                "numeric": 4
+            },
+            "fips": {
+                "code": "AF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Jazā'ir",
+                    "Al Jazā’ir"
+                ],
+                "en": [
+                    "Algeria",
+                    "ALGERIA",
+                    "the People's Democratic Republic of Algeria"
+                ],
+                "fr": [
+                    "Algérie (l')",
+                    "l'Algérie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "DZ",
+                "alpha-3": "DZA",
+                "numeric": 12
+            },
+            "fips": {
+                "code": "AG00"
+            },
+            "genc": {
+                "alpha-2": "DZ",
+                "alpha-3": "DZA",
+                "numeric": 12
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "az": [
+                    "Azərbaycan"
+                ],
+                "en": [
+                    "Azerbaijan",
+                    "AZERBAIJAN",
+                    "the Republic of Azerbaijan"
+                ],
+                "fr": [
+                    "Azerbaïdjan (l')",
+                    "l'Azerbaïdjan"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AZ",
+                "alpha-3": "AZE",
+                "numeric": 31
+            },
+            "fips": {
+                "code": "AJ00"
+            },
+            "genc": {
+                "alpha-2": "AZ",
+                "alpha-3": "AZE",
+                "numeric": 31
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Albania",
+                    "ALBANIA"
+                ],
+                "fr": [
+                    "l'Albanie",
+                    "Albanie (l')"
+                ],
+                "sq": [
+                    "Shqipëria; Shqipëri"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AL",
+                "alpha-3": "ALB",
+                "numeric": 8
+            },
+            "fips": {
+                "code": "AL00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Armenia",
+                    "ARMENIA",
+                    "the Republic of Armenia"
+                ],
+                "fr": [
+                    "Arménie (l')",
+                    "l'Arménie"
+                ],
+                "hy": [
+                    "Hayastan"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AM",
+                "alpha-3": "ARM",
+                "numeric": 51
+            },
+            "fips": {
+                "code": "AM00"
+            },
+            "genc": {
+                "alpha-2": "AM",
+                "alpha-3": "ARM",
+                "numeric": 51
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ca": [
+                    "Andorra"
+                ],
+                "en": [
+                    "the Principality of Andorra",
+                    "Andorra",
+                    "ANDORRA"
+                ],
+                "fr": [
+                    "Andorre (l')",
+                    "l'Andorre"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AD",
+                "alpha-3": "AND",
+                "numeric": 20
+            },
+            "fips": {
+                "code": "AN00"
+            },
+            "genc": {
+                "alpha-2": "AD",
+                "alpha-3": "AND",
+                "numeric": 20
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Angola",
+                    "ANGOLA",
+                    "the Republic of Angola"
+                ],
+                "fr": [
+                    "Angola (l')",
+                    "l'Angola"
+                ],
+                "pt": [
+                    "Angola"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AO",
+                "alpha-3": "AGO",
+                "numeric": 24
+            },
+            "fips": {
+                "code": "AO00"
+            },
+            "genc": {
+                "alpha-2": "AO",
+                "alpha-3": "AGO",
+                "numeric": 24
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "American Samoa",
+                    "AMERICAN SAMOA"
+                ],
+                "fr": [
+                    "Samoa américaines (les)",
+                    "les Samoa américaines"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AS",
+                "alpha-3": "ASM",
+                "numeric": 16
+            },
+            "fips": {
+                "code": "AQ00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Argentina",
+                    "ARGENTINA",
+                    "the Argentine Republic"
+                ],
+                "es": [
+                    "Argentina (la)"
+                ],
+                "fr": [
+                    "Argentine (l')",
+                    "l'Argentine"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AR",
+                "alpha-3": "ARG",
+                "numeric": 32
+            },
+            "fips": {
+                "code": "AR00"
+            },
+            "genc": {
+                "alpha-2": "AR",
+                "alpha-3": "ARG",
+                "numeric": 32
+            },
+            "flag": {}
+        }
+    ]
+}

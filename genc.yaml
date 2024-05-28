@@ -3,8 +3,8 @@ records:
     ar:
     - "Al Jaz\u0101\u2019ir"
     en:
-    - Algeria
     - the People's Democratic Republic of Algeria
+    - Algeria
   alpha-2: DZ
   alpha-3: DZA
   numeric: 12
@@ -14,8 +14,8 @@ records:
     ca:
     - Andorra
     en:
-    - the Principality of Andorra
     - Andorra
+    - the Principality of Andorra
   alpha-2: AD
   alpha-3: AND
   numeric: 20
@@ -98,8 +98,8 @@ records:
     az:
     - "Az\u0259rbaycan"
     en:
-    - Azerbaijan
     - the Republic of Azerbaijan
+    - Azerbaijan
   alpha-2: AZ
   alpha-3: AZE
   numeric: 31
@@ -182,8 +182,8 @@ records:
     dz:
     - Druk-Yul
     en:
-    - the Kingdom of Bhutan
     - Bhutan
+    - the Kingdom of Bhutan
   alpha-2: BT
   alpha-3: BTN
   numeric: 64
@@ -242,8 +242,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Kingdom of Cambodia
     - Cambodia
+    - the Kingdom of Cambodia
     km:
     - "K\xE2mp\u016Dch\xE9a"
   alpha-2: KH
@@ -303,8 +303,8 @@ records:
     ar:
     - "Tsh\u0101d"
     en:
-    - the Republic of Chad
     - Chad
+    - the Republic of Chad
     fr:
     - Tchad (le)
   alpha-2: TD
@@ -337,8 +337,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - Croatia
     - the Republic of Croatia
+    - Croatia
     hr:
     - Hrvatska
   alpha-2: HR
@@ -433,8 +433,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Estonia
     - Estonia
+    - the Republic of Estonia
     et:
     - Eesti
   alpha-2: EE
@@ -510,8 +510,8 @@ records:
     de:
     - Deutschland
     en:
-    - the Federal Republic of Germany
     - Germany
+    - the Federal Republic of Germany
   alpha-2: DE
   alpha-3: DEU
   numeric: 276
@@ -606,8 +606,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Republic of Guinea-Bissau
     - Guinea-Bissau
+    - the Republic of Guinea-Bissau
     pt:
     - "Guin\xE9-Bissau"
   alpha-2: GW
@@ -630,8 +630,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Honduras
     - the Republic of Honduras
+    - Honduras
     es:
     - Honduras
   alpha-2: HN
@@ -660,8 +660,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Indonesia
     - Indonesia
+    - the Republic of Indonesia
     id:
     - Indonesia
   alpha-2: ID
@@ -733,8 +733,8 @@ records:
     ar:
     - Al Urdun
     en:
-    - the Hashemite Kingdom of Jordan
     - Jordan
+    - the Hashemite Kingdom of Jordan
   alpha-2: JO
   alpha-3: JOR
   numeric: 400
@@ -768,8 +768,8 @@ records:
     ar:
     - Al Kuwayt
     en:
-    - Kuwait
     - the State of Kuwait
+    - Kuwait
   alpha-2: KW
   alpha-3: KWT
   numeric: 414
@@ -851,8 +851,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Lithuania
     - the Republic of Lithuania
+    - Lithuania
     lt:
     - Lietuva
   alpha-2: LT
@@ -891,8 +891,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Malawi
     - Malawi
+    - the Republic of Malawi
     ny:
     - "Mala\u0175i"
   alpha-2: MW
@@ -947,8 +947,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the United Mexican States
     - Mexico
+    - the United Mexican States
     es:
     - "M\xE9xico"
   alpha-2: MX
@@ -1042,8 +1042,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Nepal
     - the Federal Democratic Republic of Nepal
+    - Nepal
     ne:
     - "Nep\u0101l"
   alpha-2: NP
@@ -1124,8 +1124,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Paraguay
     - Paraguay
+    - the Republic of Paraguay
     es:
     - Paraguay (el)
     gn:
@@ -1140,8 +1140,8 @@ records:
     ay:
     - "Per\xFA"
     en:
-    - Peru
     - the Republic of Peru
+    - Peru
     es:
     - "Per\xFA (el)"
     qu:
@@ -1209,8 +1209,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Federation of Saint Kitts and Nevis
     - Saint Kitts and Nevis
+    - the Federation of Saint Kitts and Nevis
   alpha-2: KN
   alpha-3: KNA
   numeric: 659
@@ -1246,8 +1246,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Sao Tome and Principe
     - the Democratic Republic of Sao Tome and Principe
+    - Sao Tome and Principe
     pt:
     - "S\xE3o Tom\xE9 e Pr\xEDncipe"
   alpha-2: ST
@@ -1278,8 +1278,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Singapore
     - the Republic of Singapore
+    - Singapore
     ms:
     - Singapura
     ta:
@@ -1293,8 +1293,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Slovakia
     - the Slovak Republic
+    - Slovakia
     sk:
     - Slovensko
   alpha-2: SK
@@ -1344,8 +1344,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Democratic Socialist Republic of Sri Lanka
     - Sri Lanka
+    - the Democratic Socialist Republic of Sri Lanka
     se:
     - "Shr\u012B Lam\u0307k\u0101"
     ta:
@@ -1380,8 +1380,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Kingdom of Swaziland
     - Swaziland
+    - the Kingdom of Swaziland
     ss:
     - eSwatini
   alpha-2: SZ
@@ -1431,8 +1431,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Kingdom of Thailand
     - Thailand
+    - the Kingdom of Thailand
     th:
     - Prathet Thai
   alpha-2: TH
@@ -1455,8 +1455,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Togo
     - the Togolese Republic
+    - Togo
     fr:
     - Togo (le)
   alpha-2: TG
@@ -1473,8 +1473,8 @@ records:
   numeric: 772
 - name:
     en:
-    - Tonga
     - the Kingdom of Tonga
+    - Tonga
     to:
     - Tonga
   alpha-2: TO
@@ -1580,8 +1580,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Zimbabwe
     - Zimbabwe
+    - the Republic of Zimbabwe
   alpha-2: ZW
   alpha-3: ZWE
   numeric: 716

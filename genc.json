@@ -6,8 +6,8 @@
                     "Al Jazā’ir"
                 ],
                 "en": [
-                    "Algeria",
-                    "the People's Democratic Republic of Algeria"
+                    "the People's Democratic Republic of Algeria",
+                    "Algeria"
                 ]
             },
             "alpha-2": "DZ",
@@ -21,8 +21,8 @@
                     "Andorra"
                 ],
                 "en": [
-                    "the Principality of Andorra",
-                    "Andorra"
+                    "Andorra",
+                    "the Principality of Andorra"
                 ]
             },
             "alpha-2": "AD",
@@ -117,8 +117,8 @@
                     "Azərbaycan"
                 ],
                 "en": [
-                    "Azerbaijan",
-                    "the Republic of Azerbaijan"
+                    "the Republic of Azerbaijan",
+                    "Azerbaijan"
                 ]
             },
             "alpha-2": "AZ",
@@ -214,8 +214,8 @@
                     "Druk-Yul"
                 ],
                 "en": [
-                    "the Kingdom of Bhutan",
-                    "Bhutan"
+                    "Bhutan",
+                    "the Kingdom of Bhutan"
                 ]
             },
             "alpha-2": "BT",
@@ -286,8 +286,8 @@
         {
             "name": {
                 "en": [
-                    "the Kingdom of Cambodia",
-                    "Cambodia"
+                    "Cambodia",
+                    "the Kingdom of Cambodia"
                 ],
                 "km": [
                     "Kâmpŭchéa"
@@ -344,8 +344,8 @@
                     "Tshād"
                 ],
                 "en": [
-                    "the Republic of Chad",
-                    "Chad"
+                    "Chad",
+                    "the Republic of Chad"
                 ],
                 "fr": [
                     "Tchad (le)"
@@ -386,8 +386,8 @@
         {
             "name": {
                 "en": [
-                    "Croatia",
-                    "the Republic of Croatia"
+                    "the Republic of Croatia",
+                    "Croatia"
                 ],
                 "hr": [
                     "Hrvatska"
@@ -509,8 +509,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Estonia",
-                    "Estonia"
+                    "Estonia",
+                    "the Republic of Estonia"
                 ],
                 "et": [
                     "Eesti"
@@ -607,8 +607,8 @@
                     "Deutschland"
                 ],
                 "en": [
-                    "the Federal Republic of Germany",
-                    "Germany"
+                    "Germany",
+                    "the Federal Republic of Germany"
                 ]
             },
             "alpha-2": "DE",
@@ -714,8 +714,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Guinea-Bissau",
-                    "Guinea-Bissau"
+                    "Guinea-Bissau",
+                    "the Republic of Guinea-Bissau"
                 ],
                 "pt": [
                     "Guiné-Bissau"
@@ -747,8 +747,8 @@
         {
             "name": {
                 "en": [
-                    "Honduras",
-                    "the Republic of Honduras"
+                    "the Republic of Honduras",
+                    "Honduras"
                 ],
                 "es": [
                     "Honduras"
@@ -790,8 +790,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Indonesia",
-                    "Indonesia"
+                    "Indonesia",
+                    "the Republic of Indonesia"
                 ],
                 "id": [
                     "Indonesia"
@@ -888,8 +888,8 @@
                     "Al Urdun"
                 ],
                 "en": [
-                    "the Hashemite Kingdom of Jordan",
-                    "Jordan"
+                    "Jordan",
+                    "the Hashemite Kingdom of Jordan"
                 ]
             },
             "alpha-2": "JO",
@@ -936,8 +936,8 @@
                     "Al Kuwayt"
                 ],
                 "en": [
-                    "Kuwait",
-                    "the State of Kuwait"
+                    "the State of Kuwait",
+                    "Kuwait"
                 ]
             },
             "alpha-2": "KW",
@@ -1051,8 +1051,8 @@
         {
             "name": {
                 "en": [
-                    "Lithuania",
-                    "the Republic of Lithuania"
+                    "the Republic of Lithuania",
+                    "Lithuania"
                 ],
                 "lt": [
                     "Lietuva"
@@ -1105,8 +1105,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Malawi",
-                    "Malawi"
+                    "Malawi",
+                    "the Republic of Malawi"
                 ],
                 "ny": [
                     "Malaŵi"
@@ -1180,8 +1180,8 @@
         {
             "name": {
                 "en": [
-                    "the United Mexican States",
-                    "Mexico"
+                    "Mexico",
+                    "the United Mexican States"
                 ],
                 "es": [
                     "México"
@@ -1291,8 +1291,8 @@
         {
             "name": {
                 "en": [
-                    "Nepal",
-                    "the Federal Democratic Republic of Nepal"
+                    "the Federal Democratic Republic of Nepal",
+                    "Nepal"
                 ],
                 "ne": [
                     "Nepāl"
@@ -1403,8 +1403,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Paraguay",
-                    "Paraguay"
+                    "Paraguay",
+                    "the Republic of Paraguay"
                 ],
                 "es": [
                     "Paraguay (el)"
@@ -1424,8 +1424,8 @@
                     "Perú"
                 ],
                 "en": [
-                    "Peru",
-                    "the Republic of Peru"
+                    "the Republic of Peru",
+                    "Peru"
                 ],
                 "es": [
                     "Perú (el)"
@@ -1518,8 +1518,8 @@
         {
             "name": {
                 "en": [
-                    "the Federation of Saint Kitts and Nevis",
-                    "Saint Kitts and Nevis"
+                    "Saint Kitts and Nevis",
+                    "the Federation of Saint Kitts and Nevis"
                 ]
             },
             "alpha-2": "KN",
@@ -1570,8 +1570,8 @@
         {
             "name": {
                 "en": [
-                    "Sao Tome and Principe",
-                    "the Democratic Republic of Sao Tome and Principe"
+                    "the Democratic Republic of Sao Tome and Principe",
+                    "Sao Tome and Principe"
                 ],
                 "pt": [
                     "São Tomé e Príncipe"
@@ -1612,8 +1612,8 @@
         {
             "name": {
                 "en": [
-                    "Singapore",
-                    "the Republic of Singapore"
+                    "the Republic of Singapore",
+                    "Singapore"
                 ],
                 "ms": [
                     "Singapura"
@@ -1633,8 +1633,8 @@
         {
             "name": {
                 "en": [
-                    "Slovakia",
-                    "the Slovak Republic"
+                    "the Slovak Republic",
+                    "Slovakia"
                 ],
                 "sk": [
                     "Slovensko"
@@ -1701,8 +1701,8 @@
         {
             "name": {
                 "en": [
-                    "the Democratic Socialist Republic of Sri Lanka",
-                    "Sri Lanka"
+                    "Sri Lanka",
+                    "the Democratic Socialist Republic of Sri Lanka"
                 ],
                 "se": [
                     "Shrī Laṁkā"
@@ -1749,8 +1749,8 @@
         {
             "name": {
                 "en": [
-                    "the Kingdom of Swaziland",
-                    "Swaziland"
+                    "Swaziland",
+                    "the Kingdom of Swaziland"
                 ],
                 "ss": [
                     "eSwatini"
@@ -1818,8 +1818,8 @@
         {
             "name": {
                 "en": [
-                    "the Kingdom of Thailand",
-                    "Thailand"
+                    "Thailand",
+                    "the Kingdom of Thailand"
                 ],
                 "th": [
                     "Prathet Thai"
@@ -1851,8 +1851,8 @@
         {
             "name": {
                 "en": [
-                    "Togo",
-                    "the Togolese Republic"
+                    "the Togolese Republic",
+                    "Togo"
                 ],
                 "fr": [
                     "Togo (le)"
@@ -1876,8 +1876,8 @@
         {
             "name": {
                 "en": [
-                    "Tonga",
-                    "the Kingdom of Tonga"
+                    "the Kingdom of Tonga",
+                    "Tonga"
                 ],
                 "to": [
                     "Tonga"
@@ -2006,8 +2006,8 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Zimbabwe",
-                    "Zimbabwe"
+                    "Zimbabwe",
+                    "the Republic of Zimbabwe"
                 ]
             },
             "alpha-2": "ZW",

@@ -59,6 +59,16 @@
                 "${workspaceFolder}/country-flags/1x1",
                 "${workspaceFolder}/country-flags/4x3"
             ]
+        },
+        {
+            "name": "country.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/country/country.go",
+            "args": [
+                "${workspaceFolder}"
+            ]
         }
     ]
 }
