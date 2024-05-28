@@ -1,0 +1,37 @@
+records:
+    -   iso-3166: AW
+        # genc: ??
+        fips: AA00
+    -   iso-3166: AG
+        # genc: ??
+        fips: AC00
+    -   iso-3166: AE
+        # genc: ??
+        fips: AE00
+    -   iso-3166: AF
+        # genc: ??
+        fips: AF00
+    -   iso-3166: DZ
+        genc: DZ
+        fips: AG00
+    -   iso-3166: AZ
+        genc: AZ
+        fips: AJ00
+    -   iso-3166: AL
+        # genc: ??
+        fips: AL00
+    -   iso-3166: AM
+        genc: AM
+        fips: AM00
+    -   iso-3166: AD
+        genc: AD
+        fips: AN00
+    -   iso-3166: AO
+        genc: AO
+        fips: AO00
+    -   iso-3166: AS
+        genc: AS
+        fips: AQ00
+    -   iso-3166: AR
+        genc: AR
+        fips: AR00
