@@ -3,12 +3,12 @@ records:
         ca:
             - Andorra
         en:
+            - the Principality of Andorra
             - Andorra
             - ANDORRA
-            - the Principality of Andorra
         fr:
-            - Andorre (l')
             - l'Andorre
+            - Andorre (l')
       iso-3166:
         alpha-2: AD
         alpha-3: AND
@@ -23,9 +23,9 @@ records:
         ar:
             - Al Imārāt
         en:
+            - United Arab Emirates (the)
             - the United Arab Emirates
             - UNITED ARAB EMIRATES
-            - United Arab Emirates (the)
         fr:
             - Émirats arabes unis (les)
             - les Émirats arabes unis
@@ -81,9 +81,9 @@ records:
         code: AL00
     - name:
         en:
+            - ARMENIA
             - Armenia
             - the Republic of Armenia
-            - ARMENIA
         fr:
             - Arménie (l')
             - l'Arménie
@@ -194,8 +194,8 @@ records:
             - AZERBAIJAN
             - the Republic of Azerbaijan
         fr:
-            - Azerbaïdjan (l')
             - l'Azerbaïdjan
+            - Azerbaïdjan (l')
       iso-3166:
         alpha-2: AZ
         alpha-3: AZE
@@ -228,12 +228,40 @@ records:
         alpha-3: DZA
         numeric: 12
     - name:
+        bs:
+            - Bosna i Hercegovina
+        en:
+            - Bosnia and Herzegovina
+        fr:
+            - la Bosnie-Herzégovine
+            - Bosnie-Herzégovine (la)
+        hr:
+            - Bosna i Hercegovina
+        sr:
+            - Bosna i Hercegovina
+      iso-3166:
+        alpha-2: BA
+        alpha-3: BIH
+        numeric: 70
+    - name:
+        en:
+            - Burundi
+        fr:
+            - le Burundi
+            - Burundi (le)
+        rn:
+            - Burundi
+      iso-3166:
+        alpha-2: BI
+        alpha-3: BDI
+        numeric: 108
+    - name:
         en:
             - Brunei Darussalam
             - BRUNEI
         fr:
-            - le Brunéi Darussalam
             - Brunéi Darussalam (le)
+            - le Brunéi Darussalam
         ms:
             - Negara Brunei Darussalam
       iso-3166:
@@ -244,8 +272,184 @@ records:
         code: BX00
     - name:
         en:
-            - Hong Kong
+            - Bolivia (Plurinational State of)
+            - Plurinational State of Bolivia
+        es:
+            - Bolivia, Estado Plurinacional de
+        fr:
+            - Bolivie (État plurinational de)
+            - État plurinational de Bolivie
+      iso-3166:
+        alpha-2: BO
+        alpha-3: BOL
+        numeric: 68
+    - name:
+        en:
+            - Botswana
+        fr:
+            - Botswana (le)
+            - le Botswana
+      iso-3166:
+        alpha-2: BW
+        alpha-3: BWA
+        numeric: 72
+    - name:
+        en:
+            - Bouvet Island
+        fr:
+            - Bouvet (l'Île)
+            - l'Île Bouvet
+        nb:
+            - Bouvetøya
+        nn:
+            - Bouvetøya
+      iso-3166:
+        alpha-2: BV
+        alpha-3: BVT
+        numeric: 74
+    - name:
+        en:
+            - Costa Rica
+        es:
+            - Costa Rica
+        fr:
+            - Costa Rica (le)
+            - le Costa Rica
+      iso-3166:
+        alpha-2: CR
+        alpha-3: CRI
+        numeric: 188
+    - name:
+        en:
+            - Christmas Island
+        fr:
+            - l'Île Christmas
+            - Christmas (l'Île)
+      iso-3166:
+        alpha-2: CX
+        alpha-3: CXR
+        numeric: 162
+    - name:
+        en:
+            - Cabo Verde
+        fr:
+            - Cabo Verde
+        pt:
+            - Cabo Verde
+      iso-3166:
+        alpha-2: CV
+        alpha-3: CPV
+        numeric: 132
+    - name:
+        el:
+            - Kýpros
+        en:
+            - Cyprus
+        fr:
+            - Chypre
+        tr:
+            - Kıbrıs
+      iso-3166:
+        alpha-2: CY
+        alpha-3: CYP
+        numeric: 196
+    - name:
+        en:
+            - Dominica
+        fr:
+            - Dominique (la)
+            - la Dominique
+      iso-3166:
+        alpha-2: DM
+        alpha-3: DMA
+        numeric: 212
+    - name:
+        en:
+            - Estonia
+        et:
+            - Eesti
+        fr:
+            - Estonie (l')
+            - l'Estonie
+      iso-3166:
+        alpha-2: EE
+        alpha-3: EST
+        numeric: 233
+    - name:
+        da:
+            - Grønland
+        en:
+            - Greenland
+        fr:
+            - Groenland (le)
+            - le Groenland
+        kl:
+            - Kalaallit Nunaat
+      iso-3166:
+        alpha-2: GL
+        alpha-3: GRL
+        numeric: 304
+    - name:
+        en:
+            - Equatorial Guinea
+        es:
+            - Guinea Ecuatorial
+        fr:
+            - Guinée équatoriale (la)
+            - la Guinée équatoriale
+        pt:
+            - Guiné Equatorial (a)
+      iso-3166:
+        alpha-2: GQ
+        alpha-3: GNQ
+        numeric: 226
+    - name:
+        en:
+            - South Georgia and the South Sandwich Islands
+        fr:
+            - Géorgie du Sud-et-les Îles Sandwich du Sud (la)
+            - la Géorgie du Sud-et-les Îles Sandwich du Sud
+      iso-3166:
+        alpha-2: GS
+        alpha-3: SGS
+        numeric: 239
+    - name:
+        en:
+            - Guatemala
+        es:
+            - Guatemala
+        fr:
+            - Guatemala (le)
+            - le Guatemala
+      iso-3166:
+        alpha-2: GT
+        alpha-3: GTM
+        numeric: 320
+    - name:
+        en:
+            - Guam
+        fr:
+            - Guam
+      iso-3166:
+        alpha-2: GU
+        alpha-3: GUM
+        numeric: 316
+    - name:
+        en:
+            - Guinea-Bissau
+        fr:
+            - Guinée-Bissau (la)
+            - la Guinée-Bissau
+        pt:
+            - Guiné-Bissau (a)
+      iso-3166:
+        alpha-2: GW
+        alpha-3: GNB
+        numeric: 624
+    - name:
+        en:
             - HONG KONG
+            - Hong Kong
         fr:
             - Hong Kong
         zh:
@@ -256,6 +460,30 @@ records:
         numeric: 344
       fips:
         code: HK00
+    - name:
+        en:
+            - Honduras
+        es:
+            - Honduras
+        fr:
+            - Honduras (le)
+            - le Honduras
+      iso-3166:
+        alpha-2: HN
+        alpha-3: HND
+        numeric: 340
+    - name:
+        en:
+            - Hungary
+        fr:
+            - Hongrie (la)
+            - la Hongrie
+        hu:
+            - Magyarország
+      iso-3166:
+        alpha-2: HU
+        alpha-3: HUN
+        numeric: 348
     - name:
         en:
             - Ireland
@@ -277,6 +505,27 @@ records:
         numeric: 372
     - name:
         en:
+            - Iceland
+        fr:
+            - Islande (l')
+            - l'Islande
+        is:
+            - Ísland
+      iso-3166:
+        alpha-2: IS
+        alpha-3: ISL
+        numeric: 352
+    - name:
+        en:
+            - Jersey
+        fr:
+            - Jersey
+      iso-3166:
+        alpha-2: JE
+        alpha-3: JEY
+        numeric: 832
+    - name:
+        en:
             - Japan
             - JAPAN
         fr:
@@ -294,6 +543,116 @@ records:
         alpha-2: JP
         alpha-3: JPN
         numeric: 392
+    - name:
+        en:
+            - Kenya
+        fr:
+            - Kenya (le)
+            - le Kenya
+        sw:
+            - Kenya
+      iso-3166:
+        alpha-2: KE
+        alpha-3: KEN
+        numeric: 404
+    - name:
+        en:
+            - Kyrgyzstan
+        fr:
+            - Kirghizistan (le)
+            - le Kirghizistan
+        ky:
+            - Kyrgyzstan
+        ru:
+            - Kyrgyzstan
+      iso-3166:
+        alpha-2: KG
+        alpha-3: KGZ
+        numeric: 417
+    - name:
+        en:
+            - Kiribati
+        fr:
+            - Kiribati
+      iso-3166:
+        alpha-2: KI
+        alpha-3: KIR
+        numeric: 296
+    - name:
+        en:
+            - Korea (the Democratic People's Republic of)
+            - the Democratic People's Republic of Korea
+        fr:
+            - Corée (la République populaire démocratique de)
+            - la République populaire démocratique de Corée
+        ko:
+            - Chosŏn
+      iso-3166:
+        alpha-2: KP
+        alpha-3: PRK
+        numeric: 408
+    - name:
+        en:
+            - the Republic of Korea
+            - Korea (the Republic of)
+        fr:
+            - Corée (la République de)
+            - la République de Corée
+        ko:
+            - Hanguk
+      iso-3166:
+        alpha-2: KR
+        alpha-3: KOR
+        numeric: 410
+    - name:
+        en:
+            - Lao People's Democratic Republic (the)
+            - the Lao People's Democratic Republic
+        fr:
+            - la République démocratique populaire Lao
+            - Lao (la République démocratique populaire)
+        lo:
+            - Sathalanalat Paxathipatai Paxaxôn Lao
+      iso-3166:
+        alpha-2: LA
+        alpha-3: LAO
+        numeric: 418
+    - name:
+        en:
+            - Moldova (the Republic of)
+            - the Republic of Moldova
+        fr:
+            - Moldova (la République de)
+            - la République de Moldova
+        ro:
+            - Republica Moldova
+      iso-3166:
+        alpha-2: MD
+        alpha-3: MDA
+        numeric: 498
+    - name:
+        en:
+            - Saint Martin (French part)
+            - French part Saint Martin
+        fr:
+            - Saint-Martin (partie française)
+            - partie française Saint-Martin
+      iso-3166:
+        alpha-2: MF
+        alpha-3: MAF
+        numeric: 663
+    - name:
+        ar:
+            - Al Maghrib
+        en:
+            - Morocco
+        fr:
+            - Maroc (le)
+            - le Maroc
+      iso-3166:
+        alpha-2: MA
+        alpha-3: MAR
+        numeric: 504
     - name:
         en:
             - Mongolia
@@ -324,9 +683,19 @@ records:
         numeric: 446
     - name:
         en:
+            - Martinique
+        fr:
+            - Martinique (la)
+            - la Martinique
+      iso-3166:
+        alpha-2: MQ
+        alpha-3: MTQ
+        numeric: 474
+    - name:
+        en:
+            - the Republic of Malawi
             - Malawi
             - MALAWI
-            - the Republic of Malawi
         fr:
             - Malawi (le)
             - le Malawi
@@ -342,6 +711,16 @@ records:
         alpha-2: MW
         alpha-3: MWI
         numeric: 454
+    - name:
+        en:
+            - Namibia
+        fr:
+            - Namibie (la)
+            - la Namibie
+      iso-3166:
+        alpha-2: NA
+        alpha-3: NAM
+        numeric: 516
     - name:
         en:
             - Norway
@@ -377,11 +756,33 @@ records:
         numeric: 570
     - name:
         en:
-            - PAPUA NEW GUINEA
-            - Papua New Guinea
+            - Panama
+        es:
+            - Panamá
         fr:
-            - Papouasie-Nouvelle-Guinée (la)
+            - Panama (le)
+            - le Panama
+      iso-3166:
+        alpha-2: PA
+        alpha-3: PAN
+        numeric: 591
+    - name:
+        en:
+            - French Polynesia
+        fr:
+            - Polynésie française (la)
+            - la Polynésie française
+      iso-3166:
+        alpha-2: PF
+        alpha-3: PYF
+        numeric: 258
+    - name:
+        en:
+            - Papua New Guinea
+            - PAPUA NEW GUINEA
+        fr:
             - la Papouasie-Nouvelle-Guinée
+            - Papouasie-Nouvelle-Guinée (la)
         ho:
             - Papuaniugini
       iso-3166:
@@ -392,9 +793,21 @@ records:
         code: PP00
     - name:
         en:
-            - PHILIPPINES
-            - Philippines (the)
+            - Poland
+        fr:
+            - Pologne (la)
+            - la Pologne
+        pl:
+            - Polska
+      iso-3166:
+        alpha-2: PL
+        alpha-3: POL
+        numeric: 616
+    - name:
+        en:
             - the Philippines
+            - Philippines (the)
+            - PHILIPPINES
         fr:
             - les Philippines
             - Philippines (les)
@@ -408,9 +821,9 @@ records:
         code: RP00
     - name:
         en:
-            - the Republic of Rwanda
-            - RWANDA
             - Rwanda
+            - RWANDA
+            - the Republic of Rwanda
         fr:
             - Rwanda (le)
             - le Rwanda
@@ -426,6 +839,43 @@ records:
         alpha-2: RW
         alpha-3: RWA
         numeric: 646
+    - name:
+        en:
+            - Singapore
+        fr:
+            - Singapour
+        ms:
+            - Singapura
+        ta:
+            - Chiṅkappūr
+        zh:
+            - Xinjiapo
+      iso-3166:
+        alpha-2: SG
+        alpha-3: SGP
+        numeric: 702
+    - name:
+        en:
+            - Sierra Leone
+        fr:
+            - Sierra Leone (la)
+            - la Sierra Leone
+      iso-3166:
+        alpha-2: SL
+        alpha-3: SLE
+        numeric: 694
+    - name:
+        en:
+            - Slovakia
+        fr:
+            - Slovaquie (la)
+            - la Slovaquie
+        sk:
+            - Slovensko
+      iso-3166:
+        alpha-2: SK
+        alpha-3: SVK
+        numeric: 703
     - name:
         en:
             - Senegal
@@ -445,12 +895,33 @@ records:
         alpha-3: SEN
         numeric: 686
     - name:
+        en:
+            - South Sudan
+        fr:
+            - le Soudan du Sud
+            - Soudan du Sud (le)
+      iso-3166:
+        alpha-2: SS
+        alpha-3: SSD
+        numeric: 728
+    - name:
+        en:
+            - El Salvador
+        es:
+            - El Salvador
+        fr:
+            - El Salvador
+      iso-3166:
+        alpha-2: SV
+        alpha-3: SLV
+        numeric: 222
+    - name:
         ar:
             - Al Jumhūrīyah al ‘Arabīyah as Sūrīyah
         en:
+            - SYRIA
             - Syrian Arab Republic (the)
             - the Syrian Arab Republic
-            - SYRIA
         fr:
             - République arabe syrienne (la)
             - la République arabe syrienne
@@ -500,6 +971,30 @@ records:
         numeric: 764
     - name:
         en:
+            - Turkmenistan
+        fr:
+            - Turkménistan (le)
+            - le Turkménistan
+        tk:
+            - Türkmenistan
+      iso-3166:
+        alpha-2: TM
+        alpha-3: TKM
+        numeric: 795
+    - name:
+        ar:
+            - Tūnis
+        en:
+            - Tunisia
+        fr:
+            - Tunisie (la)
+            - la Tunisie
+      iso-3166:
+        alpha-2: TN
+        alpha-3: TUN
+        numeric: 788
+    - name:
+        en:
             - Taiwan (Province of China)
             - Province of China Taiwan
             - TAIWAN
@@ -514,3 +1009,80 @@ records:
         numeric: 158
       fips:
         code: TW00
+    - name:
+        en:
+            - Tuvalu
+        fr:
+            - les Tuvalu
+            - Tuvalu (les)
+      iso-3166:
+        alpha-2: TV
+        alpha-3: TUV
+        numeric: 798
+    - name:
+        en:
+            - Tanzania, the United Republic of
+        fr:
+            - la République-Unie de Tanzanie
+            - Tanzanie (la République-Unie de)
+        sw:
+            - Jamhuri ya Muungano wa Tanzania
+      iso-3166:
+        alpha-2: TZ
+        alpha-3: TZA
+        numeric: 834
+    - name:
+        en:
+            - Uganda
+        fr:
+            - Ouganda (l')
+            - l'Ouganda
+      iso-3166:
+        alpha-2: UG
+        alpha-3: UGA
+        numeric: 800
+    - name:
+        en:
+            - Uruguay
+        es:
+            - Uruguay (el)
+        fr:
+            - Uruguay (l')
+            - l'Uruguay
+      iso-3166:
+        alpha-2: UY
+        alpha-3: URY
+        numeric: 858
+    - name:
+        en:
+            - British Virgin Islands
+            - Virgin Islands (British)
+        fr:
+            - Vierges britanniques (les Îles)
+            - les Îles Vierges britanniques
+      iso-3166:
+        alpha-2: VG
+        alpha-3: VGB
+        numeric: 92
+    - name:
+        bi:
+            - Vanuatu
+        en:
+            - Vanuatu
+        fr:
+            - le Vanuatu
+            - Vanuatu (le)
+      iso-3166:
+        alpha-2: VU
+        alpha-3: VUT
+        numeric: 548
+    - name:
+        en:
+            - Zimbabwe
+        fr:
+            - Zimbabwe (le)
+            - le Zimbabwe
+      iso-3166:
+        alpha-2: ZW
+        alpha-3: ZWE
+        numeric: 716
