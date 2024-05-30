@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "mime-types.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/mime-types/mime-types.go",
+            "args": [
+                "${workspaceFolder}"
+            ]
+        },
+        {
             "name": "iso-3166.go",
             "type": "go",
             "request": "launch",

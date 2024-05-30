@@ -36,3 +36,7 @@ country-flags:
 .PHONY: country
 country:
 	cd $(makefile_dir)/country && go run country.go $(makefile_dir)
+
+.PHONY: mime-types
+mime-types:
+	cd $(makefile_dir)/mime-types && go run mime-types.go $(makefile_dir)
