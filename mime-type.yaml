@@ -1,0 +1,5652 @@
+records:
+    - mime-type: application/fits
+      references:
+        - name: RFC4047
+    - description: StepMania
+      mime-type: application/vnd.stepmania.stepchart
+      file-extentions:
+        - .sm
+    - mime-type: application/vnd.swiftview-ics
+    - description: SMAF Audio
+      mime-type: application/vnd.yamaha.smaf-audio
+      file-extentions:
+        - .saf
+    - description: Virtue VTU
+      mime-type: model/vnd.vtu
+      file-extentions:
+        - .vtu
+    - description: MPEG-4 Audio
+      mime-type: audio/mp4
+      references:
+        - name: RFC4337
+        - name: RFC6381
+      file-extentions:
+        - .mp4a
+    - description: BASH shell script
+      file-extentions:
+        - .bash
+    - description: Portable Symmetric Key Container
+      mime-type: application/pskc+xml
+      references:
+        - name: RFC6030
+      file-extentions:
+        - .pskcxml
+    - mime-type: application/vnd.marlin.drm.mdcf
+    - mime-type: application/vnd.Mobius.MQY
+    - mime-type: application/vnd.oasis.opendocument.base
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml
+    - description: Haskell source file
+      file-extentions:
+        - .hs
+        - .lhs
+    - mime-type: application/tzif
+      references:
+        - name: RFC-murchison-rfc8536bis-15
+    - mime-type: application/vnd.3gpp.lpp
+    - mime-type: application/vnd.collection.next+json
+    - mime-type: application/vnd.dvb.notif-ia-msglist+xml
+    - mime-type: video/vnd.iptvforum.1dparityfec-1010
+    - mime-type: application/vnd.novadigm.EXT
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.comments+xml
+    - description: SailingTracker
+      mime-type: application/vnd.sailingtracker.track
+      file-extentions:
+        - .st
+    - description: Attribute Certificate
+      mime-type: application/pkix-attr-cert
+      references:
+        - name: RFC5877
+      file-extentions:
+        - .ac
+    - mime-type: application/vnd.canon-lips
+    - mime-type: application/vnd.collabio.xodocuments.document-template
+    - mime-type: application/vnd.comicbook+zip
+    - mime-type: application/vnd.ipld.dag-cbor
+    - description: Network Common Data Form (NetCDF)
+      file-extentions:
+        - .nc
+    - description: Portable Bitmap Format
+      file-extentions:
+        - .pbm
+    - mime-type: application/vnd.ncd.control
+    - mime-type: application/vnd.oai.workflows
+    - mime-type: application/vnd.radisys.msml+xml
+      references:
+        - name: RFC5707
+    - mime-type: video/MP4V-ES
+      references:
+        - name: RFC6416
+    - mime-type: text/vnd.ascii-art
+    - mime-type: audio/G723
+      references:
+        - name: RFC4856
+    - mime-type: audio/vnd.presonus.multitrack
+    - description: ECMAScript
+      mime-type: application/ecmascript
+      references:
+        - name: RFC4329
+        - name: RFC9239
+      file-extentions:
+        - .es
+    - mime-type: application/EDIFACT
+      references:
+        - name: RFC1767
+    - description: Kodak Storyshare
+      mime-type: application/vnd.kodak-descriptor
+      file-extentions:
+        - .sse
+    - mime-type: application/vnd.las.las+json
+    - mime-type: application/vnd.oma.bcast.imd+xml
+    - mime-type: application/gnap-binding-rotation-jwsd
+      references:
+        - name: RFC-ietf-gnap-core-protocol-20
+    - mime-type: application/vnd.ctct.ws+xml
+    - description: NobleNet Sealer
+      mime-type: application/vnd.noblenet-sealer
+      file-extentions:
+        - .nns
+    - description: Fortran Source File
+      file-extentions:
+        - .f
+    - mime-type: application/vnd.marlin.drm.actiontoken+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml
+    - description: Mobius Management Systems - Policy Definition Language File
+      file-extentions:
+        - .plc
+    - mime-type: application/vnd.dvb.notif-ia-registration-response+xml
+    - mime-type: application/vnd.fujixerox.ART4
+    - description: CustomMenu
+      mime-type: application/vnd.yellowriver-custom-menu
+      file-extentions:
+        - .cmp
+    - mime-type: application/edhoc+cbor-seq
+      references:
+        - name: RFC9528
+    - mime-type: application/QSIG
+      references:
+        - name: RFC3204
+    - mime-type: application/vnd.3gpp.mcvideo-affiliation-command+xml
+    - mime-type: application/vnd.chemdraw+xml
+    - mime-type: application/vnd.dvb.notif-generic+xml
+    - mime-type: application/vnd.ms-word.template.macroEnabled.12
+    - mime-type: application/vnd.tml
+    - description: Fujitsu - Xerox DocuWorks
+      mime-type: application/vnd.fujixerox.docuworks
+      file-extentions:
+        - .xdw
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml
+    - mime-type: application/vnd.vividence.scriptfile
+    - description: WAP Bitamp (WBMP)
+      mime-type: image/vnd.wap.wbmp
+      file-extentions:
+        - .wbmp
+    - description: Java Network Launching Protocol
+      file-extentions:
+        - .jnlp
+    - mime-type: application/commonground
+    - description: Arista Networks Software Image
+      mime-type: application/vnd.aristanetworks.swi
+      file-extentions:
+        - .swi
+    - mime-type: application/vnd.artisan+json
+    - mime-type: application/vnd.motorola.flexsuite.adsi
+    - mime-type: application/vnd.ms-PrintSchemaTicket+xml
+    - description: Resource Description Framework
+      mime-type: application/rdf+xml
+      references:
+        - name: RFC3870
+      file-extentions:
+        - .rdf
+    - mime-type: application/vnd.desmume.movie
+    - mime-type: text/vnd.gml
+    - description: Graphviz
+      mime-type: text/vnd.graphviz
+      file-extentions:
+        - .gv
+    - mime-type: text/vnd.trolltech.linguist
+    - description: Text Encoding and Interchange
+      mime-type: application/tei+xml
+      references:
+        - name: RFC6129
+      file-extentions:
+        - .tei
+    - description: Antix Game Player
+      mime-type: application/vnd.antix.game-component
+      file-extentions:
+        - .atx
+    - mime-type: application/vnd.apexlang
+    - mime-type: application/vnd.HandHeld-Entertainment+xml
+    - mime-type: application/vnd.truedoc
+    - description: 'PKCS #10 - Certification Request Standard'
+      mime-type: application/pkcs10
+      references:
+        - name: RFC5967
+      file-extentions:
+        - .p10
+    - mime-type: application/vnd.motorola.flexsuite.fis
+    - mime-type: application/vnd.youtube.yt
+    - mime-type: application/voucher-cms+json
+      references:
+        - name: RFC8366
+    - mime-type: image/jxl
+    - mime-type: application/vnd.globalplatform.card-content-mgt
+    - description: MedCalc
+      mime-type: application/vnd.medcalcdata
+      file-extentions:
+        - .mc1
+    - mime-type: application/vnd.xacml+json
+    - mime-type: model/vnd.sap.vds
+    - mime-type: message/sipfrag
+      references:
+        - name: RFC3420
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml
+    - mime-type: application/vnd.syncml.dmtnds+wbxml
+    - description: BitTorrent
+      file-extentions:
+        - .torrent
+    - mime-type: application/ipp
+      references:
+        - name: RFC8010
+    - mime-type: application/node
+    - mime-type: application/vnd.3gpp.mcdata-service-config+xml
+    - mime-type: application/vnd.hp-PCL
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.notesMaster+xml
+    - mime-type: application/pvd+json
+      references:
+        - name: RFC8801
+    - mime-type: application/tamp-update
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.3gpp.mcvideo-ue-config+xml
+    - mime-type: application/vnd.oma.dcdc
+    - mime-type: application/vnd.nimn
+    - mime-type: application/vnd.tableschema+json
+    - description: Notation3
+      mime-type: text/n3
+      file-extentions:
+        - .n3
+    - description: Electronic Publication
+      mime-type: application/epub+zip
+      file-extentions:
+        - .epub
+    - mime-type: application/vnd.3gpp.mcptt-info+xml
+    - mime-type: application/vnd.eclipse.ditto+json
+    - description: Hewlett Packard Instant Delivery
+      mime-type: application/vnd.hp-hpid
+      file-extentions:
+        - .hpid
+    - mime-type: application/vnd.ms-PrintDeviceCapabilities+xml
+    - description: ZSH shell script
+      file-extentions:
+        - .zsh
+    - mime-type: message/feedback-report
+      references:
+        - name: RFC5965
+    - mime-type: audio/aac
+    - description: Sharing Transaction Fraud Data
+      mime-type: application/thraud+xml
+      references:
+        - name: RFC5941
+      file-extentions:
+        - .tfi
+    - mime-type: application/vnd.dbf
+    - description: International Society for Advancement of Cytometry
+      mime-type: application/vnd.isac.fcs
+      file-extentions:
+        - .fcs
+    - mime-type: application/vnd.marlin.drm.conftoken+xml
+    - mime-type: text/rtf
+    - description: Microsoft Class Server
+      mime-type: application/vnd.ms-ims
+      file-extentions:
+        - .ims
+    - description: TrueType Font
+      mime-type: font/ttf
+      references:
+        - name: RFC8081
+      file-extentions:
+        - .ttf
+    - description: DTS Audio
+      mime-type: audio/vnd.dts
+      file-extentions:
+        - .dts
+    - mime-type: application/vnd.nebumind.line
+    - mime-type: audio/vnd.vmx.cvsd
+    - mime-type: application/vnd.afpc.modca-mediummap
+    - description: Mobius Management Systems - Query File
+      file-extentions:
+        - .mqy
+    - description: Search/Retrieve via URL Response Format
+      mime-type: application/sru+xml
+      references:
+        - name: RFC6207
+      file-extentions:
+        - .sru
+    - mime-type: application/tamp-update-confirm
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.3gpp.seal-unicast-info+xml
+    - mime-type: text/rtx
+      references:
+        - name: RFC4588
+    - mime-type: audio/vorbis-config
+      references:
+        - name: RFC5215
+    - mime-type: application/vnd.document+json
+    - description: Visionary
+      mime-type: application/vnd.visionary
+      file-extentions:
+        - .vis
+    - description: Open Web Media Project - Video
+      file-extentions:
+        - .webm
+    - mime-type: application/vnd.oipf.spdlist+xml
+    - description: TIBCO Spotfire
+      mime-type: application/vnd.spotfire.sfs
+      file-extentions:
+        - .sfs
+    - mime-type: video/encaprtp
+      references:
+        - name: RFC6849
+    - mime-type: video/vnd.nokia.videovoip
+    - mime-type: text/vnd.hgl
+    - description: Bzip2 Archive
+      file-extentions:
+        - .bz2
+    - description: Gnumeric
+      file-extentions:
+        - .gnumeric
+    - mime-type: application/vnd.ms-windows.wsd.oob
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml
+    - mime-type: application/vnd.radisys.msml-conf+xml
+      references:
+        - name: RFC5707
+    - mime-type: application/vnd.uplanet.cacheop
+    - mime-type: image/vnd.mix
+    - description: Pcsel eFIF File
+      mime-type: application/vnd.picsel
+      file-extentions:
+        - .efif
+    - mime-type: application/vnd.pt.mundusmundi
+    - description: YANG Data Modeling Language
+      mime-type: application/yang
+      references:
+        - name: RFC6020
+      file-extentions:
+        - .yang
+    - description: Systems Biology Markup Language
+      mime-type: application/sbml+xml
+      references:
+        - name: RFC3823
+      file-extentions:
+        - .sbml
+    - description: Server-Based Certificate Validation Protocol - Validation Response
+      mime-type: application/scvp-cv-response
+      references:
+        - name: RFC5055
+      file-extentions:
+        - .scs
+    - mime-type: application/vnd.aether.imp
+    - mime-type: application/vnd.gentoo.ebuild
+    - mime-type: application/vnd.Mobius.MBK
+    - mime-type: image/vnd.sealedmedia.softseal.jpg
+    - description: Digital Winds Music
+      mime-type: audio/vnd.digital-winds
+      file-extentions:
+        - .eol
+    - mime-type: audio/VMR-WB
+      references:
+        - name: RFC4348
+        - name: RFC4424
+    - description: OpenOffice - Calc (Spreadsheet)
+      file-extentions:
+        - .sxc
+    - mime-type: application/A2L
+    - description: Sixth Floor Media - CommonSpace
+      mime-type: application/vnd.commonspace
+      file-extentions:
+        - .csp
+    - mime-type: application/vnd.msgpack
+    - description: SourceView Document
+      mime-type: application/vnd.svd
+      file-extentions:
+        - .svd
+    - mime-type: application/vnd.syncml.dmtnds+xml
+    - mime-type: application/vnd.collabio.xodocuments.spreadsheet
+    - description: Life Balance - Exchange Format
+      mime-type: application/vnd.llamagraphics.life-balance.exchange+xml
+      file-extentions:
+        - .lbe
+    - description: Mophun VM
+      mime-type: application/vnd.mophun.application
+      file-extentions:
+        - .mpn
+    - mime-type: multipart/report
+      references:
+        - name: RFC6522
+    - mime-type: multipart/vnd.bint.med-plus
+    - mime-type: application/vnd.oma-scws-http-response
+    - mime-type: application/vnd.shp
+    - mime-type: audio/dsr-es202050
+      references:
+        - name: RFC4060
+    - description: Internet Protocol Flow Information Export
+      mime-type: application/ipfix
+      references:
+        - name: RFC5655
+      file-extentions:
+        - .ipfix
+    - mime-type: application/lost+xml
+      references:
+        - name: RFC5222
+    - mime-type: application/media-policy-dataset+xml
+      references:
+        - name: RFC6796
+    - mime-type: application/moss-keys
+      references:
+        - name: RFC1848
+    - mime-type: application/vnd.3gpp.mcvideo-affiliation-info+xml
+    - mime-type: application/jose+json
+      references:
+        - name: RFC7515
+    - mime-type: application/mosskey-request
+      references:
+        - name: RFC1848
+    - mime-type: text/mizar
+    - mime-type: audio/vnd.cns.inf1
+    - description: SPARQL - Results
+      mime-type: application/sparql-results+xml
+      file-extentions:
+        - .srx
+    - mime-type: application/vnd.cups-raw
+    - mime-type: application/vnd.openblox.game+xml
+    - mime-type: application/vnd.xmpie.ppkg
+    - mime-type: video/MP2P
+      references:
+        - name: RFC3555
+    - description: H.263
+      file-extentions:
+        - .h263
+    - mime-type: model/vnd.cld
+    - mime-type: application/calendar+xml
+      references:
+        - name: RFC6321
+    - mime-type: application/conference-info+xml
+      references:
+        - name: RFC4575
+    - mime-type: application/route-s-tsid+xml
+    - mime-type: application/vnd.ecowin.seriesrequest
+    - mime-type: application/vnd.shade-save-file
+    - mime-type: video/vnd.directv.mpeg-tts
+    - description: Go template file
+      file-extentions:
+        - .gotmpl
+        - .tmpl
+        - .gtpl
+    - mime-type: application/parityfec
+      references:
+        - name: RFC3009
+    - mime-type: application/vnd.3gpp.seal-user-profile-info+xml
+    - mime-type: application/vnd.cncf.helm.chart.content.v1.tar+gzip
+    - mime-type: application/vnd.shx
+    - mime-type: application/vnd.sqlite3
+    - mime-type: application/vnd.apache.thrift.compact
+    - mime-type: application/vnd.collabio.xodocuments.presentation
+    - description: GeospacW
+      mime-type: application/vnd.geospace
+      file-extentions:
+        - .g3w
+    - description: Express by Infoseek
+      mime-type: application/vnd.is-xpr
+      file-extentions:
+        - .xpr
+    - mime-type: application/vnd.uplanet.channel-wbxml
+    - description: Adobe Flash
+      file-extentions:
+        - .swf
+    - mime-type: application/vnd.dvb.dvbisl+xml
+    - description: TRI Systems Config
+      mime-type: application/vnd.trid.tpt
+      file-extentions:
+        - .tpt
+    - description: In3D - 3DML
+      mime-type: text/vnd.in3d.spot
+      file-extentions:
+        - .spot
+    - mime-type: audio/ATRAC-ADVANCED-LOSSLESS
+      references:
+        - name: RFC5584
+    - mime-type: application/vnd.ecip.rlp
+    - description: Micrografx
+      mime-type: application/vnd.micrografx.flo
+      file-extentions:
+        - .flo
+    - mime-type: application/vnd.oipf.contentaccessdownload+xml
+    - mime-type: application/alto-directory+json
+      references:
+        - name: RFC7285
+    - mime-type: application/cnrp+xml
+      references:
+        - name: RFC3367
+    - mime-type: application/manifest+json
+    - mime-type: application/vnd.byu.uapi+json
+    - mime-type: application/vnd.crypto-shade-file
+    - description: Microsoft Office - OOXML - Presentation (Slideshow)
+      mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+      file-extentions:
+        - .ppsx
+    - mime-type: video/vnd.iptvforum.2dparityfec-2005
+    - mime-type: application/vnd.afpc.afplinedata
+    - description: In3D - 3DML
+      mime-type: text/vnd.in3d.3dml
+      file-extentions:
+        - .3dml
+    - mime-type: image/jxs
+    - description: OSFPVG
+      mime-type: application/vnd.yamaha.openscoreformat.osfpvg+xml
+      file-extentions:
+        - .osfpvg
+    - mime-type: video/JPEG
+      references:
+        - name: RFC3555
+    - description: Korn shell script
+      file-extentions:
+        - .ksh
+    - mime-type: application/alto-cdni+json
+      references:
+        - name: RFC9241
+    - mime-type: application/index
+      references:
+        - name: RFC2652
+    - mime-type: application/oauth-authz-req+jwt
+      references:
+        - name: RFC9101
+    - mime-type: application/vnd.acm.chatbot+json
+    - mime-type: application/vnd.evolv.ecig.profile
+    - description: Pascal source file
+      file-extentions:
+        - .pas
+        - .inc
+    - description: JSON-LD format
+      mime-type: application/ld+json
+      file-extentions:
+        - .jsonld
+    - mime-type: application/vnd.ibm.afplinedata
+    - description: F# source file
+      file-extentions:
+        - .fs
+        - .fsi
+        - .fsx
+        - .fsscript
+    - mime-type: application/wita
+    - mime-type: text/1d-interleaved-parityfec
+      references:
+        - name: RFC6015
+    - description: Sun Audio - Au file format
+      mime-type: audio/basic
+      references:
+        - name: RFC2045
+        - name: RFC2046
+      file-extentions:
+        - .au
+    - mime-type: application/hl7v2+xml
+    - description: Metadata Authority Description Schema
+      mime-type: application/mads+xml
+      references:
+        - name: RFC6207
+      file-extentions:
+        - .mads
+    - mime-type: application/sieve
+      references:
+        - name: RFC5228
+    - description: RhymBox
+      mime-type: application/vnd.jisp
+      file-extentions:
+        - .jisp
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml
+    - mime-type: audio/MELP
+      references:
+        - name: RFC8130
+    - description: ChemDraw eXchange file
+      file-extentions:
+        - .cdx
+    - mime-type: application/cwl
+    - mime-type: application/vnd.bbf.usp.msg+json
+    - mime-type: application/vnd.ims.lti.v2.toolsettings+json
+    - mime-type: application/vnd.ms-excel.sheet.macroEnabled.12
+    - mime-type: application/whoispp-response
+      references:
+        - name: RFC2958
+    - mime-type: application/held+xml
+      references:
+        - name: RFC5985
+    - mime-type: application/vnd.3gpp.access-transfer-events+xml
+    - mime-type: application/vnd.cryptii.pipe+json
+    - mime-type: application/vnd.onepagertatp
+    - mime-type: application/mathml-content+xml
+    - description: PostScript Fonts
+      file-extentions:
+        - .pfa
+    - description: JPEG Image
+      file-extentions:
+        - .jpeg
+        - .jpg
+    - mime-type: application/route-apd+xml
+    - mime-type: application/vnd.amadeus+json
+    - mime-type: application/vnd.wmf.bootstrap
+    - mime-type: audio/G729E
+      references:
+        - name: RFC4856
+    - mime-type: application/vnd.powerbuilder6-s
+    - mime-type: video/vnd.radgamettools.bink
+    - mime-type: application/alto-propmap+json
+      references:
+        - name: RFC9240
+    - mime-type: application/senml-etch+cbor
+      references:
+        - name: RFC8790
+    - description: MiniPay
+      file-extentions:
+        - .mpy
+    - description: Mobius Management Systems - Topic Index File
+      file-extentions:
+        - .txf
+    - description: Atom Publishing Protocol Service Document
+      mime-type: application/atomsvc+xml
+      references:
+        - name: RFC5023
+      file-extentions:
+        - .atomsvc
+    - description: GZip Compressed Archive
+      mime-type: application/gzip
+      references:
+        - name: RFC6713
+      file-extentions:
+        - .gz
+    - mime-type: application/vnd.etsi.iptvsad-cod+xml
+    - mime-type: message/global-delivery-status
+      references:
+        - name: RFC6533
+    - mime-type: audio/MELP2400
+      references:
+        - name: RFC8130
+    - mime-type: application/vnd.coreos.ignition+json
+    - mime-type: text/csv-schema
+    - description: Virtue MTS
+      mime-type: model/vnd.mts
+      file-extentions:
+        - .mts
+    - mime-type: image/jxsc
+    - description: Python generated file
+      file-extentions:
+        - .pyi
+        - .pyc
+        - .pyd
+        - .pyw
+        - .pyz
+        - .pyo
+    - description: Secure Electronic Transaction - Payment
+      mime-type: application/set-payment-initiation
+      file-extentions:
+        - .setpay
+    - description: Speech Recognition Grammar Specification - XML
+      mime-type: application/srgs+xml
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .grxml
+    - mime-type: application/vnd.fujifilm.fb.jfi+xml
+    - mime-type: application/xacml+xml
+      references:
+        - name: RFC7061
+    - mime-type: image/dpx
+    - mime-type: application/atsc-held+xml
+    - mime-type: application/vnd.radisys.moml+xml
+      references:
+        - name: RFC5707
+    - mime-type: multipart/example
+      references:
+        - name: RFC4735
+    - mime-type: model/e57
+    - description: Dolby Meridian Lossless Packing
+      file-extentions:
+        - .mlp
+    - mime-type: application/vnd.3gpp.mcvideo-service-config+xml
+    - mime-type: image/vnd.microsoft.icon
+    - mime-type: audio/1d-interleaved-parityfec
+      references:
+        - name: RFC6015
+    - mime-type: audio/vnd.dolby.mps
+    - mime-type: application/CDFX+XML
+    - mime-type: application/vnd.oma.bcast.notification+xml
+    - mime-type: application/vnd.d3m-problem
+    - mime-type: application/vnd.onepagertatx
+    - mime-type: application/vnd.seis+json
+    - mime-type: video/1d-interleaved-parityfec
+      references:
+        - name: RFC6015
+    - mime-type: application/beep+xml
+      references:
+        - name: RFC3080
+    - mime-type: application/linkset
+      references:
+        - name: RFC9264
+    - mime-type: application/rpki-signed-tal
+      references:
+        - name: RFC-ietf-sidrops-signed-tal-16
+    - mime-type: application/vnd.ldev.productlicensing
+    - mime-type: text/vnd.esmertec.theme-descriptor
+    - description: Nokia Radio Application - Preset
+      mime-type: application/vnd.nokia.radio-preset
+      file-extentions:
+        - .rpst
+    - description: Hit'n'Mix
+      mime-type: audio/vnd.rip
+      file-extentions:
+        - .rip
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml
+    - mime-type: text/vnd.debian.copyright
+    - description: Apache Avro Javascript Object Notation (JSON) Schema file
+      file-extentions:
+        - .avsc
+    - mime-type: application/vnd.1ob
+    - mime-type: application/vnd.afpc.cmoca-cmresource
+    - mime-type: application/vnd.marlin.drm.license+xml
+    - mime-type: application/vnd.ms-powerpoint.addin.macroEnabled.12
+    - description: HV Voice Parameter
+      mime-type: application/vnd.yamaha.hv-voice
+      file-extentions:
+        - .hvp
+    - mime-type: application/emotionml+xml
+    - mime-type: application/vnd.oma.scidm.messages+xml
+    - mime-type: application/aif+cbor
+      references:
+        - name: RFC9237
+    - mime-type: application/cose-key-set
+      references:
+        - name: RFC9052
+    - description: Secured eMail
+      mime-type: application/vnd.semd
+      file-extentions:
+        - .semd
+    - mime-type: video/rtploopback
+      references:
+        - name: RFC6849
+    - description: PowerShell script file
+      file-extentions:
+        - .ps1
+        - .ps1xml
+        - .psc1
+        - .psm1
+        - .pssc
+        - .psrc
+        - .cdxml
+    - mime-type: application/dots+cbor
+      references:
+        - name: RFC9132
+    - mime-type: application/vnd.3gpp.crs+xml
+    - mime-type: application/vnd.micro+json
+    - description: Microsoft XAML Browser Application
+      file-extentions:
+        - .xbap
+    - description: Graphics Interchange Format
+      file-extentions:
+        - .gif
+    - mime-type: audio/L20
+      references:
+        - name: RFC3190
+    - mime-type: application/EmergencyCallData.cap+xml
+      references:
+        - name: RFC8876
+    - mime-type: application/vnd.afpc.modca-objectcontainer
+    - description: KDE KOffice Office Suite - Kword
+      mime-type: application/vnd.kde.kword
+      file-extentions:
+        - .kwd
+    - mime-type: application/vnd.oipf.spdiscovery+xml
+    - mime-type: audio/UEMCLIP
+      references:
+        - name: RFC5686
+    - mime-type: application/gml+xml
+    - mime-type: application/vnd.geocube+xml
+    - mime-type: application/vnd.oxli.countgraph
+    - mime-type: application/vnd.uplanet.list
+    - mime-type: application/vnd.vel+json
+    - mime-type: audio/EVRCWB
+      references:
+        - name: RFC5188
+    - description: Puppet manifest file
+      file-extentions:
+        - .pp
+    - mime-type: application/coap-group+json
+      references:
+        - name: RFC7390
+    - description: PosML
+      mime-type: application/vnd.ctc-posml
+      file-extentions:
+        - .pml
+    - mime-type: application/vnd.oai.workflows+yaml
+    - mime-type: application/vnd.oipf.cspg-hexbinary
+    - mime-type: text/flexfec
+      references:
+        - name: RFC8627
+    - mime-type: application/vnd.3gpp.mid-call+xml
+    - mime-type: application/vnd.ocf+cbor
+    - mime-type: audio/AMR-WB
+      references:
+        - name: RFC4867
+    - mime-type: application/vnd.exstream-empower+zip
+    - mime-type: application/vnd.radisys.msml-audit-stream+xml
+      references:
+        - name: RFC5707
+    - mime-type: audio/G729D
+      references:
+        - name: RFC4856
+    - mime-type: image/ktx2
+    - description: Adobe AIR Application
+      file-extentions:
+        - .air
+    - mime-type: application/cwl+yaml
+    - mime-type: application/mpeg4-iod
+      references:
+        - name: RFC4337
+    - mime-type: application/prs.implied-executable
+    - mime-type: application/scaip+xml
+    - mime-type: application/vnd.oma.group-usage-list+xml
+    - description: Micro CADAM Helix D&D
+      mime-type: application/vnd.mcd
+      file-extentions:
+        - .mcd
+    - mime-type: application/vnd.pcos
+    - description: SMAF File
+      mime-type: application/vnd.smaf
+      file-extentions:
+        - .mmf
+    - mime-type: image/jp2
+      references:
+        - name: RFC3745
+    - mime-type: audio/rtx
+      references:
+        - name: RFC4588
+    - description: Curl - Manifest File
+      file-extentions:
+        - .mcurl
+    - mime-type: application/macwriteii
+    - description: Groove - Tool Template
+      mime-type: application/vnd.groove-tool-template
+      file-extentions:
+        - .tpl
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml
+    - mime-type: application/vnd.wfa.p2p
+    - description: FAST Search & Transfer ASA
+      mime-type: image/vnd.fst
+      file-extentions:
+        - .fst
+    - mime-type: video/vnd.sealed.mpeg1
+    - mime-type: text/cache-manifest
+    - mime-type: image/j2c
+    - mime-type: audio/EVRC0
+      references:
+        - name: RFC4788
+    - mime-type: application/vnd.oma.bcast.associated-procedure-parameter+xml
+    - description: Microsoft Excel - Binary Workbook
+      file-extentions:
+        - .xlsb
+    - description: StarOffice - Math
+      file-extentions:
+        - .smf
+    - mime-type: application/vnd.3gpp.mcdata-ue-config+xml
+    - mime-type: application/vnd.geogebra.slides
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml
+    - mime-type: application/vnd.wasmflow.wafl
+    - mime-type: video/H264-RCDO
+      references:
+        - name: RFC6185
+    - mime-type: application/vnd.dvb.iptv.alfec-base
+    - mime-type: text/vnd.si.uricatalogue
+    - description: Metadata Encoding and Transmission Standard
+      mime-type: application/mets+xml
+      references:
+        - name: RFC6207
+      file-extentions:
+        - .mets
+    - mime-type: application/vnd.bluetooth.le.oob
+    - description: Frogans Player
+      mime-type: application/vnd.frogans.fnc
+      file-extentions:
+        - .fnc
+    - mime-type: audio/TETRA_ACELP
+    - mime-type: application/prs.xsf+xml
+    - mime-type: application/rdap+json
+      references:
+        - name: RFC9083
+    - mime-type: application/vnd.intertrust.nncp
+    - mime-type: audio/L8
+      references:
+        - name: RFC4856
+    - mime-type: application/yang-data+json
+      references:
+        - name: RFC8040
+    - mime-type: multipart/encrypted
+      references:
+        - name: RFC1847
+    - description: BTIF
+      mime-type: image/prs.btif
+      file-extentions:
+        - .btif
+    - mime-type: application/3gpp-ims+xml
+    - mime-type: application/vnd.dvb.iptv.alfec-enhancement
+    - description: EcoWin Chart
+      mime-type: application/vnd.ecowin.chart
+      file-extentions:
+        - .mag
+    - mime-type: application/x-pki-message
+      references:
+        - name: RFC8894
+    - description: XML Encryption Syntax and Processing
+      mime-type: application/xenc+xml
+      file-extentions:
+        - .xenc
+    - mime-type: audio/RED
+      references:
+        - name: RFC3555
+    - mime-type: application/soap+fastinfoset
+    - description: FCS Express Layout Link
+      mime-type: application/vnd.denovo.fcselayout-link
+      file-extentions:
+        - .fe_launch
+    - mime-type: application/vnd.futoin+json
+    - description: XML - Extensible Markup Language
+      mime-type: application/xml
+      references:
+        - name: RFC7303
+      file-extentions:
+        - .xml
+    - description: Stuffit Archive
+      file-extentions:
+        - .sitx
+    - mime-type: application/vnd.cyclonedx+xml
+    - mime-type: application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml
+    - description: CorelXARA
+      mime-type: application/vnd.xara
+      file-extentions:
+        - .xar
+    - description: Document Type Definition
+      mime-type: application/xml-dtd
+      references:
+        - name: RFC7303
+      file-extentions:
+        - .dtd
+    - mime-type: text/vnd.familysearch.gedcom
+    - description: Microsoft Trust UI Provider - Security Catalog
+      file-extentions:
+        - .cat
+    - mime-type: application/vnd.cups-pdf
+    - mime-type: application/vnd.ruckus.download
+    - mime-type: application/vnd.sealed.tiff
+    - mime-type: image/jxsi
+    - mime-type: application/p21
+    - mime-type: application/samlmetadata+xml
+    - mime-type: application/vnd.collection.doc+json
+    - mime-type: application/vnd.sss-dtf
+    - description: Close Captioning - Subtitle
+      mime-type: image/vnd.dvb.subtitle
+      file-extentions:
+        - .sub
+    - mime-type: application/news-groupinfo
+      references:
+        - name: RFC5537
+    - mime-type: application/vnd.3gpp.mcdata-regroup+xml
+    - description: Microsoft Windows Media Video
+      file-extentions:
+        - .wmv
+    - mime-type: application/sarif+json
+    - mime-type: application/vnd.afpc.afplinedata-pagedef
+    - mime-type: audio/MELP600
+      references:
+        - name: RFC8130
+    - mime-type: audio/SMV0
+      references:
+        - name: RFC3558
+    - description: RSS - Really Simple Syndication
+      file-extentions:
+        - .rss
+    - description: Elixir source file
+      file-extentions:
+        - .ex
+        - .exs
+    - mime-type: application/dvcs
+      references:
+        - name: RFC3029
+    - mime-type: application/sarif-external-properties+json
+    - mime-type: application/vnd.century-systems.tcp_stream
+    - description: Adobe PostScript Printer Description File Format
+      mime-type: application/vnd.cups-ppd
+      file-extentions:
+        - .ppd
+    - mime-type: application/vnd.nokia.pcd+xml
+    - mime-type: video/3gpp-tt
+      references:
+        - name: RFC4396
+    - mime-type: text/shaclc
+    - mime-type: audio/vnd.cns.anp1
+    - description: Digital Video Broadcasting
+      mime-type: application/vnd.dvb.ait
+      file-extentions:
+        - .ait
+    - mime-type: application/vnd.font-fontforge-sfd
+    - mime-type: application/vnd.heroku+json
+    - mime-type: application/vnd.nokia.landmarkcollection+xml
+    - description: SyncML
+      mime-type: application/vnd.syncml+xml
+      file-extentions:
+        - .xsm
+    - description: DTS High Definition Audio
+      mime-type: audio/vnd.dts.hd
+      file-extentions:
+        - .dtshd
+    - description: MIDI - Musical Instrument Digital Interface
+      file-extentions:
+        - .mid
+        - .midi
+    - description: Adobe (Macropedia) Authorware - Segment File
+      file-extentions:
+        - .aas
+    - mime-type: application/alto-costmap+json
+      references:
+        - name: RFC7285
+    - mime-type: application/vnd.hyper-item+json
+    - mime-type: application/vnd.Mobius.PLC
+    - mime-type: text/rtploopback
+      references:
+        - name: RFC6849
+    - description: DRA Audio
+      mime-type: audio/vnd.dra
+      file-extentions:
+        - .dra
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml
+    - description: Microsoft Schedule+
+      file-extentions:
+        - .scd
+    - description: Elm source file
+      file-extentions:
+        - .elm
+    - mime-type: application/atsc-dwd+xml
+    - mime-type: application/auth-policy+xml
+      references:
+        - name: RFC4745
+    - description: Macintosh BinHex 4.0
+      mime-type: application/mac-binhex40
+      file-extentions:
+        - .hqx
+    - description: BMI Drawing Data Interchange
+      mime-type: application/vnd.bmi
+      file-extentions:
+        - .bmi
+    - mime-type: application/vnd.dece.zip
+    - mime-type: application/vnd.japannet-verification-wakeup
+    - description: MediaRemote
+      mime-type: application/vnd.mediastation.cdkey
+      file-extentions:
+        - .cdkey
+    - mime-type: application/vnd.oma.cab-pcc+xml
+    - mime-type: application/ATF
+    - mime-type: application/cbor-seq
+      references:
+        - name: RFC8742
+    - description: Cloud Data Management Interface (CDMI) - Domain
+      mime-type: application/cdmi-domain
+      references:
+        - name: RFC6208
+      file-extentions:
+        - .cdmid
+    - description: ACU Cobol
+      mime-type: application/vnd.acucobol
+      file-extentions:
+        - .acu
+    - description: Fujitsu - Xerox 2D CAD Data
+      mime-type: application/vnd.fujixerox.ddd
+      file-extentions:
+        - .ddd
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml
+    - mime-type: text/vnd.IPTC.NewsML
+    - mime-type: image/prs.pti
+    - mime-type: application/sep-exi
+    - mime-type: application/vnd.genozip
+    - mime-type: text/SGML
+      references:
+        - name: RFC1874
+    - mime-type: font/sfnt
+      references:
+        - name: RFC8081
+    - mime-type: audio/vnd.4SB
+    - description: Hierarchical Data Format
+      file-extentions:
+        - .hdf
+    - mime-type: application/ocsp-request
+      references:
+        - name: RFC6960
+    - mime-type: application/reputon+json
+      references:
+        - name: RFC7071
+    - mime-type: application/vnd.firemonkeys.cloudcell
+    - mime-type: application/vq-rtcpxr
+      references:
+        - name: RFC6035
+    - mime-type: text/vnd.DMClientScript
+    - mime-type: application/vnd.chess-pgn
+    - description: Curl - Applet
+      mime-type: text/vnd.curl
+      file-extentions:
+        - .curl
+    - description: Clojure source file
+      file-extentions:
+        - .clj
+        - .cljs
+        - .cljc
+        - .edn
+    - mime-type: application/xmpp+xml
+      references:
+        - name: RFC3923
+    - description: IBM DB2 Rights Manager
+      mime-type: application/vnd.ibm.rights-management
+      file-extentions:
+        - .irm
+    - mime-type: application/vnd.ntt-local.ogw_remote-access
+    - mime-type: audio/TETRA_ACELP_BB
+    - mime-type: audio/vnd.dvb.file
+    - description: GNU Tar Files
+      file-extentions:
+        - .gtar
+    - mime-type: application/vnd.apple.pages
+    - description: ClueTrust CartoMobile - Config Package
+      mime-type: application/vnd.cluetrust.cartomobile-config-pkg
+      file-extentions:
+        - .c11amz
+    - mime-type: application/vnd.etsi.simservs+xml
+    - mime-type: application/vnd.nato.openxmlformats-package.iepd+zip
+    - mime-type: message/global-disposition-notification
+      references:
+        - name: RFC6533
+    - description: Go source file
+      file-extentions:
+        - .go
+        - .mod
+        - .sum
+    - mime-type: application/vnd.apothekende.reservation+json
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml
+    - mime-type: application/vnd.wrq-hp3000-labelled
+    - mime-type: application/xcap-caps+xml
+      references:
+        - name: RFC4825
+    - description: AutoCAD DXF
+      mime-type: image/vnd.dxf
+      file-extentions:
+        - .dxf
+    - description: CrickSoftware - Clicker - Wordbank
+      mime-type: application/vnd.crick.clicker.wordbank
+      file-extentions:
+        - .clkw
+    - description: FrameMaker Normal Format
+      mime-type: application/vnd.framemaker
+      file-extentions:
+        - .fm
+    - mime-type: application/vnd.sybyl.mol2
+    - mime-type: application/c2pa
+    - mime-type: application/prs.plucker
+    - mime-type: audio/vnd.cisco.nse
+    - mime-type: application/lostsync+xml
+      references:
+        - name: RFC6739
+    - description: KDE KOffice Office Suite - Karbon
+      mime-type: application/vnd.kde.karbon
+      file-extentions:
+        - .karbon
+    - description: CryptoNote
+      mime-type: application/vnd.rig.cryptonote
+      file-extentions:
+        - .cryptonote
+    - mime-type: audio/G726-16
+      references:
+        - name: RFC4856
+    - mime-type: application/msc-mixer+xml
+      references:
+        - name: RFC6505
+    - description: Lightspeed Audio Lab
+      mime-type: application/vnd.jam
+      file-extentions:
+        - .jam
+    - mime-type: audio/LPC
+      references:
+        - name: RFC4856
+    - description: Flash Video
+      file-extentions:
+        - .f4v
+    - mime-type: application/vnd.3gpp.5gsa2x
+    - description: ANSER-WEB Terminal Client - Certificate Issue
+      mime-type: application/vnd.anser-web-certificate-issue-initiation
+      file-extentions:
+        - .cii
+    - mime-type: text/parityfec
+      references:
+        - name: RFC3009
+    - mime-type: audio/DAT12
+      references:
+        - name: RFC3190
+    - description: Dart source file
+      file-extentions:
+        - .dart
+    - mime-type: application/vnd.iso11783-10+zip
+    - mime-type: application/vnd.ms-powerpoint.slide.macroEnabled.12
+    - mime-type: application/vnd.verimatrix.vcas
+    - description: AirZip FileSECURE
+      mime-type: application/vnd.airzip.filesecure.azf
+      file-extentions:
+        - .azf
+    - mime-type: application/vnd.ntt-local.sip-ta_remote
+    - mime-type: application/vnd.smart.notebook
+    - mime-type: image/jxrA
+    - description: OpenOffice - Writer (Text - HTML)
+      file-extentions:
+        - .sxg
+    - description: CrickSoftware - Clicker - Palette
+      mime-type: application/vnd.crick.clicker.palette
+      file-extentions:
+        - .clkp
+    - mime-type: application/vnd.minisoft-hp3000-save
+    - mime-type: application/vnd.ms-playready.initiator+xml
+    - mime-type: video/MP1S
+      references:
+        - name: RFC3555
+    - description: Mobius Management Systems - Basket file
+      file-extentions:
+        - .mbk
+    - mime-type: application/secevent+jwt
+      references:
+        - name: RFC8417
+    - mime-type: application/vnd.avalon+json
+    - mime-type: application/vnd.openstreetmap.data+xml
+    - mime-type: video/H266
+      references:
+        - name: RFC9328
+    - description: R source file
+      file-extentions:
+        - .r
+        - .rdata
+        - .rds
+        - .rda
+    - mime-type: application/oscore
+      references:
+        - name: RFC8613
+    - mime-type: application/vnd.cirpack.isdn-ext
+    - mime-type: application/vnd.Quark.QuarkXPress
+    - description: Portable Font Resource
+      mime-type: application/font-tdpfr
+      references:
+        - name: RFC3073
+      file-extentions:
+        - .pfr
+    - description: Hydrostatix Master Suite
+      mime-type: application/vnd.hydrostatix.sof-data
+      file-extentions:
+        - .sfd-hdstx
+    - mime-type: application/vnd.Kinar
+    - mime-type: application/vnd.oma.poc.detailed-progress-report+xml
+    - mime-type: application/x-x509-next-ca-cert
+      references:
+        - name: RFC8894
+    - mime-type: application/prs.implied-object+yaml
+    - mime-type: application/vnd.3gpp.5gsa2x-local-service-information
+    - mime-type: application/vnd.etsi.tsl+xml
+    - mime-type: application/vnd.3gpp.GMOP+xml
+    - mime-type: application/vnd.bpf
+    - mime-type: application/vnd.ms-asf
+    - mime-type: application/atsc-rdt+json
+    - mime-type: application/calendar+json
+      references:
+        - name: RFC7265
+    - mime-type: application/EmergencyCallData.LegacyESN+json
+    - mime-type: application/EmergencyCallData.ServiceInfo+xml
+      references:
+        - name: RFC7852
+    - mime-type: application/fhir+xml
+    - mime-type: application/vnd.ibm.MiniPay
+    - mime-type: application/vnd.Mobius.MSL
+    - mime-type: application/vnd.oipf.contentaccessstreaming+xml
+    - description: Microsoft Office - OOXML - Presentation Template
+      mime-type: application/vnd.openxmlformats-officedocument.presentationml.template
+      file-extentions:
+        - .potx
+    - mime-type: audio/EVRCB0
+      references:
+        - name: RFC5188
+    - mime-type: application/vnd.onepager
+    - mime-type: video/FFV1
+      references:
+        - name: RFC9043
+    - mime-type: image/fits
+      references:
+        - name: RFC4047
+    - mime-type: application/vnd.oipf.ueprofile+xml
+    - mime-type: application/vnd.software602.filler.form-xml-zip
+    - mime-type: text/vcard
+      references:
+        - name: RFC6350
+    - mime-type: application/gnap-binding-rotation-jws
+      references:
+        - name: RFC-ietf-gnap-core-protocol-20
+    - description: Mathematica Notebooks
+      mime-type: application/mathematica
+      file-extentions:
+        - .ma
+    - mime-type: application/ocsp-response
+      references:
+        - name: RFC6960
+    - mime-type: application/private-token-response
+      references:
+        - name: RFC-ietf-privacypass-protocol-16
+    - mime-type: application/rpki-ghostbusters
+      references:
+        - name: RFC6493
+    - description: Atom Syndication Format
+      mime-type: application/atom+xml
+      references:
+        - name: RFC4287
+        - name: RFC5023
+      file-extentions:
+        - .atom
+    - mime-type: application/fhir+json
+    - mime-type: application/vnd.nokia.pcd+wbxml
+    - description: OpenDocument Formula Template
+      mime-type: application/vnd.oasis.opendocument.formula-template
+      file-extentions:
+        - .odft
+    - mime-type: application/vnd.dvb.dvbj
+    - mime-type: application/vnd.radisys.msml-audit-conn+xml
+      references:
+        - name: RFC5707
+    - mime-type: application/prs.nprend
+    - mime-type: application/vnd.gentoo.catmetadata+xml
+    - description: OpenDocument Database
+      mime-type: application/vnd.oasis.opendocument.database
+      file-extentions:
+        - .odb
+    - description: Groove - Help
+      mime-type: application/vnd.groove-help
+      file-extentions:
+        - .ghf
+    - mime-type: application/vnd.oma.bcast.provisioningtrigger
+    - description: Microsoft Clipboard Clip
+      file-extentions:
+        - .clp
+    - mime-type: application/vnd.3gpp-prose+xml
+    - description: Digital Siesmograph Networks - SEED Datafiles
+      mime-type: application/vnd.fdsn.seed
+      file-extentions:
+        - .seed
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml
+    - mime-type: application/vnd.3gpp.v2x
+    - mime-type: application/vnd.dvb.notif-ia-registration-request+xml
+    - description: Extensible Forms Description Language
+      mime-type: application/vnd.xfdl
+      file-extentions:
+        - .xfdl
+    - description: Hewlett-Packard's WebPrintSmart
+      mime-type: application/vnd.hp-hps
+      file-extentions:
+        - .hps
+    - description: MPEG4
+      mime-type: video/mp4
+      references:
+        - name: RFC4337
+        - name: RFC6381
+      file-extentions:
+        - .mp4
+    - mime-type: message/global
+      references:
+        - name: RFC6532
+    - mime-type: application/dns-message
+      references:
+        - name: RFC8484
+    - mime-type: application/kpml-request+xml
+      references:
+        - name: RFC4730
+    - mime-type: application/set-registration
+    - mime-type: application/vnd.3gpp-prose-pc3ch+xml
+    - mime-type: application/vnd.fujifilm.fb.docuworks
+    - mime-type: audio/ac3
+      references:
+        - name: RFC4184
+    - mime-type: audio/t38
+      references:
+        - name: RFC4612
+    - description: Device Independent File Format (DVI)
+      file-extentions:
+        - .dvi
+    - mime-type: video/DV
+      references:
+        - name: RFC6469
+    - mime-type: application/alto-updatestreamparams+json
+      references:
+        - name: RFC8895
+    - description: Microsoft Word
+      mime-type: application/msword
+      file-extentions:
+        - .doc
+    - description: Multimedia Playlist Unicode
+      mime-type: application/vnd.apple.mpegurl
+      references:
+        - name: RFC8216
+      file-extentions:
+        - .m3u8
+    - mime-type: application/vnd.imagemeter.image+zip
+    - description: SyncML - Device Management
+      mime-type: application/vnd.syncml.dm+wbxml
+      file-extentions:
+        - .bdm
+    - description: Motion JPEG 2000
+      mime-type: video/mj2
+      references:
+        - name: RFC3745
+      file-extentions:
+        - .mj2
+    - description: Stuffit Archive
+      file-extentions:
+        - .sit
+    - mime-type: application/mbms-deregister+xml
+    - mime-type: application/vnd.easykaraoke.cdgdownload
+    - description: Open Financial Exchange
+      mime-type: application/vnd.intu.qbo
+      file-extentions:
+        - .qbo
+    - mime-type: application/vnd.nintendo.nitro.rom
+    - mime-type: application/xcap-error+xml
+      references:
+        - name: RFC4825
+    - mime-type: application/cid-edhoc+cbor-seq
+      references:
+        - name: RFC9528
+    - mime-type: application/vnd.3gpp.mcptt-location-info+xml
+    - mime-type: application/vnd.age
+    - mime-type: application/vnd.dvb.notif-aggregate-root+xml
+    - mime-type: text/ulpfec
+      references:
+        - name: RFC5109
+    - mime-type: application/tamp-sequence-adjust
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+    - mime-type: application/x-x509-ca-ra-cert
+      references:
+        - name: RFC8894
+    - mime-type: audio/vnd.nortel.vbk
+    - mime-type: application/tamp-community-update-confirm
+      references:
+        - name: RFC5934
+    - description: GameMaker ActiveX
+      mime-type: application/vnd.gmx
+      file-extentions:
+        - .gmx
+    - mime-type: model/3mf
+    - description: PCL 6 Enhanced (Formely PCL XL)
+      file-extentions:
+        - .pclxl
+    - mime-type: application/dashdelta
+    - mime-type: application/vnd.dvb.ipdcroaming
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.slide+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml
+    - description: Autodesk Design Web Format (DWF)
+      mime-type: model/vnd.dwf
+      file-extentions:
+        - .dwf
+    - description: Gen-Trix Studio
+      mime-type: model/vnd.gtw
+      file-extentions:
+        - .gtw
+    - description: Microsoft Application
+      file-extentions:
+        - .exe
+    - description: Guile source file
+    - mime-type: application/vnd.novadigm.EDX
+    - mime-type: image/jphc
+    - mime-type: application/dash-patch+xml
+    - mime-type: application/vnd.ah-barcode
+    - mime-type: application/vnd.dvb.notif-init+xml
+    - mime-type: application/vnd.etsi.asic-s+zip
+    - description: SyncML - Device Management
+      mime-type: application/vnd.syncml.dm+xml
+      file-extentions:
+        - .xdm
+    - mime-type: application/ODA
+      references:
+        - name: RFC1494
+    - mime-type: application/vnd.omads-email+xml
+    - mime-type: application/vnd.sealed.ppt
+    - mime-type: audio/vnd.audiokoz
+    - description: Common Lisp source file
+      file-extentions:
+        - .lisp
+        - .lsp
+        - .l
+        - .cl
+        - .fasl
+    - mime-type: application/logout+jwt
+    - mime-type: application/vnd.collabio.xodocuments.spreadsheet-template
+    - description: FAST Search & Transfer ASA
+      mime-type: video/vnd.fvt
+      file-extentions:
+        - .fvt
+    - description: Microsoft Wordpad
+      file-extentions:
+        - .wri
+    - description: M4v
+      file-extentions:
+        - .m4v
+    - mime-type: audio/tone
+      references:
+        - name: RFC4733
+    - mime-type: application/iges
+    - description: Clonk Game
+      mime-type: application/vnd.clonk.c4group
+      file-extentions:
+        - .c4g
+    - description: Microsoft Artgalry
+      mime-type: application/vnd.ms-artgalry
+      file-extentions:
+        - .cil
+    - mime-type: application/vnd.nokia.n-gage.ac+xml
+    - mime-type: model/x3d+xml
+    - mime-type: application/vnd.cups-raster
+    - mime-type: application/vnd.openeye.oeb
+    - mime-type: image/vnd.globalgraphics.pgb
+    - mime-type: application/vnd.hyper+json
+    - mime-type: application/vnd.oipf.mippvcontrolmessage+xml
+    - mime-type: application/xliff+xml
+    - mime-type: application/express
+    - mime-type: application/provenance+xml
+    - mime-type: application/stratum
+    - mime-type: application/vnd.3gpp.mcptt-floor-request+xml
+    - mime-type: application/vnd.3gpp.seal-mbms-usage-info+xml
+    - mime-type: text/gff3
+    - mime-type: application/mmt-usd+xml
+    - description: Simply Accounting
+      mime-type: application/vnd.accpac.simply.aso
+      file-extentions:
+        - .aso
+    - mime-type: application/vnd.yaoweme
+    - description: Symbian Install Package
+      file-extentions:
+        - .sis
+    - mime-type: application/atomdeleted+xml
+      references:
+        - name: RFC6721
+    - mime-type: application/vcard+json
+      references:
+        - name: RFC7095
+    - mime-type: application/vnd.sss-ntf
+    - mime-type: video/matroska-3d
+      references:
+        - name: RFC-ietf-cellar-matroska-21
+    - mime-type: video/H263-1998
+      references:
+        - name: RFC4629
+    - description: Fujitsu Oasys
+      mime-type: application/vnd.fujitsu.oasysgp
+      file-extentions:
+        - .fg5
+    - description: DECE Graphic
+      mime-type: image/vnd.dece.graphic
+      file-extentions:
+        - .uvi
+    - mime-type: audio/GSM
+      references:
+        - name: RFC4856
+    - mime-type: application/pgp-signature
+      references:
+        - name: RFC3156
+    - description: AmigaDE
+      mime-type: application/vnd.amiga.ami
+      file-extentions:
+        - .ami
+    - mime-type: message/http
+      references:
+        - name: RFC9112
+    - description: 3M Post It Notes
+      file-extentions:
+        - .pwn
+    - description: CMU Image
+      file-extentions:
+        - .ras
+    - mime-type: application/vnd.vidsoft.vidconference
+    - mime-type: text/hl7v2
+    - description: Shell Archive
+      file-extentions:
+        - .shar
+    - mime-type: application/geo+json-seq
+      references:
+        - name: RFC8142
+    - description: Homebanking Computer Interface (HBCI)
+      mime-type: application/vnd.hbci
+      file-extentions:
+        - .hbci
+    - mime-type: application/vnd.jsk.isdn-ngn
+    - mime-type: application/vnd.maxar.archive.3tz+zip
+    - mime-type: application/vnd.sealed.csf
+    - mime-type: application/vnd.Mobius.TXF
+    - mime-type: application/vnd.ms-tnef
+    - description: Syntactically Awesome Stylesheet source file
+      file-extentions:
+        - .scss
+        - .sass
+    - mime-type: application/jscalendar+json
+      references:
+        - name: RFC8984
+    - mime-type: application/vnd.enphase.envoy
+    - mime-type: application/vnd.openxmlformats-officedocument.vmlDrawing
+    - mime-type: application/vnd.syncml.dmddf+xml
+    - description: System V Release 4 CPIO Checksum Data
+      file-extentions:
+        - .sv4crc
+    - mime-type: application/vnd.dolby.mobile.1
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml
+    - mime-type: model/gltf+json
+    - description: Open Web Media Project - Audio
+      file-extentions:
+        - .weba
+    - description: Haml template file
+      file-extentions:
+        - .haml
+    - mime-type: application/passport
+      references:
+        - name: RFC8225
+    - description: SPARQL - Query
+      mime-type: application/sparql-query
+      file-extentions:
+        - .rq
+    - mime-type: application/vnd.eln+zip
+    - description: Novadigm's RADIA and EDM products
+      file-extentions:
+        - .edx
+    - description: JPEG Image (Progressive)
+      file-extentions:
+        - .pjpeg
+    - mime-type: application/vnd.sss-cod
+    - mime-type: message/global-headers
+      references:
+        - name: RFC6533
+    - description: XYZ File Format
+      file-extentions:
+        - .xyz
+    - mime-type: application/batch-SMTP
+      references:
+        - name: RFC2442
+    - mime-type: application/vnd.microsoft.portable-executable
+    - mime-type: application/vnd.veryant.thin
+    - mime-type: text/vnd.a
+    - description: H.261
+      file-extentions:
+        - .h261
+    - description: Server-Based Certificate Validation Protocol - Validation Request
+      mime-type: application/scvp-cv-request
+      references:
+        - name: RFC5055
+      file-extentions:
+        - .scq
+    - mime-type: application/vnd.etsi.mheg5
+    - mime-type: application/vnd.motorola.flexsuite.wem
+    - mime-type: application/vnd.ms-wmdrm.meter-chlg-req
+    - description: MobileTV
+      mime-type: application/vnd.tmobile-livetv
+      file-extentions:
+        - .tmo
+    - description: Microsoft Excel Web Query file
+      file-extentions:
+        - .iqy
+    - description: NpGraphIt
+      file-extentions:
+        - .gph
+    - mime-type: application/CEA
+    - mime-type: application/vnd.amazon.mobi8-ebook
+    - mime-type: application/vnd.iptc.g2.catalogitem+xml
+    - mime-type: application/vnd.motorola.flexsuite
+    - mime-type: application/vnd.sigrok.session
+    - mime-type: application/index.vnd
+      references:
+        - name: RFC2652
+    - mime-type: application/news-checkgroups
+      references:
+        - name: RFC5537
+    - mime-type: application/clue_info+xml
+      references:
+        - name: RFC8846
+    - mime-type: application/stix+json
+    - mime-type: application/vnd.fastcopy-disk-image
+    - description: Mophun Certificate
+      mime-type: application/vnd.mophun.certificate
+      file-extentions:
+        - .mpc
+    - references:
+        - name: RFC2045
+        - name: RFC2046
+    - mime-type: application/vnd.gentoo.gpkg
+    - description: IP Unplugged Roaming Client
+      mime-type: application/vnd.ipunplugged.rcprofile
+      file-extentions:
+        - .rcprofile
+    - description: Lotus Freelance
+      mime-type: application/vnd.lotus-freelance
+      file-extentions:
+        - .pre
+    - description: Worldtalk
+      mime-type: application/vnd.wt.stf
+      file-extentions:
+        - .stf
+    - mime-type: text/vnd.zoo.kcl
+    - mime-type: text/vnd.dvb.subtitle
+    - mime-type: application/merge-patch+json
+      references:
+        - name: RFC7396
+    - description: SundaHus WQ
+      mime-type: application/vnd.wqd
+      file-extentions:
+        - .wqd
+    - mime-type: audio/BV16
+      references:
+        - name: RFC4298
+    - mime-type: application/vnd.bbf.usp.msg
+    - description: Mobius Management Systems - UniversalArchive
+      file-extentions:
+        - .daf
+    - mime-type: application/vnd.ims.imsccv1p1
+    - mime-type: application/vnd.nokia.conml+xml
+    - description: Turtle (Terse RDF Triple Language)
+      mime-type: text/turtle
+      file-extentions:
+        - .ttl
+    - mime-type: application/nasdata
+      references:
+        - name: RFC4707
+    - mime-type: application/vnd.dece.data
+    - description: EZPix Secure Photo Album
+      mime-type: application/vnd.ezpix-album
+      file-extentions:
+        - .ez2
+    - mime-type: application/vnd.gerber
+    - mime-type: application/vnd.hp-PCLXL
+    - mime-type: multipart/byteranges
+      references:
+        - name: RFC9110
+    - description: HV Voice Dictionary
+      mime-type: application/vnd.yamaha.hv-dic
+      file-extentions:
+        - .hvd
+    - mime-type: message/vnd.wfa.wsc
+    - mime-type: application/vnd.afpc.modca-overlay
+    - mime-type: application/vnd.canon-cpdl
+    - mime-type: application/vnd.dvb.ipdcesgaccess
+    - description: FluxTime Clip
+      mime-type: application/vnd.fluxtime.clip
+      file-extentions:
+        - .ftc
+    - mime-type: application/vnd.oftn.l10n+json
+    - mime-type: video/vnd.iptvforum.1dparityfec-2005
+    - mime-type: model/vnd.gs-gdl
+    - mime-type: audio/vnd.3gpp.iufp
+    - mime-type: application/vnd.hal+json
+    - mime-type: image/wmf
+      references:
+        - name: RFC7903
+    - mime-type: application/sensml-exi
+      references:
+        - name: RFC8428
+    - mime-type: application/tm+json
+    - mime-type: application/vnd.japannet-registration
+    - mime-type: application/vnd.ms-windows.devicepairing
+    - description: mod_fly / fly.cgi
+      mime-type: text/vnd.fly
+      file-extentions:
+        - .fly
+    - mime-type: audio/EVRCB
+      references:
+        - name: RFC5188
+    - mime-type: audio/vnd.octel.sbc
+    - mime-type: application/EmergencyCallData.Comment+xml
+      references:
+        - name: RFC7852
+    - mime-type: application/vnd.etsi.iptvprofile+xml
+    - mime-type: application/vnd.familysearch.gedcom+zip
+    - description: Microsoft Office - OOXML - Word Document
+      mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+      file-extentions:
+        - .docx
+    - mime-type: text/RED
+      references:
+        - name: RFC4102
+    - description: Binary Data
+      mime-type: application/octet-stream
+      references:
+        - name: RFC2045
+        - name: RFC2046
+      file-extentions:
+        - .bin
+    - mime-type: application/vnd.arastra.swi
+    - mime-type: application/xcap-ns+xml
+      references:
+        - name: RFC4825
+    - description: IMS Networks
+      mime-type: application/reginfo+xml
+      references:
+        - name: RFC3680
+      file-extentions:
+        - .rif
+    - description: QuickAnime Player
+      mime-type: application/vnd.epson.quickanime
+      file-extentions:
+        - .qam
+    - mime-type: application/vnd.fujixerox.docuworks.container
+    - mime-type: audio/G711-0
+      references:
+        - name: RFC7655
+    - mime-type: application/vnd.dm.delegation+xml
+    - description: DPGraph
+      mime-type: application/vnd.dpgraph
+      file-extentions:
+        - .dpg
+    - mime-type: application/vnd.ecowin.seriesupdate
+    - mime-type: application/vnd.motorola.flexsuite.kmr
+    - mime-type: video/vnd.dvb.file
+    - mime-type: audio/ATRAC-X
+      references:
+        - name: RFC5584
+    - mime-type: audio/MP4A-LATM
+      references:
+        - name: RFC6416
+    - description: Microsoft Visio 2013
+      file-extentions:
+        - .vsdx
+    - mime-type: application/alto-networkmapfilter+json
+      references:
+        - name: RFC7285
+    - mime-type: application/dpop+jwt
+      references:
+        - name: RFC9449
+    - mime-type: application/vnd.etsi.iptvsync+xml
+    - mime-type: text/vnd.IPTC.NITF
+    - description: Really Simple Discovery
+      file-extentions:
+        - .rsd
+    - description: Standard Query Language (SQL) source file
+      file-extentions:
+        - .sql
+        - .ddl
+    - description: RetroPlatform Player
+      mime-type: application/vnd.cloanto.rp9
+      file-extentions:
+        - .rp9
+    - mime-type: application/vnd.dvb.esgcontainer
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml
+    - mime-type: application/vnd.piaccess.application-licence
+    - description: Vivo
+      mime-type: video/vnd.vivo
+      file-extentions:
+        - .viv
+    - mime-type: text/prs.fallenstein.rst
+    - mime-type: application/media_control+xml
+      references:
+        - name: RFC5168
+    - mime-type: application/mpeg4-iod-xmt
+      references:
+        - name: RFC4337
+    - description: ImmerVision PURE Players
+      mime-type: application/vnd.immervision-ivp
+      file-extentions:
+        - .ivp
+    - mime-type: application/vnd.poc.group-advertisement+xml
+    - description: ScheduleUs
+      mime-type: application/vnd.sus-calendar
+      file-extentions:
+        - .sus
+    - mime-type: application/fdt+xml
+      references:
+        - name: RFC6726
+    - description: troff
+      mime-type: text/troff
+      references:
+        - name: RFC4263
+      file-extentions:
+        - .t
+    - description: Microsoft PowerPoint - Macro-Enabled Presentation File
+      file-extentions:
+        - .pptm
+    - mime-type: application/rtx
+      references:
+        - name: RFC4588
+    - mime-type: application/vnd.dart
+    - mime-type: application/vnd.lotus-screencam
+    - description: OSGi Deployment Package
+      mime-type: application/vnd.osgi.dp
+      file-extentions:
+        - .dp
+    - mime-type: video/matroska
+      references:
+        - name: RFC-ietf-cellar-matroska-21
+    - mime-type: application/csvm+json
+    - description: KDE KOffice Office Suite - Kivio
+      mime-type: application/vnd.kde.kivio
+      file-extentions:
+        - .flw
+    - mime-type: application/vnd.scribus
+    - mime-type: audio/ulpfec
+      references:
+        - name: RFC5109
+    - description: CrystalMaker Data Format
+      file-extentions:
+        - .cmdf
+    - mime-type: application/mbms-envelope+xml
+    - mime-type: application/slate
+    - description: KDE KOffice Office Suite - Kspread
+      mime-type: application/vnd.kde.kspread
+      file-extentions:
+        - .ksp
+    - description: Kenamea App
+      mime-type: application/vnd.kenameaapp
+      file-extentions:
+        - .htke
+    - mime-type: application/vnd.radisys.msml-dialog-transform+xml
+      references:
+        - name: RFC5707
+    - mime-type: application/vnd.oma.bcast.drm-trigger+xml
+    - mime-type: application/yang-data+xml
+      references:
+        - name: RFC8040
+    - description: C Header source file
+      file-extentions:
+        - .h
+    - description: Proprietary P&G Standard Reporting System
+      mime-type: application/vnd.pg.format
+      file-extentions:
+        - .str
+    - mime-type: application/elm+xml
+    - mime-type: application/H224
+      references:
+        - name: RFC4573
+    - mime-type: application/vnd.3gpp.mcdata-user-profile+xml
+    - mime-type: application/vnd.mdl-mbsdf
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml
+    - mime-type: application/coap-payload
+      references:
+        - name: RFC8075
+    - mime-type: application/vnd.syft+json
+    - mime-type: audio/mobile-xmf
+      references:
+        - name: RFC4723
+    - description: XHTML - The Extensible HyperText Markup Language
+      mime-type: application/xhtml+xml
+      file-extentions:
+        - .xhtml
+    - description: DECE Mobile Video
+      mime-type: video/vnd.dece.mobile
+      file-extentions:
+        - .uvm
+    - description: WAIS Source
+      file-extentions:
+        - .src
+    - description: Flash Video
+      file-extentions:
+        - .flv
+    - mime-type: audio/EVRCWB1
+      references:
+        - name: RFC5188
+    - description: Apple Disk Image
+      file-extentions:
+        - .dmg
+    - mime-type: application/EmergencyCallData.SubscriberInfo+xml
+      references:
+        - name: RFC7852
+    - mime-type: application/vnd.android.ota
+    - mime-type: application/vnd.hsl
+    - mime-type: application/vnd.wfa.dpp
+    - mime-type: video/smpte291
+      references:
+        - name: RFC8331
+    - mime-type: application/vnd.dxr
+    - mime-type: application/vnd.informix-visionary
+    - mime-type: application/vnd.nearst.inv+json
+    - description: OpenDocument Formula
+      mime-type: application/vnd.oasis.opendocument.formula
+      file-extentions:
+        - .odf
+    - description: Initial Graphics Exchange Specification (IGES)
+      mime-type: model/iges
+      file-extentions:
+        - .igs
+    - mime-type: model/vnd.parasolid.transmit.binary
+    - mime-type: application/call-completion
+      references:
+        - name: RFC6910
+    - mime-type: application/vnd.3M.Post-it-Notes
+    - mime-type: application/vnd.c3voc.schedule+xml
+    - description: QUASS Stream Player
+      mime-type: application/vnd.epson.msf
+      file-extentions:
+        - .msf
+    - mime-type: video/H263
+      references:
+        - name: RFC3555
+    - mime-type: multipart/multilingual
+      references:
+        - name: RFC8255
+    - description: eXtended Image File Format (XIFF)
+      mime-type: image/vnd.xiff
+      file-extentions:
+        - .xif
+    - description: Voice Browser Call Control
+      mime-type: application/ccxml+xml
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .ccxml
+    - mime-type: application/tamp-community-update
+      references:
+        - name: RFC5934
+    - mime-type: application/tlsrpt+gzip
+      references:
+        - name: RFC8460
+    - mime-type: application/vnd.3gpp.mcvideo-location-info+xml
+    - mime-type: application/vnd.multiad.creator.cif
+    - mime-type: application/prs.alvestrand.titrax-sheet
+    - mime-type: application/vnd.cryptomator.encrypted
+    - description: QUASS Stream Player
+      mime-type: application/vnd.epson.ssf
+      file-extentions:
+        - .ssf
+    - mime-type: application/cybercash
+    - mime-type: application/vnd.apple.keynote
+    - mime-type: application/vnd.etsi.iptvdiscovery+xml
+    - description: Universal Forms Description Language
+      mime-type: application/vnd.ufdl
+      file-extentions:
+        - .ufd
+    - description: Portable Graymap Format
+      file-extentions:
+        - .pgm
+    - mime-type: application/dialog-info+xml
+      references:
+        - name: RFC4235
+    - mime-type: application/vnd.japannet-verification
+    - mime-type: application/vnd.ms-powerpoint.template.macroEnabled.12
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml
+    - mime-type: video/vnd.CCTV
+    - mime-type: application/vnd.blink-idb-value-wrapper
+    - mime-type: application/vnd.omads-file+xml
+    - mime-type: application/vnd.think-cell.ppttc+json
+    - description: Corel Metafile Exchange (CMX)
+      file-extentions:
+        - .cmx
+    - mime-type: application/vnd.afpc.foca-charset
+    - mime-type: application/vnd.ms-excel.addin.macroEnabled.12
+    - mime-type: application/vnd.vd-study
+    - description: Mathematica Notebook Player
+      mime-type: application/vnd.wolfram.player
+      file-extentions:
+        - .nbp
+    - description: Archive document (multiple files embedded)
+      file-extentions:
+        - .arc
+    - mime-type: application/EmergencyCallData.Control+xml
+      references:
+        - name: RFC8147
+    - mime-type: application/vnd.miele+json
+    - mime-type: audio/EVRCWB0
+      references:
+        - name: RFC5188
+    - description: Microsoft PowerPoint - Macro-Enabled Template File
+      file-extentions:
+        - .potm
+    - mime-type: application/prs.implied-object+json-seq
+    - mime-type: application/vnd.ms-powerpoint.presentation.macroEnabled.12
+    - description: Ogg Audio
+      mime-type: audio/ogg
+      references:
+        - name: RFC5334
+        - name: RFC7845
+      file-extentions:
+        - .oga
+    - description: Microsoft PlayReady Ecosystem
+      mime-type: audio/vnd.ms-playready.media.pya
+      file-extentions:
+        - .pya
+    - mime-type: application/wasm
+    - mime-type: video/BMPEG
+      references:
+        - name: RFC3555
+    - description: iCalendar
+      mime-type: text/calendar
+      references:
+        - name: RFC5545
+      file-extentions:
+        - .ics
+    - mime-type: application/vnd.evolv.ecig.settings
+    - mime-type: application/vnd.ims.imsccv1p3
+    - description: Mobile Information Device Profile
+      mime-type: application/vnd.jcp.javame.midlet-rms
+      file-extentions:
+        - .rms
+    - description: SSEYO Koan Play File
+      mime-type: application/vnd.koan
+      file-extentions:
+        - .skp
+    - mime-type: application/vnd.mitsubishi.misty-guard.trustweb
+    - mime-type: application/vnd.api+json
+    - description: Microsoft PowerPoint - Macro-Enabled Slide Show File
+      file-extentions:
+        - .ppsm
+    - description: Microsoft Project
+      mime-type: application/vnd.ms-project
+      file-extentions:
+        - .mpp
+    - description: neuroLanguage
+      mime-type: application/vnd.neurolanguage.nlu
+      file-extentions:
+        - .nlu
+    - mime-type: application/vnd.tmd.mediaflex.api+xml
+    - description: XML Configuration Access Protocol - XCAP Diff
+      mime-type: application/xcap-diff+xml
+      references:
+        - name: RFC5874
+      file-extentions:
+        - .xdf
+    - mime-type: video/vnd.hns.video
+    - description: OpenGL Textures (KTX)
+      mime-type: image/ktx
+      file-extentions:
+        - .ktx
+    - description: Ustar (Uniform Standard Tape Archive)
+      file-extentions:
+        - .ustar
+    - mime-type: application/vnd.dece.ttml+xml
+    - mime-type: model/step-xml+zip
+    - description: Bitmap Image File
+      mime-type: image/bmp
+      references:
+        - name: RFC7903
+      file-extentions:
+        - .bmp
+    - mime-type: application/vnd.openblox.game-binary
+    - description: WinHelp
+      file-extentions:
+        - .hlp
+    - description: Pug template file
+      file-extentions:
+        - .pug
+    - mime-type: application/vnd.ipld.car
+    - mime-type: application/xml-patch+xml
+      references:
+        - name: RFC7351
+    - mime-type: video/scip
+      references:
+        - name: RFC-ietf-avtcore-rtp-scip-09
+    - mime-type: audio/sofa
+    - description: StarOffice - Writer
+      file-extentions:
+        - .sdw
+    - mime-type: application/cda+xml
+    - mime-type: application/vnd.3gpp.interworking-data
+    - description: CrickSoftware - Clicker - Template
+      mime-type: application/vnd.crick.clicker.template
+      file-extentions:
+        - .clkt
+    - mime-type: application/vnd.oma.bcast.smartcard-trigger+xml
+    - mime-type: audio/PCMA
+      references:
+        - name: RFC4856
+    - mime-type: audio/vnd.qcelp
+      references:
+        - name: RFC3625
+    - mime-type: application/AML
+    - mime-type: application/captive+json
+      references:
+        - name: RFC8908
+    - mime-type: application/font-woff
+      references:
+        - name: RFC8081
+    - mime-type: application/vnd.capasystems-pg+json
+    - mime-type: application/yang-sid+json
+      references:
+        - name: RFC-ietf-core-sid-24
+    - mime-type: text/vnd.abc
+    - mime-type: audio/AMR
+      references:
+        - name: RFC4867
+    - description: JPGVideo
+      file-extentions:
+        - .jpgv
+    - mime-type: application/applefile
+    - mime-type: application/fastinfoset
+    - mime-type: application/vnd.motorola.flexsuite.gotap
+    - mime-type: application/vnd.nervana
+    - mime-type: application/vnd.siren+json
+    - mime-type: application/rlmi+xml
+      references:
+        - name: RFC4662
+    - mime-type: application/vnd.FloGraphIt
+    - mime-type: text/xml-external-parsed-entity
+      references:
+        - name: RFC7303
+    - description: Microsoft Word - Macro-Enabled Template
+      file-extentions:
+        - .dotm
+    - mime-type: audio/flexfec
+      references:
+        - name: RFC8627
+    - description: Amazon Kindle eBook format
+      file-extentions:
+        - .azw
+    - description: Microsoft Windows Media Player Skin Package
+      file-extentions:
+        - .wmz
+    - mime-type: application/sgml-open-catalog
+    - mime-type: application/vnd.fujixerox.HBPL
+    - mime-type: application/vnd.japannet-setstore-wakeup
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml
+    - mime-type: model/mtl
+    - description: Perl source file
+      file-extentions:
+        - .pl
+        - .plx
+        - .pm
+        - .xs
+        - .pod
+        - .cgi
+    - description: Scala source file
+      file-extentions:
+        - .scala
+        - .sc
+    - mime-type: application/EmergencyCallData.eCall.MSD
+      references:
+        - name: RFC8147
+    - description: Relax NG Compact Syntax
+      mime-type: application/relax-ng-compact-syntax
+      file-extentions:
+        - .rnc
+    - mime-type: application/vnd.osgi.subsystem
+    - mime-type: image/vnd.radiance
+    - description: Novadigm's RADIA and EDM products
+      file-extentions:
+        - .edm
+    - mime-type: application/ccmp+xml
+      references:
+        - name: RFC6503
+    - mime-type: application/remote-printing
+      references:
+        - name: RFC1486
+    - mime-type: application/vnd.apache.arrow.stream
+    - mime-type: application/vnd.otps.ct-kip+xml
+    - description: DjVu
+      mime-type: image/vnd.djvu
+      file-extentions:
+        - .djvu
+    - description: Atom Publishing Protocol
+      mime-type: application/atomcat+xml
+      references:
+        - name: RFC5023
+      file-extentions:
+        - .atomcat
+    - description: Web Distributed Authoring and Versioning
+      mime-type: application/davmount+xml
+      references:
+        - name: RFC4709
+      file-extentions:
+        - .davmount
+    - mime-type: application/vnd.ecowin.filerequest
+    - mime-type: application/cdni
+      references:
+        - name: RFC7736
+    - description: Karaoke on Chipnuts Chipsets
+      mime-type: application/vnd.chipnuts.karaoke-mmd
+      file-extentions:
+        - .mmd
+    - mime-type: application/vnd.exstream-package
+    - mime-type: application/vnd.radisys.msml-dialog-fax-detect+xml
+      references:
+        - name: RFC5707
+    - mime-type: audio/flac
+      references:
+        - name: RFC-ietf-cellar-flac-14
+    - mime-type: application/vnd.nokia.conml+wbxml
+    - mime-type: application/vnd.onepagertamx
+    - description: OpenOffice - Writer Template (Text - HTML)
+      file-extentions:
+        - .stw
+    - description: Advanced Audio Coding (AAC)
+      file-extentions:
+        - .aac
+    - description: Microsoft Windows Media
+      file-extentions:
+        - .wm
+    - description: Digital Talking Book
+      file-extentions:
+        - .dtb
+    - mime-type: application/vnd.oma.bcast.sgdu
+    - mime-type: application/vnd.openxmlformats-package.core-properties+xml
+    - description: PawaaFILE
+      mime-type: application/vnd.pawaafile
+      file-extentions:
+        - .paw
+    - mime-type: application/xcap-att+xml
+      references:
+        - name: RFC4825
+    - description: StarOffice - Writer (Global)
+      file-extentions:
+        - .sgl
+    - description: Metalink
+      mime-type: application/metalink4+xml
+      references:
+        - name: RFC5854
+      file-extentions:
+        - .meta4
+    - mime-type: video/BT656
+      references:
+        - name: RFC3555
+    - mime-type: text/strings
+    - description: Microsoft Publisher
+      file-extentions:
+        - .pub
+    - mime-type: video/flexfec
+      references:
+        - name: RFC8627
+    - mime-type: audio/dsr-es201108
+      references:
+        - name: RFC3557
+    - description: Xfig
+      file-extentions:
+        - .fig
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml
+    - description: PalmOS Data
+      mime-type: application/vnd.palm
+      file-extentions:
+        - .pdb
+    - mime-type: application/vnd.wv.csp+wbxml
+    - description: HV Script
+      mime-type: application/vnd.yamaha.hv-script
+      file-extentions:
+        - .hvs
+    - mime-type: application/zstd
+      references:
+        - name: RFC8878
+    - mime-type: application/geoxacml+xml
+    - mime-type: application/vnd.datalog
+    - mime-type: application/vnd.omads-folder+xml
+    - mime-type: application/ATFX
+    - mime-type: application/vnd.3gpp.mcptt-ue-config+xml
+    - description: Groove - Vcard
+      mime-type: application/vnd.groove-vcard
+      file-extentions:
+        - .vcg
+    - mime-type: application/vnd.powerbuilder7
+    - mime-type: application/vnd.pwg-xhtml-print+xml
+    - description: System V Release 4 CPIO Archive
+      file-extentions:
+        - .sv4cpio
+    - mime-type: application/oxps
+    - description: Server-Based Certificate Validation Protocol - Validation Policies - Response
+      mime-type: application/scvp-vp-response
+      references:
+        - name: RFC5055
+      file-extentions:
+        - .spp
+    - mime-type: application/vnd.oma.bcast.ltkm
+    - mime-type: application/vnd.powerbuilder75-s
+    - description: Widget Packaging and XML Configuration
+      mime-type: application/widget
+      file-extentions:
+        - .wgt
+    - mime-type: application/vnd.astraea-software.iota
+    - description: Secured eMail
+      mime-type: application/vnd.sema
+      file-extentions:
+        - .sema
+    - mime-type: audio/amr-wb+
+      references:
+        - name: RFC4352
+    - description: Applixware
+      file-extentions:
+        - .aw
+    - mime-type: model/vnd.opengex
+    - description: Android Package Archive
+      file-extentions:
+        - .apk
+    - mime-type: application/mbms-register-response+xml
+    - mime-type: application/vnd.liberty-request+xml
+    - description: Nokia Radio Application - Preset
+      mime-type: application/vnd.nokia.radio-presets
+      file-extentions:
+        - .rpss
+    - mime-type: application/vnd.openxmlformats-officedocument.theme+xml
+    - mime-type: application/vnd.preminet
+    - mime-type: application/vnd.collabio.xodocuments.document
+    - mime-type: application/vnd.commerce-battelle
+    - mime-type: application/vnd.gov.sk.xmldatacontainer+xml
+    - description: Shana Informed Filler
+      mime-type: application/vnd.shana.informed.interchange
+      file-extentions:
+        - .iif
+    - mime-type: multipart/header-set
+    - mime-type: application/tamp-sequence-adjust-confirm
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.efi.img
+    - mime-type: application/vnd.gov.sk.e-form+zip
+    - mime-type: application/vnd.MFER
+    - description: PowerBuilder
+      mime-type: application/vnd.powerbuilder6
+      file-extentions:
+        - .pbd
+    - mime-type: image/tiff-fx
+      references:
+        - name: RFC3950
+    - mime-type: audio/usac
+    - description: AbiWord
+      file-extentions:
+        - .abw
+    - mime-type: application/encaprtp
+      references:
+        - name: RFC6849
+    - mime-type: application/msc-ivr+xml
+      references:
+        - name: RFC6231
+    - mime-type: application/vnd.ms-powerpoint.slideshow.macroEnabled.12
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.presProps+xml
+    - mime-type: video/vc2
+      references:
+        - name: RFC8450
+    - mime-type: image/jls
+    - mime-type: application/geo+json
+      references:
+        - name: RFC7946
+    - description: Interactive Geometry Software Cinderella
+      mime-type: application/vnd.cinderella
+      file-extentions:
+        - .cdy
+    - mime-type: application/vnd.ims.lti.v2.toolproxy.id+json
+    - description: Microsoft XML Paper Specification
+      mime-type: application/vnd.ms-xpsdocument
+      file-extentions:
+        - .xps
+    - mime-type: text/markdown
+      references:
+        - name: RFC7763
+    - description: Internet Public Key Infrastructure - Certificate Management Protocole
+      mime-type: application/pkixcmp
+      references:
+        - name: RFC2510
+      file-extentions:
+        - .pki
+    - description: Microsoft PowerPoint
+      mime-type: application/vnd.ms-powerpoint
+      file-extentions:
+        - .ppt
+    - mime-type: application/vnd.fints
+    - mime-type: application/vnd.restful+json
+    - mime-type: image/jph
+    - mime-type: application/DII
+    - mime-type: application/vnd.3gpp.mcptt-user-profile+xml
+    - description: OpenDocument Chart Template
+      mime-type: application/vnd.oasis.opendocument.chart-template
+      file-extentions:
+        - .otc
+    - mime-type: application/vnd.veritone.aion+json
+    - mime-type: image/emf
+      references:
+        - name: RFC7903
+    - mime-type: application/CALS-1840
+      references:
+        - name: RFC1895
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml
+    - mime-type: application/vnd.orange.indata
+    - mime-type: application/vnd.xecrets-encrypted
+    - mime-type: application/whoispp-query
+      references:
+        - name: RFC2957
+    - mime-type: application/vnd.bpf3
+    - mime-type: application/vnd.dtg.local
+    - mime-type: application/vnd.music-niff
+    - mime-type: application/vnd.uplanet.listcmd-wbxml
+    - mime-type: message/ohttp-req
+      references:
+        - name: RFC9458
+    - description: Fujitsu Oasys
+      mime-type: application/vnd.fujitsu.oasys3
+      file-extentions:
+        - .oa3
+    - mime-type: application/vnd.ims.lti.v2.toolproxy+json
+    - mime-type: application/vnd.japannet-registration-wakeup
+    - mime-type: application/alto-cdnifilter+json
+      references:
+        - name: RFC9241
+    - mime-type: application/alto-error+json
+      references:
+        - name: RFC7285
+    - mime-type: application/rpki-checklist
+      references:
+        - name: RFC9323
+    - mime-type: application/vnd.3gpp.mcvideo-user-profile+xml
+    - mime-type: application/vnd.fujifilm.fb.docuworks.container
+    - mime-type: multipart/signed
+      references:
+        - name: RFC1847
+    - description: PSF Fonts
+      file-extentions:
+        - .psf
+    - description: LaTeX
+      file-extentions:
+        - .latex
+    - mime-type: application/cea-2018+xml
+    - mime-type: application/vnd.evolv.ecig.theme
+    - mime-type: application/vnd.ms-wmdrm.lic-resp
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml
+    - mime-type: application/xcon-conference-info+xml
+      references:
+        - name: RFC6502
+    - mime-type: application/vnd.multiad.creator
+    - description: Bzip Archive
+      file-extentions:
+        - .bz
+    - description: Doom Video Game
+      file-extentions:
+        - .wad
+    - description: Media Server Control Markup Language
+      mime-type: application/mediaservercontrol+xml
+      references:
+        - name: RFC5022
+      file-extentions:
+        - .mscml
+    - mime-type: application/vnd.3gpp.bsf+xml
+    - description: Fujitsu Oasys
+      mime-type: application/vnd.fujitsu.oasys2
+      file-extentions:
+        - .oa2
+    - mime-type: application/vnd.gentics.grd+json
+    - mime-type: application/vnd.httphone
+    - mime-type: application/PDX
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml
+    - mime-type: video/jpeg2000
+      references:
+        - name: RFC5371
+        - name: RFC5372
+    - mime-type: application/vnd.iptc.g2.newsmessage+xml
+    - mime-type: application/vnd.oma.bcast.simple-symbol-container
+    - description: J2ME App Descriptor
+      mime-type: text/vnd.sun.j2me.app-descriptor
+      file-extentions:
+        - .jad
+    - mime-type: application/mbms-associated-procedure-description+xml
+    - mime-type: application/senml-exi
+      references:
+        - name: RFC8428
+    - mime-type: application/vnd.sar
+    - mime-type: audio/vnd.dolby.heaac.2
+    - description: Mesh Data Type
+      file-extentions:
+        - .msh
+    - mime-type: video/vnd.youtube.yt
+    - description: Scalable Vector Graphics (SVG)
+      mime-type: image/svg+xml
+      file-extentions:
+        - .svg
+    - description: Real Audio Sound
+      file-extentions:
+        - .rmp
+    - description: Andrew Toolkit
+      mime-type: application/andrew-inset
+    - mime-type: application/simple-message-summary
+      references:
+        - name: RFC3842
+    - mime-type: application/vnd.etsi.cug+xml
+    - description: Kidspiration
+      mime-type: application/vnd.kidspiration
+      file-extentions:
+        - .kia
+    - description: WebTurbo
+      mime-type: application/vnd.webturbo
+      file-extentions:
+        - .wtb
+    - mime-type: application/http
+      references:
+        - name: RFC9112
+    - mime-type: application/vnd.gov.sk.e-form+xml
+    - description: WebAssembly
+      file-extentions:
+        - .wat
+        - .wasm
+    - mime-type: application/tve-trigger
+    - mime-type: application/vnd.wolfram.mathematica
+    - description: Microsoft Word - Macro-Enabled Document
+      file-extentions:
+        - .docm
+    - description: Debian Package
+      file-extentions:
+        - .deb
+    - mime-type: application/cms
+      references:
+        - name: RFC7193
+    - mime-type: application/ohttp-keys
+      references:
+        - name: RFC9458
+    - description: ROUTE 66 Location Based Services
+      mime-type: application/vnd.route66.link66+xml
+      file-extentions:
+        - .link66
+    - mime-type: application/xcon-conference-info-diff+xml
+      references:
+        - name: RFC6502
+    - description: Assembler Source File
+      file-extentions:
+        - .s
+        - .asm
+    - mime-type: application/tamp-status-response
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.citationstyles.style+xml
+    - mime-type: application/vnd.dvb.ipdcdftnotifaccess
+    - mime-type: application/vnd.sealed.3df
+    - description: DECE Audio
+      mime-type: audio/vnd.dece.audio
+      file-extentions:
+        - .uva
+    - description: Video CD
+      file-extentions:
+        - .vcd
+    - mime-type: application/pem-certificate-chain
+      references:
+        - name: RFC8555
+    - mime-type: application/vnd.3gpp.seal-info+xml
+    - mime-type: application/vnd.medicalholodeck.recordxr
+    - description: WAP Binary XML (WBXML)
+      mime-type: application/vnd.wap.wbxml
+      file-extentions:
+        - .wbxml
+    - mime-type: video/iso.segment
+    - mime-type: video/CelB
+      references:
+        - name: RFC3555
+    - mime-type: application/dicom+json
+    - mime-type: application/EmergencyCallData.ProviderInfo+xml
+      references:
+        - name: RFC7852
+    - mime-type: application/epp+xml
+      references:
+        - name: RFC5730
+    - mime-type: application/example
+      references:
+        - name: RFC4735
+    - mime-type: application/xml-external-parsed-entity
+      references:
+        - name: RFC7303
+    - mime-type: application/vnd.bbf.usp.error
+    - mime-type: application/vnd.nato.bindingdataobject+json
+    - mime-type: image/jxss
+    - mime-type: audio/raptorfec
+      references:
+        - name: RFC6682
+    - description: Microsoft OneNote
+      file-extentions:
+        - .onetoc
+    - mime-type: application/vnd.osa.netdeploy
+    - mime-type: text/t140
+      references:
+        - name: RFC4103
+    - mime-type: audio/vnd.dolby.heaac.1
+    - mime-type: application/cccex
+    - description: Hyperstudio
+      mime-type: application/hyperstudio
+      file-extentions:
+        - .stk
+    - mime-type: application/smpte336m
+      references:
+        - name: RFC6597
+    - description: Microsoft Excel
+      mime-type: application/vnd.ms-excel
+      file-extentions:
+        - .xls
+    - mime-type: application/vnd.openxmlformats-officedocument.drawing+xml
+    - description: 'PKCS #7 - Cryptographic Message Syntax Standard (Certificates)'
+      file-extentions:
+        - .p7b
+    - mime-type: application/vnd.iptc.g2.newsitem+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml
+    - description: Microsoft Silverlight
+      file-extentions:
+        - .xap
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml
+    - mime-type: audio/CN
+      references:
+        - name: RFC3389
+    - mime-type: application/alto-endpointcostparams+json
+      references:
+        - name: RFC7285
+    - mime-type: application/timestamp-reply
+      references:
+        - name: RFC3161
+    - mime-type: application/urc-targetdesc+xml
+    - description: XUL - XML User Interface Language
+      mime-type: application/vnd.mozilla.xul+xml
+      file-extentions:
+        - .xul
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.chart+xml
+    - description: Computer Graphics Metafile
+      mime-type: image/cgm
+      file-extentions:
+        - .cgm
+    - mime-type: image/vnd.svf
+    - mime-type: application/pidf+xml
+      references:
+        - name: RFC3863
+    - description: Critical Tools - PERT Chart EXPERT
+      mime-type: application/vnd.criticaltools.wbs+xml
+      file-extentions:
+        - .wbs
+    - mime-type: application/vnd.ecdis-update
+    - mime-type: application/vnd.valve.source.material
+    - mime-type: text/vnd.wap.sl
+    - mime-type: application/vnd.wordlift
+    - mime-type: model/step
+    - mime-type: application/activemessage
+    - mime-type: application/private-token-request
+      references:
+        - name: RFC-ietf-privacypass-protocol-16
+    - mime-type: application/vnd.oma.poc.invocation-descriptor+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.tableStyles+xml
+    - description: VirtualCatalog
+      mime-type: application/vnd.vcx
+      file-extentions:
+        - .vcx
+    - mime-type: application/cwl+json
+    - description: Virtual Reality Modeling Language
+      file-extentions:
+        - .wrl
+    - mime-type: text/cql-expression
+    - mime-type: audio/mhas
+    - description: StarOffice - Draw
+      file-extentions:
+        - .sda
+    - mime-type: application/mrb-publish+xml
+      references:
+        - name: RFC6917
+    - description: RemoteDocs R-Viewer
+      mime-type: application/vnd.data-vision.rdz
+      file-extentions:
+        - .rdz
+    - description: Google Earth - Zipped KML
+      mime-type: application/vnd.google-earth.kmz
+      file-extentions:
+        - .kmz
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml
+    - mime-type: application/vnd.quobject-quoxdocument
+    - mime-type: application/odm+xml
+    - description: SudokuMagic
+      mime-type: application/vnd.solent.sdkm+xml
+      file-extentions:
+        - .sdkm
+    - mime-type: model/gltf-binary
+    - mime-type: application/mmt-aei+xml
+    - mime-type: application/vnd.pagerduty+json
+    - mime-type: audio/t140c
+      references:
+        - name: RFC4351
+    - mime-type: application/vnd.xmpie.plan
+    - mime-type: model/vnd.rosette.annotated-data-model
+    - mime-type: audio/G722
+      references:
+        - name: RFC4856
+    - mime-type: application/alto-costmapfilter+json
+      references:
+        - name: RFC7285
+    - mime-type: application/fastsoap
+    - description: Mbox database files
+      mime-type: application/mbox
+      references:
+        - name: RFC4155
+      file-extentions:
+        - .mbox
+    - mime-type: application/vnd.1000minds.decision-model+xml
+    - mime-type: application/vnd.ntt-local.content-share
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml
+    - mime-type: application/EDI-X12
+      references:
+        - name: RFC1767
+    - mime-type: application/vnd.globalplatform.card-content-mgt-response
+    - mime-type: application/vnd.nokia.ncd
+    - description: Geometric Description Language (GDL)
+      mime-type: model/vnd.gdl
+      file-extentions:
+        - .gdl
+    - description: Lucent Voice
+      mime-type: audio/vnd.lucent.voice
+      file-extentions:
+        - .lvp
+    - mime-type: application/CSTAdata+xml
+    - mime-type: application/vnd.filmit.zfc
+    - description: Synchronized Multimedia Integration Language
+      mime-type: application/smil+xml
+      references:
+        - name: RFC4536
+      file-extentions:
+        - .smi
+    - mime-type: application/vnd.ms-windows.printerpairing
+    - mime-type: application/vnd.novadigm.EDM
+    - description: Image Exchange Format
+      file-extentions:
+        - .ief
+    - description: Chemical Markup Language
+      file-extentions:
+        - .cml
+    - description: FreeHand MX
+      file-extentions:
+        - .fh
+    - mime-type: application/vnd.3gpp.pfcp
+    - description: Joda Archive
+      mime-type: application/vnd.joost.joda-archive
+      file-extentions:
+        - .joda
+    - description: Microsoft Html Help File
+      mime-type: application/vnd.ms-htmlhelp
+      file-extentions:
+        - .chm
+    - mime-type: application/vnd.oma.bcast.stkm
+    - mime-type: application/vnd.oma.cab-user-prefs+xml
+    - mime-type: application/prs.cyn
+    - mime-type: audio/rtploopback
+      references:
+        - name: RFC6849
+    - mime-type: application/vnd.iptc.g2.knowledgeitem+xml
+    - description: OpenDocument Text
+      mime-type: application/vnd.oasis.opendocument.text
+      file-extentions:
+        - .odt
+    - description: Ace Archive
+      file-extentions:
+        - .ace
+    - mime-type: application/sensml+xml
+      references:
+        - name: RFC8428
+    - mime-type: application/vnd.3gpp.mcptt-service-config+xml
+    - mime-type: application/vnd.sealed.mht
+    - description: Unique Object Markup Language
+      mime-type: application/vnd.uoml+xml
+      file-extentions:
+        - .uoml
+    - description: MXML
+      mime-type: application/xv+xml
+      references:
+        - name: RFC4374
+      file-extentions:
+        - .mxml
+    - mime-type: application/vnd.uplanet.alert-wbxml
+    - mime-type: audio/aptx
+      references:
+        - name: RFC7310
+    - mime-type: audio/L24
+      references:
+        - name: RFC3190
+    - mime-type: application/swid+xml
+    - mime-type: application/vnd.adobe.formscentral.fcdt
+    - mime-type: application/vnd.espass-espass+zip
+    - mime-type: application/vnd.powerbuilder75
+    - mime-type: application/vnd.sealed.net
+    - description: Microsoft PowerPoint - Add-in file
+      file-extentions:
+        - .ppam
+    - description: Pretty Good Privacy Signature
+      mime-type: application/pgp-encrypted
+      references:
+        - name: RFC3156
+      file-extentions:
+        - .pgp
+    - description: MO:DCA-P
+      mime-type: application/vnd.ibm.modcap
+      file-extentions:
+        - .afp
+    - description: Shana Informed Filler
+      mime-type: application/vnd.shana.informed.formtemplate
+      file-extentions:
+        - .itp
+    - mime-type: audio/EVRC
+      references:
+        - name: RFC4788
+    - description: TeX
+      file-extentions:
+        - .tex
+    - mime-type: application/jf2feed+json
+    - mime-type: application/tzif-leap
+      references:
+        - name: RFC-murchison-rfc8536bis-15
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.notesSlide+xml
+    - description: WebP Image
+      mime-type: image/webp
+      references:
+        - name: RFC-zern-webp-15
+      file-extentions:
+        - .webp
+    - description: vCalendar
+      file-extentions:
+        - .vcs
+    - mime-type: application/vnd.cryptomator.vault
+    - mime-type: application/vnd.las
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml
+    - mime-type: application/vnd.datapackage+json
+    - mime-type: application/vnd.gnu.taler.merchant+json
+    - mime-type: text/dns
+      references:
+        - name: RFC4027
+    - mime-type: audio/vnd.dolby.pl2z
+    - description: pIRCh
+      file-extentions:
+        - .chat
+    - description: PICT Image
+      file-extentions:
+        - .pic
+    - description: XML Patch Framework
+      mime-type: application/patch-ops-error+xml
+      references:
+        - name: RFC5261
+      file-extentions:
+        - .xer
+    - mime-type: application/vnd.apache.thrift.binary
+    - mime-type: multipart/related
+      references:
+        - name: RFC2387
+    - description: Microsoft Windows Media Player Download Package
+      file-extentions:
+        - .wmd
+    - description: Microsoft Windows Metafile
+      file-extentions:
+        - .wmf
+    - description: Fujitsu - Xerox DocuWorks Binder
+      mime-type: application/vnd.fujixerox.docuworks.binder
+      file-extentions:
+        - .xbd
+    - mime-type: image/avcs
+    - description: Tom's Obvious, Minimal Language
+      file-extentions:
+        - .toml
+    - mime-type: application/vnd.mapbox-vector-tile
+    - mime-type: application/vnd.3gpp-prose-pc3ach+xml
+    - mime-type: application/vnd.autopackage
+    - mime-type: application/vnd.curl
+    - mime-type: application/vnd.etsi.timestamp-token
+    - mime-type: application/vnd.ga4gh.passport+jwt
+    - mime-type: application/jwk-set+json
+      references:
+        - name: RFC7517
+    - mime-type: application/MF4
+    - mime-type: application/vnd.laszip
+    - description: Lotus Organizer
+      mime-type: application/vnd.lotus-organizer
+      file-extentions:
+        - .org
+    - mime-type: application/vnd.nacamar.ybrid+json
+    - mime-type: application/vnd.street-stream
+    - mime-type: text/grammar-ref-list
+      references:
+        - name: RFC6787
+    - description: Microsoft Excel - Macro-Enabled Template File
+      file-extentions:
+        - .xltm
+    - description: PCX Image
+      file-extentions:
+        - .pcx
+    - mime-type: application/vnd.s3sms
+    - mime-type: application/cpl+xml
+      references:
+        - name: RFC3880
+    - mime-type: application/csrattrs
+      references:
+        - name: RFC7030
+    - mime-type: application/swid+cbor
+      references:
+        - name: RFC9393
+    - mime-type: application/vnd.iptc.g2.conceptitem+xml
+    - mime-type: application/vnd.oma.lwm2m+cbor
+    - description: Microsoft Excel - Macro-Enabled Workbook
+      file-extentions:
+        - .xlsm
+    - description: ZVUE Media Manager
+      file-extentions:
+        - .zmm
+    - mime-type: application/bacnet-xdd+zip
+    - mime-type: application/cose-x509
+      references:
+        - name: RFC9360
+    - mime-type: application/mathml-presentation+xml
+    - mime-type: application/vnd.collection+json
+    - description: QUASS Stream Player
+      mime-type: application/vnd.epson.esf
+      file-extentions:
+        - .esf
+    - mime-type: application/vnd.uplanet.channel
+    - mime-type: application/vnd.uri-map
+    - description: Cascading Style Sheets (CSS)
+      mime-type: text/css
+      references:
+        - name: RFC2318
+      file-extentions:
+        - .css
+    - mime-type: application/load-control+xml
+      references:
+        - name: RFC7200
+    - description: Groove - Identity Message
+      mime-type: application/vnd.groove-identity-message
+      file-extentions:
+        - .gim
+    - mime-type: application/vnd.nitf
+    - mime-type: application/vnd.oma.poc.final-report+xml
+    - description: MapGuide DBXML
+      mime-type: application/vnd.osgeo.mapguide.package
+      file-extentions:
+        - .mgp
+    - mime-type: font/collection
+      references:
+        - name: RFC8081
+    - description: 7-Zip
+      file-extentions:
+        - .7z
+    - description: Portable Pixmap Format
+      file-extentions:
+        - .ppm
+    - mime-type: text/rtp-enc-aescm128
+    - mime-type: audio/vnd.sealedmedia.softseal.mpeg
+    - description: Adobe XML Data Package
+      mime-type: application/vnd.adobe.xdp+xml
+      file-extentions:
+        - .xdp
+    - description: Microsoft Windows Media Player Playlist
+      mime-type: application/vnd.ms-wpl
+      file-extentions:
+        - .wpl
+    - mime-type: application/vnd.opentimestamps.ots
+    - description: VoiceXML
+      mime-type: application/voicexml+xml
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .vxml
+    - mime-type: audio/3gpp
+      references:
+        - name: RFC3839
+        - name: RFC6381
+    - mime-type: audio/vnd.nokia.mobile-xmf
+    - description: 'PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response)'
+      file-extentions:
+        - .p7r
+    - mime-type: application/vnd.ims.lis.v2.result+json
+    - mime-type: application/yaml
+      references:
+        - name: RFC9512
+    - mime-type: video/H264-SVC
+      references:
+        - name: RFC6190
+    - mime-type: model/x3d+fastinfoset
+    - mime-type: audio/G726-40
+      references:
+        - name: RFC4856
+    - description: Internet Public Key Infrastructure - Certificate
+      mime-type: application/pkix-cert
+      references:
+        - name: RFC2585
+      file-extentions:
+        - .cer
+    - description: Tao Intent
+      mime-type: application/vnd.tao.intent-module-archive
+      file-extentions:
+        - .tao
+    - mime-type: application/mp4
+      references:
+        - name: RFC4337
+        - name: RFC6381
+    - mime-type: application/problem+json
+      references:
+        - name: RFC9457
+    - mime-type: application/vnd.openxmlformats-officedocument.extended-properties+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml
+    - description: UUEncode
+      file-extentions:
+        - .uu
+    - description: PostScript
+      mime-type: application/postscript
+      references:
+        - name: RFC2045
+        - name: RFC2046
+      file-extentions:
+        - .ai
+    - mime-type: application/rpki-manifest
+      references:
+        - name: RFC6481
+    - mime-type: application/vnd.adobe.flash.movie
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.tags+xml
+    - mime-type: application/vnd.ms-3mfdocument
+    - mime-type: video/vnd.dlna.mpeg-tts
+    - description: Compact Pro
+      file-extentions:
+        - .cpt
+    - description: Adobe Flex Project
+      mime-type: application/vnd.adobe.fxp
+      file-extentions:
+        - .fxp
+    - mime-type: application/vnd.cab-jscript
+    - mime-type: application/vnd.d3m-dataset
+    - description: SimpleAnimeLite Player
+      mime-type: application/vnd.epson.salt
+      file-extentions:
+        - .slt
+    - mime-type: application/vnd.etsi.asic-e+zip
+    - description: Bourne Shell Script
+      file-extentions:
+        - .sh
+    - mime-type: video/AV1
+    - mime-type: model/x3d-vrml
+    - mime-type: application/dicom+xml
+    - mime-type: application/ibe-key-request+xml
+      references:
+        - name: RFC5408
+    - mime-type: application/rpki-publication
+      references:
+        - name: RFC8181
+    - description: Hypertext Preprocessor (Personal Home Page)
+      file-extentions:
+        - .php
+        - .phar
+        - .phtml
+        - .pht
+        - .phps
+    - description: Portable Anymap Image
+      file-extentions:
+        - .pnm
+    - mime-type: application/vnd.etsi.mcid+xml
+    - mime-type: application/vnd.etsi.sci+xml
+    - mime-type: application/vnd.ms-wmdrm.meter-resp
+    - mime-type: application/vnd.openxmlformats-officedocument.customXmlProperties+xml
+    - description: Microsoft Office - OOXML - Spreadsheet Template
+      mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+      file-extentions:
+        - .xltx
+    - mime-type: application/dash+xml
+    - mime-type: application/vnd.biopax.rdf+xml
+    - mime-type: application/vnd.dolby.mobile.2
+    - mime-type: text/example
+      references:
+        - name: RFC4735
+    - description: Cloud Data Management Interface (CDMI) - Contaimer
+      mime-type: application/cdmi-container
+      references:
+        - name: RFC6208
+      file-extentions:
+        - .cdmic
+    - mime-type: application/vnd.3gpp.mcvideo-mbms-usage-info+xml
+    - mime-type: audio/32kadpcm
+      references:
+        - name: RFC3802
+        - name: RFC2421
+    - mime-type: audio/G729
+      references:
+        - name: RFC4856
+    - mime-type: application/automationml-aml+xml
+    - mime-type: video/example
+      references:
+        - name: RFC4735
+    - description: C# source file
+      file-extentions:
+        - .cs
+        - .csx
+    - mime-type: application/x400-bp
+      references:
+        - name: RFC1494
+    - mime-type: message/disposition-notification
+      references:
+        - name: RFC8098
+    - mime-type: audio/mpa-robust
+      references:
+        - name: RFC5219
+    - mime-type: application/automationml-amlx+zip
+    - description: 'PKCS #7 - Cryptographic Message Syntax Standard'
+      mime-type: application/pkcs7-mime
+      references:
+        - name: RFC8551
+        - name: RFC7114
+      file-extentions:
+        - .p7m
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml
+    - mime-type: application/vnd.syncml.dm.notification
+    - description: Triscape Map Explorer
+      mime-type: application/vnd.triscape.mxs
+      file-extentions:
+        - .mxs
+    - mime-type: application/missing-blocks+cbor-seq
+      references:
+        - name: RFC9177
+    - description: PubliShare Objects
+      mime-type: application/vnd.publishare-delta-tree
+      file-extentions:
+        - .qps
+    - mime-type: text/prs.texi
+    - description: Microsoft Windows Media Audio Redirector
+      file-extentions:
+        - .wax
+    - mime-type: audio/PCMU
+      references:
+        - name: RFC4856
+    - description: List file
+      file-extentions:
+        - .lst
+    - mime-type: application/vnd.d2l.coursepackage1p0+zip
+    - mime-type: application/vnd.dvb.ipdcesgpdd
+    - mime-type: application/vnd.motorola.iprm
+    - mime-type: application/vnd.syncml.ds.notification
+    - mime-type: audio/G7221
+      references:
+        - name: RFC5577
+    - mime-type: audio/scip
+      references:
+        - name: RFC-ietf-avtcore-rtp-scip-09
+    - description: MARC Formats
+      mime-type: application/marc
+      references:
+        - name: RFC2220
+      file-extentions:
+        - .mrc
+    - description: Microsoft Visio
+      mime-type: application/vnd.visio
+      file-extentions:
+        - .vsd
+    - mime-type: text/wgsl
+    - mime-type: application/ace-groupcomm+cbor
+      references:
+        - name: RFC-ietf-ace-key-groupcomm-18
+    - mime-type: application/vnd.ims.imsccv1p2
+    - mime-type: audio/EVS
+    - description: Objective-C source file
+      file-extentions:
+        - .m
+        - .mm
+    - description: Cloud Data Management Interface (CDMI) - Object
+      mime-type: application/cdmi-object
+      references:
+        - name: RFC6208
+      file-extentions:
+        - .cdmio
+    - mime-type: application/nss
+    - mime-type: application/vnd.rainstor.data
+    - description: Microsoft Money
+      file-extentions:
+        - .mny
+    - mime-type: application/rfc+xml
+      references:
+        - name: RFC7991
+    - mime-type: application/vnd.belightsoft.lhzd+zip
+    - mime-type: application/vnd.eudora.data
+    - mime-type: video/VP9
+      references:
+        - name: RFC-ietf-payload-vp9-16
+    - mime-type: audio/GSM-EFR
+      references:
+        - name: RFC4856
+    - mime-type: application/3gppHalForms+json
+    - description: Python source file
+      file-extentions:
+        - .py
+    - description: Extensible MultiModal Annotation
+      mime-type: application/emma+xml
+      file-extentions:
+        - .emma
+    - mime-type: application/vnd.nokia.landmark+xml
+    - mime-type: application/vnd.oma.poc.groups+xml
+    - mime-type: application/mbms-register+xml
+    - mime-type: message/s-http
+      references:
+        - name: RFC2660
+    - mime-type: image/vnd.cns.inf2
+    - mime-type: application/activity+json
+    - description: Cloud Data Management Interface (CDMI) - Queue
+      mime-type: application/cdmi-queue
+      references:
+        - name: RFC6208
+      file-extentions:
+        - .cdmiq
+    - description: 3rd Generation Partnership Project - Pic Small
+      mime-type: application/vnd.3gpp.pic-bw-small
+      file-extentions:
+        - .psb
+    - description: Apple Installer Package
+      mime-type: application/vnd.apple.installer+xml
+      file-extentions:
+        - .mpkg
+    - mime-type: image/dicom-rle
+    - description: Recordare Applications
+      mime-type: application/vnd.recordare.musicxml
+      file-extentions:
+        - .mxl
+    - description: X.509 Certificate
+      mime-type: application/x-x509-ca-cert
+      references:
+        - name: RFC8894
+      file-extentions:
+        - .der
+    - mime-type: application/mbms-reception-report+xml
+    - mime-type: application/vnd.ms-excel.sheet.binary.macroEnabled.12
+    - mime-type: application/vnd.oma.bcast.sgboot
+    - mime-type: application/vnd.oma.dcd
+    - mime-type: application/vnd.oracle.resource+json
+    - mime-type: application/rtploopback
+      references:
+        - name: RFC6849
+    - mime-type: application/vnd.ipld.raw
+    - mime-type: application/vnd.sealed.eml
+    - mime-type: application/vnd.shootproof+json
+    - description: Server-Based Certificate Validation Protocol - Validation Policies - Request
+      mime-type: application/scvp-vp-request
+      references:
+        - name: RFC5055
+      file-extentions:
+        - .spq
+    - mime-type: application/vnd.maxmind.maxmind-db
+    - mime-type: application/vnd.ms-wmdrm.lic-chlg-req
+    - mime-type: application/vnd.sealedmedia.softseal.pdf
+    - description: Web Services Policy
+      mime-type: application/wspolicy+xml
+      file-extentions:
+        - .wspolicy
+    - mime-type: application/mbms-schedule+xml
+    - description: 'PKCS #8 - Private-Key Information Syntax Standard'
+      mime-type: application/pkcs8
+      references:
+        - name: RFC5958
+      file-extentions:
+        - .p8
+    - description: Quicktime Video
+      mime-type: video/quicktime
+      references:
+        - name: RFC6381
+      file-extentions:
+        - .qt
+    - mime-type: video/raw
+      references:
+        - name: RFC4175
+    - description: Audio Interchange File Format
+      file-extentions:
+        - .aif
+    - mime-type: application/vnd.3gpp.state-and-event-info+xml
+    - description: Lotus Approach
+      mime-type: application/vnd.lotus-approach
+      file-extentions:
+        - .apr
+    - mime-type: application/vnd.yamaha.tunnel-udpencap
+    - description: OCaml source file
+      file-extentions:
+        - .ml
+        - .mli
+    - description: Microsoft Office Binder
+      file-extentions:
+        - .obd
+    - mime-type: application/vnd.avistar+xml
+    - mime-type: application/vnd.etsi.iptvcommand+xml
+    - mime-type: application/vnd.quarantainenet
+    - description: DWG Drawing
+      mime-type: image/vnd.dwg
+      file-extentions:
+        - .dwg
+    - mime-type: audio/G7291
+      references:
+        - name: RFC4749
+        - name: RFC5459
+    - mime-type: application/senml-etch+json
+      references:
+        - name: RFC8790
+    - mime-type: application/sensml+cbor
+      references:
+        - name: RFC8428
+    - mime-type: application/vnd.3gpp.mcptt-regroup+xml
+    - description: HyperText Markup Language (HTML)
+      mime-type: text/html
+      file-extentions:
+        - .html
+    - mime-type: application/vnd.3gpp-prose-pc8+xml
+    - mime-type: application/vnd.3gpp.seal-location-info+xml
+    - mime-type: application/vnd.oma.bcast.sprov+xml
+    - description: SeeMail
+      mime-type: application/vnd.seemail
+      file-extentions:
+        - .see
+    - mime-type: audio/G726-32
+      references:
+        - name: RFC4856
+    - mime-type: application/vnd.3gpp.current-location-discovery+xml
+    - mime-type: video/VP8
+      references:
+        - name: RFC7741
+    - description: Enliven Viewer
+      mime-type: application/vnd.enliven
+      file-extentions:
+        - .nml
+    - description: Microsoft Embedded OpenType
+      mime-type: application/vnd.ms-fontobject
+      file-extentions:
+        - .eot
+    - description: RAR Archive
+      mime-type: application/vnd.rar
+      file-extentions:
+        - .rar
+    - description: DECE Video
+      mime-type: video/vnd.dece.video
+      file-extentions:
+        - .uvv
+    - mime-type: image/heif-sequence
+    - mime-type: application/cbor
+      references:
+        - name: RFC8949
+    - mime-type: application/jsonpath
+      references:
+        - name: RFC9535
+    - mime-type: application/vnd.infotech.project
+    - description: iRepository / Lucidoc Editor
+      mime-type: application/vnd.irepository.package+xml
+      file-extentions:
+        - .irp
+    - mime-type: message/sip
+      references:
+        - name: RFC3261
+    - mime-type: audio/EVRCNW1
+      references:
+        - name: RFC6884
+    - description: Nuera ECELP 7470
+      mime-type: audio/vnd.nuera.ecelp7470
+      file-extentions:
+        - .ecelp7470
+    - description: 3rd Generation Partnership Project - Pic Var
+      mime-type: application/vnd.3gpp.pic-bw-var
+      file-extentions:
+        - .pvb
+    - description: OpenDocument Text Master
+      mime-type: application/vnd.oasis.opendocument.text-master
+      file-extentions:
+        - .odm
+    - mime-type: application/vnd.oipf.userprofile+xml
+    - mime-type: application/vnd.powerbuilder7-s
+    - description: Wireless Markup Language (WML)
+      mime-type: text/vnd.wap.wml
+      file-extentions:
+        - .wml
+    - description: XSPF - XML Shareable Playlist Format
+      file-extentions:
+        - .xspf
+    - mime-type: application/dca-rft
+    - mime-type: application/sql
+      references:
+        - name: RFC6922
+    - mime-type: application/vnd.cyan.dean.root+xml
+    - description: Fujitsu Oasys
+      mime-type: application/vnd.fujitsu.oasys
+      file-extentions:
+        - .oas
+    - description: FuzzySheet
+      mime-type: application/vnd.fuzzysheet
+      file-extentions:
+        - .fzs
+    - mime-type: application/vnd.logipipe.circuit+zip
+    - mime-type: video/vnd.motorola.videop
+    - mime-type: multipart/form-data
+      references:
+        - name: RFC7578
+    - description: HP-GL/2 and HP RTL
+      file-extentions:
+        - .hpgl
+    - description: Web Open Font Format
+      mime-type: font/woff
+      references:
+        - name: RFC8081
+      file-extentions:
+        - .woff
+    - description: GPS eXchange Format
+      file-extentions:
+        - .gpx
+    - description: Interactive Geometry Software
+      mime-type: application/vnd.intergeo
+      file-extentions:
+        - .i2g
+    - mime-type: application/vnd.onepagertat
+    - mime-type: application/vnd.software602.filler.form+xml
+    - mime-type: image/example
+      references:
+        - name: RFC4735
+    - mime-type: image/jpm
+      references:
+        - name: RFC3745
+    - description: Microsoft ClickOnce
+      file-extentions:
+        - .application
+    - mime-type: application/vnd.oma.xcap-directory+xml
+    - description: Microsoft Office - OOXML - Presentation
+      mime-type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+      file-extentions:
+        - .pptx
+    - mime-type: message/vnd.si.simp
+    - mime-type: image/vnd.valve.source.texture
+    - mime-type: audio/sp-midi
+    - mime-type: application/vnd.adobe.partial-upload
+    - mime-type: application/vnd.dvb.ipdcesgaccess2
+    - description: EZPix Secure Photo Album
+      mime-type: application/vnd.ezpix-package
+      file-extentions:
+        - .ez3
+    - mime-type: video/vnd.sealed.swf
+    - mime-type: audio/vorbis
+      references:
+        - name: RFC5215
+    - description: Adobe (Macropedia) Authorware - Binary File
+      file-extentions:
+        - .aab
+    - mime-type: application/mbms-msk-response+xml
+    - mime-type: application/prs.implied-document+xml
+    - description: Session Description Protocol
+      mime-type: application/sdp
+      references:
+        - name: RFC8866
+      file-extentions:
+        - .sdp
+    - mime-type: application/simple-filter+xml
+      references:
+        - name: RFC4661
+    - mime-type: audio/vnd.dolby.pl2
+    - description: 'PKCS #12 - Personal Information Exchange Syntax Standard'
+      file-extentions:
+        - .p12
+    - mime-type: application/vemmi
+      references:
+        - name: RFC2122
+    - mime-type: application/vnd.imagemeter.folder+zip
+    - mime-type: application/vnd.innopath.wamp.notification
+    - mime-type: application/vnd.SimTech-MindMapper
+    - mime-type: text/vnd.motorola.reflex
+    - description: Web Open Font Format v2
+      mime-type: font/woff2
+      references:
+        - name: RFC8081
+      file-extentions:
+        - .woff2
+    - description: Adobe (Macropedia) Authorware - Map
+      file-extentions:
+        - .aam
+    - mime-type: application/set-payment
+    - description: Digital Video Broadcasting
+      mime-type: application/vnd.dvb.service
+      file-extentions:
+        - .svc
+    - mime-type: application/vnd.informedcontrol.rms+xml
+    - description: OpenDocument Text Template
+      mime-type: application/vnd.oasis.opendocument.text-template
+      file-extentions:
+        - .ott
+    - mime-type: model/prc
+    - description: Claymore Data Files
+      mime-type: application/vnd.claymore
+      file-extentions:
+        - .cla
+    - mime-type: application/vnd.wap.sic
+    - mime-type: model/vnd.usda
+    - mime-type: application/its+xml
+    - mime-type: application/link-format
+      references:
+        - name: RFC6690
+    - mime-type: application/vnd.oma.lwm2m+tlv
+    - mime-type: audio/SMV-QCP
+      references:
+        - name: RFC3625
+    - mime-type: application/vnd.syncml.dmddf+wbxml
+    - mime-type: text/encaprtp
+      references:
+        - name: RFC6849
+    - description: Icon Image
+      file-extentions:
+        - .ico
+    - description: Kotlin source file
+      file-extentions:
+        - .kt
+        - .kts
+        - .ktm
+    - mime-type: application/vnd.3gpp.mcptt-ue-init-config+xml
+    - mime-type: application/vnd.etsi.aoc+xml
+    - mime-type: application/vnd.fujixerox.ART-EX
+    - description: Groove - Injector
+      mime-type: application/vnd.groove-injector
+      file-extentions:
+        - .grv
+    - mime-type: video/vnd.nokia.mp4vr
+    - description: Zip Archive
+      mime-type: application/zip
+      file-extentions:
+        - .zip
+    - mime-type: application/vnd.3gpp.mcvideo-info+xml
+    - mime-type: application/vnd.ncd.reference
+    - description: N-Gage Game Data
+      mime-type: application/vnd.nokia.n-gage.data
+      file-extentions:
+        - .ngdat
+    - mime-type: application/vnd.wmc
+    - mime-type: application/xcap-el+xml
+      references:
+        - name: RFC4825
+    - mime-type: image/heic-sequence
+    - description: OpenOffice - Impress Template (Presentation)
+      file-extentions:
+        - .sti
+    - mime-type: application/index.cmd
+      references:
+        - name: RFC2652
+    - mime-type: application/vnd.freelog.comic
+    - mime-type: application/vnd.oma.cab-feature-handler+xml
+    - description: TIBCO Spotfire
+      mime-type: application/vnd.spotfire.dxp
+      file-extentions:
+        - .dxp
+    - mime-type: application/vnd.ntt-local.sip-ta_tcp_stream
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml
+    - description: Tar File (Tape Archive)
+      file-extentions:
+        - .tar
+    - mime-type: application/vnd.mermaid
+    - description: Microsoft Office System Release Theme
+      mime-type: application/vnd.ms-officetheme
+      file-extentions:
+        - .thmx
+    - mime-type: image/vnd.airzip.accelerator.azv
+    - description: Forth source file
+      file-extentions:
+        - .fth
+        - .4th
+        - .forth
+    - mime-type: application/dns
+      references:
+        - name: RFC4027
+    - mime-type: application/vnd.erofs
+    - mime-type: application/vnd.openxmlformats-officedocument.themeOverride+xml
+    - mime-type: application/vnd.xmpie.cpkg
+    - mime-type: text/rfc822-headers
+      references:
+        - name: RFC6522
+    - mime-type: application/p21+zip
+    - mime-type: application/vnd.nato.bindingdataobject+xml
+    - mime-type: application/EmergencyCallData.DeviceInfo+xml
+      references:
+        - name: RFC7852
+    - description: Java Archive
+      mime-type: application/java-archive
+      file-extentions:
+        - .jar
+    - mime-type: application/sbe
+    - mime-type: application/session-info
+    - description: Curl - Detached Applet
+      file-extentions:
+        - .dcurl
+    - mime-type: application/vnd.3gpp.s1ap
+    - mime-type: text/javascript
+      references:
+        - name: RFC9239
+    - mime-type: application/im-iscomposing+xml
+      references:
+        - name: RFC3994
+    - mime-type: application/jscontact+json
+      references:
+        - name: RFC9553
+    - description: OpenOffice - Draw (Graphics)
+      file-extentions:
+        - .sxd
+    - description: Glyph Bitmap Distribution Format
+      file-extentions:
+        - .bdf
+    - description: Email Message
+      file-extentions:
+        - .eml
+    - mime-type: audio/EVRC1
+      references:
+        - name: RFC4788
+    - mime-type: application/vnd.dvb.notif-container+xml
+    - mime-type: application/vnd.ipld.dag-json
+    - mime-type: application/vnd.wolfram.mathematica.package
+    - description: PRS Lines Tag
+      mime-type: text/prs.lines.tag
+      file-extentions:
+        - .dsc
+    - mime-type: model/stl
+    - description: EDMICS 2000
+      mime-type: image/vnd.fujixerox.edmics-rlc
+      file-extentions:
+        - .rlc
+    - mime-type: application/vnd.collabio.xodocuments.presentation-template
+    - description: CrickSoftware - Clicker - Keyboard
+      mime-type: application/vnd.crick.clicker.keyboard
+      file-extentions:
+        - .clkk
+    - mime-type: application/vnd.fujifilm.fb.docuworks.binder
+    - mime-type: application/vnd.openxmlformats-officedocument.custom-properties+xml
+    - mime-type: application/vnd.tcpdump.pcap
+    - mime-type: application/rpki-roa
+      references:
+        - name: RFC9582
+    - mime-type: application/vnd.sealed.xls
+    - description: Wordperfect
+      mime-type: application/vnd.wordperfect
+      file-extentions:
+        - .wpd
+    - description: Backus-Naur Form definition file
+      file-extentions:
+        - .bnf
+    - mime-type: application/vnd.ms-windows.nwprinting.oob
+    - mime-type: application/yang-patch+json
+      references:
+        - name: RFC8072
+    - description: C Shell Script
+      file-extentions:
+        - .csh
+    - description: Server Normal Format
+      file-extentions:
+        - .snf
+    - mime-type: application/vnd.etsi.iptvservice+xml
+    - mime-type: image/t38
+      references:
+        - name: RFC3362
+    - description: JavaScript language file
+      mime-type: application/javascript
+      references:
+        - name: RFC4329
+        - name: RFC9239
+      file-extentions:
+        - .js
+    - mime-type: application/pkcs8-encrypted
+      references:
+        - name: RFC8351
+    - mime-type: application/prs.hpub+zip
+    - description: Active Content Compression
+      mime-type: application/vnd.americandynamics.acc
+      file-extentions:
+        - .acc
+    - mime-type: application/vnd.anki
+    - mime-type: application/index.response
+      references:
+        - name: RFC2652
+    - mime-type: application/vnd.hcl-bireports
+    - mime-type: application/vnd.radisys.msml-audit-conf+xml
+      references:
+        - name: RFC5707
+    - mime-type: audio/clearmode
+      references:
+        - name: RFC4040
+    - mime-type: application/vnd.radisys.msml-dialog+xml
+      references:
+        - name: RFC5707
+    - mime-type: model/vnd.usdz+zip
+    - mime-type: image/apng
+    - description: Data Structure for the Security Suitability of Cryptographic Algorithms
+      mime-type: application/dssc+xml
+      references:
+        - name: RFC5698
+      file-extentions:
+        - .xdssc
+    - mime-type: model/JT
+    - description: Microsoft Advanced Systems Format (ASF)
+      file-extentions:
+        - .asf
+    - mime-type: application/vnd.xfdl.webform
+    - description: Markdown source file
+      file-extentions:
+        - .md
+    - description: Ogg
+      mime-type: application/ogg
+      references:
+        - name: RFC5334
+        - name: RFC7845
+      file-extentions:
+        - .ogx
+    - mime-type: application/vnd.nokia.catalogs
+    - mime-type: application/vnd.nokia.iSDS-radio-presets
+    - mime-type: application/vnd.paos.xml
+    - description: Compiled Wireless Markup Language (WMLC)
+      mime-type: application/vnd.wap.wmlc
+      file-extentions:
+        - .wmlc
+    - mime-type: image/hej2k
+    - mime-type: application/vnd.3gpp.mcvideo-regroup+xml
+    - mime-type: application/vnd.amundsen.maze+xml
+    - description: CosmoCaller
+      mime-type: application/vnd.cosmocaller
+      file-extentions:
+        - .cmc
+    - mime-type: application/zlib
+      references:
+        - name: RFC6713
+    - mime-type: text/ecmascript
+      references:
+        - name: RFC9239
+    - description: Hypertext Application Language
+      mime-type: application/vnd.hal+xml
+      file-extentions:
+        - .hal
+    - description: Archipelago Lesson Player
+      mime-type: application/vnd.hhe.lesson-player
+      file-extentions:
+        - .les
+    - description: MacPorts Port System
+      mime-type: application/vnd.macports.portpkg
+      file-extentions:
+        - .portpkg
+    - mime-type: application/vnd.radisys.msml-audit+xml
+      references:
+        - name: RFC5707
+    - mime-type: application/vnd.tri.onesource
+    - description: UMAJIN
+      mime-type: application/vnd.umajin
+      file-extentions:
+        - .umj
+    - mime-type: application/mosskey-data
+      references:
+        - name: RFC1848
+    - description: CU-Writer
+      mime-type: application/prs.cww
+      file-extentions:
+        - .cww
+    - mime-type: application/simpleSymbolContainer
+    - mime-type: application/vnd.3gpp.mcptt-mbms-usage-info+xml
+    - mime-type: application/vnd.banana-accounting
+    - mime-type: message/bhttp
+      references:
+        - name: RFC9292
+    - description: RealMedia
+      file-extentions:
+        - .rm
+    - mime-type: image/vnd.zbrush.pcx
+    - description: Data Structure for the Security Suitability of Cryptographic Algorithms
+      mime-type: application/dssc+der
+      references:
+        - name: RFC5698
+      file-extentions:
+        - .dssc
+    - mime-type: application/index.obj
+      references:
+        - name: RFC2652
+    - mime-type: application/vnd.3gpp.5gnas
+    - mime-type: application/vnd.afpc.modca
+    - mime-type: text/vnd.hans
+    - mime-type: video/ulpfec
+      references:
+        - name: RFC5109
+    - mime-type: audio/DV
+      references:
+        - name: RFC6469
+    - mime-type: audio/EVRCNW
+      references:
+        - name: RFC6884
+    - mime-type: application/LXF
+    - mime-type: application/vnd.acm.addressxfer+json
+    - mime-type: application/vnd.eu.kasparian.car+json
+    - description: MUsical Score Interpreted Code Invented for the ASCII designation of Notation
+      mime-type: application/vnd.musician
+      file-extentions:
+        - .mus
+    - description: Viewport+
+      mime-type: application/vnd.vsf
+      file-extentions:
+        - .vsf
+    - mime-type: application/mikey
+      references:
+        - name: RFC3830
+    - mime-type: application/vnd.afpc.foca-codedfont
+    - mime-type: application/vnd.dir-bi.plate-dl-nosuffix
+    - mime-type: application/vnd.dtg.local.html
+    - description: XQuery source file
+      file-extentions:
+        - .xq
+        - .xql
+        - .xqm
+        - .xqy
+        - .xquery
+    - mime-type: text/vtt
+    - mime-type: message/mls
+      references:
+        - name: RFC9420
+    - description: CURL Applet
+      file-extentions:
+        - .car
+    - mime-type: application/concise-problem-details+cbor
+      references:
+        - name: RFC9290, Section 6.3
+    - mime-type: application/vnd.emclient.accessrequest+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.viewProps+xml
+    - mime-type: application/vnd.resilient.logic
+    - mime-type: video/vnd.sealed.mpeg4
+    - description: HP Printer Command Language
+      file-extentions:
+        - .pcl
+    - description: OMA Download Agents
+      mime-type: application/vnd.oma.dd2+xml
+      file-extentions:
+        - .dd2
+    - mime-type: application/vnd.yamaha.remote-setup
+    - mime-type: audio/ip-mr_v2.5
+      references:
+        - name: RFC6262
+    - description: ImmerVision PURE Players
+      mime-type: application/vnd.immervision-ivu
+      file-extentions:
+        - .ivu
+    - description: Shana Informed Filler
+      mime-type: application/vnd.shana.informed.package
+      file-extentions:
+        - .ipk
+    - mime-type: image/jxrS
+    - mime-type: application/clue+xml
+      references:
+        - name: RFC8847
+    - description: MARC21 XML Schema
+      mime-type: application/marcxml+xml
+      references:
+        - name: RFC6207
+      file-extentions:
+        - .mrcx
+    - mime-type: application/tamp-apex-update
+      references:
+        - name: RFC5934
+    - mime-type: application/trickle-ice-sdpfrag
+      references:
+        - name: RFC8840
+    - mime-type: application/vnd.hp-HPGL
+    - description: Intercon FormNet
+      mime-type: application/vnd.intercon.formnet
+      file-extentions:
+        - .xpw
+    - mime-type: application/vnd.psfs
+    - description: Melody Format for Mobile Platform
+      mime-type: application/vnd.mfmp
+      file-extentions:
+        - .mfm
+    - mime-type: text/cql-identifier
+    - mime-type: application/framework-attributes+xml
+      references:
+        - name: RFC6230
+    - description: Internet Public Key Infrastructure - Certificate Revocation Lists
+      mime-type: application/pkix-crl
+      references:
+        - name: RFC2585
+      file-extentions:
+        - .crl
+    - description: 3rd Generation Partnership Project - Transaction Capabilities Application Part
+      mime-type: application/vnd.3gpp2.tcap
+      file-extentions:
+        - .tcap
+    - mime-type: application/vnd.hdt
+    - description: Quicken
+      mime-type: application/vnd.intu.qfx
+      file-extentions:
+        - .qfx
+    - mime-type: application/json-seq
+      references:
+        - name: RFC7464
+    - mime-type: application/vnd.3gpp.mcdata-msgstore-ctrl-request+xml
+    - description: 3D Crossword Plugin
+      mime-type: application/vnd.hzn-3d-crossword
+      file-extentions:
+        - .x3d
+    - mime-type: model/vnd.valve.source.compiled-map
+    - description: JPEG 2000 Compound Image File Format
+      file-extentions:
+        - .jpm
+    - description: PocketLearn Viewers
+      mime-type: application/vnd.pocketlearn
+      file-extentions:
+        - .plf
+    - description: Lua source file
+      file-extentions:
+        - .lua
+    - mime-type: application/inkml+xml
+    - mime-type: application/vnd.cyclonedx+json
+    - description: KDE KOffice Office Suite - Kpresenter
+      mime-type: application/vnd.kde.kpresenter
+      file-extentions:
+        - .kpr
+    - mime-type: application/vnd.ms-office.activeX+xml
+    - description: Java Source File
+      file-extentions:
+        - .java
+    - description: MPEG Video
+      file-extentions:
+        - .mpeg
+    - description: EFI Proteus
+      mime-type: application/vnd.proteus.magazine
+      file-extentions:
+        - .mgz
+    - mime-type: application/vnd.sbm.cid
+    - mime-type: audio/ATRAC3
+      references:
+        - name: RFC5584
+    - mime-type: audio/dsr-es202211
+      references:
+        - name: RFC4060
+    - description: Kinar Applications
+      file-extentions:
+        - .kne
+    - mime-type: application/vnd.3gpp.mcvideo-transmission-request+xml
+    - mime-type: application/vnd.aplextor.warrp+json
+    - mime-type: application/vnd.artsquare
+    - mime-type: application/vnd.etsi.iptvsad-bc+xml
+    - mime-type: application/yang-patch+xml
+      references:
+        - name: RFC8072
+    - description: IOCOM Visimeet
+      mime-type: application/vnd.insors.igm
+      file-extentions:
+        - .igm
+    - mime-type: application/vnd.msa-disk-image
+    - mime-type: application/vnd.oipf.pae.gem
+    - mime-type: application/alto-endpointcost+json
+      references:
+        - name: RFC7285
+    - mime-type: application/nlsml+xml
+      references:
+        - name: RFC6787
+    - mime-type: application/ppsp-tracker+json
+      references:
+        - name: RFC7846
+    - mime-type: application/tamp-apex-update-confirm
+      references:
+        - name: RFC5934
+    - description: GeoGebra
+      mime-type: application/vnd.geogebra.tool
+      file-extentions:
+        - .ggt
+    - description: 3GP2
+      mime-type: video/3gpp2
+      references:
+        - name: RFC4393
+        - name: RFC6381
+      file-extentions:
+        - .3g2
+    - description: Microsoft Windows Media Video Playlist
+      file-extentions:
+        - .wvx
+    - mime-type: application/urc-uisocketdesc+xml
+    - description: OpenDocument Image Template
+      mime-type: application/vnd.oasis.opendocument.image-template
+      file-extentions:
+        - .oti
+    - mime-type: video/MPV
+      references:
+        - name: RFC3555
+    - mime-type: video/vnd.motorola.video
+    - mime-type: model/vnd.moml+xml
+    - description: Portable Network Graphics
+      mime-type: image/png
+      file-extentions:
+        - .png
+    - mime-type: application/city+json
+    - mime-type: application/dec-dx
+    - description: NobleNet Directory
+      mime-type: application/vnd.noblenet-directory
+      file-extentions:
+        - .nnd
+    - mime-type: application/vnd.patientecommsdoc
+    - description: Recordare Applications
+      mime-type: application/vnd.recordare.musicxml+xml
+      file-extentions:
+        - .musicxml
+    - mime-type: application/vnd.oma.lwm2m+json
+    - mime-type: text/spdx
+    - description: Tab Seperated Values
+      mime-type: text/tab-separated-values
+      file-extentions:
+        - .tsv
+    - mime-type: application/atsc-dynamic-event-message
+    - mime-type: application/vnd.dece.unspecified
+    - mime-type: application/vnd.uplanet.cacheop-wbxml
+    - mime-type: audio/G726-24
+      references:
+        - name: RFC4856
+    - mime-type: application/EmergencyCallData.VEDS+xml
+      references:
+        - name: RFC8148
+        - name: RFC Errata 6500
+    - description: JavaScript Object Notation (JSON)
+      mime-type: application/json
+      references:
+        - name: RFC8259
+      file-extentions:
+        - .json
+    - mime-type: application/vnd.3gpp.mcptt-affiliation-command+xml
+    - mime-type: application/vnd.intertrust.digibox
+    - description: OpenOffice - Writer (Text - HTML)
+      file-extentions:
+        - .sxw
+    - mime-type: video/rtp-enc-aescm128
+    - mime-type: application/fdf
+    - mime-type: application/gnap-binding-jws
+      references:
+        - name: RFC-ietf-gnap-core-protocol-20
+    - mime-type: application/p2p-overlay+xml
+      references:
+        - name: RFC6940
+    - mime-type: application/sensml+json
+      references:
+        - name: RFC8428
+    - mime-type: application/vnd.uplanet.alert
+    - description: DreamFactory
+      mime-type: application/vnd.dreamfactory
+      file-extentions:
+        - .dfac
+    - description: Muvee Automatic Video Editing
+      mime-type: application/vnd.muvee.style
+      file-extentions:
+        - .msty
+    - mime-type: application/vnd.oma.cab-address-book+xml
+    - mime-type: application/ttml+xml
+    - mime-type: application/vnd.etsi.tsl.der
+    - description: Lotus Wordpro
+      mime-type: application/vnd.lotus-wordpro
+      file-extentions:
+        - .lwp
+    - description: 3GPP MSEQ File
+      mime-type: application/vnd.mseq
+      file-extentions:
+        - .mseq
+    - mime-type: image/vnd.mozilla.apng
+    - mime-type: audio/BV32
+      references:
+        - name: RFC4298
+    - mime-type: application/scim+json
+      references:
+        - name: RFC7644
+    - description: Simply Accounting - Data Import
+      mime-type: application/vnd.accpac.simply.imp
+      file-extentions:
+        - .imp
+    - mime-type: application/vnd.meridian-slingshot
+    - mime-type: application/vnd.microsoft.windows.thumbnail-cache
+    - mime-type: application/vnd.pwg-multiplexed
+      references:
+        - name: RFC3391
+    - mime-type: application/vnd.loom
+    - description: OpenDocument Chart
+      mime-type: application/vnd.oasis.opendocument.chart
+      file-extentions:
+        - .odc
+    - mime-type: application/vnd.onepagertamp
+    - mime-type: application/clr
+    - mime-type: application/font-sfnt
+      references:
+        - name: RFC8081
+    - description: Open eBook Publication Structure
+      mime-type: application/oebps-package+xml
+      file-extentions:
+        - .opf
+    - mime-type: application/vnd.bzip3
+    - mime-type: application/vnd.eprints.data+xml
+    - mime-type: video/vnd.sealedmedia.softseal.mov
+    - description: OpenOffice - Draw Template (Graphics)
+      file-extentions:
+        - .std
+    - mime-type: application/vnd.nokia.iptv.config+xml
+    - mime-type: video/MP2T
+      references:
+        - name: RFC3555
+    - mime-type: video/nv
+      references:
+        - name: RFC4856
+    - mime-type: audio/parityfec
+      references:
+        - name: RFC3009
+    - mime-type: audio/vnd.dolby.pulse.1
+    - description: Rust source file
+      file-extentions:
+        - .rs
+    - description: Novadigm's RADIA and EDM products
+      file-extentions:
+        - .ext
+    - description: Scheme source file
+      file-extentions:
+        - .scm
+        - .ss
+    - mime-type: application/cose-key
+      references:
+        - name: RFC9052
+    - mime-type: application/vnd.afpc.foca-codepage
+    - mime-type: application/vnd.oci.image.manifest.v1+json
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.template.main+xml
+    - description: Mobius Management Systems - Distribution Database
+      file-extentions:
+        - .dis
+    - mime-type: application/vnd.ims.lti.v2.toolsettings.simple+json
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+    - description: Microsoft Windows Terminal Services
+      file-extentions:
+        - .trm
+    - description: Proprietary P&G Standard Reporting System
+      mime-type: application/vnd.pg.osasli
+      file-extentions:
+        - .ei6
+    - description: True BASIC
+      mime-type: application/vnd.trueapp
+      file-extentions:
+        - .tra
+    - description: Blackberry COD File
+      file-extentions:
+        - .cod
+    - mime-type: application/soap+xml
+      references:
+        - name: RFC3902
+    - mime-type: application/vnd.afpc.modca-cmtable
+    - mime-type: audio/matroska
+      references:
+        - name: RFC-ietf-cellar-matroska-21
+    - description: Office Document Architecture
+      file-extentions:
+        - .oda
+    - description: QuarkXpress
+      file-extentions:
+        - .qxd
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml
+    - mime-type: video/H261
+      references:
+        - name: RFC4587
+    - mime-type: application/gltf-buffer
+    - mime-type: application/lgr+xml
+      references:
+        - name: RFC7940
+    - mime-type: application/vnd.apple.numbers
+    - mime-type: application/vnd.etsi.iptvueprofile+xml
+    - description: Google Earth - KML
+      mime-type: application/vnd.google-earth.kml+xml
+      file-extentions:
+        - .kml
+    - description: XML-Binary Optimized Packaging
+      mime-type: application/xop+xml
+      file-extentions:
+        - .xop
+    - description: Photoshop Document
+      mime-type: image/vnd.adobe.photoshop
+      file-extentions:
+        - .psd
+    - mime-type: application/cfw
+      references:
+        - name: RFC6230
+    - mime-type: application/vnd.dvb.pfr
+    - mime-type: application/vnd.japannet-jpnstore-wakeup
+    - description: OpenDocument Spreadsheet Template
+      mime-type: application/vnd.oasis.opendocument.spreadsheet-template
+      file-extentions:
+        - .ots
+    - description: Zzazz Deck
+      mime-type: application/vnd.zzazz.deck+xml
+      file-extentions:
+        - .zaz
+    - mime-type: text/vnd.net2phone.commcenter.command
+    - description: Erlang source file
+      file-extentions:
+        - .erl
+        - .hrl
+    - mime-type: application/vnd.oma.bcast.sgdd+xml
+    - mime-type: application/vnd.oma.cab-subs-invite+xml
+    - mime-type: application/vnd.relpipe
+    - mime-type: video/parityfec
+      references:
+        - name: RFC3009
+    - mime-type: video/vc1
+      references:
+        - name: RFC4425
+    - mime-type: application/vnd.3gpp2.bcmcsinfo+xml
+    - description: Z.U.L. Geometry
+      mime-type: application/vnd.zul
+      file-extentions:
+        - .zir
+    - mime-type: application/vnd.oma.drm.risd+xml
+    - description: Binary CPIO Archive
+      file-extentions:
+        - .bcpio
+    - description: Navigation Control file for XML (for ePub)
+      file-extentions:
+        - .ncx
+    - mime-type: application/moss-signature
+      references:
+        - name: RFC1848
+    - mime-type: application/vnd.3gpp.SRVCC-info+xml
+    - mime-type: image/naplps
+    - description: Digital Talking Book - Resource File
+      file-extentions:
+        - .res
+    - description: Life Balance - Desktop Edition
+      mime-type: application/vnd.llamagraphics.life-balance.desktop
+      file-extentions:
+        - .lbd
+    - description: Lotus Notes
+      mime-type: application/vnd.lotus-notes
+      file-extentions:
+        - .nsf
+    - description: Microsoft Office - OOXML - Spreadsheet
+      mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+      file-extentions:
+        - .xlsx
+    - description: TeX Font Metric
+      file-extentions:
+        - .tfm
+    - description: Silicon Graphics RGB Bitmap
+      file-extentions:
+        - .rgb
+    - mime-type: application/ATXML
+    - mime-type: application/vnd.uplanet.listcmd
+    - mime-type: application/vnd.yamaha.through-ngn
+    - description: Nunjucks template file
+      file-extentions:
+        - .njk
+    - mime-type: application/vnd.ves.encrypted
+    - mime-type: audio/G719
+      references:
+        - name: RFC5404
+        - name: RFC Errata 3245
+    - mime-type: application/multipart-core
+      references:
+        - name: RFC8710
+    - mime-type: application/vnd.3gpp.gtpc
+    - mime-type: application/vnd.futoin+cbor
+    - mime-type: application/vnd.gentoo.xpak
+    - mime-type: audio/3gpp2
+      references:
+        - name: RFC4393
+        - name: RFC6381
+    - description: TypeScript source file
+      file-extentions:
+        - .ts
+    - mime-type: application/mbms-user-service-description+xml
+    - mime-type: application/vnd.ieee.1905
+    - mime-type: application/vnd.xmpie.dpkg
+    - description: URI Resolution Services
+      mime-type: text/uri-list
+      references:
+        - name: RFC2483
+      file-extentions:
+        - .uri
+    - mime-type: text/vnd.radisys.msml-basic-layout
+      references:
+        - name: RFC5707
+    - mime-type: application/aif+json
+      references:
+        - name: RFC9237
+    - description: GrafEq
+      mime-type: application/vnd.grafeq
+      file-extentions:
+        - .gqf
+    - mime-type: audio/dsr-es202212
+      references:
+        - name: RFC4060
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml
+    - mime-type: application/vnd.radisys.msml-audit-dialog+xml
+      references:
+        - name: RFC5707
+    - description: MPEG Audio
+      mime-type: audio/mpeg
+      references:
+        - name: RFC3003
+      file-extentions:
+        - .mpga
+    - mime-type: application/cwt
+      references:
+        - name: RFC8392
+    - mime-type: application/DIT
+    - mime-type: application/kpml-response+xml
+      references:
+        - name: RFC4730
+    - mime-type: application/news-transmission
+      references:
+        - name: RFC5537
+    - mime-type: application/tnauthlist
+      references:
+        - name: RFC8226
+    - description: Portable Game Notation (Chess Games)
+      file-extentions:
+        - .pgn
+    - mime-type: application/geoxacml+json
+    - description: OpenDocument Graphics
+      mime-type: application/vnd.oasis.opendocument.graphics
+      file-extentions:
+        - .odg
+    - mime-type: application/vnd.openxmlformats-package.relationships+xml
+    - description: RealVNC
+      mime-type: application/vnd.realvnc.bed
+      file-extentions:
+        - .bed
+    - description: WSDL - Web Services Description Language
+      mime-type: application/wsdl+xml
+      file-extentions:
+        - .wsdl
+    - description: Friendly Software Corporation
+      mime-type: application/vnd.fsc.weblaunch
+      file-extentions:
+        - .fsc
+    - mime-type: application/vnd.modl
+    - description: StarOffice - Impress
+      file-extentions:
+        - .sdd
+    - description: YAML Ain't Markup Language / Yet Another Markup Language
+      file-extentions:
+        - .yaml
+        - .yml
+    - mime-type: application/vnd.cncf.helm.config.v1+json
+    - mime-type: image/avif
+    - mime-type: audio/vnd.dolby.pl2x
+    - description: Microsoft Access
+      file-extentions:
+        - .mdb
+    - mime-type: application/rls-services+xml
+      references:
+        - name: RFC4826
+    - mime-type: application/vnd.ecowin.fileupdate
+    - description: OpenOffice - Calc Template (Spreadsheet)
+      file-extentions:
+        - .stc
+    - description: C++ source file
+      file-extentions:
+        - .cpp
+    - mime-type: application/vnd.3gpp.sms+xml
+    - mime-type: application/vnd.msign
+    - mime-type: text/vnd.senx.warpscript
+    - description: Microsoft Windows Initialization
+      file-extentions:
+        - .ini
+    - mime-type: application/IOTP
+      references:
+        - name: RFC2935
+    - mime-type: application/riscos
+    - mime-type: application/tamp-error
+      references:
+        - name: RFC5934
+    - mime-type: application/vnd.ipfs.ipns-record
+    - mime-type: application/vnd.Mobius.DIS
+    - description: Rich Text Format
+      mime-type: application/rtf
+      file-extentions:
+        - .rtf
+    - mime-type: audio/rtp-midi
+      references:
+        - name: RFC6295
+    - description: Liquid template file
+      file-extentions:
+        - .liquid
+    - mime-type: application/vnd.3lightssoftware.imagescal
+    - description: Genomatix Tuxedo Framework
+      mime-type: application/vnd.genomatix.tuxedo
+      file-extentions:
+        - .txd
+    - mime-type: application/wordperfect5.1
+    - mime-type: video/mpeg4-generic
+      references:
+        - name: RFC3640
+    - mime-type: model/step+xml
+    - mime-type: image/jpx
+      references:
+        - name: RFC3745
+    - description: ANSER-WEB Terminal Client - Web Funds Transfer
+      file-extentions:
+        - .fti
+    - mime-type: application/ISUP
+      references:
+        - name: RFC3204
+    - mime-type: application/prs.rdf-xml-crypt
+    - description: WMLScript
+      mime-type: application/vnd.wap.wmlscriptc
+      file-extentions:
+        - .wmlsc
+    - mime-type: model/step+zip
+    - mime-type: image/heic
+    - description: Microsoft Excel - Add-In File
+      file-extentions:
+        - .xlam
+    - mime-type: application/atsc-rsat+xml
+    - description: Efficient XML Interchange
+      mime-type: application/exi
+      file-extentions:
+        - .exi
+    - mime-type: application/vnd.f-secure.mobile
+    - description: GeoMetry Explorer
+      mime-type: application/vnd.geometry-explorer
+      file-extentions:
+        - .gex
+    - mime-type: message/CPIM
+      references:
+        - name: RFC3862
+    - description: Material Exchange Format
+      mime-type: application/mxf
+      references:
+        - name: RFC4539
+      file-extentions:
+        - .mxf
+    - mime-type: application/oblivious-dns-message
+      references:
+        - name: RFC9230
+    - mime-type: application/prs.vcfbzip2
+    - description: CIM Database
+      mime-type: application/vnd.contact.cmsg
+      file-extentions:
+        - .cdbcmsg
+    - mime-type: text/prs.prop.logic
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml
+    - mime-type: application/vnd.rapid
+    - mime-type: audio/EVRC-QCP
+      references:
+        - name: RFC3625
+    - mime-type: application/1d-interleaved-parityfec
+      references:
+        - name: RFC6015
+    - mime-type: application/vnd.afpc.modca-pagesegment
+    - description: Fujitsu Oasys
+      mime-type: application/vnd.fujitsu.oasysprs
+      file-extentions:
+        - .bh2
+    - mime-type: image/vnd.sealedmedia.softseal.gif
+    - mime-type: application/3gppHal+json
+    - mime-type: text/vnd.wap.si
+    - mime-type: audio/mpeg4-generic
+      references:
+        - name: RFC3640
+        - name: RFC5691
+        - name: RFC6295
+    - description: PICSRules
+      file-extentions:
+        - .prf
+    - mime-type: application/vnd.leap+json
+    - mime-type: application/vnd.RenLearn.rlprint
+    - mime-type: multipart/appledouble
+    - description: X PixMap
+      file-extentions:
+        - .xpm
+    - description: Medical Waveform Encoding Format
+      file-extentions:
+        - .mwf
+    - description: GEONExT and JSXGraph
+      mime-type: application/vnd.geonext
+      file-extentions:
+        - .gxt
+    - mime-type: application/vnd.ibm.electronic-media
+    - description: Preview Systems ZipLock/VBox
+      mime-type: application/vnd.previewsystems.box
+      file-extentions:
+        - .box
+    - description: SMART Technologies Apps
+      mime-type: application/vnd.smart.teacher
+      file-extentions:
+        - .teacher
+    - mime-type: model/vnd.pytha.pyox
+    - mime-type: application/mpeg4-generic
+      references:
+        - name: RFC3640
+    - mime-type: application/vnd.3gpp.mcdata-signalling
+    - description: Qualcomm's Plaza Mobile Internet
+      mime-type: application/vnd.pmi.widget
+      file-extentions:
+        - .wg
+    - description: DECE SD Video
+      mime-type: video/vnd.dece.sd
+      file-extentions:
+        - .uvs
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml
+    - description: G3 Fax Image
+      mime-type: image/g3fax
+      references:
+        - name: RFC1494
+      file-extentions:
+        - .g3
+    - mime-type: application/EDI-consent
+      references:
+        - name: RFC1767
+    - description: AirZip FileSECURE
+      mime-type: application/vnd.airzip.filesecure.azs
+      file-extentions:
+        - .azs
+    - mime-type: application/vnd.ms-excel.template.macroEnabled.12
+    - description: NobleNet Web
+      mime-type: application/vnd.noblenet-web
+      file-extentions:
+        - .nnw
+    - mime-type: video/vnd.iptvforum.ttsavc
+    - description: Forms Data Format
+      file-extentions:
+        - .fdf
+    - description: Text File
+      file-extentions:
+        - .txt
+    - description: C Source File
+      file-extentions:
+        - .c
+    - description: Audiograph
+      mime-type: application/vnd.audiograph
+      file-extentions:
+        - .aep
+    - mime-type: application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml
+    - description: SMAF Phrase
+      mime-type: application/vnd.yamaha.smaf-phrase
+      file-extentions:
+        - .spf
+    - description: FLEXSTOR
+      mime-type: text/vnd.fmi.flexstor
+      file-extentions:
+        - .flx
+    - mime-type: text/vnd.sosi
+    - mime-type: message/imdn+xml
+      references:
+        - name: RFC5438
+    - description: Speech Synthesis Markup Language
+      mime-type: application/ssml+xml
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .ssml
+    - mime-type: application/vnd.apache.arrow.file
+    - description: Kahootz
+      mime-type: application/vnd.kahootz
+      file-extentions:
+        - .ktz
+    - mime-type: application/vnd.onvif.metadata
+    - mime-type: application/vnd.rs-274x
+    - mime-type: model/vnd.flatland.3dml
+    - mime-type: image/vnd.pco.b16
+    - mime-type: application/ibe-pp-data
+      references:
+        - name: RFC5408
+    - mime-type: application/td+json
+    - mime-type: application/vnd.belightsoft.lhzl+zip
+    - mime-type: application/vnd.oma-scws-http-request
+    - mime-type: application/vnd.uplanet.bearer-choice-wbxml
+    - mime-type: application/gnap-binding-jwsd
+      references:
+        - name: RFC-ietf-gnap-core-protocol-20
+    - description: Tagged Image File Format
+      mime-type: image/tiff
+      references:
+        - name: RFC3302
+      file-extentions:
+        - .tif
+        - .tiff
+    - description: OpenType font
+      mime-type: font/otf
+      references:
+        - name: RFC8081
+      file-extentions:
+        - .otf
+    - description: Ghostscript Font
+      file-extentions:
+        - .gsf
+    - description: Java Serialized Object
+      file-extentions:
+        - .ser
+    - description: CURL Applet
+      file-extentions:
+        - .pcurl
+    - mime-type: application/efi
+    - description: Frogans Player
+      mime-type: application/vnd.frogans.ltf
+      file-extentions:
+        - .ltf
+    - mime-type: video/H263-2000
+      references:
+        - name: RFC4629
+    - mime-type: video/rtx
+      references:
+        - name: RFC4588
+    - mime-type: text/provenance-notation
+    - description: Chemical Style Markup Language
+      file-extentions:
+        - .csml
+    - mime-type: application/alto-updatestreamcontrol+json
+      references:
+        - name: RFC8895
+    - mime-type: application/vnd.3gpp.mcptt-signed+xml
+    - mime-type: application/vnd.ms-word.document.macroEnabled.12
+    - description: Ogg Video
+      mime-type: video/ogg
+      references:
+        - name: RFC5334
+        - name: RFC7845
+      file-extentions:
+        - .ogv
+    - mime-type: text/fhirpath
+    - mime-type: application/pgp-keys
+      references:
+        - name: RFC3156
+    - mime-type: application/rpki-updown
+      references:
+        - name: RFC6492
+    - mime-type: application/vnd.gentoo.pkgmetadata+xml
+    - description: Microsoft Learning Resource Module
+      mime-type: application/vnd.ms-lrm
+      file-extentions:
+        - .lrm
+    - mime-type: audio/PCMA-WB
+      references:
+        - name: RFC5391
+    - mime-type: application/vnd.cups-postscript
+    - mime-type: application/vnd.efi.iso
+    - description: X BitMap
+      file-extentions:
+        - .xbm
+    - mime-type: application/vnd.3gpp.pinapp-info+xml
+    - mime-type: application/vnd.3gpp.seal-ue-config-info+xml
+    - mime-type: text/fwdred
+      references:
+        - name: RFC6354
+    - description: OpenOffice - Impress (Presentation)
+      file-extentions:
+        - .sxi
+    - description: Portable Compiled Format
+      file-extentions:
+        - .pcf
+    - description: Xtend source file
+      file-extentions:
+        - .xtend
+    - mime-type: application/ibe-pkg-reply+xml
+      references:
+        - name: RFC5408
+    - mime-type: application/vcard+xml
+      references:
+        - name: RFC6351
+    - mime-type: application/vnd.gridmp
+    - mime-type: image/pwg-raster
+    - description: FlashPix
+      mime-type: image/vnd.net-fpx
+      file-extentions:
+        - .npx
+    - mime-type: application/vnd.nokia.landmark+wbxml
+    - mime-type: application/vnd.uplanet.bearer-choice
+    - mime-type: audio/vnd.CELP
+    - description: Time Stamped Data Envelope
+      mime-type: application/timestamped-data
+      references:
+        - name: RFC5955
+      file-extentions:
+        - .tsd
+    - description: OpenDocument Image
+      mime-type: application/vnd.oasis.opendocument.image
+      file-extentions:
+        - .odi
+    - mime-type: application/vnd.sealed.doc
+    - mime-type: message/example
+      references:
+        - name: RFC4735
+    - mime-type: message/news
+      references:
+        - name: RFC5537
+    - mime-type: audio/vnd.everad.plj
+    - mime-type: application/prs.implied-object+json
+    - mime-type: application/vnd.cendio.thinlinc.clientconf
+    - mime-type: application/vnd.etsi.pstn+xml
+    - mime-type: application/vnd.ims.lti.v2.toolconsumerprofile+json
+    - mime-type: application/vnd.oai.workflows+json
+    - mime-type: application/vnd.hyperdrive+json
+    - mime-type: application/vnd.iptc.g2.packageitem+xml
+    - mime-type: audio/L16
+      references:
+        - name: RFC4856
+    - description: GNU Texinfo Document
+      file-extentions:
+        - .texinfo
+    - mime-type: application/vnd.radisys.msml-dialog-speech+xml
+      references:
+        - name: RFC5707
+    - mime-type: application/vnd.windows.devicepairing
+    - description: M3U (Multimedia Playlist)
+      file-extentions:
+        - .m3u
+    - description: Fortan source file
+      file-extentions:
+        - .for
+        - .f90
+    - mime-type: application/opc-nodeset+xml
+    - mime-type: application/vnd.uplanet.list-wbxml
+    - description: DECE MP4
+      mime-type: video/vnd.uvvu.mp4
+      file-extentions:
+        - .uvu
+    - mime-type: text/directory
+      references:
+        - name: RFC2425
+        - name: RFC6350
+    - mime-type: image/vnd.sealed.png
+    - description: ClueTrust CartoMobile - Config
+      mime-type: application/vnd.cluetrust.cartomobile-config
+      file-extentions:
+        - .c11amc
+    - description: Microsoft Works
+      mime-type: application/vnd.ms-works
+      file-extentions:
+        - .wps
+    - description: Microsoft PowerPoint - Macro-Enabled Open XML Slide
+      file-extentions:
+        - .sldm
+    - description: Augmented Backus-Naur Form definition file
+      file-extentions:
+        - .abnf
+    - mime-type: application/vnd.cncf.helm.chart.provenance.v1.prov
+    - description: Groove - Tool Message
+      mime-type: application/vnd.groove-tool-message
+      file-extentions:
+        - .gtm
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml
+    - mime-type: video/vnd.objectvideo
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml
+    - description: Microsoft Trust UI Provider - Certificate Trust Link
+      file-extentions:
+        - .stl
+    - mime-type: application/jrd+json
+      references:
+        - name: RFC7033
+    - mime-type: application/mrb-consumer+xml
+      references:
+        - name: RFC6917
+    - mime-type: application/private-token-issuer-directory
+      references:
+        - name: RFC-ietf-privacypass-protocol-16
+    - mime-type: application/vnd.gentoo.eclass
+    - mime-type: application/vnd.oasis.opendocument.text-master-template
+    - mime-type: application/alto-tips+json
+      references:
+        - name: RFC-ietf-alto-new-transport-22
+    - mime-type: application/pidf-diff+xml
+      references:
+        - name: RFC5262
+    - mime-type: application/senml+json
+      references:
+        - name: RFC8428
+    - mime-type: video/evc
+      references:
+        - name: RFC-ietf-avtcore-rtp-evc-07
+    - description: YIN (YANG - XML)
+      mime-type: application/yin+xml
+      references:
+        - name: RFC6020
+      file-extentions:
+        - .yin
+    - description: The zero value
+    - mime-type: application/cose
+      references:
+        - name: RFC9052
+    - mime-type: application/jose
+      references:
+        - name: RFC7515
+    - mime-type: application/vnd.motorola.flexsuite.ttc
+    - mime-type: application/vnd.mynfc
+    - mime-type: application/vnd.oma-scws-config
+    - mime-type: application/jwt
+      references:
+        - name: RFC7519
+    - mime-type: application/route-usd+xml
+    - mime-type: application/vnd.Mobius.DAF
+    - mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml
+    - mime-type: application/vnd.sycle+xml
+    - mime-type: application/linkset+json
+      references:
+        - name: RFC9264
+    - description: XML Resource Lists
+      mime-type: application/resource-lists+xml
+      references:
+        - name: RFC4826
+      file-extentions:
+        - .rl
+    - mime-type: application/vnd.3gpp.ussd+xml
+    - description: DynaGeo
+      mime-type: application/vnd.dynageo
+      file-extentions:
+        - .geo
+    - mime-type: application/vnd.ibm.secure-container
+    - description: EDMICS 2000
+      mime-type: image/vnd.fujixerox.edmics-mmr
+      file-extentions:
+        - .mmr
+    - mime-type: audio/EVRCNW0
+      references:
+        - name: RFC6884
+    - description: Java Bytecode File
+      file-extentions:
+        - .class
+    - mime-type: application/sep+xml
+    - mime-type: application/vnd.etsi.iptvsad-npvr+xml
+    - mime-type: application/vnd.gnu.taler.exchange+json
+    - mime-type: application/vnd.netfpx
+    - mime-type: application/vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml
+    - description: Adaptive differential pulse-code modulation
+      file-extentions:
+        - .adp
+    - mime-type: application/mud+json
+      references:
+        - name: RFC8520
+    - description: New Moon Liftoff/DNA
+      mime-type: application/vnd.dna
+      file-extentions:
+        - .dna
+    - description: Lotus 1-2-3
+      mime-type: application/vnd.lotus-1-2-3
+      file-extentions:
+        - ".123"
+    - mime-type: text/vnd.ms-mediapackage
+    - mime-type: audio/GSM-HR-08
+      references:
+        - name: RFC5993
+    - mime-type: application/vnd.3gpp.mcdata-payload
+    - mime-type: application/vnd.radisys.msml-dialog-base+xml
+      references:
+        - name: RFC5707
+    - mime-type: video/H265
+      references:
+        - name: RFC7798
+    - mime-type: message/delivery-status
+      references:
+        - name: RFC1894
+    - mime-type: audio/speex
+      references:
+        - name: RFC5574
+    - description: KDE KOffice Office Suite - Kformula
+      mime-type: application/vnd.kde.kformula
+      file-extentions:
+        - .kfo
+    - description: Ruby source file
+      file-extentions:
+        - .rb
+    - mime-type: application/json-patch+json
+      references:
+        - name: RFC6902
+    - mime-type: application/spdx+json
+    - mime-type: application/vnd.fdsn.mseed
+    - description: igLoader
+      mime-type: application/vnd.igloader
+      file-extentions:
+        - .igl
+    - description: KDE KOffice Office Suite - KChart
+      mime-type: application/vnd.kde.kchart
+      file-extentions:
+        - .chrt
+    - mime-type: application/vnd.ericsson.quickcall
+    - mime-type: application/eshop
+    - description: Laser App Enterprise
+      mime-type: application/vnd.las.las+xml
+      file-extentions:
+        - .lasxml
+    - description: Microsoft Office - OOXML - Presentation (Slide)
+      mime-type: application/vnd.openxmlformats-officedocument.presentationml.slide
+      file-extentions:
+        - .sldx
+    - mime-type: audio/VDVI
+      references:
+        - name: RFC4856
+    - mime-type: application/vnd.afpc.modca-formdef
+    - description: Microsoft Office - OOXML - Word Document Template
+      mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+      file-extentions:
+        - .dotx
+    - mime-type: audio/vnd.hns.audio
+    - mime-type: application/3gpdash-qoe-report+xml
+    - mime-type: application/dskpp+xml
+      references:
+        - name: RFC6063
+    - mime-type: application/pkcs12
+    - mime-type: application/tlsrpt+json
+      references:
+        - name: RFC8460
+    - mime-type: application/vnd.3gpp.mcdata-info+xml
+    - description: XPInstall - Mozilla
+      file-extentions:
+        - .xpi
+    - mime-type: application/jwk+json
+      references:
+        - name: RFC7517
+    - mime-type: application/vnd.ficlab.flb+zip
+    - mime-type: audio/rtp-enc-aescm128
+    - mime-type: application/alto-endpointprop+json
+      references:
+        - name: RFC7285
+    - description: Cloud Data Management Interface (CDMI) - Capability
+      mime-type: application/cdmi-capability
+      references:
+        - name: RFC6208
+      file-extentions:
+        - .cdmia
+    - mime-type: application/vnd.debian.binary-package
+    - mime-type: application/vnd.oipf.dae.xhtml+xml
+    - mime-type: audio/midi-clip
+    - mime-type: audio/dls
+      references:
+        - name: RFC4613
+    - mime-type: application/token-introspection+jwt
+      references:
+        - name: RFC-oauth-jwt-introspection-response-12
+    - description: CrickSoftware - Clicker
+      mime-type: application/vnd.crick.clicker
+      file-extentions:
+        - .clkx
+    - description: Groove - Account
+      mime-type: application/vnd.groove-account
+      file-extentions:
+        - .gac
+    - mime-type: application/vnd.sbm.mid2
+    - mime-type: text/shex
+    - mime-type: application/vnd.cybank
+    - description: User Interface Quartz - Theme (Symbian)
+      mime-type: application/vnd.uiq.theme
+      file-extentions:
+        - .utz
+    - mime-type: video/pointer
+      references:
+        - name: RFC2862
+    - mime-type: audio/encaprtp
+      references:
+        - name: RFC6849
+    - description: Handlebars template file
+      file-extentions:
+        - .hbs
+    - mime-type: application/vnd.balsamiq.bmml+xml
+    - mime-type: application/vnd.nato.bindingdataobject+cbor
+    - mime-type: audio/SMV
+      references:
+        - name: RFC3558
+    - description: Web Component source file
+      file-extentions:
+        - .webc
+    - mime-type: application/vnd.smintio.portals.archive
+    - description: Opus audio
+      mime-type: audio/opus
+      references:
+        - name: RFC7587
+      file-extentions:
+        - .opus
+    - mime-type: application/dns+json
+      references:
+        - name: RFC8427
+    - mime-type: application/vnd.drive+json
+    - mime-type: application/vnd.etsi.overload-control-policy-dataset+xml
+    - mime-type: application/vnd.fut-misnet
+    - mime-type: application/vnd.oma.pal+xml
+    - description: Shana Informed Filler
+      mime-type: application/vnd.shana.informed.formdata
+      file-extentions:
+        - .ifm
+    - mime-type: image/jxr
+    - mime-type: application/csta+xml
+    - description: MPEG-21
+      mime-type: application/mp21
+      references:
+        - name: RFC6381
+      file-extentions:
+        - .m21
+    - mime-type: application/vnd.3gpp.mcdata-affiliation-command+xml
+    - mime-type: application/vnd.bluetooth.ep.oob
+    - description: N-Gage Game Installer
+      mime-type: application/vnd.nokia.n-gage.symbian.install
+      file-extentions:
+        - .n-gage
+    - mime-type: audio/vnd.dts.uhd
+    - mime-type: application/atomicmail
+    - description: OpenDocument Graphics Template
+      mime-type: application/vnd.oasis.opendocument.graphics-template
+      file-extentions:
+        - .otg
+    - mime-type: text/vnd.ficlab.flt
+    - mime-type: audio/DVI4
+      references:
+        - name: RFC4856
+    - description: vCard
+      file-extentions:
+        - .vcf
+    - mime-type: application/vnd.dzr
+    - mime-type: application/vnd.ffsns
+    - mime-type: application/vnd.japannet-directory-service
+    - description: Open Office Extension
+      file-extentions:
+        - .oxt
+    - description: Setext
+      file-extentions:
+        - .etx
+    - mime-type: application/trig
+    - mime-type: application/vnd.3gpp2.sms
+    - mime-type: application/vnd.doremir.scorecloud-binary-document
+    - description: Mustache template file
+      file-extentions:
+        - .mustache
+    - mime-type: video/SMPTE292M
+      references:
+        - name: RFC3497
+    - description: Comma-Seperated Values
+      mime-type: text/csv
+      references:
+        - name: RFC4180
+        - name: RFC7111
+      file-extentions:
+        - .csv
+    - mime-type: model/example
+      references:
+        - name: RFC4735
+    - mime-type: application/urc-ressheet+xml
+    - mime-type: application/vnd.apache.thrift.json
+    - mime-type: application/vnd.nintendo.snes.rom
+    - description: Sugar Linux Application Bundle
+      mime-type: application/vnd.olpc-sugar
+      file-extentions:
+        - .xo
+    - description: Princeton Video Image
+      mime-type: application/vnd.pvi.ptid1
+      file-extentions:
+        - .ptid
+    - mime-type: message/ohttp-res
+      references:
+        - name: RFC9458
+    - mime-type: image/heif
+    - mime-type: audio/EVRCB1
+      references:
+        - name: RFC4788
+    - mime-type: application/prs.implied-structure
+    - mime-type: application/vnd.3gpp.mc-signalling-ear
+    - mime-type: application/vnd.3gpp-v2x-local-service-information
+    - mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml
+    - description: Open Score Format
+      mime-type: application/vnd.yamaha.openscoreformat
+      file-extentions:
+        - .osf
+    - mime-type: audio/G728
+      references:
+        - name: RFC4856
+    - description: Curl - Source Code
+      file-extentions:
+        - .scurl
+    - mime-type: application/sipc
+    - description: 3rd Generation Partnership Project - Pic Large
+      mime-type: application/vnd.3gpp.pic-bw-large
+      file-extentions:
+        - .plb
+    - mime-type: application/vnd.bekitzur-stech+json
+    - mime-type: application/vnd.oma.poc.optimized-progress-report+xml
+    - description: FISH shell script
+      file-extentions:
+        - .fish
+    - mime-type: application/elm+json
+    - mime-type: application/vnd.3gpp.vae-info+xml
+    - description: BusinessObjects
+      mime-type: application/vnd.businessobjects
+      file-extentions:
+        - .rep
+    - mime-type: text/xml
+      references:
+        - name: RFC7303
+    - mime-type: multipart/voice-message
+      references:
+        - name: RFC3801
+    - mime-type: application/alto-propmapparams+json
+      references:
+        - name: RFC9240
+    - description: MICROSEC e-Szignï¿½
+      mime-type: application/vnd.eszigno3+xml
+      file-extentions:
+        - .es3
+    - mime-type: audio/vnd.rhetorex.32kadpcm
+    - description: Jupyter Notebook
+      file-extentions:
+        - .ipynb
+    - description: Mobipocket
+      file-extentions:
+        - .prc
+    - mime-type: application/flexfec
+      references:
+        - name: RFC8627
+    - mime-type: application/vnd.coffeescript
+    - mime-type: application/vnd.infotech.project+xml
+    - mime-type: application/vnd.radisys.msml-dialog-group+xml
+      references:
+        - name: RFC5707
+    - mime-type: text/vnd.exchangeable
+    - description: SGI Movie
+      file-extentions:
+        - .movie
+    - mime-type: application/poc-settings+xml
+      references:
+        - name: RFC4354
+    - mime-type: application/vnd.3gpp.seal-network-QoS-management-info+xml
+    - mime-type: audio/vnd.cmles.radio-events
+    - description: Microsoft MediaView
+      file-extentions:
+        - .mvb
+    - description: Microsoft Windows Media Audio
+      file-extentions:
+        - .wma
+    - mime-type: audio/MELP1200
+      references:
+        - name: RFC8130
+    - description: CD audio
+      file-extentions:
+        - .cda
+    - mime-type: application/vnd.apache.parquet
+    - description: GeoGebra
+      mime-type: application/vnd.geogebra.file
+      file-extentions:
+        - .ggb
+    - mime-type: application/vnd.panoply
+    - mime-type: text/cql
+    - mime-type: audio/example
+      references:
+        - name: RFC4735
+    - mime-type: application/spirits-event+xml
+      references:
+        - name: RFC3910
+    - mime-type: application/vnd.gentoo.manifest
+    - description: Unity 3d
+      mime-type: application/vnd.unity
+      file-extentions:
+        - .unityweb
+    - description: Pascal Source File
+      file-extentions:
+        - .p
+    - mime-type: audio/prs.sid
+    - description: Nuera ECELP 4800
+      mime-type: audio/vnd.nuera.ecelp4800
+      file-extentions:
+        - .ecelp4800
+    - mime-type: application/smil
+      references:
+        - name: RFC4536
+    - description: XML Transformations
+      mime-type: application/xslt+xml
+      file-extentions:
+        - .xslt
+    - mime-type: text/vnd.latex-z
+    - mime-type: image/avci
+    - mime-type: audio/PCMU-WB
+      references:
+        - name: RFC5391
+    - description: CoolTalk
+      file-extentions:
+        - .ice
+    - description: XML Resource Lists Diff
+      mime-type: application/resource-lists-diff+xml
+      references:
+        - name: RFC5362
+      file-extentions:
+        - .rld
+    - mime-type: application/samlassertion+xml
+    - mime-type: application/ulpfec
+      references:
+        - name: RFC5109
+    - mime-type: application/vnd.comicbook-rar
+    - mime-type: text/jcr-cnd
+    - mime-type: application/ace+cbor
+      references:
+        - name: RFC9200
+    - mime-type: application/vnd.osgi.bundle
+    - mime-type: text/raptorfec
+      references:
+        - name: RFC6682
+    - description: Waveform Audio File Format (WAV)
+      file-extentions:
+        - .wav
+    - mime-type: application/problem+xml
+      references:
+        - name: RFC9457
+    - mime-type: application/vnd.geo+json
+    - mime-type: application/ODX
+    - mime-type: application/vnd.ecowin.series
+    - description: H.264
+      file-extentions:
+        - .h264
+    - description: Real Audio Sound
+      file-extentions:
+        - .ram
+    - mime-type: application/timestamp-query
+      references:
+        - name: RFC3161
+    - mime-type: application/vnd.mason+json
+    - mime-type: application/vnd.wv.ssp+xml
+    - mime-type: video/H264
+      references:
+        - name: RFC6184
+    - mime-type: video/vnd.radgamettools.smacker
+    - mime-type: audio/telephone-event
+      references:
+        - name: RFC4733
+    - description: Metadata Object Description Schema
+      mime-type: application/mods+xml
+      references:
+        - name: RFC6207
+      file-extentions:
+        - .mods
+    - mime-type: application/vnd.omaloc-supl-init
+    - mime-type: application/vnd.sealedmedia.softseal.html
+    - mime-type: model/u3d
+    - mime-type: image/hsj2
+    - mime-type: application/vnd.bint.med-content
+    - mime-type: audio/iLBC
+      references:
+        - name: RFC3952
+    - mime-type: application/vnd.3gpp.srvcc-ext+xml
+    - mime-type: application/vnd.ubisoft.webplayer
+    - description: 3GPP
+      mime-type: video/3gpp
+      references:
+        - name: RFC3839
+        - name: RFC6381
+      file-extentions:
+        - .3gp
+    - mime-type: video/vnd.nokia.interleaved-multimedia
+    - mime-type: audio/asc
+      references:
+        - name: RFC6295
+    - description: Mathematical Markup Language
+      mime-type: application/mathml+xml
+      file-extentions:
+        - .mathml
+    - mime-type: multipart/x-mixed-replace
+    - description: FastBid Sheet
+      mime-type: image/vnd.fastbidsheet
+      file-extentions:
+        - .fbs
+    - description: Adobe XML Forms Data Format
+      file-extentions:
+        - .xfdf
+    - description: OpenDocument Presentation Template
+      mime-type: application/vnd.oasis.opendocument.presentation-template
+      file-extentions:
+        - .otp
+    - description: Microsoft Document Imaging Format
+      mime-type: image/vnd.ms-modi
+      file-extentions:
+        - .mdi
+    - description: Standard Generalized Markup Language (SGML)
+      file-extentions:
+        - .sgml
+    - mime-type: application/tamp-status-query
+      references:
+        - name: RFC5934
+    - mime-type: application/webpush-options+json
+      references:
+        - name: RFC8292
+    - description: Ad1obe Shockwave Player
+      file-extentions:
+        - .dir
+    - description: Microsoft Windows Media Audio/Video Playlist
+      file-extentions:
+        - .wmx
+    - description: HashiCorp configuration language
+      file-extentions:
+        - .hcl
+    - mime-type: application/alto-tipsparams+json
+      references:
+        - name: RFC-ietf-alto-new-transport-22
+    - mime-type: application/dicom
+      references:
+        - name: RFC3240
+    - mime-type: application/n-triples
+    - mime-type: application/vnd.dataresource+json
+    - description: FrameMaker Interchange Format
+      mime-type: application/vnd.mif
+      file-extentions:
+        - .mif
+    - description: Nuera ECELP 9600
+      mime-type: audio/vnd.nuera.ecelp9600
+      file-extentions:
+        - .ecelp9600
+    - description: Microsoft Information Card
+      file-extentions:
+        - .crd
+    - mime-type: application/alto-networkmap+json
+      references:
+        - name: RFC7285
+    - description: Internet Public Key Infrastructure - Certification Path
+      mime-type: application/pkix-pkipath
+      references:
+        - name: RFC6066
+      file-extentions:
+        - .pkipath
+    - mime-type: application/vnd.dtg.local.flash
+    - mime-type: video/raptorfec
+      references:
+        - name: RFC6682
+    - description: COLLADA
+      mime-type: model/vnd.collada+xml
+      file-extentions:
+        - .dae
+    - description: OpenDocument Presentation
+      mime-type: application/vnd.oasis.opendocument.presentation
+      file-extentions:
+        - .odp
+    - mime-type: application/x-www-form-urlencoded
+    - description: StarOffice - Calc
+      file-extentions:
+        - .sdc
+    - mime-type: application/lpf+zip
+    - description: GeoplanW
+      mime-type: application/vnd.geoplan
+      file-extentions:
+        - .g2w
+    - mime-type: audio/vnd.dolby.mlp
+    - mime-type: application/alto-endpointpropparams+json
+      references:
+        - name: RFC7285
+    - mime-type: application/DCD
+    - mime-type: audio/TSVCIS
+      references:
+        - name: RFC8817
+    - description: CU-SeeMe
+      file-extentions:
+        - .cu
+    - description: CPIO Archive
+      file-extentions:
+        - .cpio
+    - mime-type: application/at+jwt
+      references:
+        - name: RFC9068
+    - mime-type: application/senml+cbor
+      references:
+        - name: RFC8428
+    - description: Blueice Research Multipass
+      mime-type: application/vnd.blueice.multipass
+      file-extentions:
+        - .mpm
+    - description: Open Document Text Web
+      mime-type: application/vnd.oasis.opendocument.text-web
+      file-extentions:
+        - .oth
+    - mime-type: model/obj
+    - mime-type: application/geopackage+sqlite3
+    - mime-type: application/vnd.balsamiq.bmpr
+    - description: Micrografx iGrafx Professional
+      mime-type: application/vnd.micrografx.igx
+      file-extentions:
+        - .igx
+    - description: Apache Avro Interface Definition Language (IDL) Schema file
+      file-extentions:
+        - .avdl
+    - description: BAS Partitur Format
+      file-extentions:
+        - .par
+    - mime-type: application/taxii+json
+    - mime-type: application/vnd.3gpp-prose-pc3a+xml
+    - description: HP Indigo Digital Press - Job Layout Languate
+      mime-type: application/vnd.hp-jlyt
+      file-extentions:
+        - .jlt
+    - mime-type: video/vnd.iptvforum.ttsmpeg2
+    - description: FlashPix
+      mime-type: image/vnd.fpx
+      file-extentions:
+        - .fpx
+    - mime-type: application/vnd.qualcomm.brew-app-res
+    - description: X Window Dump
+      file-extentions:
+        - .xwd
+    - description: Embedded JavaScript Template file
+      file-extentions:
+        - .ejs
+    - mime-type: application/mbms-protection-description+xml
+    - mime-type: video/vnd.iptvforum.2dparityfec-1010
+    - description: Adobe Portable Document Format
+      mime-type: application/pdf
+      references:
+        - name: RFC8118
+      file-extentions:
+        - .pdf
+    - mime-type: application/vnd.ntt-local.file-transfer
+    - mime-type: application/watcherinfo+xml
+      references:
+        - name: RFC3858
+    - description: Mobius Management Systems - Script Language
+      file-extentions:
+        - .msl
+    - description: Visual Basic source file
+      file-extentions:
+        - .vb
+        - .vbs
+        - .vbscript
+    - description: SimTech MindMapper
+      file-extentions:
+        - .twd
+    - mime-type: application/mbms-msk+xml
+    - mime-type: application/mipc
+    - mime-type: application/vnd.3gpp.seal-group-doc+xml
+    - mime-type: video/jxsv
+      references:
+        - name: RFC9134
+    - description: DECE High Definition Video
+      mime-type: video/vnd.dece.hd
+      file-extentions:
+        - .uvh
+    - mime-type: video/vnd.directv.mpeg
+    - mime-type: model/vnd.bary
+    - mime-type: application/expect-ct-report+json
+      references:
+        - name: RFC9163
+    - mime-type: application/raptorfec
+      references:
+        - name: RFC6682
+    - description: Ahead AIR Application
+      mime-type: application/vnd.ahead.space
+      file-extentions:
+        - .ahead
+    - mime-type: application/vnd.gpxsee.map+xml
+    - mime-type: application/vnd.radisys.msml-dialog-fax-sendrecv+xml
+      references:
+        - name: RFC5707
+    - description: Pronunciation Lexicon Specification
+      mime-type: application/pls+xml
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .pls
+    - mime-type: application/vnd.xmpie.xlim
+    - mime-type: audio/fwdred
+      references:
+        - name: RFC6354
+    - mime-type: application/vnd.shopkick+json
+    - mime-type: application/vnd.wap.slc
+    - mime-type: application/n-quads
+    - mime-type: video/vnd.dece.mp4
+    - description: Audio Video Interleave (AVI)
+      file-extentions:
+        - .avi
+    - description: Secured eMail
+      mime-type: application/vnd.semf
+      file-extentions:
+        - .semf
+    - description: Speech Recognition Grammar Specification
+      mime-type: application/srgs
+      references:
+        - name: RFC4267
+      file-extentions:
+        - .gram
+    - description: ICC profile
+      mime-type: application/vnd.iccprofile
+      file-extentions:
+        - .icc
+    - mime-type: application/vnd.patentdive
+    - mime-type: audio/MPA
+      references:
+        - name: RFC3555
+    - mime-type: application/SGML
+      references:
+        - name: RFC1874
+    - mime-type: application/vnd.japannet-payment-wakeup
+    - description: Rich Text Format (RTF)
+      file-extentions:
+        - .rtx
+    - mime-type: application/vnd.mdl
+    - description: Microsoft Cabinet File
+      mime-type: application/vnd.ms-cab-compressed
+      file-extentions:
+        - .cab
+    - mime-type: application/vnd.oipf.dae.svg+xml
+    - description: OpenOffice - Math (Formula)
+      file-extentions:
+        - .sxm
+    - mime-type: application/ace+json
+      references:
+        - name: RFC9431
+    - mime-type: model/vnd.parasolid.transmit.text
+    - mime-type: message/tracking-status
+      references:
+        - name: RFC3886
+    - mime-type: audio/QCELP
+      references:
+        - name: RFC3555
+        - name: RFC3625
+    - mime-type: audio/vnd.dlna.adts
+    - mime-type: application/yang-data+cbor
+      references:
+        - name: RFC9254
+    - mime-type: image/aces
+    - mime-type: image/vnd.tencent.tap
+    - description: Secure Electronic Transaction - Registration
+      mime-type: application/set-registration-initiation
+      file-extentions:
+        - .setreg
+    - mime-type: application/urc-grpsheet+xml
+    - mime-type: application/vnd.ciedi
+    - mime-type: application/vnd.snesdev-page-table
+    - mime-type: application/vnd.xmi+xml
+    - description: FutureSplash Animator
+      file-extentions:
+        - .spl
+    - description: Tcl Script
+      file-extentions:
+        - .tcl
+        - .tbc
+    - description: S Hexdump Format
+      mime-type: application/shf+xml
+      references:
+        - name: RFC4194
+      file-extentions:
+        - .shf
+    - mime-type: text/parameters
+      references:
+        - name: RFC7826
+    - description: Wireless Markup Language Script (WMLScript)
+      mime-type: text/vnd.wap.wmlscript
+      file-extentions:
+        - .wmls
+    - mime-type: audio/eac3
+      references:
+        - name: RFC4598
+    - mime-type: application/cellml+xml
+      references:
+        - name: RFC4708
+    - mime-type: application/vnd.3gpp.sms
+    - description: OpenDocument Spreadsheet
+      mime-type: application/vnd.oasis.opendocument.spreadsheet
+      file-extentions:
+        - .ods
+    - mime-type: application/vnd.oma.push
+    - description: Microsoft PlayReady Ecosystem Video
+      mime-type: video/vnd.ms-playready.media.pyv
+      file-extentions:
+        - .pyv
+    - description: 'PKCS #7 - Cryptographic Message Syntax Standard'
+      mime-type: application/pkcs7-signature
+      references:
+        - name: RFC8551
+      file-extentions:
+        - .p7s
+    - mime-type: application/vnd.3gpp.ngap
+    - mime-type: application/vnd.uplanet.signal
+    - mime-type: application/vnd.wv.csp+xml
+    - mime-type: application/senml+xml
+      references:
+        - name: RFC8428
+    - mime-type: application/vnd.stepmania.package
+    - description: MPEG Url
+      mime-type: video/vnd.mpegurl
+      file-extentions:
+        - .mxu
+    - description: Crystallographic Interchange Format
+      file-extentions:
+        - .cif
+    - description: ACU Cobol
+      mime-type: application/vnd.acucorp
+      file-extentions:
+        - .atc
+    - mime-type: application/vnd.hc+json
+    - mime-type: application/vnd.obn
+    - mime-type: application/vnd.wfa.wsc
+    - mime-type: application/xfdf
+    - mime-type: application/vnd.iptc.g2.planningitem+xml
+    - mime-type: application/vnd.vectorworks
+    - description: DECE PD Video
+      mime-type: video/vnd.dece.pd
+      file-extentions:
+        - .uvp
+    - mime-type: application/TETRA_ISI
+    - description: KDE KOffice Office Suite - Kontour
+      mime-type: application/vnd.kde.kontour
+      file-extentions:
+        - .kon
+    - mime-type: application/vnd.sun.wadl+xml
+    - description: FLI/FLC Animation Format
+      file-extentions:
+        - .fli
+    - description: Configure Unify Execute
+      file-extentions:
+        - .cue

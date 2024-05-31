@@ -1,2429 +1,2429 @@
 - description: Jupyter Notebook
   mime-type: application/x-jupyter-notebook
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ipynb
 - description: Microsoft Excel Web Query file
   mime-type: application/x-vnd.ms-excel.web-query
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .iqy
 - description: Apache Avro Interface Definition Language (IDL) Schema file
   mime-type: application/x-avro-schema-idl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .avdl
 - description: Apache Avro Javascript Object Notation (JSON) Schema file
   mime-type: application/x-avro-schema-json
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .avsc
 - description: Andrew Toolkit
   mime-type: application/andrew-inset
   mime-type-alt: []
-  file-extention: []
+  file-extentions: []
 - description: Applixware
   mime-type: application/applixware
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aw
 - description: Atom Syndication Format
   mime-type: application/atom+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .atom
 - description: Atom Publishing Protocol
   mime-type: application/atomcat+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .atomcat
 - description: Atom Publishing Protocol Service Document
   mime-type: application/atomsvc+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .atomsvc
 - description: Voice Browser Call Control
   mime-type: application/ccxml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ccxml
 - description: Cloud Data Management Interface (CDMI) - Capability
   mime-type: application/cdmi-capability
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdmia
 - description: Cloud Data Management Interface (CDMI) - Contaimer
   mime-type: application/cdmi-container
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdmic
 - description: Cloud Data Management Interface (CDMI) - Domain
   mime-type: application/cdmi-domain
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdmid
 - description: Cloud Data Management Interface (CDMI) - Object
   mime-type: application/cdmi-object
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdmio
 - description: Cloud Data Management Interface (CDMI) - Queue
   mime-type: application/cdmi-queue
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdmiq
 - description: CU-SeeMe
   mime-type: application/cu-seeme
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cu
 - description: Web Distributed Authoring and Versioning
   mime-type: application/davmount+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .davmount
 - description: Data Structure for the Security Suitability of Cryptographic Algorithms
   mime-type: application/dssc+der
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dssc
 - description: Data Structure for the Security Suitability of Cryptographic Algorithms
   mime-type: application/dssc+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xdssc
 - description: ECMAScript
   mime-type: application/ecmascript
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .es
 - description: Extensible MultiModal Annotation
   mime-type: application/emma+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .emma
 - description: Electronic Publication
   mime-type: application/epub+zip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .epub
 - description: Efficient XML Interchange
   mime-type: application/exi
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .exi
 - description: Portable Font Resource
   mime-type: application/font-tdpfr
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pfr
 - description: GPS eXchange Format
   mime-type: application/gpx+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gpx
 - description: GZip Compressed Archive
   mime-type: application/gzip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gz
 - description: Hyperstudio
   mime-type: application/hyperstudio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .stk
 - description: Internet Protocol Flow Information Export
   mime-type: application/ipfix
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ipfix
 - description: Java Archive
   mime-type: application/java-archive
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jar
 - description: Java Serialized Object
   mime-type: application/java-serialized-object
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ser
 - description: Java Bytecode File
   mime-type: application/java-vm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .class
 - description: JavaScript language file
   mime-type: application/javascript
   mime-type-alt:
       - text/javascript
-  file-extention:
+  file-extentions:
       - .js
 - description: JavaScript Object Notation (JSON)
   mime-type: application/json
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .json
 - description: JSON-LD format
   mime-type: application/ld+json
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jsonld
 - description: Macintosh BinHex 4.0
   mime-type: application/mac-binhex40
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hqx
 - description: Compact Pro
   mime-type: application/mac-compactpro
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cpt
 - description: Metadata Authority Description Schema
   mime-type: application/mads+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mads
 - description: MARC Formats
   mime-type: application/marc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mrc
 - description: MARC21 XML Schema
   mime-type: application/marcxml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mrcx
 - description: Mathematica Notebooks
   mime-type: application/mathematica
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ma
 - description: Mathematical Markup Language
   mime-type: application/mathml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mathml
 - description: Mbox database files
   mime-type: application/mbox
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mbox
 - description: Media Server Control Markup Language
   mime-type: application/mediaservercontrol+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mscml
 - description: Metalink
   mime-type: application/metalink4+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .meta4
 - description: Metadata Encoding and Transmission Standard
   mime-type: application/mets+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mets
 - description: Metadata Object Description Schema
   mime-type: application/mods+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mods
 - description: MPEG-21
   mime-type: application/mp21
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .m21
 - description: Microsoft Word
   mime-type: application/msword
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .doc
 - description: Material Exchange Format
   mime-type: application/mxf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mxf
 - description: Binary Data
   mime-type: application/octet-stream
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bin
 - description: Office Document Architecture
   mime-type: application/oda
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oda
 - description: Open eBook Publication Structure
   mime-type: application/oebps-package+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .opf
 - description: Ogg
   mime-type: application/ogg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ogx
 - description: Microsoft OneNote
   mime-type: application/onenote
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .onetoc
 - description: XML Patch Framework
   mime-type: application/patch-ops-error+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xer
 - description: Adobe Portable Document Format
   mime-type: application/pdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pdf
 - description: Pretty Good Privacy Signature
   mime-type: application/pgp-encrypted
   mime-type-alt:
       - application/pgp-signature
-  file-extention:
+  file-extentions:
       - .pgp
 - description: PICSRules
   mime-type: application/pics-rules
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .prf
 - description: "PKCS #10 - Certification Request Standard"
   mime-type: application/pkcs10
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p10
 - description: "PKCS #7 - Cryptographic Message Syntax Standard"
   mime-type: application/pkcs7-mime
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p7m
 - description: "PKCS #7 - Cryptographic Message Syntax Standard"
   mime-type: application/pkcs7-signature
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p7s
 - description: "PKCS #8 - Private-Key Information Syntax Standard"
   mime-type: application/pkcs8
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p8
 - description: Attribute Certificate
   mime-type: application/pkix-attr-cert
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ac
 - description: Internet Public Key Infrastructure - Certificate
   mime-type: application/pkix-cert
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cer
 - description: Internet Public Key Infrastructure - Certificate Revocation Lists
   mime-type: application/pkix-crl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .crl
 - description: Internet Public Key Infrastructure - Certification Path
   mime-type: application/pkix-pkipath
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pkipath
 - description: Internet Public Key Infrastructure - Certificate Management Protocole
   mime-type: application/pkixcmp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pki
 - description: Pronunciation Lexicon Specification
   mime-type: application/pls+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pls
 - description: PostScript
   mime-type: application/postscript
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ai
 - description: CU-Writer
   mime-type: application/prs.cww
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cww
 - description: Portable Symmetric Key Container
   mime-type: application/pskc+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pskcxml
 - description: Resource Description Framework
   mime-type: application/rdf+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rdf
 - description: IMS Networks
   mime-type: application/reginfo+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rif
 - description: Relax NG Compact Syntax
   mime-type: application/relax-ng-compact-syntax
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rnc
 - description: XML Resource Lists
   mime-type: application/resource-lists+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rl
 - description: XML Resource Lists Diff
   mime-type: application/resource-lists-diff+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rld
 # - description: XML Resource Lists
 #   mime-type: application/rls-services+xml
 #   mime-type-alt: []
-#   file-extention:
+#   file-extentions:
 #     - .rs
 - description: Really Simple Discovery
   mime-type: application/rsd+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rsd
 - description: RSS - Really Simple Syndication
   mime-type: application/rss+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rss
 - description: Rich Text Format
   mime-type: application/rtf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rtf
 - description: Systems Biology Markup Language
   mime-type: application/sbml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sbml
 - description: Server-Based Certificate Validation Protocol - Validation Request
   mime-type: application/scvp-cv-request
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .scq
 - description: Server-Based Certificate Validation Protocol - Validation Response
   mime-type: application/scvp-cv-response
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .scs
 - description: Server-Based Certificate Validation Protocol - Validation Policies - Request
   mime-type: application/scvp-vp-request
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .spq
 - description: Server-Based Certificate Validation Protocol - Validation Policies - Response
   mime-type: application/scvp-vp-response
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .spp
 - description: Session Description Protocol
   mime-type: application/sdp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sdp
 - description: Secure Electronic Transaction - Payment
   mime-type: application/set-payment-initiation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .setpay
 - description: Secure Electronic Transaction - Registration
   mime-type: application/set-registration-initiation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .setreg
 - description: S Hexdump Format
   mime-type: application/shf+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .shf
 - description: Synchronized Multimedia Integration Language
   mime-type: application/smil+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .smi
 - description: SPARQL - Query
   mime-type: application/sparql-query
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rq
 - description: SPARQL - Results
   mime-type: application/sparql-results+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .srx
 - description: Speech Recognition Grammar Specification
   mime-type: application/srgs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gram
 - description: Speech Recognition Grammar Specification - XML
   mime-type: application/srgs+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .grxml
 - description: Search/Retrieve via URL Response Format
   mime-type: application/sru+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sru
 - description: Speech Synthesis Markup Language
   mime-type: application/ssml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ssml
 - description: Text Encoding and Interchange
   mime-type: application/tei+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tei
 - description: Sharing Transaction Fraud Data
   mime-type: application/thraud+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tfi
 - description: Time Stamped Data Envelope
   mime-type: application/timestamped-data
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tsd
 - description: 3rd Generation Partnership Project - Pic Large
   mime-type: application/vnd.3gpp.pic-bw-large
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .plb
 - description: 3rd Generation Partnership Project - Pic Small
   mime-type: application/vnd.3gpp.pic-bw-small
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .psb
 - description: 3rd Generation Partnership Project - Pic Var
   mime-type: application/vnd.3gpp.pic-bw-var
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pvb
 - description: 3rd Generation Partnership Project - Transaction Capabilities Application Part
   mime-type: application/vnd.3gpp2.tcap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tcap
 - description: 3M Post It Notes
   mime-type: application/vnd.3m.post-it-notes
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pwn
 - description: Simply Accounting
   mime-type: application/vnd.accpac.simply.aso
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aso
 - description: Simply Accounting - Data Import
   mime-type: application/vnd.accpac.simply.imp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .imp
 - description: ACU Cobol
   mime-type: application/vnd.acucobol
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .acu
 - description: ACU Cobol
   mime-type: application/vnd.acucorp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .atc
 - description: Adobe AIR Application
   mime-type: application/vnd.adobe.air-application-installer-package+zip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .air
 - description: Adobe Flex Project
   mime-type: application/vnd.adobe.fxp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fxp
 - description: Adobe XML Data Package
   mime-type: application/vnd.adobe.xdp+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xdp
 - description: Adobe XML Forms Data Format
   mime-type: application/vnd.adobe.xfdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xfdf
 - description: Ahead AIR Application
   mime-type: application/vnd.ahead.space
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ahead
 - description: AirZip FileSECURE
   mime-type: application/vnd.airzip.filesecure.azf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .azf
 - description: AirZip FileSECURE
   mime-type: application/vnd.airzip.filesecure.azs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .azs
 - description: Amazon Kindle eBook format
   mime-type: application/vnd.amazon.ebook
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .azw
 - description: Active Content Compression
   mime-type: application/vnd.americandynamics.acc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .acc
 - description: AmigaDE
   mime-type: application/vnd.amiga.ami
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ami
 - description: Android Package Archive
   mime-type: application/vnd.android.package-archive
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .apk
 - description: ANSER-WEB Terminal Client - Certificate Issue
   mime-type: application/vnd.anser-web-certificate-issue-initiation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cii
 - description: ANSER-WEB Terminal Client - Web Funds Transfer
   mime-type: application/vnd.anser-web-funds-transfer-initiation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fti
 - description: Antix Game Player
   mime-type: application/vnd.antix.game-component
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .atx
 - description: Apple Installer Package
   mime-type: application/vnd.apple.installer+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpkg
 - description: Multimedia Playlist Unicode
   mime-type: application/vnd.apple.mpegurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .m3u8
 - description: Arista Networks Software Image
   mime-type: application/vnd.aristanetworks.swi
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .swi
 - description: Audiograph
   mime-type: application/vnd.audiograph
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aep
 - description: Blueice Research Multipass
   mime-type: application/vnd.blueice.multipass
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpm
 - description: BMI Drawing Data Interchange
   mime-type: application/vnd.bmi
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bmi
 - description: BusinessObjects
   mime-type: application/vnd.businessobjects
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rep
 # - description: CambridgeSoft Chem Draw
 #   mime-type: application/vnd.chemdraw+xml
 #   mime-type-alt: []
-#   file-extention:
+#   file-extentions:
 #     - .cdxml
 - description: Karaoke on Chipnuts Chipsets
   mime-type: application/vnd.chipnuts.karaoke-mmd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mmd
 - description: Interactive Geometry Software Cinderella
   mime-type: application/vnd.cinderella
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdy
 - description: Claymore Data Files
   mime-type: application/vnd.claymore
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cla
 - description: RetroPlatform Player
   mime-type: application/vnd.cloanto.rp9
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rp9
 - description: Clonk Game
   mime-type: application/vnd.clonk.c4group
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .c4g
 - description: ClueTrust CartoMobile - Config
   mime-type: application/vnd.cluetrust.cartomobile-config
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .c11amc
 - description: ClueTrust CartoMobile - Config Package
   mime-type: application/vnd.cluetrust.cartomobile-config-pkg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .c11amz
 - description: Sixth Floor Media - CommonSpace
   mime-type: application/vnd.commonspace
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .csp
 - description: CIM Database
   mime-type: application/vnd.contact.cmsg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdbcmsg
 - description: CosmoCaller
   mime-type: application/vnd.cosmocaller
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cmc
 - description: CrickSoftware - Clicker
   mime-type: application/vnd.crick.clicker
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clkx
 - description: CrickSoftware - Clicker - Keyboard
   mime-type: application/vnd.crick.clicker.keyboard
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clkk
 - description: CrickSoftware - Clicker - Palette
   mime-type: application/vnd.crick.clicker.palette
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clkp
 - description: CrickSoftware - Clicker - Template
   mime-type: application/vnd.crick.clicker.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clkt
 - description: CrickSoftware - Clicker - Wordbank
   mime-type: application/vnd.crick.clicker.wordbank
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clkw
 - description: Critical Tools - PERT Chart EXPERT
   mime-type: application/vnd.criticaltools.wbs+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wbs
 - description: PosML
   mime-type: application/vnd.ctc-posml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pml
 - description: Adobe PostScript Printer Description File Format
   mime-type: application/vnd.cups-ppd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppd
 - description: CURL Applet
   mime-type: application/vnd.curl.car
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .car
 - description: CURL Applet
   mime-type: application/vnd.curl.pcurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pcurl
 - description: RemoteDocs R-Viewer
   mime-type: application/vnd.data-vision.rdz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rdz
 - description: FCS Express Layout Link
   mime-type: application/vnd.denovo.fcselayout-link
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fe_launch
 - description: New Moon Liftoff/DNA
   mime-type: application/vnd.dna
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dna
 - description: Dolby Meridian Lossless Packing
   mime-type: application/vnd.dolby.mlp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mlp
 - description: DPGraph
   mime-type: application/vnd.dpgraph
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dpg
 - description: DreamFactory
   mime-type: application/vnd.dreamfactory
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dfac
 - description: Digital Video Broadcasting
   mime-type: application/vnd.dvb.ait
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ait
 - description: Digital Video Broadcasting
   mime-type: application/vnd.dvb.service
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .svc
 - description: DynaGeo
   mime-type: application/vnd.dynageo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .geo
 - description: EcoWin Chart
   mime-type: application/vnd.ecowin.chart
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mag
 - description: Enliven Viewer
   mime-type: application/vnd.enliven
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nml
 - description: QUASS Stream Player
   mime-type: application/vnd.epson.esf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .esf
 - description: QUASS Stream Player
   mime-type: application/vnd.epson.msf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .msf
 - description: QuickAnime Player
   mime-type: application/vnd.epson.quickanime
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qam
 - description: SimpleAnimeLite Player
   mime-type: application/vnd.epson.salt
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .slt
 - description: QUASS Stream Player
   mime-type: application/vnd.epson.ssf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ssf
 - description: MICROSEC e-Szignï¿½
   mime-type: application/vnd.eszigno3+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .es3
 - description: EZPix Secure Photo Album
   mime-type: application/vnd.ezpix-album
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ez2
 - description: EZPix Secure Photo Album
   mime-type: application/vnd.ezpix-package
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ez3
 - description: Forms Data Format
   mime-type: application/vnd.fdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fdf
 - description: Digital Siesmograph Networks - SEED Datafiles
   mime-type: application/vnd.fdsn.seed
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .seed
 - description: NpGraphIt
   mime-type: application/vnd.flographit
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gph
 - description: FluxTime Clip
   mime-type: application/vnd.fluxtime.clip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ftc
 - description: FrameMaker Normal Format
   mime-type: application/vnd.framemaker
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fm
 - description: Frogans Player
   mime-type: application/vnd.frogans.fnc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fnc
 - description: Frogans Player
   mime-type: application/vnd.frogans.ltf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ltf
 - description: Friendly Software Corporation
   mime-type: application/vnd.fsc.weblaunch
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fsc
 - description: Fujitsu Oasys
   mime-type: application/vnd.fujitsu.oasys
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oas
 - description: Fujitsu Oasys
   mime-type: application/vnd.fujitsu.oasys2
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oa2
 - description: Fujitsu Oasys
   mime-type: application/vnd.fujitsu.oasys3
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oa3
 - description: Fujitsu Oasys
   mime-type: application/vnd.fujitsu.oasysgp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fg5
 - description: Fujitsu Oasys
   mime-type: application/vnd.fujitsu.oasysprs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bh2
 - description: Fujitsu - Xerox 2D CAD Data
   mime-type: application/vnd.fujixerox.ddd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ddd
 - description: Fujitsu - Xerox DocuWorks
   mime-type: application/vnd.fujixerox.docuworks
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xdw
 - description: Fujitsu - Xerox DocuWorks Binder
   mime-type: application/vnd.fujixerox.docuworks.binder
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xbd
 - description: FuzzySheet
   mime-type: application/vnd.fuzzysheet
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fzs
 - description: Genomatix Tuxedo Framework
   mime-type: application/vnd.genomatix.tuxedo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .txd
 - description: GeoGebra
   mime-type: application/vnd.geogebra.file
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ggb
 - description: GeoGebra
   mime-type: application/vnd.geogebra.tool
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ggt
 - description: GeoMetry Explorer
   mime-type: application/vnd.geometry-explorer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gex
 - description: GEONExT and JSXGraph
   mime-type: application/vnd.geonext
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gxt
 - description: GeoplanW
   mime-type: application/vnd.geoplan
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .g2w
 - description: GeospacW
   mime-type: application/vnd.geospace
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .g3w
 - description: GameMaker ActiveX
   mime-type: application/vnd.gmx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gmx
 - description: Google Earth - KML
   mime-type: application/vnd.google-earth.kml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kml
 - description: Google Earth - Zipped KML
   mime-type: application/vnd.google-earth.kmz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kmz
 - description: GrafEq
   mime-type: application/vnd.grafeq
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gqf
 - description: Groove - Account
   mime-type: application/vnd.groove-account
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gac
 - description: Groove - Help
   mime-type: application/vnd.groove-help
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ghf
 - description: Groove - Identity Message
   mime-type: application/vnd.groove-identity-message
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gim
 - description: Groove - Injector
   mime-type: application/vnd.groove-injector
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .grv
 - description: Groove - Tool Message
   mime-type: application/vnd.groove-tool-message
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gtm
 - description: Groove - Tool Template
   mime-type: application/vnd.groove-tool-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tpl
 - description: Groove - Vcard
   mime-type: application/vnd.groove-vcard
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vcg
 - description: Hypertext Application Language
   mime-type: application/vnd.hal+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hal
 - description: ZVUE Media Manager
   mime-type: application/vnd.handheld-entertainment+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .zmm
 - description: Homebanking Computer Interface (HBCI)
   mime-type: application/vnd.hbci
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hbci
 - description: Archipelago Lesson Player
   mime-type: application/vnd.hhe.lesson-player
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .les
 - description: HP-GL/2 and HP RTL
   mime-type: application/vnd.hp-hpgl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hpgl
 - description: Hewlett Packard Instant Delivery
   mime-type: application/vnd.hp-hpid
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hpid
 - description: Hewlett-Packard's WebPrintSmart
   mime-type: application/vnd.hp-hps
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hps
 - description: HP Indigo Digital Press - Job Layout Languate
   mime-type: application/vnd.hp-jlyt
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jlt
 - description: HP Printer Command Language
   mime-type: application/vnd.hp-pcl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pcl
 - description: PCL 6 Enhanced (Formely PCL XL)
   mime-type: application/vnd.hp-pclxl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pclxl
 - description: Hydrostatix Master Suite
   mime-type: application/vnd.hydrostatix.sof-data
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sfd-hdstx
 - description: 3D Crossword Plugin
   mime-type: application/vnd.hzn-3d-crossword
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .x3d
 - description: MiniPay
   mime-type: application/vnd.ibm.minipay
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpy
 - description: MO:DCA-P
   mime-type: application/vnd.ibm.modcap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .afp
 - description: IBM DB2 Rights Manager
   mime-type: application/vnd.ibm.rights-management
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .irm
 # - description: IBM Electronic Media Management System - Secure Container
 #   mime-type: application/vnd.ibm.secure-container
 #   mime-type-alt: []
-#   file-extention:
+#   file-extentions:
 #     - .sc
 - description: ICC profile
   mime-type: application/vnd.iccprofile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .icc
 - description: igLoader
   mime-type: application/vnd.igloader
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .igl
 - description: ImmerVision PURE Players
   mime-type: application/vnd.immervision-ivp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ivp
 - description: ImmerVision PURE Players
   mime-type: application/vnd.immervision-ivu
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ivu
 - description: IOCOM Visimeet
   mime-type: application/vnd.insors.igm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .igm
 - description: Intercon FormNet
   mime-type: application/vnd.intercon.formnet
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xpw
 - description: Interactive Geometry Software
   mime-type: application/vnd.intergeo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .i2g
 - description: Open Financial Exchange
   mime-type: application/vnd.intu.qbo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qbo
 - description: Quicken
   mime-type: application/vnd.intu.qfx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qfx
 - description: IP Unplugged Roaming Client
   mime-type: application/vnd.ipunplugged.rcprofile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rcprofile
 - description: iRepository / Lucidoc Editor
   mime-type: application/vnd.irepository.package+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .irp
 - description: Express by Infoseek
   mime-type: application/vnd.is-xpr
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xpr
 - description: International Society for Advancement of Cytometry
   mime-type: application/vnd.isac.fcs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fcs
 - description: Lightspeed Audio Lab
   mime-type: application/vnd.jam
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jam
 - description: Mobile Information Device Profile
   mime-type: application/vnd.jcp.javame.midlet-rms
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rms
 - description: RhymBox
   mime-type: application/vnd.jisp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jisp
 - description: Joda Archive
   mime-type: application/vnd.joost.joda-archive
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .joda
 - description: Kahootz
   mime-type: application/vnd.kahootz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ktz
 - description: KDE KOffice Office Suite - Karbon
   mime-type: application/vnd.kde.karbon
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .karbon
 - description: KDE KOffice Office Suite - KChart
   mime-type: application/vnd.kde.kchart
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .chrt
 - description: KDE KOffice Office Suite - Kformula
   mime-type: application/vnd.kde.kformula
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kfo
 - description: KDE KOffice Office Suite - Kivio
   mime-type: application/vnd.kde.kivio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .flw
 - description: KDE KOffice Office Suite - Kontour
   mime-type: application/vnd.kde.kontour
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kon
 - description: KDE KOffice Office Suite - Kpresenter
   mime-type: application/vnd.kde.kpresenter
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kpr
 - description: KDE KOffice Office Suite - Kspread
   mime-type: application/vnd.kde.kspread
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ksp
 - description: KDE KOffice Office Suite - Kword
   mime-type: application/vnd.kde.kword
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kwd
 - description: Kenamea App
   mime-type: application/vnd.kenameaapp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .htke
 - description: Kidspiration
   mime-type: application/vnd.kidspiration
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kia
 - description: Kinar Applications
   mime-type: application/vnd.kinar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .kne
 - description: SSEYO Koan Play File
   mime-type: application/vnd.koan
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .skp
 - description: Kodak Storyshare
   mime-type: application/vnd.kodak-descriptor
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sse
 - description: Laser App Enterprise
   mime-type: application/vnd.las.las+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lasxml
 - description: Life Balance - Desktop Edition
   mime-type: application/vnd.llamagraphics.life-balance.desktop
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lbd
 - description: Life Balance - Exchange Format
   mime-type: application/vnd.llamagraphics.life-balance.exchange+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lbe
 - description: Lotus 1-2-3
   mime-type: application/vnd.lotus-1-2-3
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - ".123"
 - description: Lotus Approach
   mime-type: application/vnd.lotus-approach
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .apr
 - description: Lotus Freelance
   mime-type: application/vnd.lotus-freelance
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pre
 - description: Lotus Notes
   mime-type: application/vnd.lotus-notes
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nsf
 - description: Lotus Organizer
   mime-type: application/vnd.lotus-organizer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .org
 # - description: Lotus Screencam
 #   mime-type: application/vnd.lotus-screencam
 #   mime-type-alt: []
-#   file-extention:
+#   file-extentions:
 #     - .scm
 - description: Lotus Wordpro
   mime-type: application/vnd.lotus-wordpro
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lwp
 - description: MacPorts Port System
   mime-type: application/vnd.macports.portpkg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .portpkg
 - description: Micro CADAM Helix D&D
   mime-type: application/vnd.mcd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mcd
 - description: MedCalc
   mime-type: application/vnd.medcalcdata
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mc1
 - description: MediaRemote
   mime-type: application/vnd.mediastation.cdkey
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdkey
 - description: Medical Waveform Encoding Format
   mime-type: application/vnd.mfer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mwf
 - description: Melody Format for Mobile Platform
   mime-type: application/vnd.mfmp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mfm
 - description: Micrografx
   mime-type: application/vnd.micrografx.flo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .flo
 - description: Micrografx iGrafx Professional
   mime-type: application/vnd.micrografx.igx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .igx
 - description: FrameMaker Interchange Format
   mime-type: application/vnd.mif
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mif
 - description: Mobius Management Systems - UniversalArchive
   mime-type: application/vnd.mobius.daf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .daf
 - description: Mobius Management Systems - Distribution Database
   mime-type: application/vnd.mobius.dis
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dis
 - description: Mobius Management Systems - Basket file
   mime-type: application/vnd.mobius.mbk
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mbk
 - description: Mobius Management Systems - Query File
   mime-type: application/vnd.mobius.mqy
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mqy
 - description: Mobius Management Systems - Script Language
   mime-type: application/vnd.mobius.msl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .msl
 - description: Mobius Management Systems - Policy Definition Language File
   mime-type: application/vnd.mobius.plc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .plc
 - description: Mobius Management Systems - Topic Index File
   mime-type: application/vnd.mobius.txf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .txf
 - description: Mophun VM
   mime-type: application/vnd.mophun.application
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpn
 - description: Mophun Certificate
   mime-type: application/vnd.mophun.certificate
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpc
 - description: XUL - XML User Interface Language
   mime-type: application/vnd.mozilla.xul+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xul
 - description: Microsoft Artgalry
   mime-type: application/vnd.ms-artgalry
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cil
 - description: Microsoft Cabinet File
   mime-type: application/vnd.ms-cab-compressed
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cab
 - description: Microsoft Excel
   mime-type: application/vnd.ms-excel
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xls
 - description: Microsoft Excel - Add-In File
   mime-type: application/vnd.ms-excel.addin.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xlam
 - description: Microsoft Excel - Binary Workbook
   mime-type: application/vnd.ms-excel.sheet.binary.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xlsb
 - description: Microsoft Excel - Macro-Enabled Workbook
   mime-type: application/vnd.ms-excel.sheet.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xlsm
 - description: Microsoft Excel - Macro-Enabled Template File
   mime-type: application/vnd.ms-excel.template.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xltm
 - description: Microsoft Embedded OpenType
   mime-type: application/vnd.ms-fontobject
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .eot
 - description: Microsoft Html Help File
   mime-type: application/vnd.ms-htmlhelp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .chm
 - description: Microsoft Class Server
   mime-type: application/vnd.ms-ims
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ims
 - description: Microsoft Learning Resource Module
   mime-type: application/vnd.ms-lrm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lrm
 - description: Microsoft Office System Release Theme
   mime-type: application/vnd.ms-officetheme
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .thmx
 - description: Microsoft Trust UI Provider - Security Catalog
   mime-type: application/vnd.ms-pki.seccat
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cat
 - description: Microsoft Trust UI Provider - Certificate Trust Link
   mime-type: application/vnd.ms-pki.stl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .stl
 - description: Microsoft PowerPoint
   mime-type: application/vnd.ms-powerpoint
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppt
 - description: Microsoft PowerPoint - Add-in file
   mime-type: application/vnd.ms-powerpoint.addin.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppam
 - description: Microsoft PowerPoint - Macro-Enabled Presentation File
   mime-type: application/vnd.ms-powerpoint.presentation.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pptm
 - description: Microsoft PowerPoint - Macro-Enabled Open XML Slide
   mime-type: application/vnd.ms-powerpoint.slide.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sldm
 - description: Microsoft PowerPoint - Macro-Enabled Slide Show File
   mime-type: application/vnd.ms-powerpoint.slideshow.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppsm
 - description: Microsoft PowerPoint - Macro-Enabled Template File
   mime-type: application/vnd.ms-powerpoint.template.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .potm
 - description: Microsoft Project
   mime-type: application/vnd.ms-project
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpp
 - description: Microsoft Word - Macro-Enabled Document
   mime-type: application/vnd.ms-word.document.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .docm
 - description: Microsoft Word - Macro-Enabled Template
   mime-type: application/vnd.ms-word.template.macroenabled.12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dotm
 - description: Microsoft Works
   mime-type: application/vnd.ms-works
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wps
 - description: Microsoft Windows Media Player Playlist
   mime-type: application/vnd.ms-wpl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wpl
 - description: Microsoft XML Paper Specification
   mime-type: application/vnd.ms-xpsdocument
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xps
 - description: 3GPP MSEQ File
   mime-type: application/vnd.mseq
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mseq
 - description: MUsical Score Interpreted Code Invented for the ASCII designation of Notation
   mime-type: application/vnd.musician
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mus
 - description: Muvee Automatic Video Editing
   mime-type: application/vnd.muvee.style
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .msty
 - description: neuroLanguage
   mime-type: application/vnd.neurolanguage.nlu
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nlu
 - description: NobleNet Directory
   mime-type: application/vnd.noblenet-directory
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nnd
 - description: NobleNet Sealer
   mime-type: application/vnd.noblenet-sealer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nns
 - description: NobleNet Web
   mime-type: application/vnd.noblenet-web
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nnw
 - description: N-Gage Game Data
   mime-type: application/vnd.nokia.n-gage.data
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ngdat
 - description: N-Gage Game Installer
   mime-type: application/vnd.nokia.n-gage.symbian.install
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .n-gage
 - description: Nokia Radio Application - Preset
   mime-type: application/vnd.nokia.radio-preset
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rpst
 - description: Nokia Radio Application - Preset
   mime-type: application/vnd.nokia.radio-presets
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rpss
 - description: Novadigm's RADIA and EDM products
   mime-type: application/vnd.novadigm.edm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .edm
 - description: Novadigm's RADIA and EDM products
   mime-type: application/vnd.novadigm.edx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .edx
 - description: Novadigm's RADIA and EDM products
   mime-type: application/vnd.novadigm.ext
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ext
 - description: OpenDocument Chart
   mime-type: application/vnd.oasis.opendocument.chart
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odc
 - description: OpenDocument Chart Template
   mime-type: application/vnd.oasis.opendocument.chart-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .otc
 - description: OpenDocument Database
   mime-type: application/vnd.oasis.opendocument.database
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odb
 - description: OpenDocument Formula
   mime-type: application/vnd.oasis.opendocument.formula
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odf
 - description: OpenDocument Formula Template
   mime-type: application/vnd.oasis.opendocument.formula-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odft
 - description: OpenDocument Graphics
   mime-type: application/vnd.oasis.opendocument.graphics
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odg
 - description: OpenDocument Graphics Template
   mime-type: application/vnd.oasis.opendocument.graphics-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .otg
 - description: OpenDocument Image
   mime-type: application/vnd.oasis.opendocument.image
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odi
 - description: OpenDocument Image Template
   mime-type: application/vnd.oasis.opendocument.image-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oti
 - description: OpenDocument Presentation
   mime-type: application/vnd.oasis.opendocument.presentation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odp
 - description: OpenDocument Presentation Template
   mime-type: application/vnd.oasis.opendocument.presentation-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .otp
 - description: OpenDocument Spreadsheet
   mime-type: application/vnd.oasis.opendocument.spreadsheet
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ods
 - description: OpenDocument Spreadsheet Template
   mime-type: application/vnd.oasis.opendocument.spreadsheet-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ots
 - description: OpenDocument Text
   mime-type: application/vnd.oasis.opendocument.text
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odt
 - description: OpenDocument Text Master
   mime-type: application/vnd.oasis.opendocument.text-master
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .odm
 - description: OpenDocument Text Template
   mime-type: application/vnd.oasis.opendocument.text-template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ott
 - description: Open Document Text Web
   mime-type: application/vnd.oasis.opendocument.text-web
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oth
 - description: Sugar Linux Application Bundle
   mime-type: application/vnd.olpc-sugar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xo
 - description: OMA Download Agents
   mime-type: application/vnd.oma.dd2+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dd2
 - description: Open Office Extension
   mime-type: application/vnd.openofficeorg.extension
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oxt
 - description: Microsoft Office - OOXML - Presentation
   mime-type: application/vnd.openxmlformats-officedocument.presentationml.presentation
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pptx
 - description: Microsoft Office - OOXML - Presentation (Slide)
   mime-type: application/vnd.openxmlformats-officedocument.presentationml.slide
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sldx
 - description: Microsoft Office - OOXML - Presentation (Slideshow)
   mime-type: application/vnd.openxmlformats-officedocument.presentationml.slideshow
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppsx
 - description: Microsoft Office - OOXML - Presentation Template
   mime-type: application/vnd.openxmlformats-officedocument.presentationml.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .potx
 - description: Microsoft Office - OOXML - Spreadsheet
   mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xlsx
 - description: Microsoft Office - OOXML - Spreadsheet Template
   mime-type: application/vnd.openxmlformats-officedocument.spreadsheetml.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xltx
 - description: Microsoft Office - OOXML - Word Document
   mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .docx
 - description: Microsoft Office - OOXML - Word Document Template
   mime-type: application/vnd.openxmlformats-officedocument.wordprocessingml.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dotx
 - description: MapGuide DBXML
   mime-type: application/vnd.osgeo.mapguide.package
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mgp
 - description: OSGi Deployment Package
   mime-type: application/vnd.osgi.dp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dp
 - description: PalmOS Data
   mime-type: application/vnd.palm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pdb
 - description: PawaaFILE
   mime-type: application/vnd.pawaafile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .paw
 - description: Proprietary P&G Standard Reporting System
   mime-type: application/vnd.pg.format
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .str
 - description: Proprietary P&G Standard Reporting System
   mime-type: application/vnd.pg.osasli
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ei6
 - description: Pcsel eFIF File
   mime-type: application/vnd.picsel
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .efif
 - description: Qualcomm's Plaza Mobile Internet
   mime-type: application/vnd.pmi.widget
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wg
 - description: PocketLearn Viewers
   mime-type: application/vnd.pocketlearn
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .plf
 - description: PowerBuilder
   mime-type: application/vnd.powerbuilder6
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pbd
 - description: Preview Systems ZipLock/VBox
   mime-type: application/vnd.previewsystems.box
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .box
 - description: EFI Proteus
   mime-type: application/vnd.proteus.magazine
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mgz
 - description: PubliShare Objects
   mime-type: application/vnd.publishare-delta-tree
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qps
 - description: Princeton Video Image
   mime-type: application/vnd.pvi.ptid1
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ptid
 - description: QuarkXpress
   mime-type: application/vnd.quark.quarkxpress
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qxd
 - description: RAR Archive
   mime-type: application/vnd.rar
   mime-type-alt:
       - application/x-rar-compressed
-  file-extention:
+  file-extentions:
       - .rar
 - description: RealVNC
   mime-type: application/vnd.realvnc.bed
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bed
 - description: Recordare Applications
   mime-type: application/vnd.recordare.musicxml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mxl
 - description: Recordare Applications
   mime-type: application/vnd.recordare.musicxml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .musicxml
 - description: CryptoNote
   mime-type: application/vnd.rig.cryptonote
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cryptonote
 - description: Blackberry COD File
   mime-type: application/vnd.rim.cod
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cod
 - description: RealMedia
   mime-type: application/vnd.rn-realmedia
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rm
 - description: ROUTE 66 Location Based Services
   mime-type: application/vnd.route66.link66+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .link66
 - description: SailingTracker
   mime-type: application/vnd.sailingtracker.track
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .st
 - description: SeeMail
   mime-type: application/vnd.seemail
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .see
 - description: Secured eMail
   mime-type: application/vnd.sema
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sema
 - description: Secured eMail
   mime-type: application/vnd.semd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .semd
 - description: Secured eMail
   mime-type: application/vnd.semf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .semf
 - description: Shana Informed Filler
   mime-type: application/vnd.shana.informed.formdata
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ifm
 - description: Shana Informed Filler
   mime-type: application/vnd.shana.informed.formtemplate
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .itp
 - description: Shana Informed Filler
   mime-type: application/vnd.shana.informed.interchange
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .iif
 - description: Shana Informed Filler
   mime-type: application/vnd.shana.informed.package
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ipk
 - description: SimTech MindMapper
   mime-type: application/vnd.simtech-mindmapper
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .twd
 - description: SMAF File
   mime-type: application/vnd.smaf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mmf
 - description: SMART Technologies Apps
   mime-type: application/vnd.smart.teacher
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .teacher
 - description: SudokuMagic
   mime-type: application/vnd.solent.sdkm+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sdkm
 - description: TIBCO Spotfire
   mime-type: application/vnd.spotfire.dxp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dxp
 - description: TIBCO Spotfire
   mime-type: application/vnd.spotfire.sfs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sfs
 - description: StarOffice - Calc
   mime-type: application/vnd.stardivision.calc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sdc
 - description: StarOffice - Draw
   mime-type: application/vnd.stardivision.draw
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sda
 - description: StarOffice - Impress
   mime-type: application/vnd.stardivision.impress
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sdd
 - description: StarOffice - Math
   mime-type: application/vnd.stardivision.math
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .smf
 - description: StarOffice - Writer
   mime-type: application/vnd.stardivision.writer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sdw
 - description: StarOffice - Writer (Global)
   mime-type: application/vnd.stardivision.writer-global
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sgl
 - description: StepMania
   mime-type: application/vnd.stepmania.stepchart
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sm
 - description: OpenOffice - Calc (Spreadsheet)
   mime-type: application/vnd.sun.xml.calc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxc
 - description: OpenOffice - Calc Template (Spreadsheet)
   mime-type: application/vnd.sun.xml.calc.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .stc
 - description: OpenOffice - Draw (Graphics)
   mime-type: application/vnd.sun.xml.draw
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxd
 - description: OpenOffice - Draw Template (Graphics)
   mime-type: application/vnd.sun.xml.draw.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .std
 - description: OpenOffice - Impress (Presentation)
   mime-type: application/vnd.sun.xml.impress
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxi
 - description: OpenOffice - Impress Template (Presentation)
   mime-type: application/vnd.sun.xml.impress.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sti
 - description: OpenOffice - Math (Formula)
   mime-type: application/vnd.sun.xml.math
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxm
 - description: OpenOffice - Writer (Text - HTML)
   mime-type: application/vnd.sun.xml.writer
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxw
 - description: OpenOffice - Writer (Text - HTML)
   mime-type: application/vnd.sun.xml.writer.global
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sxg
 - description: OpenOffice - Writer Template (Text - HTML)
   mime-type: application/vnd.sun.xml.writer.template
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .stw
 - description: ScheduleUs
   mime-type: application/vnd.sus-calendar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sus
 - description: SourceView Document
   mime-type: application/vnd.svd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .svd
 - description: Symbian Install Package
   mime-type: application/vnd.symbian.install
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sis
 - description: SyncML
   mime-type: application/vnd.syncml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xsm
 - description: SyncML - Device Management
   mime-type: application/vnd.syncml.dm+wbxml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bdm
 - description: SyncML - Device Management
   mime-type: application/vnd.syncml.dm+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xdm
 - description: Tao Intent
   mime-type: application/vnd.tao.intent-module-archive
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tao
 - description: MobileTV
   mime-type: application/vnd.tmobile-livetv
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tmo
 - description: TRI Systems Config
   mime-type: application/vnd.trid.tpt
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tpt
 - description: Triscape Map Explorer
   mime-type: application/vnd.triscape.mxs
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mxs
 - description: True BASIC
   mime-type: application/vnd.trueapp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tra
 - description: Universal Forms Description Language
   mime-type: application/vnd.ufdl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ufd
 - description: User Interface Quartz - Theme (Symbian)
   mime-type: application/vnd.uiq.theme
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .utz
 - description: UMAJIN
   mime-type: application/vnd.umajin
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .umj
 - description: Unity 3d
   mime-type: application/vnd.unity
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .unityweb
 - description: Unique Object Markup Language
   mime-type: application/vnd.uoml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uoml
 - description: VirtualCatalog
   mime-type: application/vnd.vcx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vcx
 - description: Microsoft Visio
   mime-type: application/vnd.visio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vsd
 - description: Microsoft Visio 2013
   mime-type: application/vnd.visio2013
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vsdx
 - description: Visionary
   mime-type: application/vnd.visionary
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vis
 - description: Viewport+
   mime-type: application/vnd.vsf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vsf
 - description: WAP Binary XML (WBXML)
   mime-type: application/vnd.wap.wbxml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wbxml
 - description: Compiled Wireless Markup Language (WMLC)
   mime-type: application/vnd.wap.wmlc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmlc
 - description: WMLScript
   mime-type: application/vnd.wap.wmlscriptc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmlsc
 - description: WebTurbo
   mime-type: application/vnd.webturbo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wtb
 - description: Mathematica Notebook Player
   mime-type: application/vnd.wolfram.player
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nbp
 - description: Wordperfect
   mime-type: application/vnd.wordperfect
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wpd
 - description: SundaHus WQ
   mime-type: application/vnd.wqd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wqd
 - description: Worldtalk
   mime-type: application/vnd.wt.stf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .stf
 - description: CorelXARA
   mime-type: application/vnd.xara
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xar
 - description: Extensible Forms Description Language
   mime-type: application/vnd.xfdl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xfdl
 - description: HV Voice Dictionary
   mime-type: application/vnd.yamaha.hv-dic
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hvd
 - description: HV Script
   mime-type: application/vnd.yamaha.hv-script
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hvs
 - description: HV Voice Parameter
   mime-type: application/vnd.yamaha.hv-voice
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hvp
 - description: Open Score Format
   mime-type: application/vnd.yamaha.openscoreformat
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .osf
 - description: OSFPVG
   mime-type: application/vnd.yamaha.openscoreformat.osfpvg+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .osfpvg
 - description: SMAF Audio
   mime-type: application/vnd.yamaha.smaf-audio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .saf
 - description: SMAF Phrase
   mime-type: application/vnd.yamaha.smaf-phrase
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .spf
 - description: CustomMenu
   mime-type: application/vnd.yellowriver-custom-menu
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cmp
 - description: Z.U.L. Geometry
   mime-type: application/vnd.zul
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .zir
 - description: Zzazz Deck
   mime-type: application/vnd.zzazz.deck+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .zaz
 - description: VoiceXML
   mime-type: application/voicexml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vxml
 - description: Widget Packaging and XML Configuration
   mime-type: application/widget
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wgt
 - description: WinHelp
   mime-type: application/winhlp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hlp
 - description: WSDL - Web Services Description Language
   mime-type: application/wsdl+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wsdl
 - description: Web Services Policy
   mime-type: application/wspolicy+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wspolicy
 - description: 7-Zip
   mime-type: application/x-7z-compressed
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .7z
 - description: AbiWord
   mime-type: application/x-abiword
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .abw
 - description: Ace Archive
   mime-type: application/x-ace-compressed
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ace
 - description: Apple Disk Image
   mime-type: application/x-apple-diskimage
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dmg
 - description: Adobe (Macropedia) Authorware - Binary File
   mime-type: application/x-authorware-bin
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aab
 - description: Adobe (Macropedia) Authorware - Map
   mime-type: application/x-authorware-map
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aam
 - description: Adobe (Macropedia) Authorware - Segment File
   mime-type: application/x-authorware-seg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aas
 - description: Binary CPIO Archive
   mime-type: application/x-bcpio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bcpio
 - description: BitTorrent
   mime-type: application/x-bittorrent
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .torrent
 - description: Bzip Archive
   mime-type: application/x-bzip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bz
 - description: Bzip2 Archive
   mime-type: application/x-bzip2
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bz2
 - description: CD audio
   mime-type: application/x-cdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cda
 - description: Video CD
   mime-type: application/x-cdlink
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vcd
 - description: pIRCh
   mime-type: application/x-chat
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .chat
 - description: Portable Game Notation (Chess Games)
   mime-type: application/x-chess-pgn
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pgn
 - description: CPIO Archive
   mime-type: application/x-cpio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cpio
 - description: C Shell Script
   mime-type: application/x-csh
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .csh
 - description: Debian Package
   mime-type: application/x-debian-package
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .deb
 - description: Ad1obe Shockwave Player
   mime-type: application/x-director
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dir
 - description: Doom Video Game
   mime-type: application/x-doom
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wad
 - description: Navigation Control file for XML (for ePub)
   mime-type: application/x-dtbncx+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ncx
 - description: Digital Talking Book
   mime-type: application/x-dtbook+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dtb
 - description: Digital Talking Book - Resource File
   mime-type: application/x-dtbresource+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .res
 - description: Device Independent File Format (DVI)
   mime-type: application/x-dvi
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dvi
 - description: Glyph Bitmap Distribution Format
   mime-type: application/x-font-bdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bdf
 - description: Ghostscript Font
   mime-type: application/x-font-ghostscript
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gsf
 - description: PSF Fonts
   mime-type: application/x-font-linux-psf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .psf
 - description: Portable Compiled Format
   mime-type: application/x-font-pcf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pcf
 - description: Server Normal Format
   mime-type: application/x-font-snf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .snf
 - description: PostScript Fonts
   mime-type: application/x-font-type1
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pfa
 - description: Archive document (multiple files embedded)
   mime-type: application/x-freearc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .arc
 - description: FutureSplash Animator
   mime-type: application/x-futuresplash
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .spl
 - description: Gnumeric
   mime-type: application/x-gnumeric
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gnumeric
 - description: GNU Tar Files
   mime-type: application/x-gtar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gtar
 - description: Hierarchical Data Format
   mime-type: application/x-hdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .hdf
 - description: Hypertext Preprocessor (Personal Home Page)
   mime-type: application/x-httpd-php
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .php
       - .phar
       - .phtml
@@ -2432,208 +2432,209 @@
 - description: Java Network Launching Protocol
   mime-type: application/x-java-jnlp-file
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jnlp
 - description: LaTeX
   mime-type: application/x-latex
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .latex
 - description: Mobipocket
   mime-type: application/x-mobipocket-ebook
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .prc
 - description: Microsoft ClickOnce
   mime-type: application/x-ms-application
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .application
 - description: Microsoft Windows Media Player Download Package
   mime-type: application/x-ms-wmd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmd
 - description: Microsoft Windows Media Player Skin Package
   mime-type: application/x-ms-wmz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmz
 - description: Microsoft XAML Browser Application
   mime-type: application/x-ms-xbap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xbap
 - description: Microsoft Access
   mime-type: application/x-msaccess
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mdb
 - description: Microsoft Office Binder
   mime-type: application/x-msbinder
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .obd
 - description: Microsoft Information Card
   mime-type: application/x-mscardfile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .crd
 - description: Microsoft Clipboard Clip
   mime-type: application/x-msclip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .clp
 - description: Microsoft Application
   mime-type: application/x-msdownload
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .exe
 - description: Microsoft MediaView
   mime-type: application/x-msmediaview
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mvb
 - description: Microsoft Windows Metafile
   mime-type: application/x-msmetafile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmf
 - description: Microsoft Money
   mime-type: application/x-msmoney
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mny
 - description: Microsoft Publisher
   mime-type: application/x-mspublisher
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pub
 - description: Microsoft Schedule+
   mime-type: application/x-msschedule
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .scd
 - description: Microsoft Windows Terminal Services
   mime-type: application/x-msterminal
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .trm
 - description: Microsoft Wordpad
   mime-type: application/x-mswrite
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wri
 - description: Network Common Data Form (NetCDF)
   mime-type: application/x-netcdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .nc
 - description: "PKCS #12 - Personal Information Exchange Syntax Standard"
   mime-type: application/x-pkcs12
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p12
 - description: "PKCS #7 - Cryptographic Message Syntax Standard (Certificates)"
   mime-type: application/x-pkcs7-certificates
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p7b
 - description: "PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response)"
   mime-type: application/x-pkcs7-certreqresp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p7r
 - description: Bourne Shell Script
   mime-type: application/x-sh
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sh
 - description: Shell Archive
   mime-type: application/x-shar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .shar
 - description: Adobe Flash
   mime-type: application/x-shockwave-flash
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .swf
 - description: Microsoft Silverlight
   mime-type: application/x-silverlight-app
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xap
 - description: Stuffit Archive
   mime-type: application/x-stuffit
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sit
 - description: Stuffit Archive
   mime-type: application/x-stuffitx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sitx
 - description: System V Release 4 CPIO Archive
   mime-type: application/x-sv4cpio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sv4cpio
 - description: System V Release 4 CPIO Checksum Data
   mime-type: application/x-sv4crc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sv4crc
 - description: Tar File (Tape Archive)
   mime-type: application/x-tar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tar
 - description: Tcl Script
-  reference: https://en.wikipedia.org/wiki/Tcl
+  reference: 
+    -   https://en.wikipedia.org/wiki/Tcl
   mime-type: application/x-tcl
-  file-extention:
+  file-extentions:
       - .tcl
       - .tbc
 - description: TeX
   mime-type: application/x-tex
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tex
 - description: TeX Font Metric
   mime-type: application/x-tex-tfm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tfm
 - description: GNU Texinfo Document
   mime-type: application/x-texinfo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .texinfo
 - description: Ustar (Uniform Standard Tape Archive)
   mime-type: application/x-ustar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ustar
 - description: WAIS Source
   mime-type: application/x-wais-source
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .src
 - description: X.509 Certificate
   mime-type: application/x-x509-ca-cert
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .der
 - description: Xfig
   mime-type: application/x-xfig
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fig
 - description: XPInstall - Mozilla
   mime-type: application/x-xpinstall
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xpi
 - description: YAML Ain't Markup Language / Yet Another Markup Language
   mime-type: application/x-yaml
@@ -2641,890 +2642,890 @@
       - text/x-yaml
       - text/yaml
       - application/yaml
-  file-extention:
+  file-extentions:
       - .yaml
       - .yml
 - description: XML Configuration Access Protocol - XCAP Diff
   mime-type: application/xcap-diff+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xdf
 - description: XML Encryption Syntax and Processing
   mime-type: application/xenc+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xenc
 - description: XHTML - The Extensible HyperText Markup Language
   mime-type: application/xhtml+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xhtml
 - description: XML - Extensible Markup Language
   mime-type: application/xml
   mime-type-alt:
       - text/xml
-  file-extention:
+  file-extentions:
       - .xml
 - description: Document Type Definition
   mime-type: application/xml-dtd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dtd
 - description: XML-Binary Optimized Packaging
   mime-type: application/xop+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xop
 - description: XML Transformations
   mime-type: application/xslt+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xslt
 - description: XSPF - XML Shareable Playlist Format
   mime-type: application/xspf+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xspf
 - description: MXML
   mime-type: application/xv+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mxml
 - description: YANG Data Modeling Language
   mime-type: application/yang
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .yang
 - description: YIN (YANG - XML)
   mime-type: application/yin+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .yin
 - description: Zip Archive
   mime-type: application/zip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .zip
 - description: Adaptive differential pulse-code modulation
   mime-type: audio/adpcm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .adp
 - description: Sun Audio - Au file format
   mime-type: audio/basic
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .au
 - description: MIDI - Musical Instrument Digital Interface
   mime-type: audio/midi
   mime-type-alt:
       - audio/x-midi
-  file-extention:
+  file-extentions:
       - .mid
       - .midi
 - description: MPEG-4 Audio
   mime-type: audio/mp4
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mp4a
 - description: MPEG Audio
   mime-type: audio/mpeg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpga
 - description: Ogg Audio
   mime-type: audio/ogg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .oga
 - description: Opus audio
   mime-type: audio/opus
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .opus
 - description: DECE Audio
   mime-type: audio/vnd.dece.audio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uva
 - description: Digital Winds Music
   mime-type: audio/vnd.digital-winds
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .eol
 - description: DRA Audio
   mime-type: audio/vnd.dra
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dra
 - description: DTS Audio
   mime-type: audio/vnd.dts
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dts
 - description: DTS High Definition Audio
   mime-type: audio/vnd.dts.hd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dtshd
 - description: Lucent Voice
   mime-type: audio/vnd.lucent.voice
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .lvp
 - description: Microsoft PlayReady Ecosystem
   mime-type: audio/vnd.ms-playready.media.pya
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pya
 - description: Nuera ECELP 4800
   mime-type: audio/vnd.nuera.ecelp4800
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ecelp4800
 - description: Nuera ECELP 7470
   mime-type: audio/vnd.nuera.ecelp7470
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ecelp7470
 - description: Nuera ECELP 9600
   mime-type: audio/vnd.nuera.ecelp9600
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ecelp9600
 - description: Hit'n'Mix
   mime-type: audio/vnd.rip
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rip
 - description: Waveform Audio File Format (WAV)
   mime-type: audio/wav
   mime-type-alt:
       - audio/x-wav
-  file-extention:
+  file-extentions:
       - .wav
 - description: Open Web Media Project - Audio
   mime-type: audio/webm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .weba
 - description: Advanced Audio Coding (AAC)
   mime-type: audio/x-aac
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aac
 - description: Audio Interchange File Format
   mime-type: audio/x-aiff
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .aif
 - description: M3U (Multimedia Playlist)
   mime-type: audio/x-mpegurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .m3u
 - description: Microsoft Windows Media Audio Redirector
   mime-type: audio/x-ms-wax
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wax
 - description: Microsoft Windows Media Audio
   mime-type: audio/x-ms-wma
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wma
 - description: Real Audio Sound
   mime-type: audio/x-pn-realaudio
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ram
 - description: Real Audio Sound
   mime-type: audio/x-pn-realaudio-plugin
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rmp
 - description: ChemDraw eXchange file
   mime-type: chemical/x-cdx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cdx
 - description: Crystallographic Interchange Format
   mime-type: chemical/x-cif
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cif
 - description: CrystalMaker Data Format
   mime-type: chemical/x-cmdf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cmdf
 - description: Chemical Markup Language
   mime-type: chemical/x-cml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cml
 - description: Chemical Style Markup Language
   mime-type: chemical/x-csml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .csml
 - description: XYZ File Format
   mime-type: chemical/x-xyz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xyz
 - description: OpenType font
   mime-type: font/otf
   mime-type-alt:
       - application/x-font-otf
-  file-extention:
+  file-extentions:
       - .otf
 - description: TrueType Font
   mime-type: font/ttf
   mime-type-alt:
       - application/x-font-ttf
-  file-extention:
+  file-extentions:
       - .ttf
 - description: Web Open Font Format
   mime-type: font/woff
   mime-type-alt:
       - application/x-font-woff
-  file-extention:
+  file-extentions:
       - .woff
 - description: Web Open Font Format v2
   mime-type: font/woff2
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .woff2
 - description: Bitmap Image File
   mime-type: image/bmp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .bmp
 - description: Computer Graphics Metafile
   mime-type: image/cgm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cgm
 - description: G3 Fax Image
   mime-type: image/g3fax
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .g3
 - description: Graphics Interchange Format
   mime-type: image/gif
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gif
 - description: Image Exchange Format
   mime-type: image/ief
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ief
 - description: JPEG Image
   mime-type: image/jpeg
   mime-type-alt:
       - image/x-citrix-jpeg
-  file-extention:
+  file-extentions:
       - .jpeg
       - .jpg
 - description: OpenGL Textures (KTX)
   mime-type: image/ktx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ktx
 - description: JPEG Image (Progressive)
   mime-type: image/pjpeg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pjpeg
 - description: Portable Network Graphics
   mime-type: image/png
   mime-type-alt:
       - image/x-citrix-png
       - image/x-png
-  file-extention:
+  file-extentions:
       - .png
 - description: BTIF
   mime-type: image/prs.btif
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .btif
 - description: Scalable Vector Graphics (SVG)
   mime-type: image/svg+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .svg
 - description: Tagged Image File Format
   mime-type: image/tiff
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tif
       - .tiff
 - description: Photoshop Document
   mime-type: image/vnd.adobe.photoshop
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .psd
 - description: DECE Graphic
   mime-type: image/vnd.dece.graphic
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvi
 - description: DjVu
   mime-type: image/vnd.djvu
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .djvu
 - description: Close Captioning - Subtitle
   mime-type: image/vnd.dvb.subtitle
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sub
 - description: DWG Drawing
   mime-type: image/vnd.dwg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dwg
 - description: AutoCAD DXF
   mime-type: image/vnd.dxf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dxf
 - description: FastBid Sheet
   mime-type: image/vnd.fastbidsheet
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fbs
 - description: FlashPix
   mime-type: image/vnd.fpx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fpx
 - description: FAST Search & Transfer ASA
   mime-type: image/vnd.fst
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fst
 - description: EDMICS 2000
   mime-type: image/vnd.fujixerox.edmics-mmr
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mmr
 - description: EDMICS 2000
   mime-type: image/vnd.fujixerox.edmics-rlc
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rlc
 - description: Microsoft Document Imaging Format
   mime-type: image/vnd.ms-modi
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mdi
 - description: FlashPix
   mime-type: image/vnd.net-fpx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .npx
 - description: WAP Bitamp (WBMP)
   mime-type: image/vnd.wap.wbmp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wbmp
 - description: eXtended Image File Format (XIFF)
   mime-type: image/vnd.xiff
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xif
 - description: WebP Image
   mime-type: image/webp
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .webp
 - description: CMU Image
   mime-type: image/x-cmu-raster
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ras
 - description: Corel Metafile Exchange (CMX)
   mime-type: image/x-cmx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .cmx
 - description: FreeHand MX
   mime-type: image/x-freehand
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fh
 - description: Icon Image
   mime-type: image/x-icon
   mime-type-alt:
       - image/vnd.microsoft.icon
-  file-extention:
+  file-extentions:
       - .ico
 - description: PCX Image
   mime-type: image/x-pcx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pcx
 - description: PICT Image
   mime-type: image/x-pict
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pic
 - description: Portable Anymap Image
   mime-type: image/x-portable-anymap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pnm
 - description: Portable Bitmap Format
   mime-type: image/x-portable-bitmap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pbm
 - description: Portable Graymap Format
   mime-type: image/x-portable-graymap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pgm
 - description: Portable Pixmap Format
   mime-type: image/x-portable-pixmap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ppm
 - description: Silicon Graphics RGB Bitmap
   mime-type: image/x-rgb
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rgb
 - description: X BitMap
   mime-type: image/x-xbitmap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xbm
 - description: X PixMap
   mime-type: image/x-xpixmap
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xpm
 - description: X Window Dump
   mime-type: image/x-xwindowdump
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .xwd
 - description: Email Message
   mime-type: message/rfc822
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .eml
 - description: Initial Graphics Exchange Specification (IGES)
   mime-type: model/iges
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .igs
 - description: Mesh Data Type
   mime-type: model/mesh
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .msh
 - description: COLLADA
   mime-type: model/vnd.collada+xml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dae
 - description: Autodesk Design Web Format (DWF)
   mime-type: model/vnd.dwf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dwf
 - description: Geometric Description Language (GDL)
   mime-type: model/vnd.gdl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gdl
 - description: Gen-Trix Studio
   mime-type: model/vnd.gtw
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gtw
 - description: Virtue MTS
   mime-type: model/vnd.mts
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mts
 - description: Virtue VTU
   mime-type: model/vnd.vtu
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vtu
 - description: Virtual Reality Modeling Language
   mime-type: model/vrml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wrl
 - description: iCalendar
   mime-type: text/calendar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ics
 - description: Cascading Style Sheets (CSS)
   mime-type: text/css
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .css
 - description: Comma-Seperated Values
   mime-type: text/csv
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .csv
 - description: HyperText Markup Language (HTML)
   mime-type: text/html
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .html
 - description: Notation3
   mime-type: text/n3
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .n3
 - description: Text File
   mime-type: text/plain
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .txt
 - description: BAS Partitur Format
   mime-type: text/plain-bas
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .par
 - description: PRS Lines Tag
   mime-type: text/prs.lines.tag
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dsc
 - description: Rich Text Format (RTF)
   mime-type: text/richtext
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .rtx
 - description: Standard Generalized Markup Language (SGML)
   mime-type: text/sgml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .sgml
 - description: Tab Seperated Values
   mime-type: text/tab-separated-values
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .tsv
 - description: troff
   mime-type: text/troff
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .t
 - description: Turtle (Terse RDF Triple Language)
   mime-type: text/turtle
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ttl
 - description: URI Resolution Services
   mime-type: text/uri-list
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uri
 - description: Curl - Applet
   mime-type: text/vnd.curl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .curl
 - description: Curl - Detached Applet
   mime-type: text/vnd.curl.dcurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .dcurl
 - description: Curl - Manifest File
   mime-type: text/vnd.curl.mcurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mcurl
 - description: Curl - Source Code
   mime-type: text/vnd.curl.scurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .scurl
 - description: mod_fly / fly.cgi
   mime-type: text/vnd.fly
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fly
 - description: FLEXSTOR
   mime-type: text/vnd.fmi.flexstor
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .flx
 - description: Graphviz
   mime-type: text/vnd.graphviz
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .gv
 - description: In3D - 3DML
   mime-type: text/vnd.in3d.3dml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .3dml
 - description: In3D - 3DML
   mime-type: text/vnd.in3d.spot
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .spot
 - description: J2ME App Descriptor
   mime-type: text/vnd.sun.j2me.app-descriptor
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jad
 - description: Wireless Markup Language (WML)
   mime-type: text/vnd.wap.wml
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wml
 - description: Wireless Markup Language Script (WMLScript)
   mime-type: text/vnd.wap.wmlscript
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmls
 - description: Assembler Source File
   mime-type: text/x-asm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .s
       - .asm
 - description: C Source File
   mime-type: text/x-c
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .c
 - description: Fortran Source File
   mime-type: text/x-fortran
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .f
 - description: Java Source File
   mime-type: text/x-java-source
   mime-type-alt:
       - java
-  file-extention:
+  file-extentions:
       - .java
 - description: Pascal Source File
   mime-type: text/x-pascal
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .p
 - description: Setext
   mime-type: text/x-setext
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .etx
 - description: UUEncode
   mime-type: text/x-uuencode
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uu
 - description: vCalendar
   mime-type: text/x-vcalendar
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vcs
 - description: vCard
   mime-type: text/x-vcard
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .vcf
 - description: The zero value
   mime-type: unkown
   mime-type-alt: []
-  file-extention: []
+  file-extentions: []
 - description: 3GPP
   mime-type: video/3gpp
   mime-type-alt:
       - audio/3gpp
-  file-extention:
+  file-extentions:
       - .3gp
 - description: 3GP2
   mime-type: video/3gpp2
   mime-type-alt:
       - audio/3gpp2
-  file-extention:
+  file-extentions:
       - .3g2
 - description: H.261
   mime-type: video/h261
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .h261
 - description: H.263
   mime-type: video/h263
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .h263
 - description: H.264
   mime-type: video/h264
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .h264
 - description: JPGVideo
   mime-type: video/jpeg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jpgv
 - description: JPEG 2000 Compound Image File Format
   mime-type: video/jpm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .jpm
 - description: Motion JPEG 2000
   mime-type: video/mj2
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mj2
 # - description: MPEG transport stream
 #   mime-type: video/mp2t
 #   mime-type-alt: []
-#   file-extention:
+#   file-extentions:
 #     - .ts
 - description: MPEG4
   mime-type: video/mp4
   mime-type-alt:
       - application/mp4
-  file-extention:
+  file-extentions:
       - .mp4
 - description: MPEG Video
   mime-type: video/mpeg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mpeg
 - description: Ogg Video
   mime-type: video/ogg
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ogv
 - description: Quicktime Video
   mime-type: video/quicktime
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .qt
 - description: DECE High Definition Video
   mime-type: video/vnd.dece.hd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvh
 - description: DECE Mobile Video
   mime-type: video/vnd.dece.mobile
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvm
 - description: DECE PD Video
   mime-type: video/vnd.dece.pd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvp
 - description: DECE SD Video
   mime-type: video/vnd.dece.sd
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvs
 - description: DECE Video
   mime-type: video/vnd.dece.video
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvv
 - description: FAST Search & Transfer ASA
   mime-type: video/vnd.fvt
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fvt
 - description: MPEG Url
   mime-type: video/vnd.mpegurl
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .mxu
 - description: Microsoft PlayReady Ecosystem Video
   mime-type: video/vnd.ms-playready.media.pyv
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .pyv
 - description: DECE MP4
   mime-type: video/vnd.uvvu.mp4
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .uvu
 - description: Vivo
   mime-type: video/vnd.vivo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .viv
 - description: Open Web Media Project - Video
   mime-type: video/webm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .webm
 - description: Flash Video
   mime-type: video/x-f4v
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .f4v
 - description: FLI/FLC Animation Format
   mime-type: video/x-fli
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .fli
 - description: Flash Video
   mime-type: video/x-flv
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .flv
 - description: M4v
   mime-type: video/x-m4v
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .m4v
 - description: Microsoft Advanced Systems Format (ASF)
   mime-type: video/x-ms-asf
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .asf
 - description: Microsoft Windows Media
   mime-type: video/x-ms-wm
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wm
 - description: Microsoft Windows Media Video
   mime-type: video/x-ms-wmv
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmv
 - description: Microsoft Windows Media Audio/Video Playlist
   mime-type: video/x-ms-wmx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wmx
 - description: Microsoft Windows Media Video Playlist
   mime-type: video/x-ms-wvx
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .wvx
 - description: Audio Video Interleave (AVI)
   mime-type: video/x-msvideo
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .avi
 - description: SGI Movie
   mime-type: video/x-sgi-movie
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .movie
 - description: CoolTalk
   mime-type: x-conference/x-cooltalk
   mime-type-alt: []
-  file-extention:
+  file-extentions:
       - .ice
 - description: Tom's Obvious, Minimal Language
   mime-type: application/toml
@@ -3532,7 +3533,7 @@
       - application/x-toml
       - text/toml
       - text/x-toml
-  file-extention:
+  file-extentions:
       - .toml
 - description: HashiCorp configuration language
   mime-type: application/hcl
@@ -3540,7 +3541,7 @@
       - application/x-hcl
       - text/hcl
       - text/x-hcl
-  file-extention:
+  file-extentions:
       - .hcl
 - description: Microsoft Windows Initialization
   mime-type: application/ini
@@ -3548,7 +3549,7 @@
       - application/x-ini
       - text/ini
       - text/x-ini
-  file-extention:
+  file-extentions:
       - .ini
 - description: Configure Unify Execute
   mime-type: application/cue
@@ -3556,40 +3557,41 @@
       - application/x-cue
       - text/cue
       - text/x-cue
-  file-extention:
+  file-extentions:
       - .cue
 - description: Go source file
   mime-type: application/x-go
-  file-extention:
+  file-extentions:
       - .go
       - .mod
       - .sum
 - description: Go template file
   mime-type: application/x-go-template
-  file-extention:
+  file-extentions:
       - .gotmpl
       - .tmpl
       # - .tpl
       - .gtpl
 - description: C++ source file
   mime-type: application/x-cpp
-  file-extention:
+  file-extentions:
       - .cpp
 - description: C# source file
-  reference: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+  reference: 
+    -   https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
   mime-type: application/x-csharp
-  file-extention:
+  file-extentions:
       - .cs
       - .csx
 - description: Python source file
   reference:
   mime-type: application/x-python
-  file-extention:
+  file-extentions:
       - .py
 - description: Python generated file
   reference:
   mime-type: application/x-python-generated
-  file-extention:
+  file-extentions:
       - .pyi
       - .pyc
       - .pyd
@@ -3598,80 +3600,80 @@
       - .pyo
 - description: Ruby source file
   mime-type: application/x-ruby
-  file-extention:
+  file-extentions:
       - .rb
 - description: Rust source file
   mime-type: application/x-rust
-  file-extention:
+  file-extentions:
       - .rs
 - description: Backus-Naur Form definition file
   mime-type: application/x-bnf
-  file-extention:
+  file-extentions:
       - .bnf
 - description: Augmented Backus-Naur Form definition file
   mime-type: application/x-abnf
-  file-extention:
+  file-extentions:
       - .abnf
 - description: Visual Basic source file
   mime-type: application/x-visual-basic
-  file-extention:
+  file-extentions:
       - .vb
       - .vbs
       - .vbscript
 - description: Syntactically Awesome Stylesheet source file
   mime-type: application/x-sass
-  file-extention:
+  file-extentions:
       - .scss
       - .sass
 - description: Dart source file
   mime-type: application/x-dart
-  file-extention:
+  file-extentions:
       - .dart
 - description: BASH shell script
   mime-type: application/x-bash
-  file-extention:
+  file-extentions:
       - .bash
 - description: FISH shell script
   mime-type: application/x-fish
-  file-extention:
+  file-extentions:
       - .fish
 - description: ZSH shell script
   mime-type: application/x-zsh
-  file-extention:
+  file-extentions:
       - .zsh
 - description: Korn shell script
   mime-type: application/x-korn
-  file-extention:
+  file-extentions:
       - .ksh
 - description: Puppet manifest file
   mime-type: application/x-puppet
-  file-extention:
+  file-extentions:
       - .pp
 - description: OCaml source file
   mime-type: application/x-ocaml
-  file-extention:
+  file-extentions:
       - .ml
       - .mli
 - description: Pascal source file
   mime-type: application/x-pascal
-  file-extention:
+  file-extentions:
       - .pas
       - .inc
 - description: Clojure source file
   mime-type: application/x-clojure
-  file-extention:
+  file-extentions:
       - .clj
       - .cljs
       - .cljc
       - .edn
 - description: Scheme source file
   mime-type: application/x-scheme
-  file-extention:
+  file-extentions:
       - .scm
       - .ss
 - description: Common Lisp source file
   mime-type: application/x-lisp
-  file-extention:
+  file-extentions:
       - .lisp
       - .lsp
       - .l
@@ -3679,80 +3681,83 @@
       - .fasl
 - description: Kotlin source file
   mime-type: application/x-kotlin
-  file-extention:
+  file-extentions:
       - .kt
       - .kts
       - .ktm
 - description: Erlang source file
   mime-type: application/x-erlang
-  file-extention:
+  file-extentions:
       - .erl
       - .hrl
 - description: Scala source file
   mime-type: application/x-scala
-  file-extention:
+  file-extentions:
       - .scala
       - .sc
 - description: Haskell source file
   mime-type: application/x-haskell
-  file-extention:
+  file-extentions:
       - .hs
       - .lhs
 - description: F# source file
   mime-type: application/x-fsharp
-  file-extention:
+  file-extentions:
       - .fs
       - .fsi
       - .fsx
       - .fsscript
 - description: Elixir source file
   mime-type: application/x-elixir
-  file-extention:
+  file-extentions:
       - .ex
       - .exs
 - description: Elm source file
   mime-type: application/x-elm
-  file-extention:
+  file-extentions:
       - .elm
 - description: TypeScript source file
   mime-type: application/x-typescript
-  file-extention:
+  file-extentions:
       - .ts
 - description: Xtend source file
-  reference: https://en.wikipedia.org/wiki/Xtend
+  reference: 
+    -   https://en.wikipedia.org/wiki/Xtend
   mime-type: application/x-xtend
-  file-extention:
+  file-extentions:
       - .xtend
 - description: XQuery source file
-  reference: https://en.wikipedia.org/wiki/XQuery
+  reference: 
+    -   https://en.wikipedia.org/wiki/XQuery
   mime-type: application/x-xquery
-  file-extention:
+  file-extentions:
       - .xq
       - .xql
       - .xqm
       - .xqy
       - .xquery
 - description: WebAssembly
-  reference: https://en.wikipedia.org/wiki/WebAssembly
+  reference: 
+    -   https://en.wikipedia.org/wiki/WebAssembly
   mime-type: application/x-webassembly
-  file-extention:
+  file-extentions:
       - .wat
       - .wasm
 - description: Standard Query Language (SQL) source file
   mime-type: application/x-sql
-  file-extention:
+  file-extentions:
       - .sql
       - .ddl
 - description: R source file
   mime-type: application/x-r
-  file-extention:
+  file-extentions:
       - .r
       - .rdata
       - .rds
       - .rda
 - description: PowerShell script file
   mime-type: application/x-powershell
-  file-extention:
+  file-extentions:
       - .ps1
       - .ps1xml
       - .psc1
@@ -3762,7 +3767,7 @@
       - .cdxml
 - description: Perl source file
   mime-type: application/x-perl
-  file-extention:
+  file-extentions:
       - .pl
       - .plx
       - .pm
@@ -3772,81 +3777,89 @@
       - .cgi
 - description: Objective-C source file
   mime-type: application/x-objective-C
-  file-extention:
+  file-extentions:
       - .m
       - .mm
 - description: C Header source file
   mime-type: application/x-c-header
-  file-extention:
+  file-extentions:
       - .h
 - description: Lua source file
   mime-type: application/x-lua
-  file-extention:
+  file-extentions:
       - .lua
 - description: Guile source file
   mime-type: application/x-guile
-  # file-extention:
+  # file-extentions:
   #   - .scm
   #   - .go
 - description: Fortan source file
-  reference: https://fileinfo.com/extension/for
+  reference: 
+    -   https://fileinfo.com/extension/for
   mime-type: application/x-fortran
-  file-extention:
+  file-extentions:
       # - .f
       - .for
       - .f90
 - description: Forth source file
-  reference: https://fileinfo.com/extension/4th
+  reference: 
+    -   https://fileinfo.com/extension/4th
   mime-type: application/x-forth
-  file-extention:
+  file-extentions:
       # - .fs
       - .fth
       - .4th
       # - .f
       - .forth
 - description: Markdown source file
-  reference: https://fileinfo.com/extension/md
+  reference: 
+    -   https://fileinfo.com/extension/md
   mime-type: application/x-markdown
-  file-extention:
+  file-extentions:
       - .md
 - description: Nunjucks template file
   mime-type: application/x-nunjucks
-  file-extention:
+  file-extentions:
       - .njk
 - description: Handlebars template file
-  reference: https://fileinfo.com/extension/hbs
+  reference: 
+    -   https://fileinfo.com/extension/hbs
   mime-type: application/x-handlebars
-  file-extention:
+  file-extentions:
       - .hbs
 - description: Embedded JavaScript Template file
-  reference: https://fileinfo.com/extension/ejs
+  reference: 
+    -   https://fileinfo.com/extension/ejs
   mime-type: application/x-ejs
-  file-extention:
+  file-extentions:
       - .ejs
 - description: Mustache template file
   mime-type: application/x-mustache
-  file-extention:
+  file-extentions:
       - .mustache
 - description: Haml template file
-  reference: https://fileinfo.com/extension/haml
+  reference: 
+    -   https://fileinfo.com/extension/haml
   mime-type: application/x-haml
-  file-extention:
+  file-extentions:
       - .haml
 - description: Pug template file
-  reference: https://fileinfo.com/extension/pug
+  reference: 
+    -   https://fileinfo.com/extension/pug
   mime-type: application/x-pug
-  file-extention:
+  file-extentions:
       - .pug
 - description: Liquid template file
   mime-type: application/x-liquid
-  file-extention:
+  file-extentions:
       - .liquid
 - description: Web Component source file
   mime-type: application/x-webc
-  file-extention:
+  file-extentions:
       - .webc
 - description: List file
-  reference: https://fileinfo.com/extension/lst
+  reference: 
+    -   https://fileinfo.com/extension/lst
   mime-type: application/x-list
-  file-extention:
+  file-extentions:
       - .lst

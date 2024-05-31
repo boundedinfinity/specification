@@ -9,3 +9,9 @@ mime-types:
     -   https://www.iana.org/assignments/media-types/font.csv
     -   https://www.iana.org/assignments/media-types/audio.csv
 
+file-extentions:
+    -   https://en.wikipedia.org/wiki/List_of_filename_extensions_(0%E2%80%939)
+    -   https://en.wikipedia.org/wiki/List_of_filename_extensions_(A%E2%80%93E)
+    -   https://en.wikipedia.org/wiki/List_of_filename_extensions_(F%E2%80%93L)
+    -   https://en.wikipedia.org/wiki/List_of_filename_extensions_(M%E2%80%93R)
+    -   https://en.wikipedia.org/wiki/List_of_filename_extensions_(S%E2%80%93Z)
