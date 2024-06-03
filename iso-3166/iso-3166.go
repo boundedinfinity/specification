@@ -90,6 +90,8 @@ func main() {
 		data.Records = append(data.Records, *record)
 	}
 
+	data.Records = slicer.SortFn(func(r isoRecord) string { return r.Alpha2 }, data.Records...)
+
 	bs, err := yaml.Marshal(data)
 
 	if err != nil {
