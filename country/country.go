@@ -127,6 +127,8 @@ func main() {
 		countryData.Records = append(countryData.Records, record)
 	}
 
+	countryData.Records = slicer.SortFn(func(r countryRecord) string { return r.Iso3166.Alpha2 }, countryData.Records...)
+
 	if err := marshal(rootDir, "county", countryData); err != nil {
 		log.Fatal(err)
 	}
