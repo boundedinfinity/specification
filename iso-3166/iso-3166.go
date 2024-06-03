@@ -83,6 +83,7 @@ func main() {
 	for _, record := range alpha2Map {
 		for lang, list := range record.Name {
 			record.Name[lang] = slicer.Uniq(list...)
+			record.Name[lang] = slicer.Sort(record.Name[lang]...)
 		}
 
 		record.Lang = slicer.Uniq(record.Lang...)

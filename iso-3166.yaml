@@ -60,11 +60,11 @@ records:
         ar:
             - Al Imārāt
         en:
-            - the United Arab Emirates
             - United Arab Emirates (the)
+            - the United Arab Emirates
         fr:
-            - Émirats arabes unis (les)
             - les Émirats arabes unis
+            - Émirats arabes unis (les)
       alpha-2: AE
       alpha-3: ARE
       numeric: 784
@@ -506,8 +506,8 @@ records:
         en:
             - Albania
         fr:
-            - l'Albanie
             - Albanie (l')
+            - l'Albanie
         sq:
             - Shqipëria; Shqipëri
       alpha-2: AL
@@ -3125,8 +3125,8 @@ records:
         en:
             - Brunei Darussalam
         fr:
-            - le Brunéi Darussalam
             - Brunéi Darussalam (le)
+            - le Brunéi Darussalam
         ms:
             - Negara Brunei Darussalam
       alpha-2: BN
@@ -3886,8 +3886,8 @@ records:
         en:
             - Belarus
         fr:
-            - le Bélarus
             - Bélarus (le)
+            - le Bélarus
         ru:
             - Belarus'
       alpha-2: BY
@@ -4158,8 +4158,8 @@ records:
             - Congo (the Democratic Republic of the)
             - the Democratic Republic of the Congo
         fr:
-            - la République démocratique du Congo
             - Congo (la République démocratique du)
+            - la République démocratique du Congo
       alpha-2: CD
       alpha-3: COD
       numeric: 180
@@ -4309,8 +4309,8 @@ records:
             - Central African Republic (the)
             - the Central African Republic
         fr:
-            - la République centrafricaine
             - République centrafricaine (la)
+            - la République centrafricaine
         sg:
             - Ködörösêse tî Bêafrîka
       alpha-2: CF
@@ -6465,8 +6465,8 @@ records:
         en:
             - Germany
         fr:
-            - l'Allemagne
             - Allemagne (l')
+            - l'Allemagne
       alpha-2: DE
       alpha-3: DEU
       numeric: 276
@@ -6632,8 +6632,8 @@ records:
         en:
             - Denmark
         fr:
-            - le Danemark
             - Danemark (le)
+            - le Danemark
       alpha-2: DK
       alpha-3: DNK
       numeric: 208
@@ -7383,8 +7383,8 @@ records:
         es:
             - Ecuador (el)
         fr:
-            - Équateur (l')
             - l'Équateur
+            - Équateur (l')
       alpha-2: EC
       alpha-3: ECU
       numeric: 218
@@ -8100,8 +8100,8 @@ records:
         en:
             - Egypt
         fr:
-            - Égypte (l')
             - l'Égypte
+            - Égypte (l')
       alpha-2: EG
       alpha-3: EGY
       numeric: 818
@@ -8314,8 +8314,8 @@ records:
         en:
             - Eritrea
         fr:
-            - Érythrée (l')
             - l'Érythrée
+            - Érythrée (l')
         ti:
             - Iertra
       alpha-2: ER
@@ -8826,8 +8826,8 @@ records:
         en:
             - Ethiopia
         fr:
-            - Éthiopie (l')
             - l'Éthiopie
+            - Éthiopie (l')
       alpha-2: ET
       alpha-3: ETH
       numeric: 231
@@ -9245,9 +9245,9 @@ records:
         - name: Fiji Today 2004 / 2005, 3Ministry of Information, Communications and Media Relations
     - name:
         en:
+            - Falkland Islands (the) [Malvinas]
             - Falkland Islands, (the) [Malvinas]
             - the Falkland Islands
-            - Falkland Islands (the) [Malvinas]
         fr:
             - Falkland (les Îles), Malouines (les Îles)
             - les Îles Falkland (les Îles) Malouines
@@ -9259,8 +9259,8 @@ records:
       status: Officially assigned
     - name:
         en:
-            - Micronesia (Federated States of)
             - Federated States of Micronesia
+            - Micronesia (Federated States of)
         fr:
             - Micronésie (États fédérés de)
             - États fédérés de Micronésie
@@ -10125,8 +10125,8 @@ records:
         - name: IGN 1986
     - name:
         en:
-            - the United Kingdom of Great Britain and Northern Ireland
             - United Kingdom of Great Britain and Northern Ireland (the)
+            - the United Kingdom of Great Britain and Northern Ireland
         fr:
             - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)
             - le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -11711,8 +11711,8 @@ records:
         en:
             - Hungary
         fr:
-            - la Hongrie
             - Hongrie (la)
+            - la Hongrie
         hu:
             - Magyarország
       alpha-2: HU
@@ -12850,8 +12850,8 @@ records:
           url: http://www.surveyofindia.gov.in/
     - name:
         en:
-            - the British Indian Ocean Territory
             - British Indian Ocean Territory (the)
+            - the British Indian Ocean Territory
         fr:
             - Indien (le Territoire britannique de l'océan)
             - le Territoire britannique de l'océan Indien
@@ -14986,8 +14986,8 @@ records:
         en:
             - Kenya
         fr:
-            - le Kenya
             - Kenya (le)
+            - le Kenya
         sw:
             - Kenya
       alpha-2: KE
@@ -16085,8 +16085,8 @@ records:
         - url: http://www.e.gov.kw/sites/kgoarabic/portal/Pages/Visitors/AboutKuwait/KuwaitAtaGlane_Topography.aspx
     - name:
         en:
-            - the Cayman Islands
             - Cayman Islands (the)
+            - the Cayman Islands
         fr:
             - Caïmans (les Îles
       alpha-2: KY
@@ -17819,8 +17819,8 @@ records:
         en:
             - Latvia
         fr:
-            - la Lettonie
             - Lettonie (la)
+            - la Lettonie
         lv:
             - Latvija
       alpha-2: LV
@@ -19245,8 +19245,8 @@ records:
           url: https://me.propisi.net/zakon-o-teritorijalnoj-organizaciji-crne-gore/
     - name:
         en:
-            - Saint Martin (French part)
             - French part Saint Martin
+            - Saint Martin (French part)
         fr:
             - Saint-Martin (partie française)
             - partie française Saint-Martin
@@ -19550,8 +19550,8 @@ records:
         en:
             - North Macedonia
         fr:
-            - la Macédoine du Nord
             - Macédoine du Nord (la)
+            - la Macédoine du Nord
         mk:
             - Severna Makedonija
       alpha-2: MK
@@ -20048,8 +20048,8 @@ records:
         en:
             - Mali
         fr:
-            - le Mali
             - Mali (le)
+            - le Mali
       alpha-2: ML
       alpha-3: MLI
       numeric: 466
@@ -20420,8 +20420,8 @@ records:
         en:
             - Martinique
         fr:
-            - la Martinique
             - Martinique (la)
+            - la Martinique
       alpha-2: MQ
       alpha-3: MTQ
       numeric: 474
@@ -21604,8 +21604,8 @@ records:
         es:
             - México
         fr:
-            - le Mexique
             - Mexique (le)
+            - le Mexique
       alpha-2: MX
       alpha-3: MEX
       numeric: 484
@@ -22070,8 +22070,8 @@ records:
             - Niger (the)
             - the Niger
         fr:
-            - le Niger
             - Niger (le)
+            - le Niger
       alpha-2: NE
       alpha-3: NER
       numeric: 562
@@ -22447,11 +22447,11 @@ records:
         - url: http://legislacion.asamblea.gob.ni/normaweb.nsf/b92aaea87dac762406257265005d21f7/adc835620b6bb306062580180059df9d?OpenDocument
     - name:
         en:
-            - Netherlands (Kingdom of the)
             - Kingdom of the Netherlands
+            - Netherlands (Kingdom of the)
         fr:
-            - Royaume des Pays-Bas
             - Pays-Bas (Royaume des)
+            - Royaume des Pays-Bas
         nl:
             - Nederland
       alpha-2: NL
@@ -25231,8 +25231,8 @@ records:
         en:
             - Réunion
         fr:
-            - Réunion (La)
             - La Réunion
+            - Réunion (La)
       alpha-2: RE
       alpha-3: REU
       numeric: 638
@@ -26314,8 +26314,8 @@ records:
         en:
             - Rwanda
         fr:
-            - le Rwanda
             - Rwanda (le)
+            - le Rwanda
         rw:
             - Rwanda
       alpha-2: RW
@@ -26771,8 +26771,8 @@ records:
         ar:
             - As Sūdān
         en:
-            - the Sudan
             - Sudan (the)
+            - the Sudan
         fr:
             - Soudan (le)
             - le Soudan
@@ -27142,8 +27142,8 @@ records:
         en:
             - Slovenia
         fr:
-            - la Slovénie
             - Slovénie (la)
+            - la Slovénie
         sl:
             - Slovenija
       alpha-2: SI
@@ -28425,8 +28425,8 @@ records:
         en:
             - Senegal
         fr:
-            - le Sénégal
             - Sénégal (le)
+            - le Sénégal
       alpha-2: SN
       alpha-3: SEN
       numeric: 686
@@ -28622,8 +28622,8 @@ records:
         en:
             - Suriname
         fr:
-            - le Suriname
             - Suriname (le)
+            - le Suriname
         nl:
             - Suriname
       alpha-2: SR
@@ -28898,8 +28898,8 @@ records:
         - name: IGN 1989
     - name:
         en:
-            - Sint Maarten (Dutch part)
             - Dutch part Sint Maarten
+            - Sint Maarten (Dutch part)
         fr:
             - Saint-Martin (partie néerlandaise)
             - partie néerlandaise Saint-Martin
@@ -29290,8 +29290,8 @@ records:
         - url: https://tchadinfos.com/tchad/tchad-organisation-administrative-23-provinces-95-departements-et-365-communes/
     - name:
         en:
-            - the French Southern Territories
             - French Southern Territories (the)
+            - the French Southern Territories
         fr:
             - Terres australes françaises (les)
             - les Terres australes françaises
@@ -30855,11 +30855,11 @@ records:
         - url: http://www.tuvaluislands.com/index.html
     - name:
         en:
-            - Taiwan (Province of China)
             - Province of China Taiwan
+            - Taiwan (Province of China)
         fr:
-            - Taïwan (Province de Chine)
             - Province de Chine Taïwan
+            - Taïwan (Province de Chine)
         zh:
             - Taiwan
       alpha-2: TW
@@ -32236,8 +32236,8 @@ records:
             - United States Minor Outlying Islands (the)
             - the United States Minor Outlying Islands
         fr:
-            - Îles mineures éloignées des États-Unis (les)
             - les Îles mineures éloignées des États-Unis
+            - Îles mineures éloignées des États-Unis (les)
       alpha-2: UM
       alpha-3: UMI
       numeric: 581
@@ -32308,8 +32308,8 @@ records:
             - United States of America (the)
             - the United States of America
         fr:
-            - États-Unis d'Amérique (les)
             - les États-Unis d'Amérique
+            - États-Unis d'Amérique (les)
       alpha-2: US
       alpha-3: USA
       numeric: 840
@@ -32725,8 +32725,8 @@ records:
         en:
             - Uzbekistan
         fr:
-            - l'Ouzbékistan
             - Ouzbékistan (l')
+            - l'Ouzbékistan
         uz:
             - O‘zbekiston
       alpha-2: UZ
@@ -32884,13 +32884,13 @@ records:
           url: http://geonames.nga.mil/gns/html
     - name:
         en:
-            - Venezuela (Bolivarian Republic of)
             - Bolivarian Republic of Venezuela
+            - Venezuela (Bolivarian Republic of)
         es:
             - Venezuela, República Bolivariana de
         fr:
-            - Venezuela (République bolivarienne du)
             - République bolivarienne du Venezuela
+            - Venezuela (République bolivarienne du)
       alpha-2: VE
       alpha-3: VEN
       numeric: 862
@@ -33034,8 +33034,8 @@ records:
         - url: https://www.venezuelatuya.com/estados/vargas_laguaira.htm
     - name:
         en:
-            - Virgin Islands (British)
             - British Virgin Islands
+            - Virgin Islands (British)
         fr:
             - Vierges britanniques (les Îles)
             - les Îles Vierges britanniques
@@ -33052,8 +33052,8 @@ records:
         - Virgin Gorda
     - name:
         en:
-            - Virgin Islands (U.S.)
             - U.S. Virgin Islands
+            - Virgin Islands (U.S.)
         fr:
             - Vierges des États-Unis (les Îles)
             - les Îles Vierges des États-Unis

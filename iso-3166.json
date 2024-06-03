@@ -106,12 +106,12 @@
                     "Al Imārāt"
                 ],
                 "en": [
-                    "the United Arab Emirates",
-                    "United Arab Emirates (the)"
+                    "United Arab Emirates (the)",
+                    "the United Arab Emirates"
                 ],
                 "fr": [
-                    "Émirats arabes unis (les)",
-                    "les Émirats arabes unis"
+                    "les Émirats arabes unis",
+                    "Émirats arabes unis (les)"
                 ]
             },
             "alpha-2": "AE",
@@ -852,8 +852,8 @@
                     "Albania"
                 ],
                 "fr": [
-                    "l'Albanie",
-                    "Albanie (l')"
+                    "Albanie (l')",
+                    "l'Albanie"
                 ],
                 "sq": [
                     "Shqipëria; Shqipëri"
@@ -5322,8 +5322,8 @@
                     "Brunei Darussalam"
                 ],
                 "fr": [
-                    "le Brunéi Darussalam",
-                    "Brunéi Darussalam (le)"
+                    "Brunéi Darussalam (le)",
+                    "le Brunéi Darussalam"
                 ],
                 "ms": [
                     "Negara Brunei Darussalam"
@@ -6656,8 +6656,8 @@
                     "Belarus"
                 ],
                 "fr": [
-                    "le Bélarus",
-                    "Bélarus (le)"
+                    "Bélarus (le)",
+                    "le Bélarus"
                 ],
                 "ru": [
                     "Belarus'"
@@ -7117,8 +7117,8 @@
                     "the Democratic Republic of the Congo"
                 ],
                 "fr": [
-                    "la République démocratique du Congo",
-                    "Congo (la République démocratique du)"
+                    "Congo (la République démocratique du)",
+                    "la République démocratique du Congo"
                 ]
             },
             "alpha-2": "CD",
@@ -7388,8 +7388,8 @@
                     "the Central African Republic"
                 ],
                 "fr": [
-                    "la République centrafricaine",
-                    "République centrafricaine (la)"
+                    "République centrafricaine (la)",
+                    "la République centrafricaine"
                 ],
                 "sg": [
                     "Ködörösêse tî Bêafrîka"
@@ -11107,8 +11107,8 @@
                     "Germany"
                 ],
                 "fr": [
-                    "l'Allemagne",
-                    "Allemagne (l')"
+                    "Allemagne (l')",
+                    "l'Allemagne"
                 ]
             },
             "alpha-2": "DE",
@@ -11396,8 +11396,8 @@
                     "Denmark"
                 ],
                 "fr": [
-                    "le Danemark",
-                    "Danemark (le)"
+                    "Danemark (le)",
+                    "le Danemark"
                 ]
             },
             "alpha-2": "DK",
@@ -12676,8 +12676,8 @@
                     "Ecuador (el)"
                 ],
                 "fr": [
-                    "Équateur (l')",
-                    "l'Équateur"
+                    "l'Équateur",
+                    "Équateur (l')"
                 ]
             },
             "alpha-2": "EC",
@@ -13906,8 +13906,8 @@
                     "Egypt"
                 ],
                 "fr": [
-                    "Égypte (l')",
-                    "l'Égypte"
+                    "l'Égypte",
+                    "Égypte (l')"
                 ]
             },
             "alpha-2": "EG",
@@ -14262,8 +14262,8 @@
                     "Eritrea"
                 ],
                 "fr": [
-                    "Érythrée (l')",
-                    "l'Érythrée"
+                    "l'Érythrée",
+                    "Érythrée (l')"
                 ],
                 "ti": [
                     "Iertra"
@@ -15133,8 +15133,8 @@
                     "Ethiopia"
                 ],
                 "fr": [
-                    "Éthiopie (l')",
-                    "l'Éthiopie"
+                    "l'Éthiopie",
+                    "Éthiopie (l')"
                 ]
             },
             "alpha-2": "ET",
@@ -15844,9 +15844,9 @@
         {
             "name": {
                 "en": [
+                    "Falkland Islands (the) [Malvinas]",
                     "Falkland Islands, (the) [Malvinas]",
-                    "the Falkland Islands",
-                    "Falkland Islands (the) [Malvinas]"
+                    "the Falkland Islands"
                 ],
                 "fr": [
                     "Falkland (les Îles), Malouines (les Îles)",
@@ -15864,8 +15864,8 @@
         {
             "name": {
                 "en": [
-                    "Micronesia (Federated States of)",
-                    "Federated States of Micronesia"
+                    "Federated States of Micronesia",
+                    "Micronesia (Federated States of)"
                 ],
                 "fr": [
                     "Micronésie (États fédérés de)",
@@ -17333,8 +17333,8 @@
         {
             "name": {
                 "en": [
-                    "the United Kingdom of Great Britain and Northern Ireland",
-                    "United Kingdom of Great Britain and Northern Ireland (the)"
+                    "United Kingdom of Great Britain and Northern Ireland (the)",
+                    "the United Kingdom of Great Britain and Northern Ireland"
                 ],
                 "fr": [
                     "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
@@ -20047,8 +20047,8 @@
                     "Hungary"
                 ],
                 "fr": [
-                    "la Hongrie",
-                    "Hongrie (la)"
+                    "Hongrie (la)",
+                    "la Hongrie"
                 ],
                 "hu": [
                     "Magyarország"
@@ -21990,8 +21990,8 @@
         {
             "name": {
                 "en": [
-                    "the British Indian Ocean Territory",
-                    "British Indian Ocean Territory (the)"
+                    "British Indian Ocean Territory (the)",
+                    "the British Indian Ocean Territory"
                 ],
                 "fr": [
                     "Indien (le Territoire britannique de l'océan)",
@@ -25581,8 +25581,8 @@
                     "Kenya"
                 ],
                 "fr": [
-                    "le Kenya",
-                    "Kenya (le)"
+                    "Kenya (le)",
+                    "le Kenya"
                 ],
                 "sw": [
                     "Kenya"
@@ -27404,8 +27404,8 @@
         {
             "name": {
                 "en": [
-                    "the Cayman Islands",
-                    "Cayman Islands (the)"
+                    "Cayman Islands (the)",
+                    "the Cayman Islands"
                 ],
                 "fr": [
                     "Caïmans (les Îles"
@@ -30281,8 +30281,8 @@
                     "Latvia"
                 ],
                 "fr": [
-                    "la Lettonie",
-                    "Lettonie (la)"
+                    "Lettonie (la)",
+                    "la Lettonie"
                 ],
                 "lv": [
                     "Latvija"
@@ -32691,8 +32691,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Martin (French part)",
-                    "French part Saint Martin"
+                    "French part Saint Martin",
+                    "Saint Martin (French part)"
                 ],
                 "fr": [
                     "Saint-Martin (partie française)",
@@ -33194,8 +33194,8 @@
                     "North Macedonia"
                 ],
                 "fr": [
-                    "la Macédoine du Nord",
-                    "Macédoine du Nord (la)"
+                    "Macédoine du Nord (la)",
+                    "la Macédoine du Nord"
                 ],
                 "mk": [
                     "Severna Makedonija"
@@ -34023,8 +34023,8 @@
                     "Mali"
                 ],
                 "fr": [
-                    "le Mali",
-                    "Mali (le)"
+                    "Mali (le)",
+                    "le Mali"
                 ]
             },
             "alpha-2": "ML",
@@ -34654,8 +34654,8 @@
                     "Martinique"
                 ],
                 "fr": [
-                    "la Martinique",
-                    "Martinique (la)"
+                    "Martinique (la)",
+                    "la Martinique"
                 ]
             },
             "alpha-2": "MQ",
@@ -36655,8 +36655,8 @@
                     "México"
                 ],
                 "fr": [
-                    "le Mexique",
-                    "Mexique (le)"
+                    "Mexique (le)",
+                    "le Mexique"
                 ]
             },
             "alpha-2": "MX",
@@ -37481,8 +37481,8 @@
                     "the Niger"
                 ],
                 "fr": [
-                    "le Niger",
-                    "Niger (le)"
+                    "Niger (le)",
+                    "le Niger"
                 ]
             },
             "alpha-2": "NE",
@@ -38156,12 +38156,12 @@
         {
             "name": {
                 "en": [
-                    "Netherlands (Kingdom of the)",
-                    "Kingdom of the Netherlands"
+                    "Kingdom of the Netherlands",
+                    "Netherlands (Kingdom of the)"
                 ],
                 "fr": [
-                    "Royaume des Pays-Bas",
-                    "Pays-Bas (Royaume des)"
+                    "Pays-Bas (Royaume des)",
+                    "Royaume des Pays-Bas"
                 ],
                 "nl": [
                     "Nederland"
@@ -42903,8 +42903,8 @@
                     "Réunion"
                 ],
                 "fr": [
-                    "Réunion (La)",
-                    "La Réunion"
+                    "La Réunion",
+                    "Réunion (La)"
                 ]
             },
             "alpha-2": "RE",
@@ -44674,8 +44674,8 @@
                     "Rwanda"
                 ],
                 "fr": [
-                    "le Rwanda",
-                    "Rwanda (le)"
+                    "Rwanda (le)",
+                    "le Rwanda"
                 ],
                 "rw": [
                     "Rwanda"
@@ -45458,8 +45458,8 @@
                     "As Sūdān"
                 ],
                 "en": [
-                    "the Sudan",
-                    "Sudan (the)"
+                    "Sudan (the)",
+                    "the Sudan"
                 ],
                 "fr": [
                     "Soudan (le)",
@@ -46099,8 +46099,8 @@
                     "Slovenia"
                 ],
                 "fr": [
-                    "la Slovénie",
-                    "Slovénie (la)"
+                    "Slovénie (la)",
+                    "la Slovénie"
                 ],
                 "sl": [
                     "Slovenija"
@@ -48400,8 +48400,8 @@
                     "Senegal"
                 ],
                 "fr": [
-                    "le Sénégal",
-                    "Sénégal (le)"
+                    "Sénégal (le)",
+                    "le Sénégal"
                 ]
             },
             "alpha-2": "SN",
@@ -48747,8 +48747,8 @@
                     "Suriname"
                 ],
                 "fr": [
-                    "le Suriname",
-                    "Suriname (le)"
+                    "Suriname (le)",
+                    "le Suriname"
                 ],
                 "nl": [
                     "Suriname"
@@ -49234,8 +49234,8 @@
         {
             "name": {
                 "en": [
-                    "Sint Maarten (Dutch part)",
-                    "Dutch part Sint Maarten"
+                    "Dutch part Sint Maarten",
+                    "Sint Maarten (Dutch part)"
                 ],
                 "fr": [
                     "Saint-Martin (partie néerlandaise)",
@@ -49884,8 +49884,8 @@
         {
             "name": {
                 "en": [
-                    "the French Southern Territories",
-                    "French Southern Territories (the)"
+                    "French Southern Territories (the)",
+                    "the French Southern Territories"
                 ],
                 "fr": [
                     "Terres australes françaises (les)",
@@ -52592,12 +52592,12 @@
         {
             "name": {
                 "en": [
-                    "Taiwan (Province of China)",
-                    "Province of China Taiwan"
+                    "Province of China Taiwan",
+                    "Taiwan (Province of China)"
                 ],
                 "fr": [
-                    "Taïwan (Province de Chine)",
-                    "Province de Chine Taïwan"
+                    "Province de Chine Taïwan",
+                    "Taïwan (Province de Chine)"
                 ],
                 "zh": [
                     "Taiwan"
@@ -54925,8 +54925,8 @@
                     "the United States Minor Outlying Islands"
                 ],
                 "fr": [
-                    "Îles mineures éloignées des États-Unis (les)",
-                    "les Îles mineures éloignées des États-Unis"
+                    "les Îles mineures éloignées des États-Unis",
+                    "Îles mineures éloignées des États-Unis (les)"
                 ]
             },
             "alpha-2": "UM",
@@ -55044,8 +55044,8 @@
                     "the United States of America"
                 ],
                 "fr": [
-                    "États-Unis d'Amérique (les)",
-                    "les États-Unis d'Amérique"
+                    "les États-Unis d'Amérique",
+                    "États-Unis d'Amérique (les)"
                 ]
             },
             "alpha-2": "US",
@@ -55788,8 +55788,8 @@
                     "Uzbekistan"
                 ],
                 "fr": [
-                    "l'Ouzbékistan",
-                    "Ouzbékistan (l')"
+                    "Ouzbékistan (l')",
+                    "l'Ouzbékistan"
                 ],
                 "uz": [
                     "O‘zbekiston"
@@ -56064,15 +56064,15 @@
         {
             "name": {
                 "en": [
-                    "Venezuela (Bolivarian Republic of)",
-                    "Bolivarian Republic of Venezuela"
+                    "Bolivarian Republic of Venezuela",
+                    "Venezuela (Bolivarian Republic of)"
                 ],
                 "es": [
                     "Venezuela, República Bolivariana de"
                 ],
                 "fr": [
-                    "Venezuela (République bolivarienne du)",
-                    "République bolivarienne du Venezuela"
+                    "République bolivarienne du Venezuela",
+                    "Venezuela (République bolivarienne du)"
                 ]
             },
             "alpha-2": "VE",
@@ -56334,8 +56334,8 @@
         {
             "name": {
                 "en": [
-                    "Virgin Islands (British)",
-                    "British Virgin Islands"
+                    "British Virgin Islands",
+                    "Virgin Islands (British)"
                 ],
                 "fr": [
                     "Vierges britanniques (les Îles)",
@@ -56359,8 +56359,8 @@
         {
             "name": {
                 "en": [
-                    "Virgin Islands (U.S.)",
-                    "U.S. Virgin Islands"
+                    "U.S. Virgin Islands",
+                    "Virgin Islands (U.S.)"
                 ],
                 "fr": [
                     "Vierges des États-Unis (les Îles)",
