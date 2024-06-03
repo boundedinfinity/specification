@@ -176,6 +176,7 @@ func mergeName(dst map[string][]string, src map[string][]string) {
 
 		dst[lang] = append(dst[lang], src[lang]...)
 		dst[lang] = slicer.Uniq(dst[lang]...)
+		dst[lang] = slicer.Sort(dst[lang]...)
 	}
 }
 

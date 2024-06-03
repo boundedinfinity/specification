@@ -6,8 +6,8 @@
                     "Andorra"
                 ],
                 "en": [
-                    "Andorra",
                     "ANDORRA",
+                    "Andorra",
                     "the Principality of Andorra"
                 ],
                 "fr": [
@@ -36,9 +36,9 @@
                     "Al Imārāt"
                 ],
                 "en": [
+                    "UNITED ARAB EMIRATES",
                     "United Arab Emirates (the)",
-                    "the United Arab Emirates",
-                    "UNITED ARAB EMIRATES"
+                    "the United Arab Emirates"
                 ],
                 "fr": [
                     "les Émirats arabes unis",
@@ -87,8 +87,8 @@
         {
             "name": {
                 "en": [
-                    "Antigua and Barbuda",
-                    "ANTIGUA AND BARBUDA"
+                    "ANTIGUA AND BARBUDA",
+                    "Antigua and Barbuda"
                 ],
                 "fr": [
                     "Antigua-et-Barbuda"
@@ -108,8 +108,8 @@
         {
             "name": {
                 "en": [
-                    "Albania",
-                    "ALBANIA"
+                    "ALBANIA",
+                    "Albania"
                 ],
                 "fr": [
                     "Albanie (l')",
@@ -133,8 +133,8 @@
         {
             "name": {
                 "en": [
-                    "Armenia",
                     "ARMENIA",
+                    "Armenia",
                     "the Republic of Armenia"
                 ],
                 "fr": [
@@ -163,8 +163,8 @@
         {
             "name": {
                 "en": [
-                    "Angola",
                     "ANGOLA",
+                    "Angola",
                     "the Republic of Angola"
                 ],
                 "fr": [
@@ -193,8 +193,8 @@
         {
             "name": {
                 "en": [
-                    "Argentina",
                     "ARGENTINA",
+                    "Argentina",
                     "the Argentine Republic"
                 ],
                 "es": [
@@ -223,8 +223,8 @@
         {
             "name": {
                 "en": [
-                    "American Samoa",
-                    "AMERICAN SAMOA"
+                    "AMERICAN SAMOA",
+                    "American Samoa"
                 ],
                 "fr": [
                     "Samoa américaines (les)",
@@ -275,8 +275,8 @@
         {
             "name": {
                 "en": [
-                    "Aruba",
-                    "ARUBA"
+                    "ARUBA",
+                    "Aruba"
                 ],
                 "fr": [
                     "Aruba"
@@ -299,8 +299,8 @@
         {
             "name": {
                 "en": [
-                    "Australia",
-                    "AUSTRALIA"
+                    "AUSTRALIA",
+                    "Australia"
                 ],
                 "fr": [
                     "Australie (l')",
@@ -324,8 +324,8 @@
                     "Azərbaycan"
                 ],
                 "en": [
-                    "Azerbaijan",
                     "AZERBAIJAN",
+                    "Azerbaijan",
                     "the Republic of Azerbaijan"
                 ],
                 "fr": [
@@ -355,8 +355,8 @@
                     "Al Jazā’ir"
                 ],
                 "en": [
-                    "Algeria",
                     "ALGERIA",
+                    "Algeria",
                     "the People's Democratic Republic of Algeria"
                 ],
                 "fr": [
@@ -385,8 +385,8 @@
                     "Bosna i Hercegovina"
                 ],
                 "en": [
-                    "Bosnia and Herzegovina",
-                    "BOSNIA AND HERZEGOVINA"
+                    "BOSNIA AND HERZEGOVINA",
+                    "Bosnia and Herzegovina"
                 ],
                 "fr": [
                     "Bosnie-Herzégovine (la)",
@@ -417,12 +417,12 @@
         {
             "name": {
                 "en": [
-                    "Barbados",
-                    "BARBADOS"
+                    "BARBADOS",
+                    "Barbados"
                 ],
                 "fr": [
-                    "la Barbade",
-                    "Barbade (la)"
+                    "Barbade (la)",
+                    "la Barbade"
                 ]
             },
             "iso-3166": {
@@ -446,12 +446,12 @@
                     "Bāṁlādesh"
                 ],
                 "en": [
-                    "Bangladesh",
-                    "BANGLADESH"
+                    "BANGLADESH",
+                    "Bangladesh"
                 ],
                 "fr": [
-                    "le Bangladesh",
-                    "Bangladesh (le)"
+                    "Bangladesh (le)",
+                    "le Bangladesh"
                 ]
             },
             "iso-3166": {
@@ -471,8 +471,8 @@
                     "Belgien"
                 ],
                 "en": [
-                    "Belgium",
                     "BELGIUM",
+                    "Belgium",
                     "the Kingdom of Belgium"
                 ],
                 "fr": [
@@ -501,8 +501,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Barthélemy",
-                    "SAINT BARTHELEMY"
+                    "SAINT BARTHELEMY",
+                    "Saint Barthélemy"
                 ],
                 "fr": [
                     "Saint-Barthélemy"
@@ -522,12 +522,12 @@
         {
             "name": {
                 "ar": [
-                    "Al Baḩrayn",
-                    "Al Baḩrayn"
+                    "Al Baḩrayn",
+                    "Al Baḩrayn"
                 ],
                 "en": [
-                    "Bahrain",
                     "BAHRAIN",
+                    "Bahrain",
                     "the Kingdom of Bahrain"
                 ],
                 "fr": [
@@ -552,8 +552,8 @@
         {
             "name": {
                 "en": [
-                    "Burundi",
                     "BURUNDI",
+                    "Burundi",
                     "the Republic of Burundi"
                 ],
                 "fr": [
@@ -582,8 +582,8 @@
         {
             "name": {
                 "en": [
-                    "Brunei Darussalam",
-                    "BRUNEI"
+                    "BRUNEI",
+                    "Brunei Darussalam"
                 ],
                 "fr": [
                     "Brunéi Darussalam (le)",
@@ -607,9 +607,9 @@
         {
             "name": {
                 "en": [
-                    "Plurinational State of Bolivia",
                     "BOLIVIA",
-                    "Bolivia (Plurinational State of)"
+                    "Bolivia (Plurinational State of)",
+                    "Plurinational State of Bolivia"
                 ],
                 "es": [
                     "Bolivia, Estado Plurinacional de"
@@ -654,8 +654,8 @@
         {
             "name": {
                 "en": [
-                    "Botswana",
                     "BOTSWANA",
+                    "Botswana",
                     "the Republic of Botswana"
                 ],
                 "fr": [
@@ -685,8 +685,8 @@
                     "Bouvet Island"
                 ],
                 "fr": [
-                    "l'Île Bouvet",
-                    "Bouvet (l'Île)"
+                    "Bouvet (l'Île)",
+                    "l'Île Bouvet"
                 ],
                 "nb": [
                     "Bouvetøya"
@@ -720,8 +720,8 @@
                     "Belarus"
                 ],
                 "fr": [
-                    "le Bélarus",
-                    "Bélarus (le)"
+                    "Bélarus (le)",
+                    "le Bélarus"
                 ],
                 "ru": [
                     "Belarus'"
@@ -741,12 +741,12 @@
         {
             "name": {
                 "en": [
-                    "Belize",
-                    "BELIZE"
+                    "BELIZE",
+                    "Belize"
                 ],
                 "fr": [
-                    "le Belize",
-                    "Belize (le)"
+                    "Belize (le)",
+                    "le Belize"
                 ]
             },
             "iso-3166": {
@@ -767,9 +767,9 @@
         {
             "name": {
                 "en": [
+                    "CENTRAL AFRICAN REPUBLIC",
                     "Central African Republic (the)",
-                    "the Central African Republic",
-                    "CENTRAL AFRICAN REPUBLIC"
+                    "the Central African Republic"
                 ],
                 "fr": [
                     "République centrafricaine (la)",
@@ -793,8 +793,8 @@
         {
             "name": {
                 "en": [
-                    "Côte d'Ivoire",
                     "COTE D'IVOIRE",
+                    "Côte d'Ivoire",
                     "the Republic of Côte d'Ivoire"
                 ],
                 "fr": [
@@ -821,9 +821,9 @@
             "name": {
                 "en": [
                     "COOK ISLANDS",
+                    "Cook Islands",
                     "Cook Islands (the)",
-                    "the Cook Islands",
-                    "Cook Islands"
+                    "the Cook Islands"
                 ],
                 "fr": [
                     "Cook (les Îles)",
@@ -848,8 +848,8 @@
         {
             "name": {
                 "en": [
-                    "Cameroon",
                     "CAMEROON",
+                    "Cameroon",
                     "the Republic of Cameroon"
                 ],
                 "fr": [
@@ -875,8 +875,8 @@
         {
             "name": {
                 "en": [
-                    "Costa Rica",
-                    "COSTA RICA"
+                    "COSTA RICA",
+                    "Costa Rica"
                 ],
                 "es": [
                     "Costa Rica"
@@ -900,8 +900,8 @@
         {
             "name": {
                 "en": [
-                    "Cuba",
-                    "CUBA"
+                    "CUBA",
+                    "Cuba"
                 ],
                 "es": [
                     "Cuba"
@@ -924,8 +924,8 @@
         {
             "name": {
                 "en": [
-                    "Christmas Island",
-                    "CHRISTMAS ISLAND"
+                    "CHRISTMAS ISLAND",
+                    "Christmas Island"
                 ],
                 "fr": [
                     "Christmas (l'Île)",
@@ -970,8 +970,8 @@
                     "Kýpros"
                 ],
                 "en": [
-                    "Cyprus",
-                    "CYPRUS"
+                    "CYPRUS",
+                    "Cyprus"
                 ],
                 "fr": [
                     "Chypre"
@@ -1016,8 +1016,8 @@
         {
             "name": {
                 "en": [
-                    "Dominica",
                     "DOMINICA",
+                    "Dominica",
                     "the Commonwealth of Dominica"
                 ],
                 "fr": [
@@ -1043,9 +1043,9 @@
         {
             "name": {
                 "en": [
+                    "DOMINICAN REPUBLIC",
                     "Dominican Republic (the)",
-                    "the Dominican Republic",
-                    "DOMINICAN REPUBLIC"
+                    "the Dominican Republic"
                 ],
                 "es": [
                     "República Dominicana (la)"
@@ -1073,8 +1073,8 @@
         {
             "name": {
                 "en": [
-                    "Ecuador",
-                    "ECUADOR"
+                    "ECUADOR",
+                    "Ecuador"
                 ],
                 "es": [
                     "Ecuador (el)"
@@ -1098,8 +1098,8 @@
         {
             "name": {
                 "en": [
-                    "Estonia",
                     "ESTONIA",
+                    "Estonia",
                     "the Republic of Estonia"
                 ],
                 "et": [
@@ -1131,8 +1131,8 @@
                     "Aş Şaḩrā' al Gharbīyah"
                 ],
                 "en": [
-                    "Western Sahara",
-                    "WESTERN SAHARA"
+                    "WESTERN SAHARA",
+                    "Western Sahara"
                 ],
                 "fr": [
                     "Sahara occidental (le)",
@@ -1156,13 +1156,13 @@
                     "Irītrīyā"
                 ],
                 "en": [
-                    "Eritrea",
                     "ERITREA",
+                    "Eritrea",
                     "the State of Eritrea"
                 ],
                 "fr": [
-                    "Érythrée (l')",
-                    "l'Érythrée"
+                    "l'Érythrée",
+                    "Érythrée (l')"
                 ],
                 "ti": [
                     "Iertra"
@@ -1186,8 +1186,8 @@
         {
             "name": {
                 "en": [
-                    "Finland",
                     "FINLAND",
+                    "Finland",
                     "the Republic of Finland"
                 ],
                 "fi": [
@@ -1219,9 +1219,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Fiji",
+                    "FIJI",
                     "Fiji",
-                    "FIJI"
+                    "the Republic of Fiji"
                 ],
                 "fj": [
                     "Viti"
@@ -1249,10 +1249,10 @@
         {
             "name": {
                 "en": [
-                    "the Falkland Islands",
                     "FALKLAND ISLANDS (ISLAS MALVINAS)",
                     "Falkland Islands (the) [Malvinas]",
-                    "Falkland Islands, (the) [Malvinas]"
+                    "Falkland Islands, (the) [Malvinas]",
+                    "the Falkland Islands"
                 ],
                 "fr": [
                     "Falkland (les Îles), Malouines (les Îles)",
@@ -1273,12 +1273,12 @@
         {
             "name": {
                 "en": [
-                    "French Guiana",
-                    "FRENCH GUIANA"
+                    "FRENCH GUIANA",
+                    "French Guiana"
                 ],
                 "fr": [
-                    "la  Guyane française",
-                    "Guyane française (la )"
+                    "Guyane française (la )",
+                    "la  Guyane française"
                 ]
             },
             "iso-3166": {
@@ -1295,8 +1295,8 @@
         {
             "name": {
                 "en": [
-                    "Guernsey",
-                    "GUERNSEY"
+                    "GUERNSEY",
+                    "Guernsey"
                 ],
                 "fr": [
                     "Guernesey"
@@ -1319,8 +1319,8 @@
                     "Grønland"
                 ],
                 "en": [
-                    "Greenland",
-                    "GREENLAND"
+                    "GREENLAND",
+                    "Greenland"
                 ],
                 "fr": [
                     "Groenland (le)",
@@ -1348,13 +1348,13 @@
         {
             "name": {
                 "en": [
+                    "GAMBIA, THE",
                     "Gambia (the)",
-                    "the Gambia",
-                    "GAMBIA, THE"
+                    "the Gambia"
                 ],
                 "fr": [
-                    "la Gambie",
-                    "Gambie (la)"
+                    "Gambie (la)",
+                    "la Gambie"
                 ]
             },
             "iso-3166": {
@@ -1371,8 +1371,8 @@
         {
             "name": {
                 "en": [
-                    "Equatorial Guinea",
-                    "EQUATORIAL GUINEA"
+                    "EQUATORIAL GUINEA",
+                    "Equatorial Guinea"
                 ],
                 "es": [
                     "Guinea Ecuatorial"
@@ -1399,13 +1399,13 @@
         {
             "name": {
                 "el": [
-                    "Ellás/Elláda",
-                    "Elláda"
+                    "Elláda",
+                    "Ellás/Elláda"
                 ],
                 "en": [
                     "GREECE",
-                    "the Hellenic Republic",
-                    "Greece"
+                    "Greece",
+                    "the Hellenic Republic"
                 ],
                 "fr": [
                     "Grèce (la)",
@@ -1430,8 +1430,8 @@
         {
             "name": {
                 "en": [
-                    "South Georgia and the South Sandwich Islands",
-                    "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+                    "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+                    "South Georgia and the South Sandwich Islands"
                 ],
                 "fr": [
                     "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
@@ -1452,9 +1452,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Guatemala",
+                    "GUATEMALA",
                     "Guatemala",
-                    "GUATEMALA"
+                    "the Republic of Guatemala"
                 ],
                 "es": [
                     "Guatemala"
@@ -1482,8 +1482,8 @@
         {
             "name": {
                 "en": [
-                    "Guam",
-                    "GUAM"
+                    "GUAM",
+                    "Guam"
                 ],
                 "fr": [
                     "Guam"
@@ -1503,8 +1503,8 @@
         {
             "name": {
                 "en": [
-                    "Guinea-Bissau",
                     "GUINEA-BISSAU",
+                    "Guinea-Bissau",
                     "the Republic of Guinea-Bissau"
                 ],
                 "fr": [
@@ -1512,8 +1512,8 @@
                     "la Guinée-Bissau"
                 ],
                 "pt": [
-                    "Guiné-Bissau (a)",
-                    "Guiné-Bissau"
+                    "Guiné-Bissau",
+                    "Guiné-Bissau (a)"
                 ]
             },
             "iso-3166": {
@@ -1534,8 +1534,8 @@
         {
             "name": {
                 "en": [
-                    "Guyana",
-                    "GUYANA"
+                    "GUYANA",
+                    "Guyana"
                 ],
                 "fr": [
                     "Guyana (le)",
@@ -1556,8 +1556,8 @@
         {
             "name": {
                 "en": [
-                    "Hong Kong",
-                    "HONG KONG"
+                    "HONG KONG",
+                    "Hong Kong"
                 ],
                 "fr": [
                     "Hong Kong"
@@ -1580,8 +1580,8 @@
         {
             "name": {
                 "en": [
-                    "Heard Island and McDonald Islands",
-                    "HEARD ISLAND AND MCDONALD ISLANDS"
+                    "HEARD ISLAND AND MCDONALD ISLANDS",
+                    "Heard Island and McDonald Islands"
                 ],
                 "fr": [
                     "Heard-et-Îles MacDonald (l'Île)",
@@ -1602,8 +1602,8 @@
         {
             "name": {
                 "en": [
-                    "Honduras",
                     "HONDURAS",
+                    "Honduras",
                     "the Republic of Honduras"
                 ],
                 "es": [
@@ -1632,8 +1632,8 @@
         {
             "name": {
                 "en": [
-                    "Hungary",
-                    "HUNGARY"
+                    "HUNGARY",
+                    "Hungary"
                 ],
                 "fr": [
                     "Hongrie (la)",
@@ -1661,8 +1661,8 @@
         {
             "name": {
                 "en": [
-                    "Ireland",
-                    "IRELAND"
+                    "IRELAND",
+                    "Ireland"
                 ],
                 "fr": [
                     "Irlande (l')",
@@ -1690,8 +1690,8 @@
         {
             "name": {
                 "en": [
-                    "Iceland",
                     "ICELAND",
+                    "Iceland",
                     "the Republic of Iceland"
                 ],
                 "fr": [
@@ -1723,9 +1723,9 @@
                     "Isrā'īl"
                 ],
                 "en": [
-                    "the State of Israel",
+                    "ISRAEL",
                     "Israel",
-                    "ISRAEL"
+                    "the State of Israel"
                 ],
                 "fr": [
                     "Israël"
@@ -1752,9 +1752,9 @@
         {
             "name": {
                 "en": [
+                    "IRAN",
                     "Iran (Islamic Republic of)",
-                    "Islamic Republic of Iran",
-                    "IRAN"
+                    "Islamic Republic of Iran"
                 ],
                 "fa": [
                     "Jomhūrī-ye Eslāmī-ye Īrān"
@@ -1778,8 +1778,8 @@
         {
             "name": {
                 "en": [
-                    "Italy",
-                    "ITALY"
+                    "ITALY",
+                    "Italy"
                 ],
                 "fr": [
                     "Italie (l')",
@@ -1803,8 +1803,8 @@
         {
             "name": {
                 "en": [
-                    "Jersey",
-                    "JERSEY"
+                    "JERSEY",
+                    "Jersey"
                 ],
                 "fr": [
                     "Jersey"
@@ -1853,13 +1853,13 @@
         {
             "name": {
                 "en": [
-                    "Kenya",
                     "KENYA",
+                    "Kenya",
                     "the Republic of Kenya"
                 ],
                 "fr": [
-                    "le Kenya",
-                    "Kenya (le)"
+                    "Kenya (le)",
+                    "le Kenya"
                 ],
                 "sw": [
                     "Kenya"
@@ -1883,8 +1883,8 @@
         {
             "name": {
                 "en": [
-                    "Kyrgyzstan",
                     "KYRGYZSTAN",
+                    "Kyrgyzstan",
                     "the Kyrgyz Republic"
                 ],
                 "fr": [
@@ -1946,8 +1946,8 @@
         {
             "name": {
                 "en": [
-                    "Kiribati",
-                    "KIRIBATI"
+                    "KIRIBATI",
+                    "Kiribati"
                 ],
                 "fr": [
                     "Kiribati"
@@ -1967,9 +1967,9 @@
         {
             "name": {
                 "en": [
-                    "the Federation of Saint Kitts and Nevis",
+                    "ST. KITTS AND NEVIS",
                     "Saint Kitts and Nevis",
-                    "ST. KITTS AND NEVIS"
+                    "the Federation of Saint Kitts and Nevis"
                 ],
                 "fr": [
                     "Saint-Kitts-et-Nevis"
@@ -1993,9 +1993,9 @@
         {
             "name": {
                 "en": [
-                    "the Democratic People's Republic of Korea",
+                    "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
                     "Korea (the Democratic People's Republic of)",
-                    "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+                    "the Democratic People's Republic of Korea"
                 ],
                 "fr": [
                     "Corée (la République populaire démocratique de)",
@@ -2019,9 +2019,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Korea",
                     "KOREA, REPUBLIC OF",
-                    "Korea (the Republic of)"
+                    "Korea (the Republic of)",
+                    "the Republic of Korea"
                 ],
                 "fr": [
                     "Corée (la République de)",
@@ -2045,9 +2045,9 @@
         {
             "name": {
                 "en": [
+                    "CAYMAN ISLANDS",
                     "Cayman Islands (the)",
-                    "the Cayman Islands",
-                    "CAYMAN ISLANDS"
+                    "the Cayman Islands"
                 ],
                 "fr": [
                     "Caïmans (les Îles"
@@ -2097,8 +2097,8 @@
                     "Liechtenstein"
                 ],
                 "en": [
-                    "Liechtenstein",
                     "LIECHTENSTEIN",
+                    "Liechtenstein",
                     "the Principality of Liechtenstein"
                 ],
                 "fr": [
@@ -2125,8 +2125,8 @@
             "name": {
                 "en": [
                     "SRI LANKA",
-                    "the Democratic Socialist Republic of Sri Lanka",
-                    "Sri Lanka"
+                    "Sri Lanka",
+                    "the Democratic Socialist Republic of Sri Lanka"
                 ],
                 "fr": [
                     "Sri Lanka"
@@ -2159,8 +2159,8 @@
         {
             "name": {
                 "en": [
-                    "Latvia",
                     "LATVIA",
+                    "Latvia",
                     "the Republic of Latvia"
                 ],
                 "fr": [
@@ -2192,9 +2192,9 @@
                     "Al Maghrib"
                 ],
                 "en": [
-                    "the Kingdom of Morocco",
+                    "MOROCCO",
                     "Morocco",
-                    "MOROCCO"
+                    "the Kingdom of Morocco"
                 ],
                 "fr": [
                     "Maroc (le)",
@@ -2219,13 +2219,13 @@
         {
             "name": {
                 "en": [
+                    "MOLDOVA",
                     "Moldova (the Republic of)",
-                    "the Republic of Moldova",
-                    "MOLDOVA"
+                    "the Republic of Moldova"
                 ],
                 "fr": [
-                    "la République de Moldova",
-                    "Moldova (la République de)"
+                    "Moldova (la République de)",
+                    "la République de Moldova"
                 ],
                 "ro": [
                     "Republica Moldova"
@@ -2248,8 +2248,8 @@
                     "Crna Gora"
                 ],
                 "en": [
-                    "Montenegro",
-                    "MONTENEGRO"
+                    "MONTENEGRO",
+                    "Montenegro"
                 ],
                 "fr": [
                     "Monténégro (le)",
@@ -2274,9 +2274,9 @@
         {
             "name": {
                 "en": [
-                    "Saint Martin (French part)",
                     "French part Saint Martin",
-                    "SAINT MARTIN"
+                    "SAINT MARTIN",
+                    "Saint Martin (French part)"
                 ],
                 "fr": [
                     "Saint-Martin (partie française)",
@@ -2297,8 +2297,8 @@
         {
             "name": {
                 "en": [
-                    "Malawi",
                     "MALAWI",
+                    "Malawi",
                     "the Republic of Malawi"
                 ],
                 "fr": [
@@ -2327,12 +2327,12 @@
         {
             "name": {
                 "en": [
-                    "Mongolia",
-                    "MONGOLIA"
+                    "MONGOLIA",
+                    "Mongolia"
                 ],
                 "fr": [
-                    "la Mongolie",
-                    "Mongolie (la)"
+                    "Mongolie (la)",
+                    "la Mongolie"
                 ],
                 "mn": [
                     "Mongol"
@@ -2376,8 +2376,8 @@
         {
             "name": {
                 "en": [
-                    "Martinique",
-                    "MARTINIQUE"
+                    "MARTINIQUE",
+                    "Martinique"
                 ],
                 "fr": [
                     "Martinique (la)",
@@ -2401,8 +2401,8 @@
                     "Mūrītāniyā"
                 ],
                 "en": [
-                    "Mauritania",
                     "MAURITANIA",
+                    "Mauritania",
                     "the Islamic Republic of Mauritania"
                 ],
                 "fr": [
@@ -2428,9 +2428,9 @@
         {
             "name": {
                 "en": [
+                    "MALAWI",
                     "Malawi",
-                    "the Republic of Malawi",
-                    "MALAWI"
+                    "the Republic of Malawi"
                 ],
                 "fr": [
                     "Malawi (le)",
@@ -2458,12 +2458,12 @@
         {
             "name": {
                 "en": [
-                    "Malaysia",
-                    "MALAYSIA"
+                    "MALAYSIA",
+                    "Malaysia"
                 ],
                 "fr": [
-                    "la Malaisie",
-                    "Malaisie (la)"
+                    "Malaisie (la)",
+                    "la Malaisie"
                 ],
                 "ms": [
                     "Malaysia"
@@ -2483,9 +2483,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Namibia",
+                    "NAMIBIA",
                     "Namibia",
-                    "NAMIBIA"
+                    "the Republic of Namibia"
                 ],
                 "fr": [
                     "Namibie (la)",
@@ -2532,8 +2532,8 @@
         {
             "name": {
                 "en": [
-                    "Norway",
-                    "NORWAY"
+                    "NORWAY",
+                    "Norway"
                 ],
                 "fr": [
                     "Norvège (la)",
@@ -2560,8 +2560,8 @@
         {
             "name": {
                 "en": [
-                    "Niue",
-                    "NIUE"
+                    "NIUE",
+                    "Niue"
                 ],
                 "fr": [
                     "Niue"
@@ -2588,8 +2588,8 @@
                     "Qaţar"
                 ],
                 "en": [
-                    "Qatar",
                     "QATAR",
+                    "Qatar",
                     "the State of Qatar"
                 ],
                 "fr": [
@@ -2615,8 +2615,8 @@
         {
             "name": {
                 "en": [
-                    "Panama",
                     "PANAMA",
+                    "Panama",
                     "the Republic of Panama"
                 ],
                 "es": [
@@ -2645,8 +2645,8 @@
         {
             "name": {
                 "en": [
-                    "French Polynesia",
-                    "FRENCH POLYNESIA"
+                    "FRENCH POLYNESIA",
+                    "French Polynesia"
                 ],
                 "fr": [
                     "Polynésie française (la)",
@@ -2667,8 +2667,8 @@
         {
             "name": {
                 "en": [
-                    "Papua New Guinea",
-                    "PAPUA NEW GUINEA"
+                    "PAPUA NEW GUINEA",
+                    "Papua New Guinea"
                 ],
                 "fr": [
                     "Papouasie-Nouvelle-Guinée (la)",
@@ -2692,8 +2692,8 @@
         {
             "name": {
                 "en": [
-                    "Poland",
                     "POLAND",
+                    "Poland",
                     "the Republic of Poland"
                 ],
                 "fr": [
@@ -2722,9 +2722,9 @@
         {
             "name": {
                 "en": [
+                    "PHILIPPINES",
                     "Philippines (the)",
-                    "the Philippines",
-                    "PHILIPPINES"
+                    "the Philippines"
                 ],
                 "fr": [
                     "Philippines (les)",
@@ -2748,8 +2748,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Pierre and Miquelon",
-                    "ST. PIERRE AND MIQUELON"
+                    "ST. PIERRE AND MIQUELON",
+                    "Saint Pierre and Miquelon"
                 ],
                 "fr": [
                     "Saint-Pierre-et-Miquelon"
@@ -2820,9 +2820,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Paraguay",
+                    "PARAGUAY",
                     "Paraguay",
-                    "PARAGUAY"
+                    "the Republic of Paraguay"
                 ],
                 "es": [
                     "Paraguay (el)"
@@ -2853,8 +2853,8 @@
         {
             "name": {
                 "en": [
-                    "Romania",
-                    "ROMANIA"
+                    "ROMANIA",
+                    "Romania"
                 ],
                 "fr": [
                     "Roumanie (la)",
@@ -2882,8 +2882,8 @@
         {
             "name": {
                 "en": [
-                    "Serbia",
-                    "SERBIA"
+                    "SERBIA",
+                    "Serbia"
                 ],
                 "fr": [
                     "Serbie (la)",
@@ -2907,8 +2907,8 @@
         {
             "name": {
                 "en": [
-                    "Rwanda",
                     "RWANDA",
+                    "Rwanda",
                     "the Republic of Rwanda"
                 ],
                 "fr": [
@@ -2940,12 +2940,12 @@
                     "As Su‘ūdīyah"
                 ],
                 "en": [
-                    "Saudi Arabia",
-                    "SAUDI ARABIA"
+                    "SAUDI ARABIA",
+                    "Saudi Arabia"
                 ],
                 "fr": [
-                    "l'Arabie saoudite",
-                    "Arabie saoudite (l')"
+                    "Arabie saoudite (l')",
+                    "l'Arabie saoudite"
                 ]
             },
             "iso-3166": {
@@ -2963,8 +2963,8 @@
             "name": {
                 "en": [
                     "SINGAPORE",
-                    "the Republic of Singapore",
-                    "Singapore"
+                    "Singapore",
+                    "the Republic of Singapore"
                 ],
                 "fr": [
                     "Singapour"
@@ -3018,8 +3018,8 @@
         {
             "name": {
                 "en": [
-                    "Sierra Leone",
                     "SIERRA LEONE",
+                    "Sierra Leone",
                     "the Republic of Sierra Leone"
                 ],
                 "fr": [
@@ -3045,13 +3045,13 @@
         {
             "name": {
                 "en": [
-                    "Slovakia",
                     "SLOVAKIA",
+                    "Slovakia",
                     "the Slovak Republic"
                 ],
                 "fr": [
-                    "la Slovaquie",
-                    "Slovaquie (la)"
+                    "Slovaquie (la)",
+                    "la Slovaquie"
                 ],
                 "sk": [
                     "Slovensko"
@@ -3076,8 +3076,8 @@
             "name": {
                 "en": [
                     "SENEGAL",
-                    "the Republic of Senegal",
-                    "Senegal"
+                    "Senegal",
+                    "the Republic of Senegal"
                 ],
                 "fr": [
                     "Sénégal (le)",
@@ -3102,12 +3102,12 @@
         {
             "name": {
                 "en": [
-                    "the Republic of South Sudan",
-                    "South Sudan"
+                    "South Sudan",
+                    "the Republic of South Sudan"
                 ],
                 "fr": [
-                    "le Soudan du Sud",
-                    "Soudan du Sud (le)"
+                    "Soudan du Sud (le)",
+                    "le Soudan du Sud"
                 ]
             },
             "iso-3166": {
@@ -3126,8 +3126,8 @@
         {
             "name": {
                 "en": [
-                    "Sao Tome and Principe",
                     "SAO TOME AND PRINCIPE",
+                    "Sao Tome and Principe",
                     "the Democratic Republic of Sao Tome and Principe"
                 ],
                 "fr": [
@@ -3155,8 +3155,8 @@
         {
             "name": {
                 "en": [
-                    "El Salvador",
                     "EL SALVADOR",
+                    "El Salvador",
                     "the Republic of El Salvador"
                 ],
                 "es": [
@@ -3187,9 +3187,9 @@
                     "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah"
                 ],
                 "en": [
+                    "SYRIA",
                     "Syrian Arab Republic (the)",
-                    "the Syrian Arab Republic",
-                    "SYRIA"
+                    "the Syrian Arab Republic"
                 ],
                 "fr": [
                     "République arabe syrienne (la)",
@@ -3210,9 +3210,9 @@
         {
             "name": {
                 "en": [
-                    "the Kingdom of Swaziland",
                     "Eswatini",
-                    "Swaziland"
+                    "Swaziland",
+                    "the Kingdom of Swaziland"
                 ],
                 "fr": [
                     "Eswatini (l')",
@@ -3238,9 +3238,9 @@
         {
             "name": {
                 "en": [
+                    "TURKS AND CAICOS ISLANDS",
                     "Turks and Caicos Islands (the)",
-                    "the Turks and Caicos Islands",
-                    "TURKS AND CAICOS ISLANDS"
+                    "the Turks and Caicos Islands"
                 ],
                 "fr": [
                     "Turks-et-Caïcos (les Îles)",
@@ -3265,8 +3265,8 @@
         {
             "name": {
                 "en": [
-                    "Tokelau",
-                    "TOKELAU"
+                    "TOKELAU",
+                    "Tokelau"
                 ],
                 "fr": [
                     "Tokelau (les)",
@@ -3294,8 +3294,8 @@
                     "Timor Lorosa'e"
                 ],
                 "en": [
-                    "Timor-Leste",
                     "EAST TIMOR",
+                    "Timor-Leste",
                     "the Democratic Republic of Timor-Leste"
                 ],
                 "fr": [
@@ -3324,8 +3324,8 @@
         {
             "name": {
                 "en": [
-                    "Thailand",
                     "THAILAND",
+                    "Thailand",
                     "the Kingdom of Thailand"
                 ],
                 "fr": [
@@ -3354,8 +3354,8 @@
         {
             "name": {
                 "en": [
-                    "Turkmenistan",
-                    "TURKMENISTAN"
+                    "TURKMENISTAN",
+                    "Turkmenistan"
                 ],
                 "fr": [
                     "Turkménistan (le)",
@@ -3386,8 +3386,8 @@
                     "Tūnis"
                 ],
                 "en": [
-                    "Tunisia",
-                    "TUNISIA"
+                    "TUNISIA",
+                    "Tunisia"
                 ],
                 "fr": [
                     "Tunisie (la)",
@@ -3409,8 +3409,8 @@
             "name": {
                 "en": [
                     "Province of China Taiwan",
-                    "Taiwan (Province of China)",
-                    "TAIWAN"
+                    "TAIWAN",
+                    "Taiwan (Province of China)"
                 ],
                 "fr": [
                     "Province de Chine Taïwan",
@@ -3437,8 +3437,8 @@
                     "Tuvalu"
                 ],
                 "en": [
-                    "Tuvalu",
-                    "TUVALU"
+                    "TUVALU",
+                    "Tuvalu"
                 ],
                 "fr": [
                     "Tuvalu (les)",
@@ -3463,8 +3463,8 @@
         {
             "name": {
                 "en": [
-                    "Tanzania, the United Republic of",
-                    "TANZANIA"
+                    "TANZANIA",
+                    "Tanzania, the United Republic of"
                 ],
                 "fr": [
                     "Tanzanie (la République-Unie de)",
@@ -3488,8 +3488,8 @@
         {
             "name": {
                 "en": [
-                    "Uganda",
                     "UGANDA",
+                    "Uganda",
                     "the Republic of Uganda"
                 ],
                 "fr": [
@@ -3515,15 +3515,15 @@
         {
             "name": {
                 "en": [
-                    "Uruguay",
-                    "URUGUAY"
+                    "URUGUAY",
+                    "Uruguay"
                 ],
                 "es": [
                     "Uruguay (el)"
                 ],
                 "fr": [
-                    "l'Uruguay",
-                    "Uruguay (l')"
+                    "Uruguay (l')",
+                    "l'Uruguay"
                 ]
             },
             "iso-3166": {
@@ -3571,8 +3571,8 @@
             "name": {
                 "en": [
                     "Holy See (the)",
-                    "the Holy See",
-                    "VATICAN CITY"
+                    "VATICAN CITY",
+                    "the Holy See"
                 ],
                 "fr": [
                     "Saint-Siège (le)",
@@ -3600,8 +3600,8 @@
             "name": {
                 "en": [
                     "Bolivarian Republic of Venezuela",
-                    "Venezuela (Bolivarian Republic of)",
-                    "VENEZUELA"
+                    "VENEZUELA",
+                    "Venezuela (Bolivarian Republic of)"
                 ],
                 "es": [
                     "Venezuela, República Bolivariana de"
@@ -3625,9 +3625,9 @@
         {
             "name": {
                 "en": [
+                    "BRITISH VIRGIN ISLANDS",
                     "British Virgin Islands",
-                    "Virgin Islands (British)",
-                    "BRITISH VIRGIN ISLANDS"
+                    "Virgin Islands (British)"
                 ],
                 "fr": [
                     "Vierges britanniques (les Îles)",
@@ -3651,8 +3651,8 @@
                     "Vanuatu"
                 ],
                 "en": [
-                    "Vanuatu",
-                    "VANUATU"
+                    "VANUATU",
+                    "Vanuatu"
                 ],
                 "fr": [
                     "Vanuatu (le)",
@@ -3673,8 +3673,8 @@
         {
             "name": {
                 "en": [
-                    "Mayotte",
-                    "MAYOTTE"
+                    "MAYOTTE",
+                    "Mayotte"
                 ],
                 "fr": [
                     "Mayotte"
@@ -3694,8 +3694,8 @@
         {
             "name": {
                 "en": [
-                    "Zimbabwe",
                     "ZIMBABWE",
+                    "Zimbabwe",
                     "the Republic of Zimbabwe"
                 ],
                 "fr": [
@@ -3721,8 +3721,8 @@
         {
             "name": {
                 "en": [
-                    "Slovenia",
                     "SLOVENIA",
+                    "Slovenia",
                     "the Republic of Slovenia"
                 ],
                 "fr": [
@@ -3751,8 +3751,8 @@
         {
             "name": {
                 "en": [
-                    "Chile",
-                    "CHILE"
+                    "CHILE",
+                    "Chile"
                 ],
                 "es": [
                     "Chile"
@@ -3800,8 +3800,8 @@
         {
             "name": {
                 "en": [
-                    "Ghana",
                     "GHANA",
+                    "Ghana",
                     "the Republic of Ghana"
                 ],
                 "fr": [
@@ -3849,13 +3849,13 @@
         {
             "name": {
                 "en": [
-                    "the Cocos (Keeling) Islands",
                     "COCOS (KEELING) ISLANDS",
-                    "Cocos (Keeling) Islands (the)"
+                    "Cocos (Keeling) Islands (the)",
+                    "the Cocos (Keeling) Islands"
                 ],
                 "fr": [
-                    "les Îles Cocos (les Îles)/ Keeling",
-                    "Cocos (les Îles)/ Keeling (les Îles)"
+                    "Cocos (les Îles)/ Keeling (les Îles)",
+                    "les Îles Cocos (les Îles)/ Keeling"
                 ]
             },
             "iso-3166": {
@@ -3872,8 +3872,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Lucia",
-                    "ST. LUCIA"
+                    "ST. LUCIA",
+                    "Saint Lucia"
                 ],
                 "fr": [
                     "Sainte-Lucie"
@@ -3897,8 +3897,8 @@
         {
             "name": {
                 "en": [
-                    "France",
-                    "FRANCE"
+                    "FRANCE",
+                    "France"
                 ],
                 "fr": [
                     "France (la)",
@@ -3919,8 +3919,8 @@
         {
             "name": {
                 "en": [
-                    "Sweden",
                     "SWEDEN",
+                    "Sweden",
                     "the Kingdom of Sweden"
                 ],
                 "fr": [
@@ -3949,8 +3949,8 @@
         {
             "name": {
                 "en": [
-                    "India",
-                    "INDIA"
+                    "INDIA",
+                    "India"
                 ],
                 "fr": [
                     "Inde (l')",
@@ -3974,8 +3974,8 @@
         {
             "name": {
                 "en": [
-                    "Gabon",
                     "GABON",
+                    "Gabon",
                     "the Gabonese Republic"
                 ],
                 "fr": [
@@ -4030,8 +4030,8 @@
         {
             "name": {
                 "en": [
-                    "Mozambique",
                     "MOZAMBIQUE",
+                    "Mozambique",
                     "the Republic of Mozambique"
                 ],
                 "fr": [
@@ -4060,9 +4060,9 @@
         {
             "name": {
                 "en": [
+                    "UNITED STATES",
                     "United States of America (the)",
-                    "the United States of America",
-                    "UNITED STATES"
+                    "the United States of America"
                 ],
                 "fr": [
                     "les États-Unis d'Amérique",
@@ -4109,13 +4109,13 @@
         {
             "name": {
                 "en": [
+                    "GUINEA",
                     "Guinea",
-                    "the Republic of Guinea",
-                    "GUINEA"
+                    "the Republic of Guinea"
                 ],
                 "fr": [
-                    "la Guinée",
-                    "Guinée (la)"
+                    "Guinée (la)",
+                    "la Guinée"
                 ]
             },
             "iso-3166": {
@@ -4139,8 +4139,8 @@
                     "‘Umān"
                 ],
                 "en": [
-                    "Oman",
-                    "OMAN"
+                    "OMAN",
+                    "Oman"
                 ],
                 "fr": [
                     "Oman"
@@ -4160,8 +4160,8 @@
         {
             "name": {
                 "en": [
-                    "Tonga",
                     "TONGA",
+                    "Tonga",
                     "the Kingdom of Tonga"
                 ],
                 "fr": [
@@ -4190,8 +4190,8 @@
         {
             "name": {
                 "en": [
-                    "Togo",
                     "TOGO",
+                    "Togo",
                     "the Togolese Republic"
                 ],
                 "fr": [
@@ -4239,8 +4239,8 @@
         {
             "name": {
                 "en": [
-                    "Montserrat",
-                    "MONTSERRAT"
+                    "MONTSERRAT",
+                    "Montserrat"
                 ],
                 "fr": [
                     "Montserrat"
@@ -4264,8 +4264,8 @@
         {
             "name": {
                 "en": [
-                    "Bermuda",
-                    "BERMUDA"
+                    "BERMUDA",
+                    "Bermuda"
                 ],
                 "fr": [
                     "Bermudes (les)",
@@ -4290,8 +4290,8 @@
         {
             "name": {
                 "en": [
-                    "Nicaragua",
                     "NICARAGUA",
+                    "Nicaragua",
                     "the Republic of Nicaragua"
                 ],
                 "es": [
@@ -4320,8 +4320,8 @@
         {
             "name": {
                 "en": [
-                    "Grenada",
-                    "GRENADA"
+                    "GRENADA",
+                    "Grenada"
                 ],
                 "fr": [
                     "Grenade (la)",
@@ -4349,8 +4349,8 @@
                     "Lubnān"
                 ],
                 "en": [
-                    "Lebanon",
                     "LEBANON",
+                    "Lebanon",
                     "the Lebanese Republic"
                 ],
                 "fr": [
@@ -4376,8 +4376,8 @@
         {
             "name": {
                 "en": [
-                    "China",
-                    "CHINA"
+                    "CHINA",
+                    "China"
                 ],
                 "fr": [
                     "Chine (la)",
@@ -4404,8 +4404,8 @@
                     "Mişr"
                 ],
                 "en": [
-                    "Egypt",
                     "EGYPT",
+                    "Egypt",
                     "the Arab Republic of Egypt"
                 ],
                 "fr": [
@@ -4431,8 +4431,8 @@
         {
             "name": {
                 "en": [
-                    "Madagascar",
                     "MADAGASCAR",
+                    "Madagascar",
                     "the Republic of Madagascar"
                 ],
                 "fr": [
@@ -4461,8 +4461,8 @@
             "name": {
                 "en": [
                     "UNITED KINGDOM",
-                    "United Kingdom of Great Britain and Northern Ireland (the)",
                     "United Kingdom (the)",
+                    "United Kingdom of Great Britain and Northern Ireland (the)",
                     "the United Kingdom of Great Britain and Northern Ireland"
                 ],
                 "fr": [
@@ -4492,15 +4492,15 @@
                 ],
                 "en": [
                     "PERU",
-                    "the Republic of Peru",
-                    "Peru"
+                    "Peru",
+                    "the Republic of Peru"
                 ],
                 "es": [
                     "Perú (el)"
                 ],
                 "fr": [
-                    "le Pérou",
-                    "Pérou (le)"
+                    "Pérou (le)",
+                    "le Pérou"
                 ],
                 "qu": [
                     "Perú"
@@ -4524,8 +4524,8 @@
         {
             "name": {
                 "en": [
-                    "Indonesia",
                     "INDONESIA",
+                    "Indonesia",
                     "the Republic of Indonesia"
                 ],
                 "fr": [
@@ -4557,8 +4557,8 @@
                     "Jībūtī"
                 ],
                 "en": [
-                    "Djibouti",
                     "DJIBOUTI",
+                    "Djibouti",
                     "the Republic of Djibouti"
                 ],
                 "fr": [
@@ -4583,9 +4583,9 @@
         {
             "name": {
                 "en": [
-                    "Virgin Islands (U.S.)",
                     "U.S. Virgin Islands",
-                    "VIRGIN ISLANDS"
+                    "VIRGIN ISLANDS",
+                    "Virgin Islands (U.S.)"
                 ],
                 "fr": [
                     "Vierges des États-Unis (les Îles)",
@@ -4635,8 +4635,8 @@
                     "Ītyop’iya"
                 ],
                 "en": [
-                    "Ethiopia",
                     "ETHIOPIA",
+                    "Ethiopia",
                     "the Federal Democratic Republic of Ethiopia"
                 ],
                 "fr": [
@@ -4662,8 +4662,8 @@
         {
             "name": {
                 "en": [
-                    "New Zealand",
-                    "NEW ZEALAND"
+                    "NEW ZEALAND",
+                    "New Zealand"
                 ],
                 "fr": [
                     "Nouvelle-Zélande (la)",
@@ -4707,13 +4707,13 @@
         {
             "name": {
                 "en": [
+                    "BRITISH INDIAN OCEAN TERRITORY",
                     "British Indian Ocean Territory (the)",
-                    "the British Indian Ocean Territory",
-                    "BRITISH INDIAN OCEAN TERRITORY"
+                    "the British Indian Ocean Territory"
                 ],
                 "fr": [
-                    "le Territoire britannique de l'océan Indien",
-                    "Indien (le Territoire britannique de l'océan)"
+                    "Indien (le Territoire britannique de l'océan)",
+                    "le Territoire britannique de l'océan Indien"
                 ]
             },
             "iso-3166": {
@@ -4731,8 +4731,8 @@
             "name": {
                 "en": [
                     "Kingdom of the Netherlands",
-                    "Netherlands (Kingdom of the)",
-                    "NETHERLANDS"
+                    "NETHERLANDS",
+                    "Netherlands (Kingdom of the)"
                 ],
                 "fr": [
                     "Pays-Bas (Royaume des)",
@@ -4756,13 +4756,13 @@
         {
             "name": {
                 "en": [
+                    "CONGO",
                     "Congo (the)",
-                    "the Congo",
-                    "CONGO"
+                    "the Congo"
                 ],
                 "fr": [
-                    "le Congo",
-                    "Congo (le)"
+                    "Congo (le)",
+                    "le Congo"
                 ]
             },
             "iso-3166": {
@@ -4779,9 +4779,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Liberia",
                     "LIBERIA",
-                    "Liberia"
+                    "Liberia",
+                    "the Republic of Liberia"
                 ],
                 "fr": [
                     "Libéria (le)",
@@ -4806,8 +4806,8 @@
         {
             "name": {
                 "en": [
-                    "Pitcairn",
-                    "PITCAIRN ISLANDS"
+                    "PITCAIRN ISLANDS",
+                    "Pitcairn"
                 ],
                 "fr": [
                     "Pitcairn"
@@ -4827,13 +4827,13 @@
         {
             "name": {
                 "en": [
-                    "Uzbekistan",
                     "UZBEKISTAN",
+                    "Uzbekistan",
                     "the Republic of Uzbekistan"
                 ],
                 "fr": [
-                    "l'Ouzbékistan",
-                    "Ouzbékistan (l')"
+                    "Ouzbékistan (l')",
+                    "l'Ouzbékistan"
                 ],
                 "uz": [
                     "O‘zbekiston"
@@ -4857,8 +4857,8 @@
         {
             "name": {
                 "en": [
-                    "Haiti",
                     "HAITI",
+                    "Haiti",
                     "the Republic of Haiti"
                 ],
                 "fr": [
@@ -4886,13 +4886,13 @@
         {
             "name": {
                 "en": [
+                    "SURINAME",
                     "Suriname",
-                    "the Republic of Suriname",
-                    "SURINAME"
+                    "the Republic of Suriname"
                 ],
                 "fr": [
-                    "le Suriname",
-                    "Suriname (le)"
+                    "Suriname (le)",
+                    "le Suriname"
                 ],
                 "nl": [
                     "Suriname"
@@ -4916,8 +4916,8 @@
         {
             "name": {
                 "en": [
-                    "Brazil",
-                    "BRAZIL"
+                    "BRAZIL",
+                    "Brazil"
                 ],
                 "fr": [
                     "Brésil (le)",
@@ -4941,8 +4941,8 @@
         {
             "name": {
                 "en": [
-                    "Colombia",
-                    "COLOMBIA"
+                    "COLOMBIA",
+                    "Colombia"
                 ],
                 "es": [
                     "Colombia"
@@ -4966,8 +4966,8 @@
         {
             "name": {
                 "en": [
-                    "Guadeloupe",
-                    "GUADELOUPE"
+                    "GUADELOUPE",
+                    "Guadeloupe"
                 ],
                 "fr": [
                     "Guadeloupe (la)",
@@ -4988,8 +4988,8 @@
         {
             "name": {
                 "en": [
-                    "Ukraine",
-                    "UKRAINE"
+                    "UKRAINE",
+                    "Ukraine"
                 ],
                 "fr": [
                     "Ukraine (l')",
@@ -5041,8 +5041,8 @@
                     "Al Urdun"
                 ],
                 "en": [
-                    "Jordan",
                     "JORDAN",
+                    "Jordan",
                     "the Hashemite Kingdom of Jordan"
                 ],
                 "fr": [
@@ -5068,9 +5068,9 @@
         {
             "name": {
                 "en": [
+                    "CONGO",
                     "Congo (the Democratic Republic of the)",
-                    "the Democratic Republic of the Congo",
-                    "CONGO"
+                    "the Democratic Republic of the Congo"
                 ],
                 "fr": [
                     "Congo (la République démocratique du)",
@@ -5094,8 +5094,8 @@
                     "Lībiyā"
                 ],
                 "en": [
-                    "Libya",
-                    "LIBYA"
+                    "LIBYA",
+                    "Libya"
                 ],
                 "fr": [
                     "Libye (la)",
@@ -5120,12 +5120,12 @@
         {
             "name": {
                 "en": [
-                    "Canada",
-                    "CANADA"
+                    "CANADA",
+                    "Canada"
                 ],
                 "fr": [
-                    "le Canada",
-                    "Canada (le)"
+                    "Canada (le)",
+                    "le Canada"
                 ]
             },
             "iso-3166": {
@@ -5146,8 +5146,8 @@
         {
             "name": {
                 "en": [
-                    "Spain",
                     "SPAIN",
+                    "Spain",
                     "the Kingdom of Spain"
                 ],
                 "es": [
@@ -5179,8 +5179,8 @@
                     "Dhivehi Raajje"
                 ],
                 "en": [
-                    "Maldives",
                     "MALDIVES",
+                    "Maldives",
                     "the Republic of Maldives"
                 ],
                 "fr": [
@@ -5209,8 +5209,8 @@
                     "Danmark"
                 ],
                 "en": [
-                    "Denmark",
                     "DENMARK",
+                    "Denmark",
                     "the Kingdom of Denmark"
                 ],
                 "fr": [
@@ -5236,8 +5236,8 @@
         {
             "name": {
                 "en": [
-                    "Réunion",
-                    "REUNION"
+                    "REUNION",
+                    "Réunion"
                 ],
                 "fr": [
                     "La Réunion",
@@ -5258,8 +5258,8 @@
         {
             "name": {
                 "en": [
-                    "Seychelles",
-                    "SEYCHELLES"
+                    "SEYCHELLES",
+                    "Seychelles"
                 ],
                 "fr": [
                     "Seychelles (les)",
@@ -5280,9 +5280,9 @@
         {
             "name": {
                 "en": [
-                    "the Northern Mariana Islands",
+                    "NORTHERN MARIANA ISLANDS",
                     "Northern Mariana Islands (the)",
-                    "NORTHERN MARIANA ISLANDS"
+                    "the Northern Mariana Islands"
                 ],
                 "fr": [
                     "Mariannes du Nord (les Îles)",
@@ -5303,8 +5303,8 @@
         {
             "name": {
                 "en": [
-                    "Antarctica",
-                    "ANTARCTICA"
+                    "ANTARCTICA",
+                    "Antarctica"
                 ],
                 "fr": [
                     "Antarctique (l')",
@@ -5358,8 +5358,8 @@
         {
             "name": {
                 "en": [
-                    "Svalbard and Jan Mayen",
-                    "SVALBARD"
+                    "SVALBARD",
+                    "Svalbard and Jan Mayen"
                 ],
                 "fr": [
                     "Svalbard et l'Île Jan Mayen (le)",
@@ -5389,8 +5389,8 @@
                     "Aş Şūmāl"
                 ],
                 "en": [
-                    "Somalia",
-                    "SOMALIA"
+                    "SOMALIA",
+                    "Somalia"
                 ],
                 "fr": [
                     "Somalie (la)",
@@ -5435,8 +5435,8 @@
         {
             "name": {
                 "en": [
-                    "Kazakhstan",
                     "KAZAKHSTAN",
+                    "Kazakhstan",
                     "the Republic of Kazakhstan"
                 ],
                 "fr": [
@@ -5468,9 +5468,9 @@
         {
             "name": {
                 "en": [
-                    "the Russian Federation",
+                    "RUSSIA",
                     "Russian Federation (the)",
-                    "RUSSIA"
+                    "the Russian Federation"
                 ],
                 "fr": [
                     "Russie (la Fédération de)",
@@ -5494,8 +5494,8 @@
         {
             "name": {
                 "en": [
-                    "Nigeria",
                     "NIGERIA",
+                    "Nigeria",
                     "the Federal Republic of Nigeria"
                 ],
                 "fr": [
@@ -5521,9 +5521,9 @@
         {
             "name": {
                 "en": [
+                    "FEDERATED STATES OF MICRONESIA",
                     "Federated States of Micronesia",
-                    "Micronesia (Federated States of)",
-                    "FEDERATED STATES OF MICRONESIA"
+                    "Micronesia (Federated States of)"
                 ],
                 "fr": [
                     "Micronésie (États fédérés de)",
@@ -5547,8 +5547,8 @@
                     "Al ‘Irāq"
                 ],
                 "en": [
-                    "Iraq",
                     "IRAQ",
+                    "Iraq",
                     "the Republic of Iraq"
                 ],
                 "fr": [
@@ -5613,10 +5613,10 @@
                     "As Sūdān"
                 ],
                 "en": [
-                    "the Sudan",
-                    "Sudan (the)",
                     "SUDAN",
-                    "the Republic of the Sudan"
+                    "Sudan (the)",
+                    "the Republic of the Sudan",
+                    "the Sudan"
                 ],
                 "fr": [
                     "Soudan (le)",
@@ -5641,8 +5641,8 @@
         {
             "name": {
                 "en": [
-                    "Wallis and Futuna",
-                    "WALLIS AND FUTUNA"
+                    "WALLIS AND FUTUNA",
+                    "Wallis and Futuna"
                 ],
                 "fr": [
                     "Wallis-et-Futuna"
@@ -5683,8 +5683,8 @@
         {
             "name": {
                 "en": [
-                    "Viet Nam",
-                    "VIETNAM"
+                    "VIETNAM",
+                    "Viet Nam"
                 ],
                 "fr": [
                     "Viet Nam (le)",
@@ -5708,13 +5708,13 @@
         {
             "name": {
                 "en": [
+                    "FRENCH SOUTHERN AND ANTARCTIC LANDS",
                     "French Southern Territories (the)",
-                    "the French Southern Territories",
-                    "FRENCH SOUTHERN AND ANTARCTIC LANDS"
+                    "the French Southern Territories"
                 ],
                 "fr": [
-                    "les Terres australes françaises",
-                    "Terres australes françaises (les)"
+                    "Terres australes françaises (les)",
+                    "les Terres australes françaises"
                 ]
             },
             "iso-3166": {
@@ -5734,9 +5734,9 @@
                     "Færøerne"
                 ],
                 "en": [
+                    "FAROE ISLANDS",
                     "Faroe Islands (the)",
-                    "the Faroe Islands",
-                    "FAROE ISLANDS"
+                    "the Faroe Islands"
                 ],
                 "fo": [
                     "Føroyar"
@@ -5764,9 +5764,9 @@
         {
             "name": {
                 "en": [
-                    "the Federal Democratic Republic of Nepal",
+                    "NEPAL",
                     "Nepal",
-                    "NEPAL"
+                    "the Federal Democratic Republic of Nepal"
                 ],
                 "fr": [
                     "Népal (le)",
@@ -5794,8 +5794,8 @@
         {
             "name": {
                 "en": [
-                    "Saint Vincent and the Grenadines",
-                    "ST. VINCENT AND THE GRENADINES"
+                    "ST. VINCENT AND THE GRENADINES",
+                    "Saint Vincent and the Grenadines"
                 ],
                 "fr": [
                     "Saint-Vincent-et-les Grenadines"
@@ -5836,8 +5836,8 @@
         {
             "name": {
                 "en": [
-                    "Monaco",
                     "MONACO",
+                    "Monaco",
                     "the Principality of Monaco"
                 ],
                 "fr": [
@@ -5865,9 +5865,9 @@
                     "Al Qamar"
                 ],
                 "en": [
-                    "the Comoros",
                     "COMOROS",
-                    "Comoros (the)"
+                    "Comoros (the)",
+                    "the Comoros"
                 ],
                 "fr": [
                     "Comores (les)",
@@ -5888,8 +5888,8 @@
         {
             "name": {
                 "en": [
-                    "Trinidad and Tobago",
                     "TRINIDAD",
+                    "Trinidad and Tobago",
                     "the Republic of Trinidad and Tobago"
                 ],
                 "fr": [
@@ -5915,9 +5915,9 @@
         {
             "name": {
                 "en": [
-                    "the Portuguese Republic",
+                    "PORTUGAL",
                     "Portugal",
-                    "PORTUGAL"
+                    "the Portuguese Republic"
                 ],
                 "fr": [
                     "Portugal (le)",
@@ -5945,9 +5945,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Croatia",
+                    "CROATIA",
                     "Croatia",
-                    "CROATIA"
+                    "the Republic of Croatia"
                 ],
                 "fr": [
                     "Croatie (la)",
@@ -5975,8 +5975,8 @@
         {
             "name": {
                 "en": [
-                    "North Macedonia",
-                    "MACEDONIA"
+                    "MACEDONIA",
+                    "North Macedonia"
                 ],
                 "fr": [
                     "Macédoine du Nord (la)",
@@ -6000,8 +6000,8 @@
         {
             "name": {
                 "en": [
-                    "Norfolk Island",
-                    "NORFOLK ISLAND"
+                    "NORFOLK ISLAND",
+                    "Norfolk Island"
                 ],
                 "fr": [
                     "Norfolk (l'Île)",
@@ -6022,8 +6022,8 @@
         {
             "name": {
                 "en": [
-                    "Sint Maarten (Dutch part)",
-                    "Dutch part Sint Maarten"
+                    "Dutch part Sint Maarten",
+                    "Sint Maarten (Dutch part)"
                 ],
                 "fr": [
                     "Saint-Martin (partie néerlandaise)",
@@ -6046,8 +6046,8 @@
             "name": {
                 "en": [
                     "TAJIKISTAN",
-                    "the Republic of Tajikistan",
-                    "Tajikistan"
+                    "Tajikistan",
+                    "the Republic of Tajikistan"
                 ],
                 "fr": [
                     "Tadjikistan (le)",
@@ -6075,8 +6075,8 @@
         {
             "name": {
                 "en": [
-                    "Gibraltar",
-                    "GIBRALTAR"
+                    "GIBRALTAR",
+                    "Gibraltar"
                 ],
                 "fr": [
                     "Gibraltar"
@@ -6154,8 +6154,8 @@
                     "Druk-Yul"
                 ],
                 "en": [
-                    "Bhutan",
                     "BHUTAN",
+                    "Bhutan",
                     "the Kingdom of Bhutan"
                 ],
                 "fr": [
@@ -6181,13 +6181,13 @@
         {
             "name": {
                 "en": [
-                    "Solomon Islands",
                     "SOLOMON ISLANDS",
+                    "Solomon Islands",
                     "Solomon Islands (the)"
                 ],
                 "fr": [
-                    "les Îles Salomon",
-                    "Salomon (les Îles)"
+                    "Salomon (les Îles)",
+                    "les Îles Salomon"
                 ]
             },
             "iso-3166": {
@@ -6208,8 +6208,8 @@
         {
             "name": {
                 "en": [
-                    "Benin",
                     "BENIN",
+                    "Benin",
                     "the Republic of Benin"
                 ],
                 "fr": [
@@ -6235,10 +6235,10 @@
         {
             "name": {
                 "en": [
-                    "the Republic of the Niger",
+                    "NIGER",
                     "Niger (the)",
                     "the Niger",
-                    "NIGER"
+                    "the Republic of the Niger"
                 ],
                 "fr": [
                     "Niger (le)",
@@ -6266,8 +6266,8 @@
                     "Al Yaman"
                 ],
                 "en": [
-                    "Yemen",
-                    "YEMEN (SANAA)"
+                    "YEMEN (SANAA)",
+                    "Yemen"
                 ],
                 "fr": [
                     "Yémen (le)",
@@ -6288,8 +6288,8 @@
         {
             "name": {
                 "en": [
-                    "Lithuania",
                     "LITHUANIA",
+                    "Lithuania",
                     "the Republic of Lithuania"
                 ],
                 "fr": [
@@ -6321,8 +6321,8 @@
                     "Deutschland"
                 ],
                 "en": [
-                    "Germany",
                     "GERMANY",
+                    "Germany",
                     "the Federal Republic of Germany"
                 ],
                 "fr": [
@@ -6348,8 +6348,8 @@
         {
             "name": {
                 "en": [
-                    "Anguilla",
-                    "ANGUILLA"
+                    "ANGUILLA",
+                    "Anguilla"
                 ],
                 "fr": [
                     "Anguilla"
@@ -6373,9 +6373,9 @@
         {
             "name": {
                 "en": [
+                    "MARSHALL ISLANDS",
                     "Marshall Islands (the)",
-                    "the Marshall Islands",
-                    "MARSHALL ISLANDS"
+                    "the Marshall Islands"
                 ],
                 "fr": [
                     "Marshall (les Îles)",
@@ -6403,8 +6403,8 @@
                 ],
                 "en": [
                     "KUWAIT",
-                    "the State of Kuwait",
-                    "Kuwait"
+                    "Kuwait",
+                    "the State of Kuwait"
                 ],
                 "fr": [
                     "Koweït (le)",
@@ -6429,8 +6429,8 @@
         {
             "name": {
                 "en": [
-                    "Malta",
                     "MALTA",
+                    "Malta",
                     "the Republic of Malta"
                 ],
                 "fr": [
@@ -6458,9 +6458,9 @@
         {
             "name": {
                 "en": [
+                    "BAHAMAS, THE",
                     "Bahamas (the)",
-                    "the Bahamas",
-                    "BAHAMAS, THE"
+                    "the Bahamas"
                 ],
                 "fr": [
                     "Bahamas (les)",
@@ -6481,9 +6481,9 @@
         {
             "name": {
                 "en": [
-                    "the Republic of Zambia",
+                    "ZAMBIA",
                     "Zambia",
-                    "ZAMBIA"
+                    "the Republic of Zambia"
                 ],
                 "fr": [
                     "Zambie (la)",
@@ -6508,10 +6508,10 @@
         {
             "name": {
                 "en": [
+                    "TURKEY",
                     "Turkey",
-                    "the Republic of Turkey",
                     "Türkiye",
-                    "TURKEY"
+                    "the Republic of Turkey"
                 ],
                 "fr": [
                     "Türkiye (la)",
@@ -6542,8 +6542,8 @@
                     "Schweiz (die)"
                 ],
                 "en": [
-                    "Switzerland",
                     "SWITZERLAND",
+                    "Switzerland",
                     "the Swiss Confederation"
                 ],
                 "fr": [
@@ -6578,8 +6578,8 @@
                     "Suid-Afrika"
                 ],
                 "en": [
-                    "South Africa",
-                    "SOUTH AFRICA"
+                    "SOUTH AFRICA",
+                    "South Africa"
                 ],
                 "fr": [
                     "Afrique du Sud (l')",
@@ -6628,8 +6628,8 @@
                 ],
                 "en": [
                     "CHAD",
-                    "the Republic of Chad",
-                    "Chad"
+                    "Chad",
+                    "the Republic of Chad"
                 ],
                 "fr": [
                     "Tchad (le)",
@@ -6657,8 +6657,8 @@
                     "Bulgaria"
                 ],
                 "en": [
-                    "Bulgaria",
-                    "BULGARIA"
+                    "BULGARIA",
+                    "Bulgaria"
                 ],
                 "fr": [
                     "Bulgarie (la)",
@@ -6709,8 +6709,8 @@
         {
             "name": {
                 "en": [
-                    "Pakistan",
                     "PAKISTAN",
+                    "Pakistan",
                     "the Islamic Republic of Pakistan"
                 ],
                 "fr": [
