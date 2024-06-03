@@ -400,8 +400,8 @@ records:
     ar:
     - "Mi\u015Fr"
     en:
-    - the Arab Republic of Egypt
     - Egypt
+    - the Arab Republic of Egypt
   alpha-2: EG
   alpha-3: EGY
   numeric: 818
@@ -630,8 +630,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Honduras
     - Honduras
+    - the Republic of Honduras
     es:
     - Honduras
   alpha-2: HN
@@ -649,8 +649,8 @@ records:
   numeric: 348
 - name:
     en:
-    - Iceland
     - the Republic of Iceland
+    - Iceland
     is:
     - "\xCDsland"
   alpha-2: IS
@@ -733,8 +733,8 @@ records:
     ar:
     - Al Urdun
     en:
-    - the Hashemite Kingdom of Jordan
     - Jordan
+    - the Hashemite Kingdom of Jordan
   alpha-2: JO
   alpha-3: JOR
   numeric: 400
@@ -742,8 +742,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Kazakhstan
     - the Republic of Kazakhstan
+    - Kazakhstan
     kk:
     - Qazaqstan
     ru:
@@ -790,8 +790,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Latvia
     - the Republic of Latvia
+    - Latvia
     lv:
     - Latvija
   alpha-2: LV
@@ -803,8 +803,8 @@ records:
     ar:
     - "Lubn\u0101n"
     en:
-    - Lebanon
     - the Lebanese Republic
+    - Lebanon
   alpha-2: LB
   alpha-3: LBN
   numeric: 422
@@ -904,8 +904,8 @@ records:
     dv:
     - Dhivehi Raajje
     en:
-    - Maldives
     - the Republic of Maldives
+    - Maldives
   alpha-2: MV
   alpha-3: MDV
   numeric: 462
@@ -925,8 +925,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Republic of Malta
     - Malta
+    - the Republic of Malta
     mt:
     - Malta
   alpha-2: MT
@@ -1011,8 +1011,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Mozambique
     - Mozambique
+    - the Republic of Mozambique
     pt:
     - "Mo\xE7ambique"
   alpha-2: MZ
@@ -1031,8 +1031,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Nauru
     - Nauru
+    - the Republic of Nauru
     na:
     - Naoero
   alpha-2: NR
@@ -1113,8 +1113,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Panama
     - Panama
+    - the Republic of Panama
     es:
     - "Panam\xE1"
   alpha-2: PA
@@ -1154,8 +1154,8 @@ records:
     of the GENC Standard.
 - name:
     en:
-    - the Republic of Poland
     - Poland
+    - the Republic of Poland
     pl:
     - Polska
   alpha-2: PL
@@ -1257,8 +1257,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Senegal
     - Senegal
+    - the Republic of Senegal
     fr:
     - "S\xE9n\xE9gal (le)"
   alpha-2: SN
@@ -1304,8 +1304,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Slovenia
     - Slovenia
+    - the Republic of Slovenia
     sl:
     - Slovenija
   alpha-2: SI
@@ -1473,8 +1473,8 @@ records:
   numeric: 772
 - name:
     en:
-    - the Kingdom of Tonga
     - Tonga
+    - the Kingdom of Tonga
     to:
     - Tonga
   alpha-2: TO

@@ -6,9 +6,9 @@
                     "Andorra"
                 ],
                 "en": [
-                    "Andorra",
                     "ANDORRA",
-                    "the Principality of Andorra"
+                    "the Principality of Andorra",
+                    "Andorra"
                 ],
                 "fr": [
                     "Andorre (l')",
@@ -66,8 +66,8 @@
                     "Afghānistān"
                 ],
                 "fr": [
-                    "l'Afghanistan",
-                    "Afghanistan (l')"
+                    "Afghanistan (l')",
+                    "l'Afghanistan"
                 ],
                 "ps": [
                     "Afghānistān"
@@ -87,8 +87,8 @@
         {
             "name": {
                 "en": [
-                    "ANTIGUA AND BARBUDA",
-                    "Antigua and Barbuda"
+                    "Antigua and Barbuda",
+                    "ANTIGUA AND BARBUDA"
                 ],
                 "fr": [
                     "Antigua-et-Barbuda"
@@ -108,8 +108,8 @@
         {
             "name": {
                 "en": [
-                    "Albania",
-                    "ALBANIA"
+                    "ALBANIA",
+                    "Albania"
                 ],
                 "fr": [
                     "Albanie (l')",
@@ -163,13 +163,13 @@
         {
             "name": {
                 "en": [
-                    "Angola",
                     "ANGOLA",
+                    "Angola",
                     "the Republic of Angola"
                 ],
                 "fr": [
-                    "Angola (l')",
-                    "l'Angola"
+                    "l'Angola",
+                    "Angola (l')"
                 ],
                 "pt": [
                     "Angola"
@@ -299,7 +299,8 @@
         {
             "name": {
                 "en": [
-                    "Australia"
+                    "Australia",
+                    "AUSTRALIA"
                 ],
                 "fr": [
                     "Australie (l')",
@@ -311,7 +312,9 @@
                 "alpha-3": "AUS",
                 "numeric": 36
             },
-            "fips": {},
+            "fips": {
+                "code": "AS00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -348,8 +351,8 @@
         {
             "name": {
                 "ar": [
-                    "Al Jazā'ir",
-                    "Al Jazā’ir"
+                    "Al Jazā’ir",
+                    "Al Jazā'ir"
                 ],
                 "en": [
                     "Algeria",
@@ -357,8 +360,8 @@
                     "the People's Democratic Republic of Algeria"
                 ],
                 "fr": [
-                    "Algérie (l')",
-                    "l'Algérie"
+                    "l'Algérie",
+                    "Algérie (l')"
                 ]
             },
             "iso-3166": {
@@ -382,11 +385,12 @@
                     "Bosna i Hercegovina"
                 ],
                 "en": [
+                    "BOSNIA AND HERZEGOVINA",
                     "Bosnia and Herzegovina"
                 ],
                 "fr": [
-                    "la Bosnie-Herzégovine",
-                    "Bosnie-Herzégovine (la)"
+                    "Bosnie-Herzégovine (la)",
+                    "la Bosnie-Herzégovine"
                 ],
                 "hr": [
                     "Bosna i Hercegovina"
@@ -400,14 +404,21 @@
                 "alpha-3": "BIH",
                 "numeric": 70
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BK00"
+            },
+            "genc": {
+                "alpha-2": "BA",
+                "alpha-3": "BIH",
+                "numeric": 70
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Barbados"
+                    "Barbados",
+                    "BARBADOS"
                 ],
                 "fr": [
                     "Barbade (la)",
@@ -419,8 +430,14 @@
                 "alpha-3": "BRB",
                 "numeric": 52
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BB00"
+            },
+            "genc": {
+                "alpha-2": "BB",
+                "alpha-3": "BRB",
+                "numeric": 52
+            },
             "flag": {}
         },
         {
@@ -429,7 +446,8 @@
                     "Bāṁlādesh"
                 ],
                 "en": [
-                    "Bangladesh"
+                    "Bangladesh",
+                    "BANGLADESH"
                 ],
                 "fr": [
                     "Bangladesh (le)",
@@ -441,7 +459,9 @@
                 "alpha-3": "BGD",
                 "numeric": 50
             },
-            "fips": {},
+            "fips": {
+                "code": "BG00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -451,11 +471,13 @@
                     "Belgien"
                 ],
                 "en": [
-                    "Belgium"
+                    "Belgium",
+                    "BELGIUM",
+                    "the Kingdom of Belgium"
                 ],
                 "fr": [
-                    "la Belgique",
-                    "Belgique (la)"
+                    "Belgique (la)",
+                    "la Belgique"
                 ],
                 "nl": [
                     "België"
@@ -466,14 +488,21 @@
                 "alpha-3": "BEL",
                 "numeric": 56
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BE00"
+            },
+            "genc": {
+                "alpha-2": "BE",
+                "alpha-3": "BEL",
+                "numeric": 56
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Saint Barthélemy"
+                    "Saint Barthélemy",
+                    "SAINT BARTHELEMY"
                 ],
                 "fr": [
                     "Saint-Barthélemy"
@@ -484,17 +513,22 @@
                 "alpha-3": "BLM",
                 "numeric": 652
             },
-            "fips": {},
+            "fips": {
+                "code": "TB00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "ar": [
-                    "Al Baḩrayn"
+                    "Al Baḩrayn",
+                    "Al Baḩrayn"
                 ],
                 "en": [
-                    "Bahrain"
+                    "Bahrain",
+                    "BAHRAIN",
+                    "the Kingdom of Bahrain"
                 ],
                 "fr": [
                     "Bahreïn"
@@ -505,13 +539,21 @@
                 "alpha-3": "BHR",
                 "numeric": 48
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BA00"
+            },
+            "genc": {
+                "alpha-2": "BH",
+                "alpha-3": "BHR",
+                "numeric": 48
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "BURUNDI",
+                    "the Republic of Burundi",
                     "Burundi"
                 ],
                 "fr": [
@@ -527,8 +569,14 @@
                 "alpha-3": "BDI",
                 "numeric": 108
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BY00"
+            },
+            "genc": {
+                "alpha-2": "BI",
+                "alpha-3": "BDI",
+                "numeric": 108
+            },
             "flag": {}
         },
         {
@@ -560,7 +608,8 @@
             "name": {
                 "en": [
                     "Bolivia (Plurinational State of)",
-                    "Plurinational State of Bolivia"
+                    "Plurinational State of Bolivia",
+                    "BOLIVIA"
                 ],
                 "es": [
                     "Bolivia, Estado Plurinacional de"
@@ -575,7 +624,9 @@
                 "alpha-3": "BOL",
                 "numeric": 68
             },
-            "fips": {},
+            "fips": {
+                "code": "BL00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -603,7 +654,9 @@
         {
             "name": {
                 "en": [
-                    "Botswana"
+                    "BOTSWANA",
+                    "Botswana",
+                    "the Republic of Botswana"
                 ],
                 "fr": [
                     "Botswana (le)",
@@ -615,18 +668,25 @@
                 "alpha-3": "BWA",
                 "numeric": 72
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BC00"
+            },
+            "genc": {
+                "alpha-2": "BW",
+                "alpha-3": "BWA",
+                "numeric": 72
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Bouvet Island"
+                    "Bouvet Island",
+                    "BOUVET ISLAND"
                 ],
                 "fr": [
-                    "Bouvet (l'Île)",
-                    "l'Île Bouvet"
+                    "l'Île Bouvet",
+                    "Bouvet (l'Île)"
                 ],
                 "nb": [
                     "Bouvetøya"
@@ -640,8 +700,14 @@
                 "alpha-3": "BVT",
                 "numeric": 74
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BV00"
+            },
+            "genc": {
+                "alpha-2": "BV",
+                "alpha-3": "BVT",
+                "numeric": 74
+            },
             "flag": {}
         },
         {
@@ -650,11 +716,12 @@
                     "Bielaruś"
                 ],
                 "en": [
-                    "Belarus"
+                    "Belarus",
+                    "BELARUS"
                 ],
                 "fr": [
-                    "Bélarus (le)",
-                    "le Bélarus"
+                    "le Bélarus",
+                    "Bélarus (le)"
                 ],
                 "ru": [
                     "Belarus'"
@@ -665,18 +732,21 @@
                 "alpha-3": "BLR",
                 "numeric": 112
             },
-            "fips": {},
+            "fips": {
+                "code": "BO00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Belize"
+                    "Belize",
+                    "BELIZE"
                 ],
                 "fr": [
-                    "Belize (le)",
-                    "le Belize"
+                    "le Belize",
+                    "Belize (le)"
                 ]
             },
             "iso-3166": {
@@ -684,19 +754,26 @@
                 "alpha-3": "BLZ",
                 "numeric": 84
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "BH00"
+            },
+            "genc": {
+                "alpha-2": "BZ",
+                "alpha-3": "BLZ",
+                "numeric": 84
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "CENTRAL AFRICAN REPUBLIC",
                     "Central African Republic (the)",
                     "the Central African Republic"
                 ],
                 "fr": [
-                    "la République centrafricaine",
-                    "République centrafricaine (la)"
+                    "République centrafricaine (la)",
+                    "la République centrafricaine"
                 ],
                 "sg": [
                     "Ködörösêse tî Bêafrîka"
@@ -707,14 +784,18 @@
                 "alpha-3": "CAF",
                 "numeric": 140
             },
-            "fips": {},
+            "fips": {
+                "code": "CT00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Côte d'Ivoire"
+                    "the Republic of Côte d'Ivoire",
+                    "Côte d'Ivoire",
+                    "COTE D'IVOIRE"
                 ],
                 "fr": [
                     "Côte d'Ivoire (la)",
@@ -726,19 +807,27 @@
                 "alpha-3": "CIV",
                 "numeric": 384
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "IV00"
+            },
+            "genc": {
+                "alpha-2": "CI",
+                "alpha-3": "CIV",
+                "numeric": 384
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "COOK ISLANDS",
                     "Cook Islands (the)",
-                    "the Cook Islands"
+                    "the Cook Islands",
+                    "Cook Islands"
                 ],
                 "fr": [
-                    "Cook (les Îles)",
-                    "les Îles Cook"
+                    "les Îles Cook",
+                    "Cook (les Îles)"
                 ]
             },
             "iso-3166": {
@@ -746,18 +835,26 @@
                 "alpha-3": "COK",
                 "numeric": 184
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "CW00"
+            },
+            "genc": {
+                "alpha-2": "CK",
+                "alpha-3": "COK",
+                "numeric": 184
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Cameroon"
+                    "Cameroon",
+                    "CAMEROON",
+                    "the Republic of Cameroon"
                 ],
                 "fr": [
-                    "le Cameroun",
-                    "Cameroun (le)"
+                    "Cameroun (le)",
+                    "le Cameroun"
                 ]
             },
             "iso-3166": {
@@ -765,14 +862,21 @@
                 "alpha-3": "CMR",
                 "numeric": 120
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "CM00"
+            },
+            "genc": {
+                "alpha-2": "CM",
+                "alpha-3": "CMR",
+                "numeric": 120
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Costa Rica"
+                    "Costa Rica",
+                    "COSTA RICA"
                 ],
                 "es": [
                     "Costa Rica"
@@ -787,14 +891,17 @@
                 "alpha-3": "CRI",
                 "numeric": 188
             },
-            "fips": {},
+            "fips": {
+                "code": "CS00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Cuba"
+                    "Cuba",
+                    "CUBA"
                 ],
                 "es": [
                     "Cuba"
@@ -808,14 +915,17 @@
                 "alpha-3": "CUB",
                 "numeric": 192
             },
-            "fips": {},
+            "fips": {
+                "code": "CU00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Christmas Island"
+                    "Christmas Island",
+                    "CHRISTMAS ISLAND"
                 ],
                 "fr": [
                     "Christmas (l'Île)",
@@ -827,7 +937,9 @@
                 "alpha-3": "CXR",
                 "numeric": 162
             },
-            "fips": {},
+            "fips": {
+                "code": "KT00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -858,7 +970,8 @@
                     "Kýpros"
                 ],
                 "en": [
-                    "Cyprus"
+                    "Cyprus",
+                    "CYPRUS"
                 ],
                 "fr": [
                     "Chypre"
@@ -872,7 +985,9 @@
                 "alpha-3": "CYP",
                 "numeric": 196
             },
-            "fips": {},
+            "fips": {
+                "code": "CY00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -885,8 +1000,8 @@
                     "Czechia"
                 ],
                 "fr": [
-                    "Tchéquie (la)",
-                    "la Tchéquie"
+                    "la Tchéquie",
+                    "Tchéquie (la)"
                 ]
             },
             "iso-3166": {
@@ -901,7 +1016,9 @@
         {
             "name": {
                 "en": [
-                    "Dominica"
+                    "Dominica",
+                    "DOMINICA",
+                    "the Commonwealth of Dominica"
                 ],
                 "fr": [
                     "Dominique (la)",
@@ -913,15 +1030,22 @@
                 "alpha-3": "DMA",
                 "numeric": 212
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "DO00"
+            },
+            "genc": {
+                "alpha-2": "DM",
+                "alpha-3": "DMA",
+                "numeric": 212
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
                     "Dominican Republic (the)",
-                    "the Dominican Republic"
+                    "the Dominican Republic",
+                    "DOMINICAN REPUBLIC"
                 ],
                 "es": [
                     "República Dominicana (la)"
@@ -936,14 +1060,21 @@
                 "alpha-3": "DOM",
                 "numeric": 214
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "DR00"
+            },
+            "genc": {
+                "alpha-2": "DO",
+                "alpha-3": "DOM",
+                "numeric": 214
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Ecuador"
+                    "Ecuador",
+                    "ECUADOR"
                 ],
                 "es": [
                     "Ecuador (el)"
@@ -958,14 +1089,18 @@
                 "alpha-3": "ECU",
                 "numeric": 218
             },
-            "fips": {},
+            "fips": {
+                "code": "EC00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Estonia"
+                    "the Republic of Estonia",
+                    "Estonia",
+                    "ESTONIA"
                 ],
                 "et": [
                     "Eesti"
@@ -980,8 +1115,14 @@
                 "alpha-3": "EST",
                 "numeric": 233
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "EN00"
+            },
+            "genc": {
+                "alpha-2": "EE",
+                "alpha-3": "EST",
+                "numeric": 233
+            },
             "flag": {}
         },
         {
@@ -990,11 +1131,12 @@
                     "Aş Şaḩrā' al Gharbīyah"
                 ],
                 "en": [
+                    "WESTERN SAHARA",
                     "Western Sahara"
                 ],
                 "fr": [
-                    "Sahara occidental (le)",
-                    "le Sahara occidental"
+                    "le Sahara occidental",
+                    "Sahara occidental (le)"
                 ]
             },
             "iso-3166": {
@@ -1002,7 +1144,9 @@
                 "alpha-3": "ESH",
                 "numeric": 732
             },
-            "fips": {},
+            "fips": {
+                "code": "WI00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1012,7 +1156,9 @@
                     "Irītrīyā"
                 ],
                 "en": [
-                    "Eritrea"
+                    "Eritrea",
+                    "ERITREA",
+                    "the State of Eritrea"
                 ],
                 "fr": [
                     "Érythrée (l')",
@@ -1027,14 +1173,22 @@
                 "alpha-3": "ERI",
                 "numeric": 232
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "ER00"
+            },
+            "genc": {
+                "alpha-2": "ER",
+                "alpha-3": "ERI",
+                "numeric": 232
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Finland"
+                    "Finland",
+                    "FINLAND",
+                    "the Republic of Finland"
                 ],
                 "fi": [
                     "Suomi"
@@ -1052,14 +1206,22 @@
                 "alpha-3": "FIN",
                 "numeric": 246
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "FI00"
+            },
+            "genc": {
+                "alpha-2": "FI",
+                "alpha-3": "FIN",
+                "numeric": 246
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Fiji"
+                    "the Republic of Fiji",
+                    "Fiji",
+                    "FIJI"
                 ],
                 "fj": [
                     "Viti"
@@ -1074,8 +1236,14 @@
                 "alpha-3": "FJI",
                 "numeric": 242
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "FJ00"
+            },
+            "genc": {
+                "alpha-2": "FJ",
+                "alpha-3": "FJI",
+                "numeric": 242
+            },
             "flag": {}
         },
         {
@@ -1083,7 +1251,8 @@
                 "en": [
                     "Falkland Islands, (the) [Malvinas]",
                     "the Falkland Islands",
-                    "Falkland Islands (the) [Malvinas]"
+                    "Falkland Islands (the) [Malvinas]",
+                    "FALKLAND ISLANDS (ISLAS MALVINAS)"
                 ],
                 "fr": [
                     "Falkland (les Îles), Malouines (les Îles)",
@@ -1095,7 +1264,9 @@
                 "alpha-3": "FLK",
                 "numeric": 238
             },
-            "fips": {},
+            "fips": {
+                "code": "FK00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1124,7 +1295,8 @@
         {
             "name": {
                 "en": [
-                    "Guernsey"
+                    "Guernsey",
+                    "GUERNSEY"
                 ],
                 "fr": [
                     "Guernesey"
@@ -1135,7 +1307,9 @@
                 "alpha-3": "GGY",
                 "numeric": 831
             },
-            "fips": {},
+            "fips": {
+                "code": "GK00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1145,7 +1319,8 @@
                     "Grønland"
                 ],
                 "en": [
-                    "Greenland"
+                    "Greenland",
+                    "GREENLAND"
                 ],
                 "fr": [
                     "Groenland (le)",
@@ -1160,15 +1335,22 @@
                 "alpha-3": "GRL",
                 "numeric": 304
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "GL00"
+            },
+            "genc": {
+                "alpha-2": "GL",
+                "alpha-3": "GRL",
+                "numeric": 304
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "Gambia (the)",
                     "the Gambia",
-                    "Gambia (the)"
+                    "GAMBIA, THE"
                 ],
                 "fr": [
                     "Gambie (la)",
@@ -1180,14 +1362,17 @@
                 "alpha-3": "GMB",
                 "numeric": 270
             },
-            "fips": {},
+            "fips": {
+                "code": "GA00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Equatorial Guinea"
+                    "Equatorial Guinea",
+                    "EQUATORIAL GUINEA"
                 ],
                 "es": [
                     "Guinea Ecuatorial"
@@ -1205,21 +1390,26 @@
                 "alpha-3": "GNQ",
                 "numeric": 226
             },
-            "fips": {},
+            "fips": {
+                "code": "EK00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "el": [
-                    "Elláda"
+                    "Elláda",
+                    "Ellás/Elláda"
                 ],
                 "en": [
-                    "Greece"
+                    "Greece",
+                    "GREECE",
+                    "the Hellenic Republic"
                 ],
                 "fr": [
-                    "Grèce (la)",
-                    "la Grèce"
+                    "la Grèce",
+                    "Grèce (la)"
                 ]
             },
             "iso-3166": {
@@ -1227,14 +1417,21 @@
                 "alpha-3": "GRC",
                 "numeric": 300
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "GR00"
+            },
+            "genc": {
+                "alpha-2": "GR",
+                "alpha-3": "GRC",
+                "numeric": 300
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "South Georgia and the South Sandwich Islands"
+                    "South Georgia and the South Sandwich Islands",
+                    "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
                 ],
                 "fr": [
                     "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
@@ -1246,21 +1443,25 @@
                 "alpha-3": "SGS",
                 "numeric": 239
             },
-            "fips": {},
+            "fips": {
+                "code": "SX00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Guatemala"
+                    "Guatemala",
+                    "GUATEMALA",
+                    "the Republic of Guatemala"
                 ],
                 "es": [
                     "Guatemala"
                 ],
                 "fr": [
-                    "Guatemala (le)",
-                    "le Guatemala"
+                    "le Guatemala",
+                    "Guatemala (le)"
                 ]
             },
             "iso-3166": {
@@ -1268,14 +1469,21 @@
                 "alpha-3": "GTM",
                 "numeric": 320
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "GT00"
+            },
+            "genc": {
+                "alpha-2": "GT",
+                "alpha-3": "GTM",
+                "numeric": 320
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Guam"
+                    "Guam",
+                    "GUAM"
                 ],
                 "fr": [
                     "Guam"
@@ -1286,21 +1494,26 @@
                 "alpha-3": "GUM",
                 "numeric": 316
             },
-            "fips": {},
+            "fips": {
+                "code": "GQ00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Guinea-Bissau"
+                    "Guinea-Bissau",
+                    "GUINEA-BISSAU",
+                    "the Republic of Guinea-Bissau"
                 ],
                 "fr": [
                     "Guinée-Bissau (la)",
                     "la Guinée-Bissau"
                 ],
                 "pt": [
-                    "Guiné-Bissau (a)"
+                    "Guiné-Bissau (a)",
+                    "Guiné-Bissau"
                 ]
             },
             "iso-3166": {
@@ -1308,14 +1521,21 @@
                 "alpha-3": "GNB",
                 "numeric": 624
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "PU00"
+            },
+            "genc": {
+                "alpha-2": "GW",
+                "alpha-3": "GNB",
+                "numeric": 624
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Guyana"
+                    "Guyana",
+                    "GUYANA"
                 ],
                 "fr": [
                     "le Guyana",
@@ -1327,7 +1547,9 @@
                 "alpha-3": "GUY",
                 "numeric": 328
             },
-            "fips": {},
+            "fips": {
+                "code": "GY00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1358,7 +1580,8 @@
         {
             "name": {
                 "en": [
-                    "Heard Island and McDonald Islands"
+                    "Heard Island and McDonald Islands",
+                    "HEARD ISLAND AND MCDONALD ISLANDS"
                 ],
                 "fr": [
                     "Heard-et-Îles MacDonald (l'Île)",
@@ -1370,14 +1593,18 @@
                 "alpha-3": "HMD",
                 "numeric": 334
             },
-            "fips": {},
+            "fips": {
+                "code": "HM00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Honduras"
+                    "Honduras",
+                    "HONDURAS",
+                    "the Republic of Honduras"
                 ],
                 "es": [
                     "Honduras"
@@ -1392,18 +1619,25 @@
                 "alpha-3": "HND",
                 "numeric": 340
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "HO00"
+            },
+            "genc": {
+                "alpha-2": "HN",
+                "alpha-3": "HND",
+                "numeric": 340
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Hungary"
+                    "Hungary",
+                    "HUNGARY"
                 ],
                 "fr": [
-                    "Hongrie (la)",
-                    "la Hongrie"
+                    "la Hongrie",
+                    "Hongrie (la)"
                 ],
                 "hu": [
                     "Magyarország"
@@ -1414,8 +1648,14 @@
                 "alpha-3": "HUN",
                 "numeric": 348
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "HU00"
+            },
+            "genc": {
+                "alpha-2": "HU",
+                "alpha-3": "HUN",
+                "numeric": 348
+            },
             "flag": {}
         },
         {
@@ -1450,7 +1690,9 @@
         {
             "name": {
                 "en": [
-                    "Iceland"
+                    "Iceland",
+                    "ICELAND",
+                    "the Republic of Iceland"
                 ],
                 "fr": [
                     "Islande (l')",
@@ -1465,8 +1707,14 @@
                 "alpha-3": "ISL",
                 "numeric": 352
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "IC00"
+            },
+            "genc": {
+                "alpha-2": "IS",
+                "alpha-3": "ISL",
+                "numeric": 352
+            },
             "flag": {}
         },
         {
@@ -1476,8 +1724,8 @@
                 ],
                 "en": [
                     "ISRAEL",
-                    "Israel",
-                    "the State of Israel"
+                    "the State of Israel",
+                    "Israel"
                 ],
                 "fr": [
                     "Israël"
@@ -1504,8 +1752,9 @@
         {
             "name": {
                 "en": [
+                    "Islamic Republic of Iran",
                     "Iran (Islamic Republic of)",
-                    "Islamic Republic of Iran"
+                    "IRAN"
                 ],
                 "fa": [
                     "Jomhūrī-ye Eslāmī-ye Īrān"
@@ -1520,14 +1769,17 @@
                 "alpha-3": "IRN",
                 "numeric": 364
             },
-            "fips": {},
+            "fips": {
+                "code": "IR00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Italy"
+                    "Italy",
+                    "ITALY"
                 ],
                 "fr": [
                     "Italie (l')",
@@ -1542,14 +1794,17 @@
                 "alpha-3": "ITA",
                 "numeric": 380
             },
-            "fips": {},
+            "fips": {
+                "code": "IT00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Jersey"
+                    "Jersey",
+                    "JERSEY"
                 ],
                 "fr": [
                     "Jersey"
@@ -1560,7 +1815,9 @@
                 "alpha-3": "JEY",
                 "numeric": 832
             },
-            "fips": {},
+            "fips": {
+                "code": "JE00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1571,8 +1828,8 @@
                     "JAPAN"
                 ],
                 "fr": [
-                    "Japon (le)",
-                    "le Japon"
+                    "le Japon",
+                    "Japon (le)"
                 ],
                 "ja": [
                     "Nihon/Nippon"
@@ -1596,6 +1853,8 @@
         {
             "name": {
                 "en": [
+                    "KENYA",
+                    "the Republic of Kenya",
                     "Kenya"
                 ],
                 "fr": [
@@ -1611,14 +1870,22 @@
                 "alpha-3": "KEN",
                 "numeric": 404
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "KE00"
+            },
+            "genc": {
+                "alpha-2": "KE",
+                "alpha-3": "KEN",
+                "numeric": 404
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Kyrgyzstan"
+                    "Kyrgyzstan",
+                    "KYRGYZSTAN",
+                    "the Kyrgyz Republic"
                 ],
                 "fr": [
                     "Kirghizistan (le)",
@@ -1636,13 +1903,21 @@
                 "alpha-3": "KGZ",
                 "numeric": 417
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "KG00"
+            },
+            "genc": {
+                "alpha-2": "KG",
+                "alpha-3": "KGZ",
+                "numeric": 417
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "KAMPUCHEA",
+                    "the Kingdom of Cambodia",
                     "Cambodia"
                 ],
                 "fr": [
@@ -1658,14 +1933,21 @@
                 "alpha-3": "KHM",
                 "numeric": 116
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "CB00"
+            },
+            "genc": {
+                "alpha-2": "KH",
+                "alpha-3": "KHM",
+                "numeric": 116
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Kiribati"
+                    "Kiribati",
+                    "KIRIBATI"
                 ],
                 "fr": [
                     "Kiribati"
@@ -1676,14 +1958,18 @@
                 "alpha-3": "KIR",
                 "numeric": 296
             },
-            "fips": {},
+            "fips": {
+                "code": "KR00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Saint Kitts and Nevis"
+                    "Saint Kitts and Nevis",
+                    "the Federation of Saint Kitts and Nevis",
+                    "ST. KITTS AND NEVIS"
                 ],
                 "fr": [
                     "Saint-Kitts-et-Nevis"
@@ -1694,15 +1980,22 @@
                 "alpha-3": "KNA",
                 "numeric": 659
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "SC00"
+            },
+            "genc": {
+                "alpha-2": "KN",
+                "alpha-3": "KNA",
+                "numeric": 659
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "Korea (the Democratic People's Republic of)",
                     "the Democratic People's Republic of Korea",
-                    "Korea (the Democratic People's Republic of)"
+                    "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
                 ],
                 "fr": [
                     "Corée (la République populaire démocratique de)",
@@ -1717,7 +2010,9 @@
                 "alpha-3": "PRK",
                 "numeric": 408
             },
-            "fips": {},
+            "fips": {
+                "code": "KN00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1725,7 +2020,8 @@
             "name": {
                 "en": [
                     "the Republic of Korea",
-                    "Korea (the Republic of)"
+                    "Korea (the Republic of)",
+                    "KOREA, REPUBLIC OF"
                 ],
                 "fr": [
                     "Corée (la République de)",
@@ -1740,7 +2036,9 @@
                 "alpha-3": "KOR",
                 "numeric": 410
             },
-            "fips": {},
+            "fips": {
+                "code": "KS00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -1777,8 +2075,8 @@
                     "the Lao People's Democratic Republic"
                 ],
                 "fr": [
-                    "la République démocratique populaire Lao",
-                    "Lao (la République démocratique populaire)"
+                    "Lao (la République démocratique populaire)",
+                    "la République démocratique populaire Lao"
                 ],
                 "lo": [
                     "Sathalanalat Paxathipatai Paxaxôn Lao"
@@ -1799,6 +2097,8 @@
                     "Liechtenstein"
                 ],
                 "en": [
+                    "LIECHTENSTEIN",
+                    "the Principality of Liechtenstein",
                     "Liechtenstein"
                 ],
                 "fr": [
@@ -1811,17 +2111,28 @@
                 "alpha-3": "LIE",
                 "numeric": 438
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "LS00"
+            },
+            "genc": {
+                "alpha-2": "LI",
+                "alpha-3": "LIE",
+                "numeric": 438
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Sri Lanka"
+                    "SRI LANKA",
+                    "Sri Lanka",
+                    "the Democratic Socialist Republic of Sri Lanka"
                 ],
                 "fr": [
                     "Sri Lanka"
+                ],
+                "se": [
+                    "Shrī Laṁkā"
                 ],
                 "si": [
                     "Shrī Laṁkā"
@@ -1835,14 +2146,22 @@
                 "alpha-3": "LKA",
                 "numeric": 144
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "CE00"
+            },
+            "genc": {
+                "alpha-2": "LK",
+                "alpha-3": "LKA",
+                "numeric": 144
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Latvia"
+                    "Latvia",
+                    "LATVIA",
+                    "the Republic of Latvia"
                 ],
                 "fr": [
                     "Lettonie (la)",
@@ -1857,8 +2176,14 @@
                 "alpha-3": "LVA",
                 "numeric": 428
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "LG00"
+            },
+            "genc": {
+                "alpha-2": "LV",
+                "alpha-3": "LVA",
+                "numeric": 428
+            },
             "flag": {}
         },
         {
@@ -1867,6 +2192,8 @@
                     "Al Maghrib"
                 ],
                 "en": [
+                    "the Kingdom of Morocco",
+                    "MOROCCO",
                     "Morocco"
                 ],
                 "fr": [
@@ -1879,15 +2206,22 @@
                 "alpha-3": "MAR",
                 "numeric": 504
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "MO00"
+            },
+            "genc": {
+                "alpha-2": "MA",
+                "alpha-3": "MAR",
+                "numeric": 504
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "the Republic of Moldova",
                     "Moldova (the Republic of)",
-                    "the Republic of Moldova"
+                    "MOLDOVA"
                 ],
                 "fr": [
                     "Moldova (la République de)",
@@ -1902,14 +2236,20 @@
                 "alpha-3": "MDA",
                 "numeric": 498
             },
-            "fips": {},
+            "fips": {
+                "code": "MD00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
+                "--": [
+                    "Crna Gora"
+                ],
                 "en": [
-                    "Montenegro"
+                    "Montenegro",
+                    "MONTENEGRO"
                 ],
                 "fr": [
                     "Monténégro (le)",
@@ -1921,19 +2261,26 @@
                 "alpha-3": "MNE",
                 "numeric": 499
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "MJ00"
+            },
+            "genc": {
+                "alpha-2": "ME",
+                "alpha-3": "MNE",
+                "numeric": 499
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
                     "Saint Martin (French part)",
-                    "French part Saint Martin"
+                    "French part Saint Martin",
+                    "SAINT MARTIN"
                 ],
                 "fr": [
-                    "partie française Saint-Martin",
-                    "Saint-Martin (partie française)"
+                    "Saint-Martin (partie française)",
+                    "partie française Saint-Martin"
                 ]
             },
             "iso-3166": {
@@ -1941,18 +2288,22 @@
                 "alpha-3": "MAF",
                 "numeric": 663
             },
-            "fips": {},
+            "fips": {
+                "code": "RN00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "MALAWI",
+                    "the Republic of Malawi",
                     "Malawi"
                 ],
                 "fr": [
-                    "Malawi (le)",
-                    "le Malawi"
+                    "le Malawi",
+                    "Malawi (le)"
                 ],
                 "ny": [
                     "Malaŵi"
@@ -1963,8 +2314,14 @@
                 "alpha-3": "MWI",
                 "numeric": 454
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "MI00"
+            },
+            "genc": {
+                "alpha-2": "MW",
+                "alpha-3": "MWI",
+                "numeric": 454
+            },
             "flag": {}
         },
         {
@@ -2019,7 +2376,8 @@
         {
             "name": {
                 "en": [
-                    "Martinique"
+                    "Martinique",
+                    "MARTINIQUE"
                 ],
                 "fr": [
                     "Martinique (la)",
@@ -2031,7 +2389,9 @@
                 "alpha-3": "MTQ",
                 "numeric": 474
             },
-            "fips": {},
+            "fips": {
+                "code": "MB00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -2041,11 +2401,13 @@
                     "Mūrītāniyā"
                 ],
                 "en": [
-                    "Mauritania"
+                    "Mauritania",
+                    "MAURITANIA",
+                    "the Islamic Republic of Mauritania"
                 ],
                 "fr": [
-                    "Mauritanie (la)",
-                    "la Mauritanie"
+                    "la Mauritanie",
+                    "Mauritanie (la)"
                 ]
             },
             "iso-3166": {
@@ -2053,16 +2415,22 @@
                 "alpha-3": "MRT",
                 "numeric": 478
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "MR00"
+            },
+            "genc": {
+                "alpha-2": "MR",
+                "alpha-3": "MRT",
+                "numeric": 478
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Malawi",
                     "MALAWI",
-                    "the Republic of Malawi"
+                    "the Republic of Malawi",
+                    "Malawi"
                 ],
                 "fr": [
                     "Malawi (le)",
@@ -2090,11 +2458,12 @@
         {
             "name": {
                 "en": [
-                    "Malaysia"
+                    "Malaysia",
+                    "MALAYSIA"
                 ],
                 "fr": [
-                    "la Malaisie",
-                    "Malaisie (la)"
+                    "Malaisie (la)",
+                    "la Malaisie"
                 ],
                 "ms": [
                     "Malaysia"
@@ -2105,14 +2474,18 @@
                 "alpha-3": "MYS",
                 "numeric": 458
             },
-            "fips": {},
+            "fips": {
+                "code": "MY00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Namibia"
+                    "Namibia",
+                    "NAMIBIA",
+                    "the Republic of Namibia"
                 ],
                 "fr": [
                     "Namibie (la)",
@@ -2124,14 +2497,21 @@
                 "alpha-3": "NAM",
                 "numeric": 516
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "WA00"
+            },
+            "genc": {
+                "alpha-2": "NA",
+                "alpha-3": "NAM",
+                "numeric": 516
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "New Caledonia"
+                    "New Caledonia",
+                    "NEW CALEDONIA"
                 ],
                 "fr": [
                     "Nouvelle-Calédonie (la)",
@@ -2143,7 +2523,9 @@
                 "alpha-3": "NCL",
                 "numeric": 540
             },
-            "fips": {},
+            "fips": {
+                "code": "NC00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -2206,7 +2588,9 @@
                     "Qaţar"
                 ],
                 "en": [
-                    "Qatar"
+                    "Qatar",
+                    "QATAR",
+                    "the State of Qatar"
                 ],
                 "fr": [
                     "Qatar (le)",
@@ -2218,21 +2602,29 @@
                 "alpha-3": "QAT",
                 "numeric": 634
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "QA00"
+            },
+            "genc": {
+                "alpha-2": "QA",
+                "alpha-3": "QAT",
+                "numeric": 634
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Panama"
+                    "Panama",
+                    "PANAMA",
+                    "the Republic of Panama"
                 ],
                 "es": [
                     "Panamá"
                 ],
                 "fr": [
-                    "Panama (le)",
-                    "le Panama"
+                    "le Panama",
+                    "Panama (le)"
                 ]
             },
             "iso-3166": {
@@ -2240,14 +2632,21 @@
                 "alpha-3": "PAN",
                 "numeric": 591
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "PM00"
+            },
+            "genc": {
+                "alpha-2": "PA",
+                "alpha-3": "PAN",
+                "numeric": 591
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "French Polynesia"
+                    "French Polynesia",
+                    "FRENCH POLYNESIA"
                 ],
                 "fr": [
                     "Polynésie française (la)",
@@ -2259,7 +2658,9 @@
                 "alpha-3": "PYF",
                 "numeric": 258
             },
-            "fips": {},
+            "fips": {
+                "code": "FP00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -2291,11 +2692,13 @@
         {
             "name": {
                 "en": [
-                    "Poland"
+                    "Poland",
+                    "POLAND",
+                    "the Republic of Poland"
                 ],
                 "fr": [
-                    "la Pologne",
-                    "Pologne (la)"
+                    "Pologne (la)",
+                    "la Pologne"
                 ],
                 "pl": [
                     "Polska"
@@ -2306,8 +2709,14 @@
                 "alpha-3": "POL",
                 "numeric": 616
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "PL00"
+            },
+            "genc": {
+                "alpha-2": "PL",
+                "alpha-3": "POL",
+                "numeric": 616
+            },
             "flag": {}
         },
         {
@@ -2318,8 +2727,8 @@
                     "PHILIPPINES"
                 ],
                 "fr": [
-                    "les Philippines",
-                    "Philippines (les)"
+                    "Philippines (les)",
+                    "les Philippines"
                 ],
                 "tl": [
                     "Pilipinas"
@@ -2339,6 +2748,7 @@
         {
             "name": {
                 "en": [
+                    "ST. PIERRE AND MIQUELON",
                     "Saint Pierre and Miquelon"
                 ],
                 "fr": [
@@ -2350,14 +2760,17 @@
                 "alpha-3": "SPM",
                 "numeric": 666
             },
-            "fips": {},
+            "fips": {
+                "code": "SB00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Puerto Rico"
+                    "Puerto Rico",
+                    "PUERTO RICO"
                 ],
                 "es": [
                     "Puerto Rico"
@@ -2371,14 +2784,20 @@
                 "alpha-3": "PRI",
                 "numeric": 630
             },
-            "fips": {},
+            "fips": {
+                "code": "RQ00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
+                "--": [
+                    "Belau"
+                ],
                 "en": [
-                    "Palau"
+                    "Palau",
+                    "the Republic of Palau"
                 ],
                 "fr": [
                     "Palaos (les)",
@@ -2391,13 +2810,19 @@
                 "numeric": 585
             },
             "fips": {},
-            "genc": {},
+            "genc": {
+                "alpha-2": "PW",
+                "alpha-3": "PLW",
+                "numeric": 585
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Paraguay"
+                    "PARAGUAY",
+                    "Paraguay",
+                    "the Republic of Paraguay"
                 ],
                 "es": [
                     "Paraguay (el)"
@@ -2415,14 +2840,21 @@
                 "alpha-3": "PRY",
                 "numeric": 600
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "PA00"
+            },
+            "genc": {
+                "alpha-2": "PY",
+                "alpha-3": "PRY",
+                "numeric": 600
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Romania"
+                    "Romania",
+                    "ROMANIA"
                 ],
                 "fr": [
                     "Roumanie (la)",
@@ -2437,14 +2869,21 @@
                 "alpha-3": "ROU",
                 "numeric": 642
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "RO00"
+            },
+            "genc": {
+                "alpha-2": "RO",
+                "alpha-3": "ROU",
+                "numeric": 642
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Serbia"
+                    "Serbia",
+                    "SERBIA"
                 ],
                 "fr": [
                     "Serbie (la)",
@@ -2459,16 +2898,18 @@
                 "alpha-3": "SRB",
                 "numeric": 688
             },
-            "fips": {},
+            "fips": {
+                "code": "SR00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "the Republic of Rwanda",
+                    "RWANDA",
                     "Rwanda",
-                    "RWANDA"
+                    "the Republic of Rwanda"
                 ],
                 "fr": [
                     "Rwanda (le)",
@@ -2499,7 +2940,8 @@
                     "As Su‘ūdīyah"
                 ],
                 "en": [
-                    "Saudi Arabia"
+                    "Saudi Arabia",
+                    "SAUDI ARABIA"
                 ],
                 "fr": [
                     "Arabie saoudite (l')",
@@ -2511,14 +2953,18 @@
                 "alpha-3": "SAU",
                 "numeric": 682
             },
-            "fips": {},
+            "fips": {
+                "code": "SA00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Singapore"
+                    "Singapore",
+                    "SINGAPORE",
+                    "the Republic of Singapore"
                 ],
                 "fr": [
                     "Singapour"
@@ -2538,14 +2984,21 @@
                 "alpha-3": "SGP",
                 "numeric": 702
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "SN00"
+            },
+            "genc": {
+                "alpha-2": "SG",
+                "alpha-3": "SGP",
+                "numeric": 702
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Saint Helena, Ascension and Tristan da Cunha"
+                    "Saint Helena, Ascension and Tristan da Cunha",
+                    "ST. HELENA"
                 ],
                 "fr": [
                     "Sainte-Hélène, Ascension et Tristan da Cunha"
@@ -2556,14 +3009,18 @@
                 "alpha-3": "SHN",
                 "numeric": 654
             },
-            "fips": {},
+            "fips": {
+                "code": "SH00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Sierra Leone"
+                    "Sierra Leone",
+                    "SIERRA LEONE",
+                    "the Republic of Sierra Leone"
                 ],
                 "fr": [
                     "Sierra Leone (la)",
@@ -2575,14 +3032,22 @@
                 "alpha-3": "SLE",
                 "numeric": 694
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "SL00"
+            },
+            "genc": {
+                "alpha-2": "SL",
+                "alpha-3": "SLE",
+                "numeric": 694
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Slovakia"
+                    "Slovakia",
+                    "SLOVAKIA",
+                    "the Slovak Republic"
                 ],
                 "fr": [
                     "Slovaquie (la)",
@@ -2597,16 +3062,22 @@
                 "alpha-3": "SVK",
                 "numeric": 703
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "LO00"
+            },
+            "genc": {
+                "alpha-2": "SK",
+                "alpha-3": "SVK",
+                "numeric": 703
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "Senegal",
                     "SENEGAL",
-                    "the Republic of Senegal",
-                    "Senegal"
+                    "the Republic of Senegal"
                 ],
                 "fr": [
                     "Sénégal (le)",
@@ -2631,11 +3102,12 @@
         {
             "name": {
                 "en": [
-                    "South Sudan"
+                    "South Sudan",
+                    "the Republic of South Sudan"
                 ],
                 "fr": [
-                    "le Soudan du Sud",
-                    "Soudan du Sud (le)"
+                    "Soudan du Sud (le)",
+                    "le Soudan du Sud"
                 ]
             },
             "iso-3166": {
@@ -2644,13 +3116,19 @@
                 "numeric": 728
             },
             "fips": {},
-            "genc": {},
+            "genc": {
+                "alpha-2": "SS",
+                "alpha-3": "SSD",
+                "numeric": 728
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Sao Tome and Principe"
+                    "SAO TOME AND PRINCIPE",
+                    "Sao Tome and Principe",
+                    "the Democratic Republic of Sao Tome and Principe"
                 ],
                 "fr": [
                     "Sao Tomé-et-Principe"
@@ -2664,14 +3142,22 @@
                 "alpha-3": "STP",
                 "numeric": 678
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TP00"
+            },
+            "genc": {
+                "alpha-2": "ST",
+                "alpha-3": "STP",
+                "numeric": 678
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "El Salvador"
+                    "El Salvador",
+                    "EL SALVADOR",
+                    "the Republic of El Salvador"
                 ],
                 "es": [
                     "El Salvador"
@@ -2685,8 +3171,14 @@
                 "alpha-3": "SLV",
                 "numeric": 222
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "ES00"
+            },
+            "genc": {
+                "alpha-2": "SV",
+                "alpha-3": "SLV",
+                "numeric": 222
+            },
             "flag": {}
         },
         {
@@ -2695,9 +3187,9 @@
                     "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah"
                 ],
                 "en": [
+                    "the Syrian Arab Republic",
                     "Syrian Arab Republic (the)",
-                    "SYRIA",
-                    "the Syrian Arab Republic"
+                    "SYRIA"
                 ],
                 "fr": [
                     "République arabe syrienne (la)",
@@ -2718,13 +3210,13 @@
         {
             "name": {
                 "en": [
-                    "the Kingdom of Swaziland",
                     "Eswatini",
-                    "Swaziland"
+                    "Swaziland",
+                    "the Kingdom of Swaziland"
                 ],
                 "fr": [
-                    "Eswatini (l')",
-                    "l'Eswatini"
+                    "l'Eswatini",
+                    "Eswatini (l')"
                 ],
                 "ss": [
                     "eSwatini"
@@ -2747,11 +3239,12 @@
             "name": {
                 "en": [
                     "Turks and Caicos Islands (the)",
-                    "the Turks and Caicos Islands"
+                    "the Turks and Caicos Islands",
+                    "TURKS AND CAICOS ISLANDS"
                 ],
                 "fr": [
-                    "les Îles Turks-et-Caïcos",
-                    "Turks-et-Caïcos (les Îles)"
+                    "Turks-et-Caïcos (les Îles)",
+                    "les Îles Turks-et-Caïcos"
                 ]
             },
             "iso-3166": {
@@ -2759,13 +3252,20 @@
                 "alpha-3": "TCA",
                 "numeric": 796
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TK00"
+            },
+            "genc": {
+                "alpha-2": "TC",
+                "alpha-3": "TCA",
+                "numeric": 796
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "TOKELAU",
                     "Tokelau"
                 ],
                 "fr": [
@@ -2778,14 +3278,25 @@
                 "alpha-3": "TKL",
                 "numeric": 772
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TL00"
+            },
+            "genc": {
+                "alpha-2": "TK",
+                "alpha-3": "TKL",
+                "numeric": 772
+            },
             "flag": {}
         },
         {
             "name": {
+                "--": [
+                    "Timor Lorosa'e"
+                ],
                 "en": [
-                    "Timor-Leste"
+                    "Timor-Leste",
+                    "EAST TIMOR",
+                    "the Democratic Republic of Timor-Leste"
                 ],
                 "fr": [
                     "Timor-Leste (le)",
@@ -2800,8 +3311,14 @@
                 "alpha-3": "TLS",
                 "numeric": 626
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TT00"
+            },
+            "genc": {
+                "alpha-2": "TL",
+                "alpha-3": "TLS",
+                "numeric": 626
+            },
             "flag": {}
         },
         {
@@ -2837,6 +3354,7 @@
         {
             "name": {
                 "en": [
+                    "TURKMENISTAN",
                     "Turkmenistan"
                 ],
                 "fr": [
@@ -2852,8 +3370,14 @@
                 "alpha-3": "TKM",
                 "numeric": 795
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TX00"
+            },
+            "genc": {
+                "alpha-2": "TM",
+                "alpha-3": "TKM",
+                "numeric": 795
+            },
             "flag": {}
         },
         {
@@ -2862,6 +3386,7 @@
                     "Tūnis"
                 ],
                 "en": [
+                    "TUNISIA",
                     "Tunisia"
                 ],
                 "fr": [
@@ -2874,20 +3399,22 @@
                 "alpha-3": "TUN",
                 "numeric": 788
             },
-            "fips": {},
+            "fips": {
+                "code": "TS00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Taiwan (Province of China)",
                     "Province of China Taiwan",
+                    "Taiwan (Province of China)",
                     "TAIWAN"
                 ],
                 "fr": [
-                    "Taïwan (Province de Chine)",
-                    "Province de Chine Taïwan"
+                    "Province de Chine Taïwan",
+                    "Taïwan (Province de Chine)"
                 ],
                 "zh": [
                     "Taiwan"
@@ -2906,8 +3433,12 @@
         },
         {
             "name": {
-                "en": [
+                "--": [
                     "Tuvalu"
+                ],
+                "en": [
+                    "Tuvalu",
+                    "TUVALU"
                 ],
                 "fr": [
                     "Tuvalu (les)",
@@ -2919,14 +3450,21 @@
                 "alpha-3": "TUV",
                 "numeric": 798
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "TV00"
+            },
+            "genc": {
+                "alpha-2": "TV",
+                "alpha-3": "TUV",
+                "numeric": 798
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Tanzania, the United Republic of"
+                    "Tanzania, the United Republic of",
+                    "TANZANIA"
                 ],
                 "fr": [
                     "Tanzanie (la République-Unie de)",
@@ -2941,18 +3479,22 @@
                 "alpha-3": "TZA",
                 "numeric": 834
             },
-            "fips": {},
+            "fips": {
+                "code": "TZ00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Uganda"
+                    "Uganda",
+                    "UGANDA",
+                    "the Republic of Uganda"
                 ],
                 "fr": [
-                    "l'Ouganda",
-                    "Ouganda (l')"
+                    "Ouganda (l')",
+                    "l'Ouganda"
                 ]
             },
             "iso-3166": {
@@ -2960,14 +3502,21 @@
                 "alpha-3": "UGA",
                 "numeric": 800
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "UG00"
+            },
+            "genc": {
+                "alpha-2": "UG",
+                "alpha-3": "UGA",
+                "numeric": 800
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Uruguay"
+                    "Uruguay",
+                    "URUGUAY"
                 ],
                 "es": [
                     "Uruguay (el)"
@@ -2982,14 +3531,18 @@
                 "alpha-3": "URY",
                 "numeric": 858
             },
-            "fips": {},
+            "fips": {
+                "code": "UY00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Samoa"
+                    "Samoa",
+                    "WESTERN SAMOA",
+                    "the Independent State of Samoa"
                 ],
                 "fr": [
                     "Samoa (le)",
@@ -3004,15 +3557,22 @@
                 "alpha-3": "WSM",
                 "numeric": 882
             },
-            "fips": {},
-            "genc": {},
+            "fips": {
+                "code": "WS00"
+            },
+            "genc": {
+                "alpha-2": "WS",
+                "alpha-3": "WSM",
+                "numeric": 882
+            },
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "Holy See (the)",
                     "the Holy See",
-                    "Holy See (the)"
+                    "VATICAN CITY"
                 ],
                 "fr": [
                     "Saint-Siège (le)",
@@ -3030,7 +3590,9 @@
                 "alpha-3": "VAT",
                 "numeric": 336
             },
-            "fips": {},
+            "fips": {
+                "code": "VT00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -3038,14 +3600,15 @@
             "name": {
                 "en": [
                     "Venezuela (Bolivarian Republic of)",
-                    "Bolivarian Republic of Venezuela"
+                    "Bolivarian Republic of Venezuela",
+                    "VENEZUELA"
                 ],
                 "es": [
                     "Venezuela, República Bolivariana de"
                 ],
                 "fr": [
-                    "Venezuela (République bolivarienne du)",
-                    "République bolivarienne du Venezuela"
+                    "République bolivarienne du Venezuela",
+                    "Venezuela (République bolivarienne du)"
                 ]
             },
             "iso-3166": {
@@ -3053,15 +3616,18 @@
                 "alpha-3": "VEN",
                 "numeric": 862
             },
-            "fips": {},
+            "fips": {
+                "code": "VE00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
+                    "Virgin Islands (British)",
                     "British Virgin Islands",
-                    "Virgin Islands (British)"
+                    "BRITISH VIRGIN ISLANDS"
                 ],
                 "fr": [
                     "Vierges britanniques (les Îles)",
@@ -3073,7 +3639,9 @@
                 "alpha-3": "VGB",
                 "numeric": 92
             },
-            "fips": {},
+            "fips": {
+                "code": "VI00"
+            },
             "genc": {},
             "flag": {}
         },
@@ -3083,7 +3651,8 @@
                     "Vanuatu"
                 ],
                 "en": [
-                    "Vanuatu"
+                    "Vanuatu",
+                    "VANUATU"
                 ],
                 "fr": [
                     "Vanuatu (le)",
@@ -3095,14 +3664,17 @@
                 "alpha-3": "VUT",
                 "numeric": 548
             },
-            "fips": {},
+            "fips": {
+                "code": "NH00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Mayotte"
+                    "Mayotte",
+                    "MAYOTTE"
                 ],
                 "fr": [
                     "Mayotte"
@@ -3113,18 +3685,22 @@
                 "alpha-3": "MYT",
                 "numeric": 175
             },
-            "fips": {},
+            "fips": {
+                "code": "MF00"
+            },
             "genc": {},
             "flag": {}
         },
         {
             "name": {
                 "en": [
-                    "Zimbabwe"
+                    "ZIMBABWE",
+                    "Zimbabwe",
+                    "the Republic of Zimbabwe"
                 ],
                 "fr": [
-                    "Zimbabwe (le)",
-                    "le Zimbabwe"
+                    "le Zimbabwe",
+                    "Zimbabwe (le)"
                 ]
             },
             "iso-3166": {
@@ -3132,8 +3708,3032 @@
                 "alpha-3": "ZWE",
                 "numeric": 716
             },
+            "fips": {
+                "code": "ZI00"
+            },
+            "genc": {
+                "alpha-2": "ZW",
+                "alpha-3": "ZWE",
+                "numeric": 716
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Slovenia",
+                    "SLOVENIA",
+                    "the Republic of Slovenia"
+                ],
+                "fr": [
+                    "Slovénie (la)",
+                    "la Slovénie"
+                ],
+                "sl": [
+                    "Slovenija"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SI",
+                "alpha-3": "SVN",
+                "numeric": 705
+            },
+            "fips": {
+                "code": "SI00"
+            },
+            "genc": {
+                "alpha-2": "SI",
+                "alpha-3": "SVN",
+                "numeric": 705
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Chile",
+                    "CHILE"
+                ],
+                "es": [
+                    "Chile"
+                ],
+                "fr": [
+                    "le Chili",
+                    "Chili (le)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CL",
+                "alpha-3": "CHL",
+                "numeric": 152
+            },
+            "fips": {
+                "code": "CI00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Mali",
+                    "the Republic of Mali"
+                ],
+                "fr": [
+                    "Mali (le)",
+                    "le Mali"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ML",
+                "alpha-3": "MLI",
+                "numeric": 466
+            },
+            "fips": {},
+            "genc": {
+                "alpha-2": "ML",
+                "alpha-3": "MLI",
+                "numeric": 466
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "GHANA",
+                    "the Republic of Ghana",
+                    "Ghana"
+                ],
+                "fr": [
+                    "Ghana (le)",
+                    "le Ghana"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GH",
+                "alpha-3": "GHA",
+                "numeric": 288
+            },
+            "fips": {
+                "code": "GH00"
+            },
+            "genc": {
+                "alpha-2": "GH",
+                "alpha-3": "GHA",
+                "numeric": 288
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Burkina Faso",
+                    "UPPER VOLTA"
+                ],
+                "fr": [
+                    "Burkina Faso (le)",
+                    "le Burkina Faso"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BF",
+                "alpha-3": "BFA",
+                "numeric": 854
+            },
+            "fips": {
+                "code": "UV00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Cocos (Keeling) Islands (the)",
+                    "the Cocos (Keeling) Islands",
+                    "COCOS (KEELING) ISLANDS"
+                ],
+                "fr": [
+                    "Cocos (les Îles)/ Keeling (les Îles)",
+                    "les Îles Cocos (les Îles)/ Keeling"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CC",
+                "alpha-3": "CCK",
+                "numeric": 166
+            },
+            "fips": {
+                "code": "CK00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Saint Lucia",
+                    "ST. LUCIA"
+                ],
+                "fr": [
+                    "Sainte-Lucie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LC",
+                "alpha-3": "LCA",
+                "numeric": 662
+            },
+            "fips": {
+                "code": "ST00"
+            },
+            "genc": {
+                "alpha-2": "LC",
+                "alpha-3": "LCA",
+                "numeric": 662
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "France",
+                    "FRANCE"
+                ],
+                "fr": [
+                    "France (la)",
+                    "la France"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "FR",
+                "alpha-3": "FRA",
+                "numeric": 250
+            },
+            "fips": {
+                "code": "FR00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Sweden",
+                    "SWEDEN",
+                    "the Kingdom of Sweden"
+                ],
+                "fr": [
+                    "Suède (la)",
+                    "la Suède"
+                ],
+                "sv": [
+                    "Sverige"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SE",
+                "alpha-3": "SWE",
+                "numeric": 752
+            },
+            "fips": {
+                "code": "SW00"
+            },
+            "genc": {
+                "alpha-2": "SE",
+                "alpha-3": "SWE",
+                "numeric": 752
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "India",
+                    "INDIA"
+                ],
+                "fr": [
+                    "l'Inde",
+                    "Inde (l')"
+                ],
+                "hi": [
+                    "Bhārat"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "IN",
+                "alpha-3": "IND",
+                "numeric": 356
+            },
+            "fips": {
+                "code": "IN00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Gabon",
+                    "GABON",
+                    "the Gabonese Republic"
+                ],
+                "fr": [
+                    "le Gabon",
+                    "Gabon (le)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GA",
+                "alpha-3": "GAB",
+                "numeric": 266
+            },
+            "fips": {
+                "code": "GB00"
+            },
+            "genc": {
+                "alpha-2": "GA",
+                "alpha-3": "GAB",
+                "numeric": 266
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "San Marino",
+                    "SAN MARINO",
+                    "the Republic of San Marino"
+                ],
+                "fr": [
+                    "Saint-Marin"
+                ],
+                "it": [
+                    "San Marino"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SM",
+                "alpha-3": "SMR",
+                "numeric": 674
+            },
+            "fips": {
+                "code": "SM00"
+            },
+            "genc": {
+                "alpha-2": "SM",
+                "alpha-3": "SMR",
+                "numeric": 674
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Mozambique",
+                    "MOZAMBIQUE",
+                    "the Republic of Mozambique"
+                ],
+                "fr": [
+                    "Mozambique (le)",
+                    "le Mozambique"
+                ],
+                "pt": [
+                    "Moçambique"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MZ",
+                "alpha-3": "MOZ",
+                "numeric": 508
+            },
+            "fips": {
+                "code": "MZ00"
+            },
+            "genc": {
+                "alpha-2": "MZ",
+                "alpha-3": "MOZ",
+                "numeric": 508
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "UNITED STATES",
+                    "United States of America (the)",
+                    "the United States of America"
+                ],
+                "fr": [
+                    "États-Unis d'Amérique (les)",
+                    "les États-Unis d'Amérique"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "US",
+                "alpha-3": "USA",
+                "numeric": 840
+            },
+            "fips": {
+                "code": "US00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Jamaica",
+                    "JAMAICA"
+                ],
+                "fr": [
+                    "Jamaïque (la)",
+                    "la Jamaïque"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "JM",
+                "alpha-3": "JAM",
+                "numeric": 388
+            },
+            "fips": {
+                "code": "JM00"
+            },
+            "genc": {
+                "alpha-2": "JM",
+                "alpha-3": "JAM",
+                "numeric": 388
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Guinea",
+                    "GUINEA",
+                    "the Republic of Guinea"
+                ],
+                "fr": [
+                    "Guinée (la)",
+                    "la Guinée"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GN",
+                "alpha-3": "GIN",
+                "numeric": 324
+            },
+            "fips": {
+                "code": "GV00"
+            },
+            "genc": {
+                "alpha-2": "GN",
+                "alpha-3": "GIN",
+                "numeric": 324
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "‘Umān"
+                ],
+                "en": [
+                    "Oman",
+                    "OMAN"
+                ],
+                "fr": [
+                    "Oman"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "OM",
+                "alpha-3": "OMN",
+                "numeric": 512
+            },
+            "fips": {
+                "code": "MU00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Tonga",
+                    "TONGA",
+                    "the Kingdom of Tonga"
+                ],
+                "fr": [
+                    "Tonga (les)",
+                    "les Tonga"
+                ],
+                "to": [
+                    "Tonga"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TO",
+                "alpha-3": "TON",
+                "numeric": 776
+            },
+            "fips": {
+                "code": "TN00"
+            },
+            "genc": {
+                "alpha-2": "TO",
+                "alpha-3": "TON",
+                "numeric": 776
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Togo",
+                    "TOGO",
+                    "the Togolese Republic"
+                ],
+                "fr": [
+                    "Togo (le)",
+                    "le Togo"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TG",
+                "alpha-3": "TGO",
+                "numeric": 768
+            },
+            "fips": {
+                "code": "TO00"
+            },
+            "genc": {
+                "alpha-2": "TG",
+                "alpha-3": "TGO",
+                "numeric": 768
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Myanmar"
+                ],
+                "fr": [
+                    "Myanmar (le)",
+                    "le Myanmar"
+                ],
+                "my": [
+                    "Myanma"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MM",
+                "alpha-3": "MMR",
+                "numeric": 104
+            },
             "fips": {},
             "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Montserrat",
+                    "MONTSERRAT"
+                ],
+                "fr": [
+                    "Montserrat"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MS",
+                "alpha-3": "MSR",
+                "numeric": 500
+            },
+            "fips": {
+                "code": "MH00"
+            },
+            "genc": {
+                "alpha-2": "MS",
+                "alpha-3": "MSR",
+                "numeric": 500
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Bermuda",
+                    "BERMUDA"
+                ],
+                "fr": [
+                    "Bermudes (les)",
+                    "les Bermudes"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BM",
+                "alpha-3": "BMU",
+                "numeric": 60
+            },
+            "fips": {
+                "code": "BD00"
+            },
+            "genc": {
+                "alpha-2": "BM",
+                "alpha-3": "BMU",
+                "numeric": 60
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "NICARAGUA",
+                    "the Republic of Nicaragua",
+                    "Nicaragua"
+                ],
+                "es": [
+                    "Nicaragua"
+                ],
+                "fr": [
+                    "Nicaragua (le)",
+                    "le Nicaragua"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NI",
+                "alpha-3": "NIC",
+                "numeric": 558
+            },
+            "fips": {
+                "code": "NU00"
+            },
+            "genc": {
+                "alpha-2": "NI",
+                "alpha-3": "NIC",
+                "numeric": 558
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Grenada",
+                    "GRENADA"
+                ],
+                "fr": [
+                    "Grenade (la)",
+                    "la Grenade"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GD",
+                "alpha-3": "GRD",
+                "numeric": 308
+            },
+            "fips": {
+                "code": "GJ00"
+            },
+            "genc": {
+                "alpha-2": "GD",
+                "alpha-3": "GRD",
+                "numeric": 308
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Lubnān"
+                ],
+                "en": [
+                    "Lebanon",
+                    "LEBANON",
+                    "the Lebanese Republic"
+                ],
+                "fr": [
+                    "le Liban",
+                    "Liban (le)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LB",
+                "alpha-3": "LBN",
+                "numeric": 422
+            },
+            "fips": {
+                "code": "LE00"
+            },
+            "genc": {
+                "alpha-2": "LB",
+                "alpha-3": "LBN",
+                "numeric": 422
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "China",
+                    "CHINA"
+                ],
+                "fr": [
+                    "Chine (la)",
+                    "la Chine"
+                ],
+                "zh": [
+                    "Zhongguo"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CN",
+                "alpha-3": "CHN",
+                "numeric": 156
+            },
+            "fips": {
+                "code": "CH00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Mişr"
+                ],
+                "en": [
+                    "EGYPT",
+                    "Egypt",
+                    "the Arab Republic of Egypt"
+                ],
+                "fr": [
+                    "Égypte (l')",
+                    "l'Égypte"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "EG",
+                "alpha-3": "EGY",
+                "numeric": 818
+            },
+            "fips": {
+                "code": "EG00"
+            },
+            "genc": {
+                "alpha-2": "EG",
+                "alpha-3": "EGY",
+                "numeric": 818
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Madagascar",
+                    "MADAGASCAR",
+                    "the Republic of Madagascar"
+                ],
+                "fr": [
+                    "Madagascar"
+                ],
+                "mg": [
+                    "Madagasikara"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MG",
+                "alpha-3": "MDG",
+                "numeric": 450
+            },
+            "fips": {
+                "code": "MA00"
+            },
+            "genc": {
+                "alpha-2": "MG",
+                "alpha-3": "MDG",
+                "numeric": 450
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "United Kingdom of Great Britain and Northern Ireland (the)",
+                    "the United Kingdom of Great Britain and Northern Ireland",
+                    "UNITED KINGDOM",
+                    "United Kingdom (the)"
+                ],
+                "fr": [
+                    "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+                    "le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GB",
+                "alpha-3": "GBR",
+                "numeric": 826
+            },
+            "fips": {
+                "code": "UK00"
+            },
+            "genc": {
+                "alpha-2": "GB",
+                "alpha-3": "GBR",
+                "numeric": 826
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ay": [
+                    "Perú"
+                ],
+                "en": [
+                    "Peru",
+                    "PERU",
+                    "the Republic of Peru"
+                ],
+                "es": [
+                    "Perú (el)"
+                ],
+                "fr": [
+                    "le Pérou",
+                    "Pérou (le)"
+                ],
+                "qu": [
+                    "Perú"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "PE",
+                "alpha-3": "PER",
+                "numeric": 604
+            },
+            "fips": {
+                "code": "PE00"
+            },
+            "genc": {
+                "alpha-2": "PE",
+                "alpha-3": "PER",
+                "numeric": 604
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Indonesia",
+                    "INDONESIA",
+                    "the Republic of Indonesia"
+                ],
+                "fr": [
+                    "l'Indonésie",
+                    "Indonésie (l')"
+                ],
+                "id": [
+                    "Indonesia"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ID",
+                "alpha-3": "IDN",
+                "numeric": 360
+            },
+            "fips": {
+                "code": "ID00"
+            },
+            "genc": {
+                "alpha-2": "ID",
+                "alpha-3": "IDN",
+                "numeric": 360
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Jībūtī"
+                ],
+                "en": [
+                    "Djibouti",
+                    "DJIBOUTI",
+                    "the Republic of Djibouti"
+                ],
+                "fr": [
+                    "Djibouti"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "DJ",
+                "alpha-3": "DJI",
+                "numeric": 262
+            },
+            "fips": {
+                "code": "DJ00"
+            },
+            "genc": {
+                "alpha-2": "DJ",
+                "alpha-3": "DJI",
+                "numeric": 262
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Virgin Islands (U.S.)",
+                    "U.S. Virgin Islands",
+                    "VIRGIN ISLANDS"
+                ],
+                "fr": [
+                    "Vierges des États-Unis (les Îles)",
+                    "les Îles Vierges des États-Unis"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "VI",
+                "alpha-3": "VIR",
+                "numeric": 850
+            },
+            "fips": {
+                "code": "VQ00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Isle of Man",
+                    "MAN, ISLE OF"
+                ],
+                "fr": [
+                    "Île de Man"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "IM",
+                "alpha-3": "IMN",
+                "numeric": 833
+            },
+            "fips": {
+                "code": "IM00"
+            },
+            "genc": {
+                "alpha-2": "IM",
+                "alpha-3": "IMN",
+                "numeric": 833
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "am": [
+                    "Ītyop'iya",
+                    "Ītyop’iya"
+                ],
+                "en": [
+                    "Ethiopia",
+                    "ETHIOPIA",
+                    "the Federal Democratic Republic of Ethiopia"
+                ],
+                "fr": [
+                    "Éthiopie (l')",
+                    "l'Éthiopie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ET",
+                "alpha-3": "ETH",
+                "numeric": 231
+            },
+            "fips": {
+                "code": "ET00"
+            },
+            "genc": {
+                "alpha-2": "ET",
+                "alpha-3": "ETH",
+                "numeric": 231
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "New Zealand",
+                    "NEW ZEALAND"
+                ],
+                "fr": [
+                    "Nouvelle-Zélande (la)",
+                    "la Nouvelle-Zélande"
+                ],
+                "mi": [
+                    "Aotearoa"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NZ",
+                "alpha-3": "NZL",
+                "numeric": 554
+            },
+            "fips": {
+                "code": "NZ00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the United States Minor Outlying Islands",
+                    "United States Minor Outlying Islands (the)"
+                ],
+                "fr": [
+                    "les Îles mineures éloignées des États-Unis",
+                    "Îles mineures éloignées des États-Unis (les)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "UM",
+                "alpha-3": "UMI",
+                "numeric": 581
+            },
+            "fips": {},
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the British Indian Ocean Territory",
+                    "British Indian Ocean Territory (the)",
+                    "BRITISH INDIAN OCEAN TERRITORY"
+                ],
+                "fr": [
+                    "Indien (le Territoire britannique de l'océan)",
+                    "le Territoire britannique de l'océan Indien"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "IO",
+                "alpha-3": "IOT",
+                "numeric": 86
+            },
+            "fips": {
+                "code": "IO00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Netherlands (Kingdom of the)",
+                    "Kingdom of the Netherlands",
+                    "NETHERLANDS"
+                ],
+                "fr": [
+                    "Pays-Bas (Royaume des)",
+                    "Royaume des Pays-Bas"
+                ],
+                "nl": [
+                    "Nederland"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NL",
+                "alpha-3": "NLD",
+                "numeric": 528
+            },
+            "fips": {
+                "code": "NL00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Congo",
+                    "CONGO",
+                    "Congo (the)"
+                ],
+                "fr": [
+                    "Congo (le)",
+                    "le Congo"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CG",
+                "alpha-3": "COG",
+                "numeric": 178
+            },
+            "fips": {
+                "code": "CF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "LIBERIA",
+                    "the Republic of Liberia",
+                    "Liberia"
+                ],
+                "fr": [
+                    "Libéria (le)",
+                    "le Libéria"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LR",
+                "alpha-3": "LBR",
+                "numeric": 430
+            },
+            "fips": {
+                "code": "LI00"
+            },
+            "genc": {
+                "alpha-2": "LR",
+                "alpha-3": "LBR",
+                "numeric": 430
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Pitcairn",
+                    "PITCAIRN ISLANDS"
+                ],
+                "fr": [
+                    "Pitcairn"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "PN",
+                "alpha-3": "PCN",
+                "numeric": 612
+            },
+            "fips": {
+                "code": "PC00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "UZBEKISTAN",
+                    "the Republic of Uzbekistan",
+                    "Uzbekistan"
+                ],
+                "fr": [
+                    "Ouzbékistan (l')",
+                    "l'Ouzbékistan"
+                ],
+                "uz": [
+                    "O‘zbekiston"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "UZ",
+                "alpha-3": "UZB",
+                "numeric": 860
+            },
+            "fips": {
+                "code": "UZ00"
+            },
+            "genc": {
+                "alpha-2": "UZ",
+                "alpha-3": "UZB",
+                "numeric": 860
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Haiti",
+                    "HAITI",
+                    "the Republic of Haiti"
+                ],
+                "fr": [
+                    "Haïti"
+                ],
+                "ht": [
+                    "Ayiti"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "HT",
+                "alpha-3": "HTI",
+                "numeric": 332
+            },
+            "fips": {
+                "code": "HA00"
+            },
+            "genc": {
+                "alpha-2": "HT",
+                "alpha-3": "HTI",
+                "numeric": 332
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Suriname",
+                    "SURINAME",
+                    "the Republic of Suriname"
+                ],
+                "fr": [
+                    "Suriname (le)",
+                    "le Suriname"
+                ],
+                "nl": [
+                    "Suriname"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SR",
+                "alpha-3": "SUR",
+                "numeric": 740
+            },
+            "fips": {
+                "code": "NS00"
+            },
+            "genc": {
+                "alpha-2": "SR",
+                "alpha-3": "SUR",
+                "numeric": 740
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Brazil",
+                    "BRAZIL"
+                ],
+                "fr": [
+                    "Brésil (le)",
+                    "le Brésil"
+                ],
+                "pt": [
+                    "Brasil (o)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BR",
+                "alpha-3": "BRA",
+                "numeric": 76
+            },
+            "fips": {
+                "code": "BR00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "COLOMBIA",
+                    "Colombia"
+                ],
+                "es": [
+                    "Colombia"
+                ],
+                "fr": [
+                    "Colombie (la)",
+                    "la Colombie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CO",
+                "alpha-3": "COL",
+                "numeric": 170
+            },
+            "fips": {
+                "code": "CO00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Guadeloupe",
+                    "GUADELOUPE"
+                ],
+                "fr": [
+                    "Guadeloupe (la)",
+                    "la Guadeloupe"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GP",
+                "alpha-3": "GLP",
+                "numeric": 312
+            },
+            "fips": {
+                "code": "GP00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Ukraine",
+                    "UKRAINE"
+                ],
+                "fr": [
+                    "Ukraine (l')",
+                    "l'Ukraine"
+                ],
+                "uk": [
+                    "Ukraina"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "UA",
+                "alpha-3": "UKR",
+                "numeric": 804
+            },
+            "fips": {
+                "code": "UP00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Georgia",
+                    "GEORGIA"
+                ],
+                "fr": [
+                    "Géorgie (la)",
+                    "la Géorgie"
+                ],
+                "ka": [
+                    "Sakartvelo"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GE",
+                "alpha-3": "GEO",
+                "numeric": 268
+            },
+            "fips": {
+                "code": "GG00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Urdun"
+                ],
+                "en": [
+                    "Jordan",
+                    "JORDAN",
+                    "the Hashemite Kingdom of Jordan"
+                ],
+                "fr": [
+                    "Jordanie (la)",
+                    "la Jordanie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "JO",
+                "alpha-3": "JOR",
+                "numeric": 400
+            },
+            "fips": {
+                "code": "JO00"
+            },
+            "genc": {
+                "alpha-2": "JO",
+                "alpha-3": "JOR",
+                "numeric": 400
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Congo (the Democratic Republic of the)",
+                    "the Democratic Republic of the Congo",
+                    "CONGO"
+                ],
+                "fr": [
+                    "Congo (la République démocratique du)",
+                    "la République démocratique du Congo"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CD",
+                "alpha-3": "COD",
+                "numeric": 180
+            },
+            "fips": {
+                "code": "CF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Lībiyā"
+                ],
+                "en": [
+                    "Libya",
+                    "LIBYA"
+                ],
+                "fr": [
+                    "Libye (la)",
+                    "la Libye"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LY",
+                "alpha-3": "LBY",
+                "numeric": 434
+            },
+            "fips": {
+                "code": "LY00"
+            },
+            "genc": {
+                "alpha-2": "LY",
+                "alpha-3": "LBY",
+                "numeric": 434
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Canada",
+                    "CANADA"
+                ],
+                "fr": [
+                    "le Canada",
+                    "Canada (le)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CA",
+                "alpha-3": "CAN",
+                "numeric": 124
+            },
+            "fips": {
+                "code": "CA00"
+            },
+            "genc": {
+                "alpha-2": "CA",
+                "alpha-3": "CAN",
+                "numeric": 124
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "SPAIN",
+                    "Spain",
+                    "the Kingdom of Spain"
+                ],
+                "es": [
+                    "España"
+                ],
+                "fr": [
+                    "Espagne (l')",
+                    "l'Espagne"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ES",
+                "alpha-3": "ESP",
+                "numeric": 724
+            },
+            "fips": {
+                "code": "SP00"
+            },
+            "genc": {
+                "alpha-2": "ES",
+                "alpha-3": "ESP",
+                "numeric": 724
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "dv": [
+                    "Dhivehi Raajje"
+                ],
+                "en": [
+                    "Maldives",
+                    "MALDIVES",
+                    "the Republic of Maldives"
+                ],
+                "fr": [
+                    "Maldives (les)",
+                    "les Maldives"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MV",
+                "alpha-3": "MDV",
+                "numeric": 462
+            },
+            "fips": {
+                "code": "MV00"
+            },
+            "genc": {
+                "alpha-2": "MV",
+                "alpha-3": "MDV",
+                "numeric": 462
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "da": [
+                    "Danmark"
+                ],
+                "en": [
+                    "Denmark",
+                    "DENMARK",
+                    "the Kingdom of Denmark"
+                ],
+                "fr": [
+                    "Danemark (le)",
+                    "le Danemark"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "DK",
+                "alpha-3": "DNK",
+                "numeric": 208
+            },
+            "fips": {
+                "code": "DA00"
+            },
+            "genc": {
+                "alpha-2": "DK",
+                "alpha-3": "DNK",
+                "numeric": 208
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Réunion",
+                    "REUNION"
+                ],
+                "fr": [
+                    "Réunion (La)",
+                    "La Réunion"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "RE",
+                "alpha-3": "REU",
+                "numeric": 638
+            },
+            "fips": {
+                "code": "RE00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Seychelles",
+                    "SEYCHELLES"
+                ],
+                "fr": [
+                    "Seychelles (les)",
+                    "les Seychelles"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SC",
+                "alpha-3": "SYC",
+                "numeric": 690
+            },
+            "fips": {
+                "code": "SE00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Northern Mariana Islands (the)",
+                    "the Northern Mariana Islands",
+                    "NORTHERN MARIANA ISLANDS"
+                ],
+                "fr": [
+                    "Mariannes du Nord (les Îles)",
+                    "les Îles Mariannes du Nord"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MP",
+                "alpha-3": "MNP",
+                "numeric": 580
+            },
+            "fips": {
+                "code": "CQ00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "ANTARCTICA",
+                    "Antarctica"
+                ],
+                "fr": [
+                    "l'Antarctique",
+                    "Antarctique (l')"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AQ",
+                "alpha-3": "ATA",
+                "numeric": 10
+            },
+            "fips": {
+                "code": "AY00"
+            },
+            "genc": {
+                "alpha-2": "AQ",
+                "alpha-3": "ATA",
+                "numeric": 10
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Nauru",
+                    "NAURU",
+                    "the Republic of Nauru"
+                ],
+                "fr": [
+                    "Nauru"
+                ],
+                "na": [
+                    "Naoero"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NR",
+                "alpha-3": "NRU",
+                "numeric": 520
+            },
+            "fips": {
+                "code": "NR00"
+            },
+            "genc": {
+                "alpha-2": "NR",
+                "alpha-3": "NRU",
+                "numeric": 520
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Svalbard and Jan Mayen",
+                    "SVALBARD"
+                ],
+                "fr": [
+                    "Svalbard et l'Île Jan Mayen (le)",
+                    "le Svalbard et l'Île Jan Mayen"
+                ],
+                "nb": [
+                    "Svalbard og Jan Mayen"
+                ],
+                "nn": [
+                    "Svalbard og Jan Mayen"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SJ",
+                "alpha-3": "SJM",
+                "numeric": 744
+            },
+            "fips": {
+                "code": "SV00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Aş Şūmāl"
+                ],
+                "en": [
+                    "Somalia",
+                    "SOMALIA"
+                ],
+                "fr": [
+                    "Somalie (la)",
+                    "la Somalie"
+                ],
+                "so": [
+                    "Soomaaliya"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SO",
+                "alpha-3": "SOM",
+                "numeric": 706
+            },
+            "fips": {
+                "code": "SO00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Mauritius",
+                    "MAURITIUS"
+                ],
+                "fr": [
+                    "Maurice"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MU",
+                "alpha-3": "MUS",
+                "numeric": 480
+            },
+            "fips": {
+                "code": "MP00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Republic of Kazakhstan",
+                    "Kazakhstan",
+                    "KAZAKHSTAN"
+                ],
+                "fr": [
+                    "Kazakhstan (le)",
+                    "le Kazakhstan"
+                ],
+                "kk": [
+                    "Qazaqstan"
+                ],
+                "ru": [
+                    "Kazahstan"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "KZ",
+                "alpha-3": "KAZ",
+                "numeric": 398
+            },
+            "fips": {
+                "code": "KZ00"
+            },
+            "genc": {
+                "alpha-2": "KZ",
+                "alpha-3": "KAZ",
+                "numeric": 398
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "RUSSIA",
+                    "Russian Federation (the)",
+                    "the Russian Federation"
+                ],
+                "fr": [
+                    "Russie (la Fédération de)",
+                    "la Fédération de Russie"
+                ],
+                "ru": [
+                    "Rossijskaja Federacija"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "RU",
+                "alpha-3": "RUS",
+                "numeric": 643
+            },
+            "fips": {
+                "code": "RS00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Nigeria",
+                    "NIGERIA",
+                    "the Federal Republic of Nigeria"
+                ],
+                "fr": [
+                    "Nigéria (le)",
+                    "le Nigéria"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NG",
+                "alpha-3": "NGA",
+                "numeric": 566
+            },
+            "fips": {
+                "code": "NI00"
+            },
+            "genc": {
+                "alpha-2": "NG",
+                "alpha-3": "NGA",
+                "numeric": 566
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Micronesia (Federated States of)",
+                    "Federated States of Micronesia",
+                    "FEDERATED STATES OF MICRONESIA"
+                ],
+                "fr": [
+                    "Micronésie (États fédérés de)",
+                    "États fédérés de Micronésie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "FM",
+                "alpha-3": "FSM",
+                "numeric": 583
+            },
+            "fips": {
+                "code": "FM00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al ‘Irāq"
+                ],
+                "en": [
+                    "Iraq",
+                    "IRAQ",
+                    "the Republic of Iraq"
+                ],
+                "fr": [
+                    "Iraq (l')",
+                    "l'Iraq"
+                ],
+                "ku": [
+                    "‘Êraq"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "IQ",
+                "alpha-3": "IRQ",
+                "numeric": 368
+            },
+            "fips": {
+                "code": "IZ00"
+            },
+            "genc": {
+                "alpha-2": "IQ",
+                "alpha-3": "IRQ",
+                "numeric": 368
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "de": [
+                    "Luxemburg"
+                ],
+                "en": [
+                    "Luxembourg",
+                    "the Grand Duchy of Luxembourg"
+                ],
+                "fr": [
+                    "Luxembourg (le)",
+                    "le Luxembourg"
+                ],
+                "ib": [
+                    "Lëtzebuerg"
+                ],
+                "lb": [
+                    "Lëtzebuerg"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LU",
+                "alpha-3": "LUX",
+                "numeric": 442
+            },
+            "fips": {},
+            "genc": {
+                "alpha-2": "LU",
+                "alpha-3": "LUX",
+                "numeric": 442
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "As Sūdān"
+                ],
+                "en": [
+                    "the Sudan",
+                    "Sudan (the)",
+                    "SUDAN",
+                    "the Republic of the Sudan"
+                ],
+                "fr": [
+                    "Soudan (le)",
+                    "le Soudan"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SD",
+                "alpha-3": "SDN",
+                "numeric": 729
+            },
+            "fips": {
+                "code": "SU00"
+            },
+            "genc": {
+                "alpha-2": "SD",
+                "alpha-3": "SDN",
+                "numeric": 729
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "WALLIS AND FUTUNA",
+                    "Wallis and Futuna"
+                ],
+                "fr": [
+                    "Wallis-et-Futuna"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "WF",
+                "alpha-3": "WLF",
+                "numeric": 876
+            },
+            "fips": {
+                "code": "WF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Åland Islands"
+                ],
+                "fr": [
+                    "Åland(les Îles)"
+                ],
+                "sv": [
+                    "Åland"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AX",
+                "alpha-3": "ALA",
+                "numeric": 248
+            },
+            "fips": {},
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Viet Nam",
+                    "VIETNAM"
+                ],
+                "fr": [
+                    "le Viet Nam",
+                    "Viet Nam (le)"
+                ],
+                "vi": [
+                    "Việt Nam"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "VN",
+                "alpha-3": "VNM",
+                "numeric": 704
+            },
+            "fips": {
+                "code": "VM00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the French Southern Territories",
+                    "FRENCH SOUTHERN AND ANTARCTIC LANDS",
+                    "French Southern Territories (the)"
+                ],
+                "fr": [
+                    "Terres australes françaises (les)",
+                    "les Terres australes françaises"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TF",
+                "alpha-3": "ATF",
+                "numeric": 260
+            },
+            "fips": {
+                "code": "FS00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "da": [
+                    "Færøerne"
+                ],
+                "en": [
+                    "FAROE ISLANDS",
+                    "Faroe Islands (the)",
+                    "the Faroe Islands"
+                ],
+                "fo": [
+                    "Føroyar"
+                ],
+                "fr": [
+                    "les Îles Féroé",
+                    "Féroé (les Îles)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "FO",
+                "alpha-3": "FRO",
+                "numeric": 234
+            },
+            "fips": {
+                "code": "FO00"
+            },
+            "genc": {
+                "alpha-2": "FO",
+                "alpha-3": "FRO",
+                "numeric": 234
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Nepal",
+                    "NEPAL",
+                    "the Federal Democratic Republic of Nepal"
+                ],
+                "fr": [
+                    "Népal (le)",
+                    "le Népal"
+                ],
+                "ne": [
+                    "Nepāl"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NP",
+                "alpha-3": "NPL",
+                "numeric": 524
+            },
+            "fips": {
+                "code": "NP00"
+            },
+            "genc": {
+                "alpha-2": "NP",
+                "alpha-3": "NPL",
+                "numeric": 524
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Saint Vincent and the Grenadines",
+                    "ST. VINCENT AND THE GRENADINES"
+                ],
+                "fr": [
+                    "Saint-Vincent-et-les Grenadines"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "VC",
+                "alpha-3": "VCT",
+                "numeric": 670
+            },
+            "fips": {
+                "code": "VC00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Curaçao"
+                ],
+                "fr": [
+                    "Curaçao"
+                ],
+                "nl": [
+                    "Curaçao"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CW",
+                "alpha-3": "CUW",
+                "numeric": 531
+            },
+            "fips": {},
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Monaco",
+                    "MONACO",
+                    "the Principality of Monaco"
+                ],
+                "fr": [
+                    "Monaco"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MC",
+                "alpha-3": "MCO",
+                "numeric": 492
+            },
+            "fips": {
+                "code": "MN00"
+            },
+            "genc": {
+                "alpha-2": "MC",
+                "alpha-3": "MCO",
+                "numeric": 492
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Qamar"
+                ],
+                "en": [
+                    "Comoros (the)",
+                    "the Comoros",
+                    "COMOROS"
+                ],
+                "fr": [
+                    "Comores (les)",
+                    "les Comores"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "KM",
+                "alpha-3": "COM",
+                "numeric": 174
+            },
+            "fips": {
+                "code": "CN00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Trinidad and Tobago",
+                    "TRINIDAD",
+                    "the Republic of Trinidad and Tobago"
+                ],
+                "fr": [
+                    "la Trinité-et-Tobago",
+                    "Trinité-et-Tobago (la)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TT",
+                "alpha-3": "TTO",
+                "numeric": 780
+            },
+            "fips": {
+                "code": "TD00"
+            },
+            "genc": {
+                "alpha-2": "TT",
+                "alpha-3": "TTO",
+                "numeric": 780
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Portuguese Republic",
+                    "Portugal",
+                    "PORTUGAL"
+                ],
+                "fr": [
+                    "le Portugal",
+                    "Portugal (le)"
+                ],
+                "pt": [
+                    "Portugal"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "PT",
+                "alpha-3": "PRT",
+                "numeric": 620
+            },
+            "fips": {
+                "code": "PO00"
+            },
+            "genc": {
+                "alpha-2": "PT",
+                "alpha-3": "PRT",
+                "numeric": 620
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Republic of Croatia",
+                    "Croatia",
+                    "CROATIA"
+                ],
+                "fr": [
+                    "Croatie (la)",
+                    "la Croatie"
+                ],
+                "hr": [
+                    "Hrvatska"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "HR",
+                "alpha-3": "HRV",
+                "numeric": 191
+            },
+            "fips": {
+                "code": "HR00"
+            },
+            "genc": {
+                "alpha-2": "HR",
+                "alpha-3": "HRV",
+                "numeric": 191
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "North Macedonia",
+                    "MACEDONIA"
+                ],
+                "fr": [
+                    "Macédoine du Nord (la)",
+                    "la Macédoine du Nord"
+                ],
+                "mk": [
+                    "Severna Makedonija"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MK",
+                "alpha-3": "MKD",
+                "numeric": 807
+            },
+            "fips": {
+                "code": "MK00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Norfolk Island",
+                    "NORFOLK ISLAND"
+                ],
+                "fr": [
+                    "Norfolk (l'Île)",
+                    "l'Île Norfolk"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NF",
+                "alpha-3": "NFK",
+                "numeric": 574
+            },
+            "fips": {
+                "code": "NF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Sint Maarten (Dutch part)",
+                    "Dutch part Sint Maarten"
+                ],
+                "fr": [
+                    "Saint-Martin (partie néerlandaise)",
+                    "partie néerlandaise Saint-Martin"
+                ],
+                "nl": [
+                    "Sint Maarten"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SX",
+                "alpha-3": "SXM",
+                "numeric": 534
+            },
+            "fips": {},
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Tajikistan",
+                    "TAJIKISTAN",
+                    "the Republic of Tajikistan"
+                ],
+                "fr": [
+                    "Tadjikistan (le)",
+                    "le Tadjikistan"
+                ],
+                "tg": [
+                    "Tojikiston"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TJ",
+                "alpha-3": "TJK",
+                "numeric": 762
+            },
+            "fips": {
+                "code": "TI00"
+            },
+            "genc": {
+                "alpha-2": "TJ",
+                "alpha-3": "TJK",
+                "numeric": 762
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Gibraltar",
+                    "GIBRALTAR"
+                ],
+                "fr": [
+                    "Gibraltar"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "GI",
+                "alpha-3": "GIB",
+                "numeric": 292
+            },
+            "fips": {
+                "code": "GI00"
+            },
+            "genc": {
+                "alpha-2": "GI",
+                "alpha-3": "GIB",
+                "numeric": 292
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Kingdom of Lesotho",
+                    "Lesotho",
+                    "LESOTHO"
+                ],
+                "fr": [
+                    "Lesotho (le)",
+                    "le Lesotho"
+                ],
+                "st": [
+                    "Lesotho"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LS",
+                "alpha-3": "LSO",
+                "numeric": 426
+            },
+            "fips": {
+                "code": "LT00"
+            },
+            "genc": {
+                "alpha-2": "LS",
+                "alpha-3": "LSO",
+                "numeric": 426
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Dawlat Filasţīn"
+                ],
+                "en": [
+                    "Palestine, State of"
+                ],
+                "fr": [
+                    "Palestine, État de"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "PS",
+                "alpha-3": "PSE",
+                "numeric": 275
+            },
+            "fips": {},
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "dz": [
+                    "Druk-Yul"
+                ],
+                "en": [
+                    "Bhutan",
+                    "BHUTAN",
+                    "the Kingdom of Bhutan"
+                ],
+                "fr": [
+                    "Bhoutan (le)",
+                    "le Bhoutan"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BT",
+                "alpha-3": "BTN",
+                "numeric": 64
+            },
+            "fips": {
+                "code": "BT00"
+            },
+            "genc": {
+                "alpha-2": "BT",
+                "alpha-3": "BTN",
+                "numeric": 64
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "SOLOMON ISLANDS",
+                    "Solomon Islands",
+                    "Solomon Islands (the)"
+                ],
+                "fr": [
+                    "Salomon (les Îles)",
+                    "les Îles Salomon"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "SB",
+                "alpha-3": "SLB",
+                "numeric": 90
+            },
+            "fips": {
+                "code": "BP00"
+            },
+            "genc": {
+                "alpha-2": "SB",
+                "alpha-3": "SLB",
+                "numeric": 90
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Benin",
+                    "BENIN",
+                    "the Republic of Benin"
+                ],
+                "fr": [
+                    "Bénin (le)",
+                    "le Bénin"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BJ",
+                "alpha-3": "BEN",
+                "numeric": 204
+            },
+            "fips": {
+                "code": "BN00"
+            },
+            "genc": {
+                "alpha-2": "BJ",
+                "alpha-3": "BEN",
+                "numeric": 204
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Republic of the Niger",
+                    "Niger (the)",
+                    "NIGER",
+                    "the Niger"
+                ],
+                "fr": [
+                    "Niger (le)",
+                    "le Niger"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "NE",
+                "alpha-3": "NER",
+                "numeric": 562
+            },
+            "fips": {
+                "code": "NG00"
+            },
+            "genc": {
+                "alpha-2": "NE",
+                "alpha-3": "NER",
+                "numeric": 562
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Yaman"
+                ],
+                "en": [
+                    "Yemen",
+                    "YEMEN (SANAA)"
+                ],
+                "fr": [
+                    "le Yémen",
+                    "Yémen (le)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "YE",
+                "alpha-3": "YEM",
+                "numeric": 887
+            },
+            "fips": {
+                "code": "YE00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Lithuania",
+                    "LITHUANIA",
+                    "the Republic of Lithuania"
+                ],
+                "fr": [
+                    "Lituanie (la)",
+                    "la Lituanie"
+                ],
+                "lt": [
+                    "Lietuva"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "LT",
+                "alpha-3": "LTU",
+                "numeric": 440
+            },
+            "fips": {
+                "code": "LH00"
+            },
+            "genc": {
+                "alpha-2": "LT",
+                "alpha-3": "LTU",
+                "numeric": 440
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "de": [
+                    "Deutschland"
+                ],
+                "en": [
+                    "Germany",
+                    "GERMANY",
+                    "the Federal Republic of Germany"
+                ],
+                "fr": [
+                    "Allemagne (l')",
+                    "l'Allemagne"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "DE",
+                "alpha-3": "DEU",
+                "numeric": 276
+            },
+            "fips": {
+                "code": "GM00"
+            },
+            "genc": {
+                "alpha-2": "DE",
+                "alpha-3": "DEU",
+                "numeric": 276
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Anguilla",
+                    "ANGUILLA"
+                ],
+                "fr": [
+                    "Anguilla"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "AI",
+                "alpha-3": "AIA",
+                "numeric": 660
+            },
+            "fips": {
+                "code": "AV00"
+            },
+            "genc": {
+                "alpha-2": "AI",
+                "alpha-3": "AIA",
+                "numeric": 660
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Marshall Islands",
+                    "MARSHALL ISLANDS",
+                    "Marshall Islands (the)"
+                ],
+                "fr": [
+                    "Marshall (les Îles)",
+                    "les Îles Marshall"
+                ],
+                "mh": [
+                    "Aelōn̄ in M̧ajeļ"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MH",
+                "alpha-3": "MHL",
+                "numeric": 584
+            },
+            "fips": {
+                "code": "RM00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Al Kuwayt"
+                ],
+                "en": [
+                    "Kuwait",
+                    "KUWAIT",
+                    "the State of Kuwait"
+                ],
+                "fr": [
+                    "Koweït (le)",
+                    "le Koweït"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "KW",
+                "alpha-3": "KWT",
+                "numeric": 414
+            },
+            "fips": {
+                "code": "KU00"
+            },
+            "genc": {
+                "alpha-2": "KW",
+                "alpha-3": "KWT",
+                "numeric": 414
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Malta",
+                    "MALTA",
+                    "the Republic of Malta"
+                ],
+                "fr": [
+                    "Malte"
+                ],
+                "mt": [
+                    "Malta"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MT",
+                "alpha-3": "MLT",
+                "numeric": 470
+            },
+            "fips": {
+                "code": "MT00"
+            },
+            "genc": {
+                "alpha-2": "MT",
+                "alpha-3": "MLT",
+                "numeric": 470
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the Bahamas",
+                    "Bahamas (the)",
+                    "BAHAMAS, THE"
+                ],
+                "fr": [
+                    "Bahamas (les)",
+                    "les Bahamas"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BS",
+                "alpha-3": "BHS",
+                "numeric": 44
+            },
+            "fips": {
+                "code": "BF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Zambia",
+                    "ZAMBIA",
+                    "the Republic of Zambia"
+                ],
+                "fr": [
+                    "Zambie (la)",
+                    "la Zambie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ZM",
+                "alpha-3": "ZMB",
+                "numeric": 894
+            },
+            "fips": {
+                "code": "ZA00"
+            },
+            "genc": {
+                "alpha-2": "ZM",
+                "alpha-3": "ZMB",
+                "numeric": 894
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Türkiye",
+                    "TURKEY",
+                    "Turkey",
+                    "the Republic of Turkey"
+                ],
+                "fr": [
+                    "Türkiye (la)",
+                    "la Türkiye"
+                ],
+                "tr": [
+                    "Türkiye"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TR",
+                "alpha-3": "TUR",
+                "numeric": 792
+            },
+            "fips": {
+                "code": "TU00"
+            },
+            "genc": {
+                "alpha-2": "TR",
+                "alpha-3": "TUR",
+                "numeric": 792
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "de": [
+                    "Schweiz (die)"
+                ],
+                "en": [
+                    "Switzerland",
+                    "SWITZERLAND",
+                    "the Swiss Confederation"
+                ],
+                "fr": [
+                    "Suisse (la)",
+                    "la Suisse"
+                ],
+                "it": [
+                    "Svizzera (la)"
+                ],
+                "rm": [
+                    "Svizra (la)"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "CH",
+                "alpha-3": "CHE",
+                "numeric": 756
+            },
+            "fips": {
+                "code": "SZ00"
+            },
+            "genc": {
+                "alpha-2": "CH",
+                "alpha-3": "CHE",
+                "numeric": 756
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "af": [
+                    "Suid-Afrika"
+                ],
+                "en": [
+                    "South Africa",
+                    "SOUTH AFRICA"
+                ],
+                "fr": [
+                    "Afrique du Sud (l')",
+                    "l'Afrique du Sud"
+                ],
+                "nr": [
+                    "Sewula Afrika"
+                ],
+                "ss": [
+                    "Ningizimu Afrika"
+                ],
+                "st": [
+                    "Afrika-Borwa"
+                ],
+                "tn": [
+                    "Afrika-Borwa"
+                ],
+                "ts": [
+                    "Afrika-Dzonga"
+                ],
+                "ve": [
+                    "Afrika Tshipembe"
+                ],
+                "xh": [
+                    "Mzantsi Afrika"
+                ],
+                "zu": [
+                    "Ningizimu Afrika"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "ZA",
+                "alpha-3": "ZAF",
+                "numeric": 710
+            },
+            "fips": {
+                "code": "SF00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "ar": [
+                    "Tshād"
+                ],
+                "en": [
+                    "Chad",
+                    "CHAD",
+                    "the Republic of Chad"
+                ],
+                "fr": [
+                    "Tchad (le)",
+                    "le Tchad"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "TD",
+                "alpha-3": "TCD",
+                "numeric": 148
+            },
+            "fips": {
+                "code": "CD00"
+            },
+            "genc": {
+                "alpha-2": "TD",
+                "alpha-3": "TCD",
+                "numeric": 148
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "bg": [
+                    "Bulgaria"
+                ],
+                "en": [
+                    "Bulgaria",
+                    "BULGARIA"
+                ],
+                "fr": [
+                    "Bulgarie (la)",
+                    "la Bulgarie"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "BG",
+                "alpha-3": "BGR",
+                "numeric": 100
+            },
+            "fips": {
+                "code": "BU00"
+            },
+            "genc": {},
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "the United Mexican States",
+                    "Mexico",
+                    "MEXICO"
+                ],
+                "es": [
+                    "México"
+                ],
+                "fr": [
+                    "Mexique (le)",
+                    "le Mexique"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "MX",
+                "alpha-3": "MEX",
+                "numeric": 484
+            },
+            "fips": {
+                "code": "MX00"
+            },
+            "genc": {
+                "alpha-2": "MX",
+                "alpha-3": "MEX",
+                "numeric": 484
+            },
+            "flag": {}
+        },
+        {
+            "name": {
+                "en": [
+                    "Pakistan",
+                    "PAKISTAN",
+                    "the Islamic Republic of Pakistan"
+                ],
+                "fr": [
+                    "Pakistan (le)",
+                    "le Pakistan"
+                ],
+                "ur": [
+                    "Pākistān"
+                ]
+            },
+            "iso-3166": {
+                "alpha-2": "PK",
+                "alpha-3": "PAK",
+                "numeric": 586
+            },
+            "fips": {
+                "code": "PK00"
+            },
+            "genc": {
+                "alpha-2": "PK",
+                "alpha-3": "PAK",
+                "numeric": 586
+            },
             "flag": {}
         }
     ]

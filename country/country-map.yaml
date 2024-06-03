@@ -34,7 +34,7 @@ records:
         fips: AA00
     -   iso-3166: AU
         genc: ??
-        fips: ??
+        fips: AS00
     -   iso-3166: AZ
         genc: AZ
         fips: AJ00
@@ -42,191 +42,191 @@ records:
         genc: DZ
         fips: AG00
     -   iso-3166: BA
-        genc: ??
-        fips: ??
+        genc: BA
+        fips: BK00
     -   iso-3166: BB
-        genc: ??
-        fips: ??
+        genc: BB
+        fips: BB00
     -   iso-3166: BD
         genc: ??
-        fips: ??
+        fips: BG00
     -   iso-3166: BE
-        genc: ??
-        fips: ??
+        genc: BE
+        fips: BE00
     -   iso-3166: BL
         genc: ??
-        fips: ??
+        fips: TB00
     -   iso-3166: BH
-        genc: ??
-        fips: ??
+        genc: BH
+        fips: BA00
     -   iso-3166: BI
-        genc: ??
-        fips: ??
+        genc: BI
+        fips: BY00
     -   iso-3166: BN
         genc: ??
         fips: BX00
     -   iso-3166: BO
         genc: ??
-        fips: ??
+        fips: BL00
     -   iso-3166: BQ
         genc: ??
         fips: ??
     -   iso-3166: BW
-        genc: ??
-        fips: ??
+        genc: BW
+        fips: BC00
     -   iso-3166: BV
-        genc: ??
-        fips: ??
+        genc: BV
+        fips: BV00
     -   iso-3166: BY
         genc: ??
-        fips: ??
+        fips: BO00
     -   iso-3166: BZ
-        genc: ??
-        fips: ??
+        genc: BZ
+        fips: BH00
     -   iso-3166: CF
         genc: ??
-        fips: ??
+        fips: CT00
     -   iso-3166: CI
-        genc: ??
-        fips: ??
+        genc: CI
+        fips: IV00
     -   iso-3166: CK
-        genc: ??
-        fips: ??
+        genc: CK
+        fips: CW00
     -   iso-3166: CM
-        genc: ??
-        fips: ??
+        genc: CM
+        fips: CM00
     -   iso-3166: CR
         genc: ??
-        fips: ??
+        fips: CS00
     -   iso-3166: CU
         genc: ??
-        fips: ??
+        fips: CU00
     -   iso-3166: CX
         genc: ??
-        fips: ??
+        fips: KT00
     -   iso-3166: CV
         genc: ??
         fips: ??
     -   iso-3166: CY
         genc: ??
-        fips: ??
+        fips: CY00
     -   iso-3166: CZ
         genc: ??
         fips: ??
     -   iso-3166: DM
-        genc: ??
-        fips: ??
+        genc: DM
+        fips: DO00
     -   iso-3166: DO
-        genc: ??
-        fips: ??
+        genc: DO
+        fips: DR00
     -   iso-3166: EC
         genc: ??
-        fips: ??
+        fips: EC00
     -   iso-3166: EE
-        genc: ??
-        fips: ??
+        genc: EE
+        fips: EN00
     -   iso-3166: EH
         genc: ??
-        fips: ??
+        fips: WI00
     -   iso-3166: ER
-        genc: ??
-        fips: ??
+        genc: ER
+        fips: ER00
     -   iso-3166: FI
-        genc: ??
-        fips: ??
+        genc: FI
+        fips: FI00
     -   iso-3166: FJ
-        genc: ??
-        fips: ??
+        genc: FJ
+        fips: FJ00
     -   iso-3166: FK
         genc: ??
-        fips: ??
+        fips: FK00
     -   iso-3166: GF
         genc: ??
         fips: FG00
     -   iso-3166: GG
         genc: ??
-        fips: ??
+        fips: GK00
     -   iso-3166: GL
-        genc: ??
-        fips: ??
+        genc: GL
+        fips: GL00
     -   iso-3166: GM
         genc: ??
-        fips: ??
+        fips: GA00
     -   iso-3166: GQ
         genc: ??
-        fips: ??
+        fips: EK00
     -   iso-3166: GR
-        genc: ??
-        fips: ??
+        genc: GR
+        fips: GR00
     -   iso-3166: GS
         genc: ??
-        fips: ??
+        fips: SX00
     -   iso-3166: GT
-        genc: ??
-        fips: ??
+        genc: GT
+        fips: GT00
     -   iso-3166: GU
         genc: ??
-        fips: ??
+        fips: GQ00
     -   iso-3166: GW
-        genc: ??
-        fips: ??
+        genc: GW
+        fips: PU00
     -   iso-3166: GY
         genc: ??
-        fips: ??
+        fips: GY00
     -   iso-3166: HK
         genc: ??
         fips: HK00
     -   iso-3166: HM
         genc: ??
-        fips: ??
+        fips: HM00
     -   iso-3166: HN
-        genc: ??
-        fips: ??
+        genc: HN
+        fips: HO00
     -   iso-3166: HU
-        genc: ??
-        fips: ??
+        genc: HU
+        fips: HU00
     -   iso-3166: IE
         genc: IE
         fips: EI00
     -   iso-3166: IS
-        genc: ??
-        fips: ??
+        genc: IS
+        fips: IC00
     -   iso-3166: IL
         genc: IL
         fips: IS00
     -   iso-3166: IR
         genc: ??
-        fips: ??
+        fips: IR00
     -   iso-3166: IT
         genc: ??
-        fips: ??
+        fips: IT00
     -   iso-3166: JE
         genc: ??
-        fips: ??
+        fips: JE00
     -   iso-3166: JP
         genc: JP
         fips: JA00
     -   iso-3166: KE
-        genc: ??
-        fips: ??
+        genc: KE
+        fips: KE00
     -   iso-3166: KG
-        genc: ??
-        fips: ??
+        genc: KG
+        fips: KG00
     -   iso-3166: KH
-        genc: ??
-        fips: ??
+        genc: KH
+        fips: CB00
     -   iso-3166: KI
         genc: ??
-        fips: ??
+        fips: KR00
     -   iso-3166: KN
-        genc: ??
-        fips: ??
+        genc: KN
+        fips: SC00
     -   iso-3166: KP
         genc: ??
-        fips: ??
+        fips: KN00
     -   iso-3166: KR
         genc: ??
-        fips: ??
+        fips: KS00
     -   iso-3166: KY
         genc: KY
         fips: CJ00
@@ -234,29 +234,29 @@ records:
         genc: ??
         fips: ??
     -   iso-3166: LI
-        genc: ??
-        fips: ??
+        genc: LI
+        fips: LS00
     -   iso-3166: LK
-        genc: ??
-        fips: ??
+        genc: LK
+        fips: CE00
     -   iso-3166: LV
-        genc: ??
-        fips: ??
+        genc: LV
+        fips: LG00
     -   iso-3166: MA
-        genc: ??
-        fips: ??
+        genc: MA
+        fips: MO00
     -   iso-3166: MD
         genc: ??
-        fips: ??
+        fips: MD00
     -   iso-3166: ME
-        genc: ??
-        fips: ??
+        genc: ME
+        fips: MJ00
     -   iso-3166: MF
         genc: ??
-        fips: ??
+        fips: RN00
     -   iso-3166: MW
-        genc: ??
-        fips: ??
+        genc: MW
+        fips: MI00
     -   iso-3166: MN
         genc: ??
         fips: MG00
@@ -265,22 +265,22 @@ records:
         fips: ??
     -   iso-3166: MQ
         genc: ??
-        fips: ??
+        fips: MB00
     -   iso-3166: MR
-        genc: ??
-        fips: ??
+        genc: MR
+        fips: MR00
     -   iso-3166: MW
         genc: MW
         fips: MI00
     -   iso-3166: MY
         genc: ??
-        fips: ??
+        fips: MY00
     -   iso-3166: NA
-        genc: ??
-        fips: ??
+        genc: NA
+        fips: WA00
     -   iso-3166: NC
         genc: ??
-        fips: ??
+        fips: NC00
     -   iso-3166: NO
         genc: ??
         fips: NO00
@@ -288,71 +288,71 @@ records:
         genc: NU
         fips: NE00
     -   iso-3166: QA
-        genc: ??
-        fips: ??
+        genc: QA
+        fips: QA00
     -   iso-3166: PA
-        genc: ??
-        fips: ??
+        genc: PA
+        fips: PM00
     -   iso-3166: PF
         genc: ??
-        fips: ??
+        fips: FP00
     -   iso-3166: PG
         genc: ??
         fips: PP00
     -   iso-3166: PL
-        genc: ??
-        fips: ??
+        genc: PL
+        fips: PL00
     -   iso-3166: PH
         genc: ??
         fips: RP00
     -   iso-3166: PM
         genc: ??
-        fips: ??
+        fips: SB00
     -   iso-3166: PR
         genc: ??
-        fips: ??
+        fips: RQ00
     -   iso-3166: PW
-        genc: ??
-        fips: ??
+        genc: PW
+        fips: NQ30
     -   iso-3166: PY
-        genc: ??
-        fips: ??
+        genc: PY
+        fips: PA00
     -   iso-3166: RO
-        genc: ??
-        fips: ??
+        genc: RO
+        fips: RO00
     -   iso-3166: RS
         genc: ??
-        fips: ??
+        fips: SR00
     -   iso-3166: RW
         genc: RW
         fips: RW00
     -   iso-3166: SA
         genc: ??
-        fips: ??
+        fips: SA00
     -   iso-3166: SG
-        genc: ??
-        fips: ??
+        genc: SG
+        fips: SN00
     -   iso-3166: SH
         genc: ??
-        fips: ??
+        fips: SH00
     -   iso-3166: SL
-        genc: ??
-        fips: ??
+        genc: SL
+        fips: SL00
     -   iso-3166: SK
-        genc: ??
-        fips: ??
+        genc: SK
+        fips: LO00
     -   iso-3166: SN
         genc: SN
         fips: SG00
     -   iso-3166: SS
-        genc: ??
+        genc: SS
         fips: ??
     -   iso-3166: ST
-        genc: ??
-        fips: ??
+        genc: ST
+        fips: TP00
     -   iso-3166: SV
-        genc: ??
-        fips: ??
+        genc: SV
+        fips: ES00
     -   iso-3166: SY
         genc: ??
         fips: SY00
@@ -360,60 +360,397 @@ records:
         genc: SZ
         fips: ??
     -   iso-3166: TC
-        genc: ??
-        fips: ??
+        genc: TC
+        fips: TK00
     -   iso-3166: TK
-        genc: ??
-        fips: ??
+        genc: TK
+        fips: TL00
     -   iso-3166: TL
-        genc: ??
-        fips: ??
+        genc: TL
+        fips: TT00
     -   iso-3166: TH
         genc: TH
         fips: TH00
     -   iso-3166: TM
-        genc: ??
-        fips: ??
+        genc: TM
+        fips: TX00
     -   iso-3166: TN
         genc: ??
-        fips: ??
+        fips: TS00
     -   iso-3166: TW
         genc: ??
         fips: TW00
     -   iso-3166: TV
-        genc: ??
-        fips: ??
+        genc: TV
+        fips: TV00
     -   iso-3166: TZ
         genc: ??
-        fips: ??
+        fips: TZ00
     -   iso-3166: UG
-        genc: ??
-        fips: ??
+        genc: UG
+        fips: UG00
     -   iso-3166: UY
         genc: ??
-        fips: ??
+        fips: UY00
     -   iso-3166: WS
-        genc: ??
-        fips: ??
+        genc: WS
+        fips: WS00
     -   iso-3166: VA
         genc: ??
-        fips: ??
+        fips: VT00
     -   iso-3166: VE
         genc: ??
-        fips: ??
+        fips: VE00
     -   iso-3166: VG
         genc: ??
-        fips: ??
+        fips: VI00
     -   iso-3166: VU
         genc: ??
-        fips: ??
+        fips: NH00
     -   iso-3166: YT
         genc: ??
-        fips: ??
+        fips: MF00
     -   iso-3166: ZW
+        genc: ZW
+        fips: ZI00
+    -   iso-3166: SI
+        genc: SI
+        fips: SI00
+    -   iso-3166: CL
+        genc: ??
+        fips: CI00
+    -   iso-3166: ML
+        genc: ML
+        fips: GV22
+    -   iso-3166: GH
+        genc: GH
+        fips: GH00
+    -   iso-3166: BF
+        genc: ??
+        fips: UV00
+    -   iso-3166: CC
+        genc: ??
+        fips: CK00
+    -   iso-3166: LC
+        genc: LC
+        fips: ST00
+    -   iso-3166: FR
+        genc: ??
+        fips: FR00
+    -   iso-3166: SE
+        genc: SE
+        fips: SW00
+    -   iso-3166: IN
+        genc: ??
+        fips: IN00
+    -   iso-3166: GA
+        genc: GA
+        fips: GB00
+    -   iso-3166: SM
+        genc: SM
+        fips: SM00
+    -   iso-3166: MZ
+        genc: MZ
+        fips: MZ00
+    -   iso-3166: US
+        genc: ??
+        fips: US00
+    -   iso-3166: JM
+        genc: JM
+        fips: JM00
+    -   iso-3166: GN
+        genc: GN
+        fips: GV00
+    -   iso-3166: OM
+        genc: ??
+        fips: MU00
+    -   iso-3166: TO
+        genc: TO
+        fips: TN00
+    -   iso-3166: TG
+        genc: TG
+        fips: TO00
+    -   iso-3166: MM
         genc: ??
         fips: ??
+    -   iso-3166: MS
+        genc: MS
+        fips: MH00
+    -   iso-3166: BM
+        genc: BM
+        fips: BD00
+    -   iso-3166: NI
+        genc: NI
+        fips: NU00
+    -   iso-3166: GD
+        genc: GD
+        fips: GJ00
+    -   iso-3166: LB
+        genc: LB
+        fips: LE00
+    -   iso-3166: CN
+        genc: ??
+        fips: CH00
+    -   iso-3166: EG
+        genc: EG
+        fips: EG00
+    -   iso-3166: MG
+        genc: MG
+        fips: MA00
+    -   iso-3166: GB
+        genc: GB
+        fips: UK00
+    -   iso-3166: PE
+        genc: PE
+        fips: PE00
+    -   iso-3166: ID
+        genc: ID
+        fips: ID00
+    -   iso-3166: DJ
+        genc: DJ
+        fips: DJ00
+    -   iso-3166: VI
+        genc: ??
+        fips: VQ00
+    -   iso-3166: IM
+        genc: IM
+        fips: IM00
+    -   iso-3166: ET
+        genc: ET
+        fips: ET00
+    -   iso-3166: NZ
+        genc: NZ
+        fips: NZ00
+    -   iso-3166: UM
+        genc: ??
+        fips: ??
+    -   iso-3166: IO
+        genc: ??
+        fips: IO00
+    -   iso-3166: NL
+        genc: ??
+        fips: NL00
+    -   iso-3166: CG
+        genc: ??
+        fips: CF00
+    -   iso-3166: LR
+        genc: LR
+        fips: LI00
+    -   iso-3166: PN
+        genc: ??
+        fips: PC00
+    -   iso-3166: UZ
+        genc: UZ
+        fips: UZ00
+    -   iso-3166: HT
+        genc: HT
+        fips: HA00
+    -   iso-3166: SR
+        genc: SR
+        fips: NS00
+    -   iso-3166: BR
+        genc: ??
+        fips: BR00
+    -   iso-3166: CO
+        genc: ??
+        fips: CO00
+    -   iso-3166: GP
+        genc: ??
+        fips: GP00
+    -   iso-3166: UA
+        genc: ??
+        fips: UP00
+    -   iso-3166: GE
+        genc: ??
+        fips: GG00
+    -   iso-3166: JO
+        genc: JO
+        fips: JO00
+    -   iso-3166: CD
+        genc: ??
+        fips: CF00
+    -   iso-3166: LY
+        genc: LY
+        fips: LY00
+    -   iso-3166: CA
+        genc: CA
+        fips: CA00
+    -   iso-3166: ES
+        genc: ES
+        fips: SP00
+    -   iso-3166: MV
+        genc: MV
+        fips: MV00
+    -   iso-3166: DK
+        genc: DK
+        fips: DA00
+    -   iso-3166: RE
+        genc: ??
+        fips: RE00
+    -   iso-3166: SC
+        genc: ??
+        fips: SE00
+    -   iso-3166: MP
+        genc: ??
+        fips: CQ00
+    -   iso-3166: AQ
+        genc: AQ
+        fips: AY00
+    -   iso-3166: NR
+        genc: NR
+        fips: NR00
+    -   iso-3166: SJ
+        genc: ??
+        fips: SV00
+    -   iso-3166: SO
+        genc: ??
+        fips: SO00
+    -   iso-3166: MU
+        genc: ??
+        fips: MP00
+    -   iso-3166: KZ
+        genc: KZ
+        fips: KZ00
+    -   iso-3166: RU
+        genc: RU
+        fips: RS00
+    -   iso-3166: NG
+        genc: NG
+        fips: NI00
+    -   iso-3166: FM
+        genc: ??
+        fips: FM00
+    -   iso-3166: IQ
+        genc: IQ
+        fips: IZ00
+    -   iso-3166: LU
+        genc: LU
+        fips: ??
+    -   iso-3166: SD
+        genc: SD
+        fips: SU00
+    -   iso-3166: WF
+        genc: ??
+        fips: WF00
+    -   iso-3166: AX
+        genc: ??
+        fips: ??
+    -   iso-3166: VN
+        genc: ??
+        fips: VM00
+    -   iso-3166: TF
+        genc: ??
+        fips: FS00
+    -   iso-3166: FO
+        genc: FO
+        fips: FO00
+    -   iso-3166: NP
+        genc: NP
+        fips: NP00
+    -   iso-3166: VC
+        genc: ??
+        fips: VC00
+    -   iso-3166: CW
+        genc: ??
+        fips: ??
+    -   iso-3166: MC
+        genc: MC
+        fips: MN00
+    -   iso-3166: KM
+        genc: ??
+        fips: CN00
+    -   iso-3166: TT
+        genc: TT
+        fips: TD00
+    -   iso-3166: PT
+        genc: PT
+        fips: PO00
+    -   iso-3166: HR
+        genc: HR
+        fips: HR00
+    -   iso-3166: MK
+        genc: ??
+        fips: MK00
+    -   iso-3166: NF
+        genc: ??
+        fips: NF00
+    -   iso-3166: SX
+        genc: ??
+        fips: ??
+    -   iso-3166: TJ
+        genc: TJ
+        fips: TI00
+    -   iso-3166: GI
+        genc: GI
+        fips: GI00
+    -   iso-3166: LS
+        genc: LS
+        fips: LT00
+    -   iso-3166: PS
+        genc: ??
+        fips: ??
+    -   iso-3166: BT
+        genc: BT
+        fips: BT00
+    -   iso-3166: SB
+        genc: SB
+        fips: BP00
+    -   iso-3166: BJ
+        genc: BJ
+        fips: BN00
+    -   iso-3166: NE
+        genc: NE
+        fips: NG00
+    -   iso-3166: YE
+        genc: ??
+        fips: YE00
+    -   iso-3166: LT
+        genc: LT
+        fips: LH00
+    -   iso-3166: DE
+        genc: DE
+        fips: GM00
+    -   iso-3166: AI
+        genc: AI
+        fips: AV00
+    -   iso-3166: MH
+        genc: ??
+        fips: RM00
+    -   iso-3166: KW
+        genc: KW
+        fips: KU00
+    -   iso-3166: MT
+        genc: MT
+        fips: MT00
+    -   iso-3166: BS
+        genc: ??
+        fips: BF00
+    -   iso-3166: ZM
+        genc: ZM
+        fips: ZA00
+    -   iso-3166: TR
+        genc: TR
+        fips: TU00
+    -   iso-3166: CH
+        genc: CH
+        fips: SZ00
+    -   iso-3166: ZA
+        genc: ??
+        fips: SF00
+    -   iso-3166: TD
+        genc: TD
+        fips: CD00
+    -   iso-3166: BG
+        genc: ??
+        fips: BU00
+    -   iso-3166: MX
+        genc: MX
+        fips: MX00
+    -   iso-3166: PK
+        genc: PK
+        fips: PK00
 
-    # -   iso-3166: ??
-    #     genc: ??
-    #     fips: ??
+
+# -   iso-3166: ??
+#     genc: ??
+#     fips: ??
