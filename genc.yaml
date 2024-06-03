@@ -87,8 +87,8 @@ records:
     de:
     - "\xD6sterreich"
     en:
-    - Austria
     - the Republic of Austria
+    - Austria
   alpha-2: AT
   alpha-3: AUT
   numeric: 40
@@ -109,8 +109,8 @@ records:
     ar:
     - "Al Bah\u0327rayn"
     en:
-    - Bahrain
     - the Kingdom of Bahrain
+    - Bahrain
   alpha-2: BH
   alpha-3: BHR
   numeric: 48
@@ -203,8 +203,8 @@ records:
   numeric: 70
 - name:
     en:
-    - Botswana
     - the Republic of Botswana
+    - Botswana
   alpha-2: BW
   alpha-3: BWA
   numeric: 72
@@ -422,8 +422,8 @@ records:
     ar:
     - "Ir\u012Btr\u012By\u0101"
     en:
-    - Eritrea
     - the State of Eritrea
+    - Eritrea
     ti:
     - Iertra
   alpha-2: ER
@@ -433,8 +433,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Estonia
     - the Republic of Estonia
+    - Estonia
     et:
     - Eesti
   alpha-2: EE
@@ -553,8 +553,8 @@ records:
     el:
     - "Ell\xE1s/Ell\xE1da"
     en:
-    - Greece
     - the Hellenic Republic
+    - Greece
   alpha-2: GR
   alpha-3: GRC
   numeric: 300
@@ -583,8 +583,8 @@ records:
   numeric: 308
 - name:
     en:
-    - Guatemala
     - the Republic of Guatemala
+    - Guatemala
     es:
     - Guatemala
   alpha-2: GT
@@ -617,8 +617,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Haiti
     - the Republic of Haiti
+    - Haiti
     fr:
     - "Ha\xEFti"
     ht:
@@ -630,8 +630,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Honduras
     - the Republic of Honduras
+    - Honduras
     es:
     - Honduras
   alpha-2: HN
@@ -649,8 +649,8 @@ records:
   numeric: 348
 - name:
     en:
-    - the Republic of Iceland
     - Iceland
+    - the Republic of Iceland
     is:
     - "\xCDsland"
   alpha-2: IS
@@ -790,8 +790,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - the Republic of Latvia
     - Latvia
+    - the Republic of Latvia
     lv:
     - Latvija
   alpha-2: LV
@@ -803,8 +803,8 @@ records:
     ar:
     - "Lubn\u0101n"
     en:
-    - the Lebanese Republic
     - Lebanon
+    - the Lebanese Republic
   alpha-2: LB
   alpha-3: LBN
   numeric: 422
@@ -851,8 +851,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Lithuania
     - the Republic of Lithuania
+    - Lithuania
     lt:
     - Lietuva
   alpha-2: LT
@@ -864,8 +864,8 @@ records:
     de:
     - Luxemburg
     en:
-    - Luxembourg
     - the Grand Duchy of Luxembourg
+    - Luxembourg
     fr:
     - Luxembourg (le)
     ib:
@@ -904,8 +904,8 @@ records:
     dv:
     - Dhivehi Raajje
     en:
-    - the Republic of Maldives
     - Maldives
+    - the Republic of Maldives
   alpha-2: MV
   alpha-3: MDV
   numeric: 462
@@ -1165,8 +1165,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Portugal
     - the Portuguese Republic
+    - Portugal
     pt:
     - Portugal
   alpha-2: PT
@@ -1278,8 +1278,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Singapore
     - the Republic of Singapore
+    - Singapore
     ms:
     - Singapura
     ta:
@@ -1484,8 +1484,8 @@ records:
     should not be used in the context of the GENC Standard.
 - name:
     en:
-    - Trinidad and Tobago
     - the Republic of Trinidad and Tobago
+    - Trinidad and Tobago
   alpha-2: TT
   alpha-3: TTO
   numeric: 780
@@ -1527,8 +1527,8 @@ records:
   numeric: 798
 - name:
     en:
-    - Uganda
     - the Republic of Uganda
+    - Uganda
   alpha-2: UG
   alpha-3: UGA
   numeric: 800
@@ -1560,8 +1560,8 @@ records:
     not make that assertion).'
 - name:
     en:
-    - Uzbekistan
     - the Republic of Uzbekistan
+    - Uzbekistan
     uz:
     - "O\u2018zbekiston"
   alpha-2: UZ

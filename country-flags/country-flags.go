@@ -8,6 +8,7 @@ import (
 	"path/filepath"
 
 	"github.com/boundedinfinity/go-commoner/idiomatic/extentioner"
+	"github.com/boundedinfinity/go-commoner/idiomatic/slicer"
 	"github.com/boundedinfinity/go-commoner/idiomatic/stringer"
 	"gopkg.in/yaml.v3"
 )
@@ -64,6 +65,8 @@ func main() {
 	for _, record := range m {
 		data.Records = append(data.Records, *record)
 	}
+
+	data.Records = slicer.SortFn(func(r flagRecord) string { return r.Alpha2 }, data.Records...)
 
 	bs, err := yaml.Marshal(data)
 
