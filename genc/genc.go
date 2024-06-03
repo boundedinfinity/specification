@@ -67,10 +67,13 @@ func main() {
 
 		for lang, list := range record.Name {
 			record.Name[lang] = slicer.Uniq(list...)
+			record.Name[lang] = slicer.Sort(list...)
 		}
 
 		data.Records = append(data.Records, record)
 	}
+
+	data.Records = slicer.SortFn(func(r gencRecord) string { return r.Alpha2 }, data.Records...)
 
 	bs, err := yaml.Marshal(data)
 	if err != nil {

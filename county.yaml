@@ -37,8 +37,8 @@ records:
         code: AE00
     - name:
         en:
-            - Afghanistan
             - AFGHANISTAN
+            - Afghanistan
         fa:
             - Afghānistān
         fr:
@@ -203,8 +203,8 @@ records:
         az:
             - Azərbaycan
         en:
-            - AZERBAIJAN
             - Azerbaijan
+            - AZERBAIJAN
             - the Republic of Azerbaijan
         fr:
             - Azerbaïdjan (l')
@@ -268,8 +268,8 @@ records:
             - Barbados
             - BARBADOS
         fr:
-            - Barbade (la)
             - la Barbade
+            - Barbade (la)
       iso-3166:
         alpha-2: BB
         alpha-3: BRB
@@ -287,8 +287,8 @@ records:
             - Bangladesh
             - BANGLADESH
         fr:
-            - Bangladesh (le)
             - le Bangladesh
+            - Bangladesh (le)
       iso-3166:
         alpha-2: BD
         alpha-3: BGD
@@ -299,9 +299,9 @@ records:
         de:
             - Belgien
         en:
-            - the Kingdom of Belgium
             - Belgium
             - BELGIUM
+            - the Kingdom of Belgium
         fr:
             - Belgique (la)
             - la Belgique
@@ -374,8 +374,8 @@ records:
             - Brunei Darussalam
             - BRUNEI
         fr:
-            - le Brunéi Darussalam
             - Brunéi Darussalam (le)
+            - le Brunéi Darussalam
         ms:
             - Negara Brunei Darussalam
       iso-3166:
@@ -386,9 +386,9 @@ records:
         code: BX00
     - name:
         en:
-            - Bolivia (Plurinational State of)
             - Plurinational State of Bolivia
             - BOLIVIA
+            - Bolivia (Plurinational State of)
         es:
             - Bolivia, Estado Plurinacional de
         fr:
@@ -434,8 +434,8 @@ records:
             - BOUVET ISLAND
             - Bouvet Island
         fr:
-            - Bouvet (l'Île)
             - l'Île Bouvet
+            - Bouvet (l'Île)
         nb:
             - Bouvetøya
         nn:
@@ -454,11 +454,11 @@ records:
         be:
             - Bielaruś
         en:
-            - Belarus
             - BELARUS
+            - Belarus
         fr:
-            - Bélarus (le)
             - le Bélarus
+            - Bélarus (le)
         ru:
             - Belarus'
       iso-3166:
@@ -472,8 +472,8 @@ records:
             - Belize
             - BELIZE
         fr:
-            - Belize (le)
             - le Belize
+            - Belize (le)
       iso-3166:
         alpha-2: BZ
         alpha-3: BLZ
@@ -520,9 +520,9 @@ records:
         numeric: 384
     - name:
         en:
+            - COOK ISLANDS
             - Cook Islands (the)
             - the Cook Islands
-            - COOK ISLANDS
             - Cook Islands
         fr:
             - Cook (les Îles)
@@ -539,12 +539,12 @@ records:
         numeric: 184
     - name:
         en:
-            - the Republic of Cameroon
-            - CAMEROON
             - Cameroon
+            - CAMEROON
+            - the Republic of Cameroon
         fr:
-            - le Cameroun
             - Cameroun (le)
+            - le Cameroun
       iso-3166:
         alpha-2: CM
         alpha-3: CMR
@@ -572,8 +572,8 @@ records:
         code: CS00
     - name:
         en:
-            - CUBA
             - Cuba
+            - CUBA
         es:
             - Cuba
         fr:
@@ -713,8 +713,8 @@ records:
         ar:
             - Aş Şaḩrā' al Gharbīyah
         en:
-            - WESTERN SAHARA
             - Western Sahara
+            - WESTERN SAHARA
         fr:
             - Sahara occidental (le)
             - le Sahara occidental
@@ -732,8 +732,8 @@ records:
             - ERITREA
             - the State of Eritrea
         fr:
-            - l'Érythrée
             - Érythrée (l')
+            - l'Érythrée
         ti:
             - Iertra
       iso-3166:
@@ -748,9 +748,9 @@ records:
         numeric: 232
     - name:
         en:
+            - Finland
             - FINLAND
             - the Republic of Finland
-            - Finland
         fi:
             - Suomi
         fr:
@@ -770,9 +770,9 @@ records:
         numeric: 246
     - name:
         en:
+            - the Republic of Fiji
             - Fiji
             - FIJI
-            - the Republic of Fiji
         fj:
             - Viti
         fr:
@@ -790,10 +790,10 @@ records:
         numeric: 242
     - name:
         en:
-            - Falkland Islands (the) [Malvinas]
-            - Falkland Islands, (the) [Malvinas]
             - the Falkland Islands
             - FALKLAND ISLANDS (ISLAS MALVINAS)
+            - Falkland Islands (the) [Malvinas]
+            - Falkland Islands, (the) [Malvinas]
         fr:
             - Falkland (les Îles), Malouines (les Îles)
             - les Îles Falkland (les Îles) Malouines
@@ -808,8 +808,8 @@ records:
             - French Guiana
             - FRENCH GUIANA
         fr:
-            - Guyane française (la )
             - la  Guyane française
+            - Guyane française (la )
       iso-3166:
         alpha-2: GF
         alpha-3: GUF
@@ -832,8 +832,8 @@ records:
         da:
             - Grønland
         en:
-            - GREENLAND
             - Greenland
+            - GREENLAND
         fr:
             - Groenland (le)
             - le Groenland
@@ -851,12 +851,12 @@ records:
         numeric: 304
     - name:
         en:
+            - Gambia (the)
             - the Gambia
             - GAMBIA, THE
-            - Gambia (the)
         fr:
-            - Gambie (la)
             - la Gambie
+            - Gambie (la)
       iso-3166:
         alpha-2: GM
         alpha-3: GMB
@@ -882,12 +882,12 @@ records:
         code: EK00
     - name:
         el:
-            - Elláda
             - Ellás/Elláda
+            - Elláda
         en:
-            - Greece
             - GREECE
             - the Hellenic Republic
+            - Greece
         fr:
             - Grèce (la)
             - la Grèce
@@ -916,9 +916,9 @@ records:
         code: SX00
     - name:
         en:
+            - the Republic of Guatemala
             - Guatemala
             - GUATEMALA
-            - the Republic of Guatemala
         es:
             - Guatemala
         fr:
@@ -948,8 +948,8 @@ records:
         code: GQ00
     - name:
         en:
-            - GUINEA-BISSAU
             - Guinea-Bissau
+            - GUINEA-BISSAU
             - the Republic of Guinea-Bissau
         fr:
             - Guinée-Bissau (la)
@@ -1009,8 +1009,8 @@ records:
         code: HM00
     - name:
         en:
-            - HONDURAS
             - Honduras
+            - HONDURAS
             - the Republic of Honduras
         es:
             - Honduras
@@ -1051,8 +1051,8 @@ records:
             - Ireland
             - IRELAND
         fr:
-            - l'Irlande
             - Irlande (l')
+            - l'Irlande
         ga:
             - Éire
       iso-3166:
@@ -1071,8 +1071,8 @@ records:
             - ICELAND
             - the Republic of Iceland
         fr:
-            - l'Islande
             - Islande (l')
+            - l'Islande
         is:
             - Ísland
       iso-3166:
@@ -1089,9 +1089,9 @@ records:
         ar:
             - Isrā'īl
         en:
+            - the State of Israel
             - Israel
             - ISRAEL
-            - the State of Israel
         fr:
             - Israël
         he:
@@ -1151,8 +1151,8 @@ records:
         code: JE00
     - name:
         en:
-            - Japan
             - JAPAN
+            - Japan
         fr:
             - Japon (le)
             - le Japon
@@ -1174,8 +1174,8 @@ records:
             - KENYA
             - the Republic of Kenya
         fr:
-            - Kenya (le)
             - le Kenya
+            - Kenya (le)
         sw:
             - Kenya
       iso-3166:
@@ -1261,12 +1261,12 @@ records:
         numeric: 659
     - name:
         en:
-            - Korea (the Democratic People's Republic of)
             - the Democratic People's Republic of Korea
+            - Korea (the Democratic People's Republic of)
             - KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
         fr:
-            - la République populaire démocratique de Corée
             - Corée (la République populaire démocratique de)
+            - la République populaire démocratique de Corée
         ko:
             - Chosŏn
       iso-3166:
@@ -1277,9 +1277,9 @@ records:
         code: KN00
     - name:
         en:
-            - Korea (the Republic of)
             - the Republic of Korea
             - KOREA, REPUBLIC OF
+            - Korea (the Republic of)
         fr:
             - Corée (la République de)
             - la République de Corée
@@ -1325,8 +1325,8 @@ records:
         de:
             - Liechtenstein
         en:
-            - LIECHTENSTEIN
             - Liechtenstein
+            - LIECHTENSTEIN
             - the Principality of Liechtenstein
         fr:
             - Liechtenstein (le)
@@ -1343,9 +1343,9 @@ records:
         numeric: 438
     - name:
         en:
-            - Sri Lanka
             - SRI LANKA
             - the Democratic Socialist Republic of Sri Lanka
+            - Sri Lanka
         fr:
             - Sri Lanka
         se:
@@ -1388,9 +1388,9 @@ records:
         ar:
             - Al Maghrib
         en:
-            - MOROCCO
             - the Kingdom of Morocco
             - Morocco
+            - MOROCCO
         fr:
             - Maroc (le)
             - le Maroc
@@ -1410,8 +1410,8 @@ records:
             - the Republic of Moldova
             - MOLDOVA
         fr:
-            - Moldova (la République de)
             - la République de Moldova
+            - Moldova (la République de)
         ro:
             - Republica Moldova
       iso-3166:
@@ -1441,12 +1441,12 @@ records:
         numeric: 499
     - name:
         en:
-            - French part Saint Martin
             - Saint Martin (French part)
+            - French part Saint Martin
             - SAINT MARTIN
         fr:
-            - partie française Saint-Martin
             - Saint-Martin (partie française)
+            - partie française Saint-Martin
       iso-3166:
         alpha-2: MF
         alpha-3: MAF
@@ -1455,9 +1455,9 @@ records:
         code: RN00
     - name:
         en:
-            - the Republic of Malawi
             - Malawi
             - MALAWI
+            - the Republic of Malawi
         fr:
             - Malawi (le)
             - le Malawi
@@ -1478,8 +1478,8 @@ records:
             - Mongolia
             - MONGOLIA
         fr:
-            - Mongolie (la)
             - la Mongolie
+            - Mongolie (la)
         mn:
             - Mongol
       iso-3166:
@@ -1518,12 +1518,12 @@ records:
         ar:
             - Mūrītāniyā
         en:
-            - the Islamic Republic of Mauritania
             - Mauritania
             - MAURITANIA
+            - the Islamic Republic of Mauritania
         fr:
-            - la Mauritanie
             - Mauritanie (la)
+            - la Mauritanie
       iso-3166:
         alpha-2: MR
         alpha-3: MRT
@@ -1537,8 +1537,8 @@ records:
     - name:
         en:
             - Malawi
-            - MALAWI
             - the Republic of Malawi
+            - MALAWI
         fr:
             - Malawi (le)
             - le Malawi
@@ -1559,8 +1559,8 @@ records:
             - Malaysia
             - MALAYSIA
         fr:
-            - Malaisie (la)
             - la Malaisie
+            - Malaisie (la)
         ms:
             - Malaysia
       iso-3166:
@@ -1571,9 +1571,9 @@ records:
         code: MY00
     - name:
         en:
-            - NAMIBIA
-            - Namibia
             - the Republic of Namibia
+            - Namibia
+            - NAMIBIA
         fr:
             - Namibie (la)
             - la Namibie
@@ -1589,8 +1589,8 @@ records:
         numeric: 516
     - name:
         en:
-            - New Caledonia
             - NEW CALEDONIA
+            - New Caledonia
         fr:
             - Nouvelle-Calédonie (la)
             - la Nouvelle-Calédonie
@@ -1605,8 +1605,8 @@ records:
             - Norway
             - NORWAY
         fr:
-            - la Norvège
             - Norvège (la)
+            - la Norvège
         nb:
             - Norge
         nn:
@@ -1619,8 +1619,8 @@ records:
         code: NO00
     - name:
         en:
-            - NIUE
             - Niue
+            - NIUE
         fr:
             - Niue
       iso-3166:
@@ -1688,8 +1688,8 @@ records:
         code: FP00
     - name:
         en:
-            - PAPUA NEW GUINEA
             - Papua New Guinea
+            - PAPUA NEW GUINEA
         fr:
             - Papouasie-Nouvelle-Guinée (la)
             - la Papouasie-Nouvelle-Guinée
@@ -1703,8 +1703,8 @@ records:
         code: PP00
     - name:
         en:
-            - POLAND
             - Poland
+            - POLAND
             - the Republic of Poland
         fr:
             - Pologne (la)
@@ -1751,8 +1751,8 @@ records:
         code: SB00
     - name:
         en:
-            - Puerto Rico
             - PUERTO RICO
+            - Puerto Rico
         es:
             - Puerto Rico
         fr:
@@ -1782,9 +1782,9 @@ records:
         numeric: 585
     - name:
         en:
+            - the Republic of Paraguay
             - Paraguay
             - PARAGUAY
-            - the Republic of Paraguay
         es:
             - Paraguay (el)
         fr:
@@ -1873,9 +1873,9 @@ records:
         code: SA00
     - name:
         en:
-            - Singapore
             - SINGAPORE
             - the Republic of Singapore
+            - Singapore
         fr:
             - Singapour
         ms:
@@ -1896,8 +1896,8 @@ records:
         numeric: 702
     - name:
         en:
-            - Saint Helena, Ascension and Tristan da Cunha
             - ST. HELENA
+            - Saint Helena, Ascension and Tristan da Cunha
         fr:
             - Sainte-Hélène, Ascension et Tristan da Cunha
       iso-3166:
@@ -1912,8 +1912,8 @@ records:
             - SIERRA LEONE
             - the Republic of Sierra Leone
         fr:
-            - la Sierra Leone
             - Sierra Leone (la)
+            - la Sierra Leone
       iso-3166:
         alpha-2: SL
         alpha-3: SLE
@@ -1930,8 +1930,8 @@ records:
             - SLOVAKIA
             - the Slovak Republic
         fr:
-            - Slovaquie (la)
             - la Slovaquie
+            - Slovaquie (la)
         sk:
             - Slovensko
       iso-3166:
@@ -1947,8 +1947,8 @@ records:
     - name:
         en:
             - SENEGAL
-            - Senegal
             - the Republic of Senegal
+            - Senegal
         fr:
             - Sénégal (le)
             - le Sénégal
@@ -1964,11 +1964,11 @@ records:
         numeric: 686
     - name:
         en:
-            - South Sudan
             - the Republic of South Sudan
+            - South Sudan
         fr:
-            - Soudan du Sud (le)
             - le Soudan du Sud
+            - Soudan du Sud (le)
       iso-3166:
         alpha-2: SS
         alpha-3: SSD
@@ -2033,9 +2033,9 @@ records:
         code: SY00
     - name:
         en:
+            - the Kingdom of Swaziland
             - Eswatini
             - Swaziland
-            - the Kingdom of Swaziland
         fr:
             - Eswatini (l')
             - l'Eswatini
@@ -2052,8 +2052,8 @@ records:
     - name:
         en:
             - Turks and Caicos Islands (the)
-            - TURKS AND CAICOS ISLANDS
             - the Turks and Caicos Islands
+            - TURKS AND CAICOS ISLANDS
         fr:
             - Turks-et-Caïcos (les Îles)
             - les Îles Turks-et-Caïcos
@@ -2108,12 +2108,12 @@ records:
         numeric: 626
     - name:
         en:
-            - THAILAND
             - Thailand
+            - THAILAND
             - the Kingdom of Thailand
         fr:
-            - la Thaïlande
             - Thaïlande (la)
+            - la Thaïlande
         th:
             - Prathet Thai
       iso-3166:
@@ -2152,8 +2152,8 @@ records:
             - Tunisia
             - TUNISIA
         fr:
-            - la Tunisie
             - Tunisie (la)
+            - la Tunisie
       iso-3166:
         alpha-2: TN
         alpha-3: TUN
@@ -2162,8 +2162,8 @@ records:
         code: TS00
     - name:
         en:
-            - Taiwan (Province of China)
             - Province of China Taiwan
+            - Taiwan (Province of China)
             - TAIWAN
         fr:
             - Province de Chine Taïwan
@@ -2180,8 +2180,8 @@ records:
         --:
             - Tuvalu
         en:
-            - TUVALU
             - Tuvalu
+            - TUVALU
         fr:
             - Tuvalu (les)
             - les Tuvalu
@@ -2212,12 +2212,12 @@ records:
         code: TZ00
     - name:
         en:
+            - Uganda
             - UGANDA
             - the Republic of Uganda
-            - Uganda
         fr:
-            - l'Ouganda
             - Ouganda (l')
+            - l'Ouganda
       iso-3166:
         alpha-2: UG
         alpha-3: UGA
@@ -2235,8 +2235,8 @@ records:
         es:
             - Uruguay (el)
         fr:
-            - Uruguay (l')
             - l'Uruguay
+            - Uruguay (l')
       iso-3166:
         alpha-2: UY
         alpha-3: URY
@@ -2245,12 +2245,12 @@ records:
         code: UY00
     - name:
         en:
-            - the Independent State of Samoa
             - Samoa
             - WESTERN SAMOA
+            - the Independent State of Samoa
         fr:
-            - le Samoa
             - Samoa (le)
+            - le Samoa
         sm:
             - Samoa
       iso-3166:
@@ -2340,9 +2340,9 @@ records:
         code: MF00
     - name:
         en:
+            - Zimbabwe
             - ZIMBABWE
             - the Republic of Zimbabwe
-            - Zimbabwe
         fr:
             - Zimbabwe (le)
             - le Zimbabwe
@@ -2408,9 +2408,9 @@ records:
         numeric: 466
     - name:
         en:
-            - the Republic of Ghana
-            - GHANA
             - Ghana
+            - GHANA
+            - the Republic of Ghana
         fr:
             - Ghana (le)
             - le Ghana
@@ -2439,12 +2439,12 @@ records:
         code: UV00
     - name:
         en:
-            - Cocos (Keeling) Islands (the)
             - the Cocos (Keeling) Islands
             - COCOS (KEELING) ISLANDS
+            - Cocos (Keeling) Islands (the)
         fr:
-            - Cocos (les Îles)/ Keeling (les Îles)
             - les Îles Cocos (les Îles)/ Keeling
+            - Cocos (les Îles)/ Keeling (les Îles)
       iso-3166:
         alpha-2: CC
         alpha-3: CCK
@@ -2453,8 +2453,8 @@ records:
         code: CK00
     - name:
         en:
-            - ST. LUCIA
             - Saint Lucia
+            - ST. LUCIA
         fr:
             - Sainte-Lucie
       iso-3166:
@@ -2486,8 +2486,8 @@ records:
             - SWEDEN
             - the Kingdom of Sweden
         fr:
-            - la Suède
             - Suède (la)
+            - la Suède
         sv:
             - Sverige
       iso-3166:
@@ -2535,8 +2535,8 @@ records:
         numeric: 266
     - name:
         en:
-            - San Marino
             - SAN MARINO
+            - San Marino
             - the Republic of San Marino
         fr:
             - Saint-Marin
@@ -2554,9 +2554,9 @@ records:
         numeric: 674
     - name:
         en:
-            - the Republic of Mozambique
             - Mozambique
             - MOZAMBIQUE
+            - the Republic of Mozambique
         fr:
             - Mozambique (le)
             - le Mozambique
@@ -2574,9 +2574,9 @@ records:
         numeric: 508
     - name:
         en:
+            - United States of America (the)
             - the United States of America
             - UNITED STATES
-            - United States of America (the)
         fr:
             - les États-Unis d'Amérique
             - États-Unis d'Amérique (les)
@@ -2606,11 +2606,11 @@ records:
     - name:
         en:
             - Guinea
-            - GUINEA
             - the Republic of Guinea
+            - GUINEA
         fr:
-            - Guinée (la)
             - la Guinée
+            - Guinée (la)
       iso-3166:
         alpha-2: GN
         alpha-3: GIN
@@ -2661,8 +2661,8 @@ records:
             - TOGO
             - the Togolese Republic
         fr:
-            - le Togo
             - Togo (le)
+            - le Togo
       iso-3166:
         alpha-2: TG
         alpha-3: TGO
@@ -2703,11 +2703,11 @@ records:
         numeric: 500
     - name:
         en:
-            - BERMUDA
             - Bermuda
+            - BERMUDA
         fr:
-            - les Bermudes
             - Bermudes (les)
+            - les Bermudes
       iso-3166:
         alpha-2: BM
         alpha-3: BMU
@@ -2798,8 +2798,8 @@ records:
             - EGYPT
             - the Arab Republic of Egypt
         fr:
-            - Égypte (l')
             - l'Égypte
+            - Égypte (l')
       iso-3166:
         alpha-2: EG
         alpha-3: EGY
@@ -2833,11 +2833,11 @@ records:
         en:
             - UNITED KINGDOM
             - United Kingdom of Great Britain and Northern Ireland (the)
-            - the United Kingdom of Great Britain and Northern Ireland
             - United Kingdom (the)
+            - the United Kingdom of Great Britain and Northern Ireland
         fr:
-            - le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
             - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)
+            - le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
       iso-3166:
         alpha-2: GB
         alpha-3: GBR
@@ -2852,14 +2852,14 @@ records:
         ay:
             - Perú
         en:
-            - Peru
             - PERU
             - the Republic of Peru
+            - Peru
         es:
             - Perú (el)
         fr:
-            - Pérou (le)
             - le Pérou
+            - Pérou (le)
         qu:
             - Perú
       iso-3166:
@@ -2913,9 +2913,9 @@ records:
         numeric: 262
     - name:
         en:
-            - VIRGIN ISLANDS
-            - U.S. Virgin Islands
             - Virgin Islands (U.S.)
+            - U.S. Virgin Islands
+            - VIRGIN ISLANDS
         fr:
             - Vierges des États-Unis (les Îles)
             - les Îles Vierges des États-Unis
@@ -2994,8 +2994,8 @@ records:
             - the British Indian Ocean Territory
             - BRITISH INDIAN OCEAN TERRITORY
         fr:
-            - Indien (le Territoire britannique de l'océan)
             - le Territoire britannique de l'océan Indien
+            - Indien (le Territoire britannique de l'océan)
       iso-3166:
         alpha-2: IO
         alpha-3: IOT
@@ -3024,8 +3024,8 @@ records:
             - the Congo
             - CONGO
         fr:
-            - Congo (le)
             - le Congo
+            - Congo (le)
       iso-3166:
         alpha-2: CG
         alpha-3: COG
@@ -3034,9 +3034,9 @@ records:
         code: CF00
     - name:
         en:
-            - Liberia
-            - LIBERIA
             - the Republic of Liberia
+            - LIBERIA
+            - Liberia
         fr:
             - Libéria (le)
             - le Libéria
@@ -3068,8 +3068,8 @@ records:
             - UZBEKISTAN
             - the Republic of Uzbekistan
         fr:
-            - Ouzbékistan (l')
             - l'Ouzbékistan
+            - Ouzbékistan (l')
         uz:
             - O‘zbekiston
       iso-3166:
@@ -3181,8 +3181,8 @@ records:
         code: UP00
     - name:
         en:
-            - Georgia
             - GEORGIA
+            - Georgia
         fr:
             - Géorgie (la)
             - la Géorgie
@@ -3216,9 +3216,9 @@ records:
         numeric: 400
     - name:
         en:
-            - CONGO
-            - the Democratic Republic of the Congo
             - Congo (the Democratic Republic of the)
+            - the Democratic Republic of the Congo
+            - CONGO
         fr:
             - Congo (la République démocratique du)
             - la République démocratique du Congo
@@ -3252,8 +3252,8 @@ records:
             - Canada
             - CANADA
         fr:
-            - Canada (le)
             - le Canada
+            - Canada (le)
       iso-3166:
         alpha-2: CA
         alpha-3: CAN
@@ -3312,8 +3312,8 @@ records:
             - DENMARK
             - the Kingdom of Denmark
         fr:
-            - le Danemark
             - Danemark (le)
+            - le Danemark
       iso-3166:
         alpha-2: DK
         alpha-3: DNK
@@ -3339,11 +3339,11 @@ records:
         code: RE00
     - name:
         en:
-            - SEYCHELLES
             - Seychelles
+            - SEYCHELLES
         fr:
-            - les Seychelles
             - Seychelles (les)
+            - les Seychelles
       iso-3166:
         alpha-2: SC
         alpha-3: SYC
@@ -3352,8 +3352,8 @@ records:
         code: SE00
     - name:
         en:
-            - Northern Mariana Islands (the)
             - the Northern Mariana Islands
+            - Northern Mariana Islands (the)
             - NORTHERN MARIANA ISLANDS
         fr:
             - Mariannes du Nord (les Îles)
@@ -3383,8 +3383,8 @@ records:
         numeric: 10
     - name:
         en:
-            - Nauru
             - NAURU
+            - Nauru
             - the Republic of Nauru
         fr:
             - Nauru
@@ -3421,8 +3421,8 @@ records:
         ar:
             - Aş Şūmāl
         en:
-            - SOMALIA
             - Somalia
+            - SOMALIA
         fr:
             - Somalie (la)
             - la Somalie
@@ -3436,8 +3436,8 @@ records:
         code: SO00
     - name:
         en:
-            - Mauritius
             - MAURITIUS
+            - Mauritius
         fr:
             - Maurice
       iso-3166:
@@ -3448,9 +3448,9 @@ records:
         code: MP00
     - name:
         en:
+            - Kazakhstan
             - KAZAKHSTAN
             - the Republic of Kazakhstan
-            - Kazakhstan
         fr:
             - Kazakhstan (le)
             - le Kazakhstan
@@ -3471,8 +3471,8 @@ records:
     - name:
         en:
             - the Russian Federation
-            - RUSSIA
             - Russian Federation (the)
+            - RUSSIA
         fr:
             - Russie (la Fédération de)
             - la Fédération de Russie
@@ -3486,9 +3486,9 @@ records:
         code: RS00
     - name:
         en:
-            - the Federal Republic of Nigeria
             - Nigeria
             - NIGERIA
+            - the Federal Republic of Nigeria
         fr:
             - Nigéria (le)
             - le Nigéria
@@ -3545,8 +3545,8 @@ records:
             - Luxembourg
             - the Grand Duchy of Luxembourg
         fr:
-            - le Luxembourg
             - Luxembourg (le)
+            - le Luxembourg
         ib:
             - Lëtzebuerg
         lb:
@@ -3563,8 +3563,8 @@ records:
         ar:
             - As Sūdān
         en:
-            - Sudan (the)
             - the Sudan
+            - Sudan (the)
             - SUDAN
             - the Republic of the Sudan
         fr:
@@ -3624,8 +3624,8 @@ records:
             - the French Southern Territories
             - FRENCH SOUTHERN AND ANTARCTIC LANDS
         fr:
-            - Terres australes françaises (les)
             - les Terres australes françaises
+            - Terres australes françaises (les)
       iso-3166:
         alpha-2: TF
         alpha-3: ATF
@@ -3656,9 +3656,9 @@ records:
         numeric: 234
     - name:
         en:
-            - NEPAL
-            - Nepal
             - the Federal Democratic Republic of Nepal
+            - Nepal
+            - NEPAL
         fr:
             - Népal (le)
             - le Népal
@@ -3676,8 +3676,8 @@ records:
         numeric: 524
     - name:
         en:
-            - ST. VINCENT AND THE GRENADINES
             - Saint Vincent and the Grenadines
+            - ST. VINCENT AND THE GRENADINES
         fr:
             - Saint-Vincent-et-les Grenadines
       iso-3166:
@@ -3718,9 +3718,9 @@ records:
         ar:
             - Al Qamar
         en:
-            - Comoros (the)
             - the Comoros
             - COMOROS
+            - Comoros (the)
         fr:
             - Comores (les)
             - les Comores
@@ -3750,12 +3750,12 @@ records:
         numeric: 780
     - name:
         en:
+            - the Portuguese Republic
             - Portugal
             - PORTUGAL
-            - the Portuguese Republic
         fr:
-            - le Portugal
             - Portugal (le)
+            - le Portugal
         pt:
             - Portugal
       iso-3166:
@@ -3770,9 +3770,9 @@ records:
         numeric: 620
     - name:
         en:
+            - the Republic of Croatia
             - Croatia
             - CROATIA
-            - the Republic of Croatia
         fr:
             - Croatie (la)
             - la Croatie
@@ -3818,11 +3818,11 @@ records:
         code: NF00
     - name:
         en:
-            - Dutch part Sint Maarten
             - Sint Maarten (Dutch part)
+            - Dutch part Sint Maarten
         fr:
-            - partie néerlandaise Saint-Martin
             - Saint-Martin (partie néerlandaise)
+            - partie néerlandaise Saint-Martin
         nl:
             - Sint Maarten
       iso-3166:
@@ -3831,9 +3831,9 @@ records:
         numeric: 534
     - name:
         en:
-            - Tajikistan
             - TAJIKISTAN
             - the Republic of Tajikistan
+            - Tajikistan
         fr:
             - Tadjikistan (le)
             - le Tadjikistan
@@ -3867,8 +3867,8 @@ records:
         numeric: 292
     - name:
         en:
-            - Lesotho
             - LESOTHO
+            - Lesotho
             - the Kingdom of Lesotho
         fr:
             - Lesotho (le)
@@ -3900,9 +3900,9 @@ records:
         dz:
             - Druk-Yul
         en:
+            - Bhutan
             - BHUTAN
             - the Kingdom of Bhutan
-            - Bhutan
         fr:
             - Bhoutan (le)
             - le Bhoutan
@@ -3922,8 +3922,8 @@ records:
             - SOLOMON ISLANDS
             - Solomon Islands (the)
         fr:
-            - Salomon (les Îles)
             - les Îles Salomon
+            - Salomon (les Îles)
       iso-3166:
         alpha-2: SB
         alpha-3: SLB
@@ -3988,9 +3988,9 @@ records:
         code: YE00
     - name:
         en:
-            - the Republic of Lithuania
             - Lithuania
             - LITHUANIA
+            - the Republic of Lithuania
         fr:
             - Lituanie (la)
             - la Lituanie
@@ -4010,9 +4010,9 @@ records:
         de:
             - Deutschland
         en:
+            - Germany
             - GERMANY
             - the Federal Republic of Germany
-            - Germany
         fr:
             - Allemagne (l')
             - l'Allemagne
@@ -4062,9 +4062,9 @@ records:
         ar:
             - Al Kuwayt
         en:
-            - Kuwait
             - KUWAIT
             - the State of Kuwait
+            - Kuwait
         fr:
             - Koweït (le)
             - le Koweït
@@ -4080,9 +4080,9 @@ records:
         numeric: 414
     - name:
         en:
+            - Malta
             - MALTA
             - the Republic of Malta
-            - Malta
         fr:
             - Malte
         mt:
@@ -4113,9 +4113,9 @@ records:
         code: BF00
     - name:
         en:
+            - the Republic of Zambia
             - Zambia
             - ZAMBIA
-            - the Republic of Zambia
         fr:
             - Zambie (la)
             - la Zambie
@@ -4131,10 +4131,10 @@ records:
         numeric: 894
     - name:
         en:
-            - Türkiye
-            - TURKEY
             - Turkey
             - the Republic of Turkey
+            - Türkiye
+            - TURKEY
         fr:
             - Türkiye (la)
             - la Türkiye
@@ -4154,12 +4154,12 @@ records:
         de:
             - Schweiz (die)
         en:
+            - Switzerland
             - SWITZERLAND
             - the Swiss Confederation
-            - Switzerland
         fr:
-            - la Suisse
             - Suisse (la)
+            - la Suisse
         it:
             - Svizzera (la)
         rm:
@@ -4210,8 +4210,8 @@ records:
             - Tshād
         en:
             - CHAD
-            - Chad
             - the Republic of Chad
+            - Chad
         fr:
             - Tchad (le)
             - le Tchad
@@ -4242,9 +4242,9 @@ records:
         code: BU00
     - name:
         en:
-            - the United Mexican States
-            - Mexico
             - MEXICO
+            - Mexico
+            - the United Mexican States
         es:
             - México
         fr:
@@ -4262,8 +4262,8 @@ records:
         numeric: 484
     - name:
         en:
-            - PAKISTAN
             - Pakistan
+            - PAKISTAN
             - the Islamic Republic of Pakistan
         fr:
             - Pakistan (le)
