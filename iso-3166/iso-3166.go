@@ -86,6 +86,8 @@ func main() {
 		}
 
 		record.Lang = slicer.Uniq(record.Lang...)
+		record.Lang = slicer.Sort(record.Lang...)
+		record.Divisions = slicer.SortFn(func(r isoDivision) string { return r.Code }, record.Divisions...)
 
 		data.Records = append(data.Records, *record)
 	}
