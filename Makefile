@@ -40,3 +40,9 @@ country:
 .PHONY: mime-types
 mime-types:
 	cd $(makefile_dir)/mime-types && go run mime-types.go $(makefile_dir)
+
+.PHONY: push
+push:
+	git add . || true
+	git commit -m "$(m)" || true
+	git push origin master
