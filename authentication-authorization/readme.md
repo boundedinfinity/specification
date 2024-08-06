@@ -1,0 +1,2 @@
+- https://cloud.google.com/docs/authentication/token-types
+- https://auth0.com/blog/id-token-access-token-what-is-the-difference/

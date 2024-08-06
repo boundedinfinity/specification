@@ -1,0 +1,85 @@
+- Lipid panel
+    - Total Cholesterol
+        - Normal: < 200 mg/dL
+    - HDL Cholesterol
+        - Normal: > OR = 40 mg/dL
+    - Triglycerides
+        - Normal: < 150 mg/dL
+    - LDL Cholesterol
+        - Primary Prevention: < 100 mg/dL
+        - CHD or diabetic: < 70 mg/dL
+    - Cholesterol/HDLC ratio
+        - Normal < 5.0
+    - Non HDL Cholesterol
+        - Normal: < 130 mg/dL (calc)
+
+- TSH
+    - Normal: 0.40 - 4.50 mlU/L
+
+CBC
+    - White Blood Cell Count
+        - Normal: 3.8 - 10.8 Thousand/uL
+    - Red Blood Cell Count
+        - Normal: 4.20 - 5.80 Million/uL
+    - Hemoglobin
+        - Normal: 13.2 - 17.1 g/dL
+    - Hematocrit
+        - Normal: 38.5 - 50.0 %
+    - Mcv
+        - Normal: 80.0 - 100.0 fL
+    - Mch
+        - Normal: 27.0 - 22.0 pg
+    - Mchc
+        - Normal: 32.0 - 36.0 g/dL
+    - Rdw
+        - Normal: 11.0 - 15.0%
+    - Platelet Count
+        - Normal: 140 - 400 Throusand/uL
+    - Mpv
+        - Normal: 7.5 - 12.5 fL
+
+Comprehensive Metabolic Panel
+    - Glucose
+        - Normal: 65 - 99 mg/dL
+    - Urea Nitrogen (BUN)
+        - Normal: 7 - 25 mg/dL
+    - Creatinine
+        - Normal: 0.60 - 1.29 mg/dL
+    - eGFR
+        - Normal: > OR = 60 mL/min/1.73m2
+    - BUN/Creatine Ration
+        - Normal: 6 - 22 (calc)
+    - Sodium
+        - Normal: 135 - 146 mmol/L
+    - Potassium
+        - Normal: 3.5 - 5.3 mmol/L
+    - Chloride
+        - Normal: 98 - 110 mmol/L
+    - Caron Dioxide
+        - Normal: 20 - 32 mmol/L
+    - Calcium
+        - Normal: 8.6 - 10.3 mmol/L
+    - Total Protein
+        - Normal: 6.1 - 8.1 g/dL
+    - Albumin
+        - Normal: 3.6 - 5.1 g/dL
+    - Globulin
+        - Normal: 1.9 - 3.7 g/dL (calc)
+    - Albumin/Globulin Ration
+        - Noral: 1.0 - 2.5 (calc)
+    - Total Bilirubin
+        - Normal: 0.2 - 1.2 mg/dL
+    - Alkaline Phosphatase
+        - Normal: 36 - 130 U/L
+    - AST
+        - Normal: 10 - 40 U/L
+    - ALT
+        - Normal: 9 - 46 U/L
+
+Hemoglobin A1C
+    - Hemoglobin
+        - Normal: < 5.7 % of total Hgb
+    - EAG
+        - Normal: ? mg/dL
+    - Eag
+        - Normal: ? mmol/L
