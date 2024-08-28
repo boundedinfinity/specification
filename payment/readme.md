@@ -1,0 +1,13 @@
+- General
+    - [Guide to Payment Types, With Pros and Cons for Each](https://www.investopedia.com/terms/p/payment.asp)
+- Automated Clearning House
+    - [About ACH payments and how they work](https://paysimple.com/faq/what-is-ach/)
+    - [What Are ACH Transactions? Everything You Need to Know](https://paysimple.com/blog/what-are-ach-transactions-everything-you-need-to-know/)
+- eChecks
+    -   [The 12 Most Popular Questions (and Answers) About eChecks](https://paysimple.com/blog/how-do-echecks-work/)
+- Credit Card
+    - [A Guide to Understanding Credit Card Processing](https://www.uschamber.com/co/run/finance/guide-to-credit-card-processing)
+    - [What You Need to Know About Credit Card Processing](https://www.uschamber.com/co/run/finance/credit-card-processing-guide)
+    - [How credit card transaction processing works: A quick guide](https://stripe.com/resources/more/how-credit-card-transaction-processing-works-a-quick-guide)
+- Wire Transfer
+    - [What Is a Wire Transfer? How It Works, Safety, and Fees](https://www.investopedia.com/terms/w/wiretransfer.asp)
