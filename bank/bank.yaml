@@ -1,0 +1,470 @@
+federal-reserve-banks:
+    -   name: United States Government
+        code:
+            primary: 00
+    -   name: Boston
+        code:
+            primary: 01
+            thrift: 02
+            electronic: 61
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Boston
+    -   name: New York
+        code:
+            primary: 02
+            thrift: 22
+            electronic: 62
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York
+    -   name: Philadelphia
+        code:
+            primary: 03
+            thrift: 23
+            electronic: 63
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Philadelphia
+    -   name: Cleveland
+        code:
+            primary: 04
+            thrift: 24
+            electronic: 64
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Cleveland
+    -   name: Richmond
+        code:
+            primary: 05
+            thrift: 25
+            electronic: 65
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Richmond
+    -   name: Atlanta
+        code:
+            primary: 06
+            thrift: 26
+            electronic: 66
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Atlanta
+    -   name: Chicago
+        code:
+            primary: 07
+            thrift: 27
+            electronic: 67
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Chicago
+    -   name: Saint Louis
+        alias:
+            - St. Louis
+        code:
+            primary: 08
+            thrift: 28
+            electronic: 68
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_St._Louis
+    -   name: Minneapolis
+        code:
+            primary: 09
+            thrift: 29
+            electronic: 69
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Minneapolis
+    -   name: Kansas City
+        code:
+            primary: 10
+            thrift: 30
+            electronic: 70
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Kansas_City
+    -   name: Dallas
+        code:
+            primary: 11
+            thrift: 31
+            electronic: 71
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Dallas
+    -   name: San Francisco
+        code:
+            primary: 12
+            thrift: 32
+            electronic: 72
+        references:
+            -   name: Wikipedia
+                url: https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_San_Francisco
+
+aba-prefixes:
+    -   prefix: 1
+        name: New York, NY
+    -   prefix: 2
+        name: Chicago, IL
+    -   prefix: 3
+        name: Philadelphia, PA
+    -   prefix: 4
+        name: Saint Louis, MO
+    -   prefix: 5
+        name: Boston, MA
+    -   prefix: 6
+        name: Cleveland, OH
+    -   prefix: 7
+        name: Baltimore, MD
+    -   prefix: 8
+        name: Pittsburgh, PA
+    -   prefix: 9
+        name: Detroit, MI
+    -   prefix: 10
+        name: Buffalo, NY
+    -   prefix: 11
+        name: San Francisco, CA
+    -   prefix: 12
+        name: Milwaukee, WI
+    -   prefix: 13
+        name: Cincinnati, OH
+    -   prefix: 14
+        name: New Orleans, LA
+    -   prefix: 15
+        name: Washington D.C.
+    -   prefix: 16
+        name: Los Angeles, CA
+    -   prefix: 17
+        name: Minneapolis, MN
+    -   prefix: 18
+        name: Kansas City, MO
+    -   prefix: 19
+        name: Seattle, WA
+    -   prefix: 20
+        name: Indianapolis, IN
+    -   prefix: 21
+        name: Louisville, KY
+    -   prefix: 22
+        name: St. Paul, MN
+    -   prefix: 23
+        name: Denver, CO
+    -   prefix: 24
+        name: Portland, OR
+    -   prefix: 25
+        name: Columbus, OH
+    -   prefix: 26
+        name: Memphis, TN
+    -   prefix: 27
+        name: Omaha, NE
+    -   prefix: 28
+        name: Spokane, WA
+    -   prefix: 29
+        name: Albany, NY
+    -   prefix: 30
+        name: San Antonio, TX
+    -   prefix: 31
+        name: Salt Lake City, UT
+    -   prefix: 32
+        name: Dallas, TX
+    -   prefix: 33
+        name: Des Moines, IA
+    -   prefix: 34
+        name: Tacoma, WA
+    -   prefix: 35
+        name: Houston, TX
+    -   prefix: 36
+        name: St. Joseph, MO
+    -   prefix: 37
+        name: Fort Worth, TX
+    -   prefix: 38
+        name: Savannah, GA
+    -   prefix: 39
+        name: Oklahoma City, OK
+    -   prefix: 40
+        name: Wichita, KS
+    -   prefix: 41
+        name: Sioux City, IA
+    -   prefix: 42
+        name: Pueblo, CO
+    -   prefix: 43
+        name: Lincoln, NE
+    -   prefix: 44
+        name: Topeka, KS
+    -   prefix: 45
+        name: Dubuque, IA
+    -   prefix: 46
+        name: Galveston, TX
+    -   prefix: 47
+        name: Cedar Rapids, IA
+    -   prefix: 48
+        name: Waco, TX
+    -   prefix: 49
+        name: Muskogee, OK
+    -   prefix: 50
+        name: New York
+    -   prefix: 51
+        name: Connecticut
+    -   prefix: 52
+        name: Maine
+    -   prefix: 53
+        name: Massachusetts
+    -   prefix: 54
+        name: New Hampshire
+    -   prefix: 55
+        name: New Jersey
+    -   prefix: 56
+        name: Ohio
+    -   prefix: 57
+        name: Rhode Island
+    -   prefix: 58
+        name: Vermont
+    -   prefix: 59
+        name: Hawaii
+    -   prefix: 60
+        name: Pennsylvania
+    -   prefix: 61
+        name: Alabama
+    -   prefix: 62
+        name: Delaware
+    -   prefix: 63
+        name: Florida
+    -   prefix: 64
+        name: Georgia
+    -   prefix: 65
+        name: Maryland
+    -   prefix: 66
+        name: North Carolina
+    -   prefix: 67
+        name: South Carolina
+    -   prefix: 68
+        name: Virginia
+    -   prefix: 69
+        name: West Virginia
+    -   prefix: 70
+        name: Illinois
+    -   prefix: 71
+        name: Indiana
+    -   prefix: 72
+        name: Iowa
+    -   prefix: 73
+        name: Kentucky
+    -   prefix: 74
+        name: Michigan
+    -   prefix: 75
+        name: Minnesota
+    -   prefix: 76
+        name: Nebraska
+    -   prefix: 77
+        name: North Dakota
+    -   prefix: 78
+        name: South Dakota
+    -   prefix: 79
+        name: Wisconsin
+    -   prefix: 80
+        name: Missouri
+    -   prefix: 81
+        name: Arkansas
+    -   prefix: 82
+        name: Colorado
+    -   prefix: 83
+        name: Kansas
+    -   prefix: 84
+        name: Louisiana
+    -   prefix: 85
+        name: Mississippi
+    -   prefix: 86
+        name: Oklahoma
+    -   prefix: 87
+        name: Tennessee
+    -   prefix: 88
+        name: Texas
+    -   prefix: 89
+        name: Alaska
+    -   prefix: 90
+        name: California
+    -   prefix: 91
+        name: Arizona
+    -   prefix: 92
+        name: Idaho
+    -   prefix: 93
+        name: Montana
+    -   prefix: 94
+        name: Nevada
+    -   prefix: 95
+        name: New Mexico
+    -   prefix: 96
+        name: Oregon
+    -   prefix: 97
+        name: Utah
+    -   prefix: 98
+        name: Washington
+    -   prefix: 99
+        name: Wyoming
+    -   prefix: 101
+        name: American Samoa, Guam, Puerto Rico, Virgin Islands
+
+iin:
+    -   issuing-network: American Express
+        range: [34, 37]
+        active: Yes
+        length: 15
+        validation: Luhn
+    -   issuing-network: Bankcard
+        range: [5610, 560221-560225]
+        active: No
+        length: 16
+        validation: Luhn
+    -   issuing-network: China T-Union
+        range: [31]
+        active: Yes
+        length: 19
+        validation: Luhn
+    -   issuing-network: China UnionPay
+        range: [62]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: Diners Club enRoute	
+        active: Yes
+        length: 15
+        validation: None
+    -   issuing-network: Diners Club International
+        range: [30, 36, 38, 39]
+        active: Yes
+        length: 14-19
+        validation: Luhn
+    -   issuing-network: Diners Club United States & Canada
+        range: [55]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: Discover Card
+        range: [6011, 644-649, 65, 622126-622925]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: UkrCard
+        range: [60400100-60420099]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: RuPay
+        range: [60, 65, 81, 82, 508, 353, 356]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: InterPayment
+        range: [636]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: InstaPayment
+        range: [637-639]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: JCB
+        range: [3528-3589]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: Laser
+        range: [6304, 6706, 6771, 6709]
+        active: No
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: Maestro UK
+        range: [6759, 676770, 676774]
+        active: Yes
+        length: 12-19
+        validation: Luhn
+    -   issuing-network: Maestro
+        range: [5018, 5020, 5038, 5893, 6304, 6759, 6761, 6762, 6763]
+        active: Yes
+        length: 12-19
+        validation: Luhn
+    -   issuing-network: Dankort
+        range: [5019, 4571]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: Mir
+        range: [2200-2204]
+        active: Yes
+        length: 16-19
+        validation: Luhn
+    -   issuing-network: BORICA (Bulgarian national payment system)
+        range: [2205]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: NPS Pridnestrovie
+        range: [6054740-6054744]
+        active: No
+        length: 16
+        validation: Luhn
+    -   issuing-network: Mastercard
+        range: [2221-2720, 51–55]
+        active: Yes (since 2017)
+        length: 16
+        validation: Luhn
+    -   issuing-network: Solo
+        range: [6334, 6767]
+        active: No
+        length: 16, 18, 19
+        validation: Luhn
+    -   issuing-network: Switch
+        range: [4903, 4905, 4911, 4936, 564182, 633110, 6333, 6759]
+        active: No
+        length: 16, 18, 19
+        validation: Luhn
+    -   issuing-network: Troy
+        range: [65, 9792]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: Visa
+        range: [4]
+        active: Yes
+        length: 13, 16, 19
+        validation: Luhn
+    -   issuing-network: Visa Electron
+        range: [4026, 417500, 4508, 4844, 4913, 4917]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: UATP
+        range: [1]
+        active: Yes
+        length: 15
+        validation: Luhn
+    -   issuing-network: Verve
+        range: [506099-506198, 650002-650027, 507865-507964]
+        active: Yes
+        length: 16, 18, 19
+        validation: Luhn
+    -   issuing-network: LankaPay
+        range: [357111]
+        active: Yes
+        length: 16
+        validation: Luhn
+    -   issuing-network: UzCard
+        range: [8600, 5614]
+        active: Yes
+        length: 16
+        validation: Unkown
+    -   issuing-network: Humo
+        range: [9860]
+        active: Yes
+        length: 16
+        validation: Unkown
+    -   issuing-network: GPN
+        range: [1946, 50, 56, 58, 60-63]
+        active: Yes
+        length: 16, 18, 19
+        validation: Luhn
+    -   issuing-network: Napas
+        range: [9704]
+        active: Yes
+        length: 16, 19
+        validation: Unkown
