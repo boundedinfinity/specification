@@ -1,0 +1,115 @@
+{
+    "types": [
+        "unkdown",
+        "common",
+        "formal",
+        "nobility",
+        "royalty",
+        "military",
+        "academic",
+        "professional",
+        "religious"
+    ],
+    "records": [
+        {
+            "name": "Master",
+            "type": "common",
+            "description": [
+                "Used for boys and young men without other titles"
+            ]
+        },
+        {
+            "name": "Master",
+            "type": "nobilty",
+            "description": [
+                "Used for the heir to a Scottish peerage"
+            ]
+        },
+        {
+            "name": "Master",
+            "type": "professional",
+            "description": [
+                "Used for the master of a college or the master of a merchant ship"
+            ]
+        },
+        {
+            "name": "Mister",
+            "type": "common",
+            "aliases": [
+                "Mr"
+            ],
+            "description": [
+                "Used for men, regardless of marital status, who do not have another professional or academic title"
+            ]
+        },
+        {
+            "name": "Messieurs",
+            "type": "common",
+            "aliases": [
+                "Messrs"
+            ],
+            "description": [
+                "Used to refer to two or more men in a group"
+            ]
+        },
+        {
+            "name": "Miss",
+            "type": "common",
+            "aliases": [
+                "Ms"
+            ],
+            "description": [
+                "Used for girls, unmarried women, or when marital status is unknown",
+                "Used (in the United Kingdom) married women who continue to use their maiden name"
+            ]
+        },
+        {
+            "name": "Mistress",
+            "type": "common",
+            "aliases": [
+                "Mrs"
+            ],
+            "description": [
+                "Used for married women who do not have another professional or academic title"
+            ]
+        },
+        {
+            "name": "Sir",
+            "type": "formal",
+            "description": [
+                "Used for men, formally if they have a British knighthood or if they are a baronet"
+            ]
+        },
+        {
+            "name": "Gentleman",
+            "type": "formal",
+            "description": [
+                "Used for men standing below an esquire and above a Yeoman"
+            ]
+        },
+        {
+            "name": "Sire",
+            "type": "formal",
+            "description": [
+                "Used for a male monarch, previously could be used for a person in a position of authority in general or a lord"
+            ]
+        },
+        {
+            "name": "Mistress",
+            "type": "formal",
+            "description": [
+                "Used for a woman, equivalent to Mrs., to address the female head of a household"
+            ]
+        },
+        {
+            "name": "Madam",
+            "type": "formal",
+            "aliases": [
+                "Ma'am"
+            ],
+            "description": [
+                "Used for women, a term of general respect or flattery. Originally used only for a woman of rank or authority"
+            ]
+        }
+    ]
+}
