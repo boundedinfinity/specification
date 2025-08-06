@@ -39,7 +39,7 @@ country:
 mime-types:
 	cd {{ proj_dir }}/mime-types && go run mime-types.go {{ proj_dir }}
 
-push:
+git-push:
 	git add . || true
 	git commit -m {{ m }} || true
 	git push origin master
