@@ -1,5 +1,6 @@
--   Uniform Resource Identifier (uri)
-    -
+-   Uniform Resource Identifier (URI)
     -   [wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
--   [Uniform Resource Name (urn)](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
--   [Uniform Resource Location (url)](https://en.wikipedia.org/wiki/URL)
+-   Uniform Resource Name (URN)
+    -   [wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
+-   Uniform Resource Locator (URL)
+    -   [wikipedia](https://en.wikipedia.org/wiki/URL)
